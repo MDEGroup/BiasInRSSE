@@ -1,0 +1,14 @@
+1	git://github.com/mung3r/MobRider.git
+2	#DEP#com.onarandombox.multiversecore:Multiverse-Core
+3	#DEP#net.citizensnpcs:citizensapi
+4	#DEP#org.bukkit:craftbukkit
+5	#DEP#com.massivecraft.factions:Factions
+6	#DEP#com.massivecraft.massivecore:MassiveCore
+7	#DEP#org.bukkit:bukkit
+8	#DEP#com.palmergames.bukkit.towny:Towny
+9	#DEP#org.mcstats:metrics
+10	#DEP#net.citizensnpcs.Citizens:Citizens
+11	#DEP#com.bekvon.bukkit.residence:Residence
+12	#DEP#com.sk89q:worldguard
+13	#DEP#net.milkbowl.vault:VaultAPI
+14	#DEP#couk.Adamki11s.Regios:Regios

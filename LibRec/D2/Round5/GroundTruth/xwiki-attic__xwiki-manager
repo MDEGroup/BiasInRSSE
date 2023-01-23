@@ -1,0 +1,17 @@
+1	#DEP#${project.groupId}:xwiki-manager-data-hsqldb
+1	#DEP#${xwiki.db.jdbc.groupId}:${xwiki.db.jdbc.artifactId}
+1	#DEP#org.xwiki.platform:xwiki-platform-wiki-manager-api
+1	#DEP#org.xwiki.platform:xwiki-platform-application-manager-api
+1	#DEP#org.w3c.css:css-validator
+1	#DEP#org.xwiki.manager:xwiki-manager
+1	#DEP#org.xwiki.manager:xwiki-manager-test
+1	#DEP#org.xwiki.manager:xwiki-manager-data
+1	#DEP#org.xwiki.platform:xwiki-platform-application-manager-ui
+1	#DEP#org.xwiki.enterprise:xwiki-enterprise
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.xwiki.enterprise:xwiki-enterprise-web
+1	#DEP#org.xwiki.manager:xwiki-manager-jetty
+1	#DEP#org.xwiki.platform:xwiki-platform-tool-standards-validator
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#${project.groupId}:xwiki-manager-web
+1	#DEP#org.xwiki.enterprise:xwiki-enterprise-test-selenium

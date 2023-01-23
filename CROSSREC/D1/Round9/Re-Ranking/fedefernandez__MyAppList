@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.google.android.gms:play-services	1.0
+#DEP#com.google.android:support-v4	1.0
+#DEP#com.android.support:support-annotations	1.0
+#DEP#com.github.pedrovgs:renderers	1.0
+#DEP#com.squareup.dagger:dagger-compiler	1.0
+#DEP#com.nhaarman.listviewanimations:lib-core-slh	1.0
+#DEP#com.nhaarman.listviewanimations:lib-manipulation	1.0
+#DEP#com.actionbarsherlock:parent	1.0

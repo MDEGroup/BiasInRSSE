@@ -1,0 +1,4 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#${project.groupId}:gwt-openlayers-server
+1	#DEP#junit:junit
+1	#DEP#com.google.gwt:gwt-servlet

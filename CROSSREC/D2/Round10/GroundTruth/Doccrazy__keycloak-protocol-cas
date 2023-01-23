@@ -1,0 +1,6 @@
+1	#DEP#org.keycloak:keycloak-core
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.xmlunit:xmlunit-core
+1	#DEP#junit:junit
+1	#DEP#org.keycloak:keycloak-server-spi-private

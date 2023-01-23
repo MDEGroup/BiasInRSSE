@@ -1,0 +1,9 @@
+1	git://github.com/taoneill/war.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.mcstats.bukkit:metrics
+4	#DEP#org.spout:spoutplugin
+5	#DEP#com.sk89q:worldedit
+6	#DEP#org.mockito:mockito-all
+7	#DEP#junit:junit
+8	#DEP#org.kitteh:tagapi
+9	#DEP#net.milkbowl.vault:Vault

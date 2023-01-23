@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.junit.platform:junit-platform-runner

@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.twitter4j:twitter4j-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.elasticsearch:elasticsearch	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-depchain	1.0
+#DEP#org.apache.geronimo.specs:geronimo-annotation_1.2_spec	1.0
+#DEP#org.jboss.arquillian.container:arquillian-weld-embedded	1.0
+#DEP#io.astefanutti.metrics.cdi:metrics-cdi	1.0

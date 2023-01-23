@@ -1,0 +1,8 @@
+36	#DEP#com.h2database:h2
+37	#DEP#mysql:mysql-connector-java
+38	#DEP#org.powermock:powermock-module-junit4
+39	#DEP#org.liquibase:liquibase-core
+40	#DEP#org.apache.maven:maven-plugin-api
+41	#DEP#org.mockito:mockito-core
+42	#DEP#javax.servlet:servlet-api
+43	#DEP#org.apache.maven.shared:maven-plugin-testing-harness

@@ -1,0 +1,9 @@
+1	git://github.com/PierfrancescoSoffritti/Android-YouTube-Player.git
+2	#DEP#android.arch.lifecycle:runtime
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#android.arch.lifecycle:compiler
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

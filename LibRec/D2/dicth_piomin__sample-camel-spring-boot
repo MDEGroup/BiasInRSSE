@@ -1,0 +1,10 @@
+1	git://github.com/piomin/sample-camel-spring-boot.git
+2	#DEP#org.apache.camel:camel-spring-boot-starter
+3	#DEP#org.apache.camel:camel-jackson
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.apache.camel:camel-netty-http
+6	#DEP#org.apache.camel:camel-netty4-http
+7	#DEP#pl.piomin.services:sample-camel-spring-boot
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.apache.camel:camel-consul-starter
+10	#DEP#org.apache.camel:camel-http

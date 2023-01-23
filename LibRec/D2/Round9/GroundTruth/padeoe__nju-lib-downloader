@@ -1,0 +1,6 @@
+1	#DEP#com.itextpdf:pdfa
+1	#DEP#com.itextpdf:layout
+1	#DEP#com.itextpdf:io
+1	#DEP#com.itextpdf:sign
+1	#DEP#junit:junit
+1	#DEP#com.itextpdf:pdftest

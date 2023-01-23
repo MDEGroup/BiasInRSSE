@@ -1,0 +1,16 @@
+1	git://github.com/DTStack/jlogstash-input-plugin.git
+2	#DEP#org.mongodb:mongo-java-driver
+3	#DEP#io.netty:netty-all
+4	#DEP#com.dtstack.jlogstash:jlogstash
+5	#DEP#io.netty:netty
+6	#DEP#com.github.junrar:junrar
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.elasticsearch:elasticsearch
+9	#DEP#org.apache.kafka:kafka_2.10
+10	#DEP#com.netflix.curator:curator-recipes
+11	#DEP#org.apache.commons:commons-compress
+12	#DEP#org.apache.mina:mina-filter-ssl
+13	#DEP#io.thekraken:grok
+14	#DEP#org.apache.mina:mina-core
+15	#DEP#org.bouncycastle:bcpkix-jdk15on
+16	#DEP#junit:junit

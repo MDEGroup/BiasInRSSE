@@ -1,0 +1,11 @@
+1	git://github.com/openengsb-domcon/openengsb-connector-jira.git
+2	#DEP#axis:axis-wsdl4j
+3	#DEP#org.openengsb.connector:openengsb-connector-parent
+4	#DEP#org.openengsb.framework:org.openengsb.framework.api
+5	#DEP#org.openengsb.domain:org.openengsb.domain.issue
+6	#DEP#org.openengsb.framework:org.openengsb.framework.test
+7	#DEP#axis:axis-saaj
+8	#DEP#org.openengsb.framework:org.openengsb.framework.common
+9	#DEP#axis:axis
+10	#DEP#axis:axis-jaxrpc
+11	#DEP#com.dolby.jira.net:jira-soap

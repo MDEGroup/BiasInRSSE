@@ -1,0 +1,13 @@
+1	#DEP#org.agoncal.book.javaee7.chapter08:chapter08-service
+1	#DEP#org.glassfish.main.extras:glassfish-embedded-all
+1	#DEP#org.agoncal.book.javaee7:chapter04
+1	#DEP#org.agoncal.book.javaee7:chapter05
+1	#DEP#org.agoncal.book.javaee7:chapter02
+1	#DEP#javax:javaee-api
+1	#DEP#org.agoncal.book.javaee7:chapter03
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.apache.derby:derbyclient

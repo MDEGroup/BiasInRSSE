@@ -1,0 +1,14 @@
+1	git://github.com/livingsocial/HiveSwarm.git
+2	#DEP#org.apache.hive:hive-exec
+3	#DEP#org.apache.lucene:lucene-analyzers-common
+4	#DEP#org.apache.hive:hive-common
+5	#DEP#org.apache.lucene:lucene-core
+6	#DEP#org.apache.hadoop:hadoop-core
+7	#DEP#org.yaml:snakeyaml
+8	#DEP#org.apache.commons:commons-math
+9	#DEP#ua_parser:ua-parser
+10	#DEP#org.jsoup:jsoup
+11	#DEP#org.apache.hadoop:hadoop-client
+12	#DEP#org.apache.hive:hive-serde
+13	#DEP#org.apache.hadoop:hadoop-common
+14	#DEP#org.jruby:jruby-complete

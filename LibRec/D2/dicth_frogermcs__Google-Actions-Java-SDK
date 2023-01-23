@@ -1,0 +1,11 @@
+1	git://github.com/frogermcs/Google-Actions-Java-SDK.git
+2	#DEP#com.frogermcs.gactions:gactions
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-core
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.hamcrest:hamcrest-integration
+8	#DEP#com.google.appengine:appengine
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit
+11	#DEP#org.hamcrest:hamcrest-core

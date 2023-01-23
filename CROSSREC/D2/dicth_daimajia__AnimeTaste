@@ -1,0 +1,9 @@
+1	git://github.com/daimajia/AnimeTaste.git
+2	#DEP#com.koushikdutta.async:androidasync
+3	#DEP#com.afollestad:material-dialogs
+4	#DEP#im.dino:dbinspector
+5	#DEP#com.android.support:support-v4
+6	#DEP#:libraries
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.github.johnpersano:supertoasts
+9	#DEP#fr.baloomba:viewpagerindicator

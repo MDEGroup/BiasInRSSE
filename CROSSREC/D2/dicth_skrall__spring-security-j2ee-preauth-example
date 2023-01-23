@@ -1,0 +1,10 @@
+1	git://github.com/skrall/spring-security-j2ee-preauth-example.git
+2	#DEP#org.slf4j:jcl-over-slf4j
+3	#DEP#org.springframework.security:spring-security-taglibs
+4	#DEP#org.springframework:spring-webmvc
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.springframework.security:spring-security-web
+7	#DEP#javax.servlet:jstl
+8	#DEP#org.springframework.security:spring-security-config
+9	#DEP#taglibs:standard
+10	#DEP#junit:junit

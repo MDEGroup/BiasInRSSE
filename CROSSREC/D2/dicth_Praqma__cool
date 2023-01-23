@@ -1,0 +1,12 @@
+1	git://github.com/Praqma/cool.git
+2	#DEP#org.powermock:powermock-core
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.powermock:powermock-module-junit4-rule
+5	#DEP#commons-io:commons-io
+6	#DEP#org.powermock:powermock-reflect
+7	#DEP#org.powermock:powermock-classloading-xstream
+8	#DEP#net.praqma:praqma-parent
+9	#DEP#org.powermock:powermock-api-mockito
+10	#DEP#net.praqma:praqmajutils
+11	#DEP#junit:junit
+12	#DEP#commons-lang:commons-lang

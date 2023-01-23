@@ -1,0 +1,4 @@
+18	#DEP#log4j:log4j
+19	#DEP#org.json:json
+20	#DEP#jfreechart:jfreechart
+21	#DEP#junit:junit

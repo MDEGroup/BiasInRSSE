@@ -1,0 +1,9 @@
+1	git://github.com/bowyer-app/StorePreview.git
+2	#DEP#com.bowyer.app:fabtransitionlayout
+3	#DEP#com.github.ozodrukh:CircularReveal
+4	#DEP#com.github.ksoichiro:android-observablescrollview
+5	#DEP#petrov.kristiyan.colorpicker:colorpicker-library
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife

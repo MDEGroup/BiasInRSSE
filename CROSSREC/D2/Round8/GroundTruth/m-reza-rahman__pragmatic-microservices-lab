@@ -1,0 +1,8 @@
+1	#DEP#javax:javaee-api
+1	#DEP#org.wildfly.swarm:bean-validation
+1	#DEP#org.wildfly.swarm:cdi
+1	#DEP#org.wildfly.swarm:bom-all
+1	#DEP#org.wildfly.swarm:jaxrs-validator
+1	#DEP#org.wildfly.swarm:jaxrs
+1	#DEP#org.primefaces.themes:all-themes
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson

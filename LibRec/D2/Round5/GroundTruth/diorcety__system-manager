@@ -1,0 +1,13 @@
+1	#DEP#com.zenika.systemmanager:general
+1	#DEP#com.adobe.flex.framework:playerglobal
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#com.zenika.systemmanager:application
+1	#DEP#org.graniteds-osgi:granite-gravity-ea
+1	#DEP#org.graniteds-osgi:granite-swc
+1	#DEP#com.zenika.systemmanager:async
+1	#DEP#com.adobe.flex.framework:flex
+1	#DEP#com.zenika.systemmanager:console
+1	#DEP#com.zenika.systemmanager:api-swc
+1	#DEP#org.apache.felix:org.apache.felix.ipojo.annotations
+1	#DEP#com.zenika.systemmanager:cpu
+1	#DEP#javax.servlet:servlet-api

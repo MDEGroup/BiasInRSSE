@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.dagger:dagger	1.0
+#DEP#com.google.dagger:dagger-compiler	1.0
+#DEP#org.hibernate:hibernate-annotations	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#org.gatein.management:jonplugin-parent	1.0
+#DEP#org.gatein.management:portal-management	1.0

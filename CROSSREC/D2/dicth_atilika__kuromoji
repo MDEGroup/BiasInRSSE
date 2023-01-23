@@ -1,0 +1,13 @@
+1	git://github.com/atilika/kuromoji.git
+2	#DEP#com.atilika.kuromoji:kuromoji-ipadic-neologd
+3	#DEP#com.atilika.kuromoji:kuromoji-naist-jdic
+4	#DEP#commons-cli:commons-cli
+5	#DEP#com.atilika.kuromoji:kuromoji-unidic
+6	#DEP#com.atilika.kuromoji:kuromoji-jumandic
+7	#DEP#com.atilika.kuromoji:kuromoji-unidic-kanaaccent
+8	#DEP#com.atilika.kuromoji:kuromoji-ipadic
+9	#DEP#com.atilika.kuromoji:kuromoji-core
+10	#DEP#com.atilika.kuromoji:kuromoji
+11	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+12	#DEP#junit:junit
+13	#DEP#com.atilika.kuromoji:kuromoji-unidic-neologd

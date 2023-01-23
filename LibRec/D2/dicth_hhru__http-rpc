@@ -1,0 +1,10 @@
+1	git://github.com/hhru/http-rpc.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#org.springframework:spring-aop
+4	#DEP#ru.hh.search:common-pom
+5	#DEP#io.netty:netty
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.testng:testng
+8	#DEP#com.google.guava:guava
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#com.google.protobuf:protobuf-java

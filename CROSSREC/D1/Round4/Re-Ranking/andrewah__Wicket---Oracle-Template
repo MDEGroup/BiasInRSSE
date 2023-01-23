@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.mortbay.jetty:jetty-management	1.0
+#DEP#org.jvnet.wagon-svn:wagon-svn	1.0
+#DEP#com.sun.media:jai_imageio	1.0
+#DEP#com.rectang.xsm:xsm-web	1.0
+#DEP#com.rectang.xsm:xsm-bin	1.0

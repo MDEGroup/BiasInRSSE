@@ -1,0 +1,14 @@
+1	#DEP#com.mysema.querydsl:querydsl-core
+1	#DEP#org.polyforms:polyforms-util
+1	#DEP#org.puremvc:PureMVC_Java_MultiCore
+1	#DEP#javax.inject:javax.inject
+1	#DEP#com.mysema.querydsl:querydsl-jpa
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.eclipse.persistence:eclipselink
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.hsqldb:hsqldb-j5
+1	#DEP#org.apache.openjpa:openjpa
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#junit:junit
+1	#DEP#aopalliance:aopalliance

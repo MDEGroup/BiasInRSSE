@@ -1,0 +1,4 @@
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit
+1	#DEP#pl.bmajsak.webdriver:webdriver-enricher
+1	#DEP#org.seleniumhq.selenium:selenium

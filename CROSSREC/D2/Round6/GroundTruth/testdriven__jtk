@@ -1,0 +1,10 @@
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#org.testdriven:testdriven
+1	#DEP#org.testdriven.jtk:jtk
+1	#DEP#junit:junit
+1	#DEP#org.ow2.asm:asm-util
+1	#DEP#com.thoughtworks.qdox:qdox
+1	#DEP#${project.groupId}:jtk-core

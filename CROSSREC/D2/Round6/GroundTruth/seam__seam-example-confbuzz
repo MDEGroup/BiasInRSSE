@@ -1,0 +1,10 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#org.richfaces.core:richfaces-core-impl
+1	#DEP#com.ocpsoft:prettyfaces-jsf2
+1	#DEP#org.jboss.seam.transaction:seam-transaction-api
+1	#DEP#org.richfaces:richfaces-bom
+1	#DEP#org.richfaces.ui:richfaces-components-ui
+1	#DEP#org.jboss.seam.faces:seam-faces
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#junit:junit
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven

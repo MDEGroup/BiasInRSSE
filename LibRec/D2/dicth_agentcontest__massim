@@ -1,0 +1,10 @@
+1	git://github.com/agentcontest/massim.git
+2	#DEP#massim:eismassim
+3	#DEP#massim:protocol
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#eishub:eis
+6	#DEP#org.json:json
+7	#DEP#com.graphhopper:graphhopper
+8	#DEP#junit:junit
+9	#DEP#com.github.webbit:webbit
+10	#DEP#massim:monitor

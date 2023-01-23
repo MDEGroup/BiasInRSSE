@@ -1,0 +1,10 @@
+1	#DEP#com.github.msemys:esjc
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.mashape.unirest:unirest-java
+1	#DEP#io.netty:netty-buffer
+1	#DEP#org.scala-lang.modules:scala-java8-compat_2.11
+1	#DEP#org.reactivestreams:reactive-streams
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.geteventstore:eventstore-client_2.11

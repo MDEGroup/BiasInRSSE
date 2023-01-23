@@ -1,0 +1,4 @@
+20	#DEP#com.google.guava:guava
+21	#DEP#commons-digester:commons-digester
+22	#DEP#junit:junit
+23	#DEP#org.jcraft:jorbis

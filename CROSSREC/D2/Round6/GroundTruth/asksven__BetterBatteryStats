@@ -1,0 +1,9 @@
+1	#DEP#com.android.support:design
+1	#DEP#net.hockeyapp.android:HockeySDK
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#de.cketti.library.changelog:ckchangelog
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#org.powermock:powermock-module-junit4-rule-agent
+1	#DEP#com.android.support.test:runner

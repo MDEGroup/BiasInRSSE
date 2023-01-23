@@ -1,0 +1,7 @@
+1	#DEP#org.hyperledger:hyperledger-client-api
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#org.hyperledger:hyperledger-server-dropwizard
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.avro:avro
+1	#DEP#org.hyperledger:hyperledger-client
+1	#DEP#junit:junit

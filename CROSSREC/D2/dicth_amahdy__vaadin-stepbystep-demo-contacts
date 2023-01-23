@@ -1,0 +1,9 @@
+1	git://github.com/amahdy/vaadin-stepbystep-demo-contacts.git
+2	#DEP#com.vaadin:vaadin-cdi
+3	#DEP#com.vaadin:vaadin-server
+4	#DEP#com.vaadin:vaadin-themes
+5	#DEP#com.vaadin:vaadin-push
+6	#DEP#org.vaadin.stepbystep:person-service
+7	#DEP#com.vaadin:vaadin-bom
+8	#DEP#com.vaadin:vaadin-client
+9	#DEP#javax:javaee-api

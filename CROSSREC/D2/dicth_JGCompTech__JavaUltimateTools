@@ -1,0 +1,13 @@
+1	git://github.com/JGCompTech/JavaUltimateTools.git
+2	#DEP#net.java.dev.jna:jna-platform
+3	#DEP#org.apache.commons:commons-lang3
+4	#DEP#net.java.dev.jna:jna
+5	#DEP#org.xerial:sqlite-jdbc
+6	#DEP#org.apache.maven:maven-model
+7	#DEP#org.netbeans.api:org-openide-util-lookup
+8	#DEP#org.jetbrains:annotations
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.apache.commons:commons-dbcp2
+11	#DEP#junit:junit
+12	#DEP#org.hsqldb:hsqldb
+13	#DEP#com.h2database:h2

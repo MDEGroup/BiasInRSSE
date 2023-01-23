@@ -1,0 +1,9 @@
+1	git://github.com/zhangliangzs/KDemo.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.google.android.gms:play-services-appindexing
+4	#DEP#com.squareup.retrofit2:retrofit
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#io.reactivex:rxjava
+9	#DEP#io.reactivex:rxandroid

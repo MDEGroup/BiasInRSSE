@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#net.sourceforge.jtds:jtds
+15	#DEP#com.beust:jcommander

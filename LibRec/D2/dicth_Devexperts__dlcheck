@@ -1,0 +1,13 @@
+1	git://github.com/Devexperts/dlcheck.git
+2	#DEP#org.aeonbits.owner:owner-java8
+3	#DEP#org.ow2.asm:asm-all
+4	#DEP#com.devexperts.dlcheck:api
+5	#DEP#com.devexperts.dlcheck:agent
+6	#DEP#com.devexperts.dlcheck:core
+7	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+8	#DEP#com.devexperts.jagent:jagent-api
+9	#DEP#com.devexperts.jagent:jagent-impl
+10	#DEP#com.devexperts.dlcheck:transformer
+11	#DEP#junit:junit
+12	#DEP#org.openjdk.jmh:jmh-core
+13	#DEP#com.devexperts.dlcheck:dlcheck

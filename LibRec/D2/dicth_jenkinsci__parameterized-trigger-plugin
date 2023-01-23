@@ -1,0 +1,16 @@
+1	git://github.com/jenkinsci/parameterized-trigger-plugin.git
+2	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+3	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+4	#DEP#org.jenkins-ci.plugins:promoted-builds
+5	#DEP#org.jenkins-ci.plugins:subversion
+6	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+7	#DEP#org.jenkins-ci.plugins:script-security
+8	#DEP#org.jenkins-ci.plugins:token-macro
+9	#DEP#org.jenkins-ci.plugins:plugin
+10	#DEP#org.mockito:mockito-core
+11	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+12	#DEP#org.jenkins-ci.plugins:matrix-project
+13	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+14	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+15	#DEP#org.jenkins-ci.plugins:conditional-buildstep
+16	#DEP#org.jenkins-ci.plugins:matrix-auth

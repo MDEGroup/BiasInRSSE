@@ -1,0 +1,8 @@
+32	#DEP#gdata:client-meta
+33	#DEP#org.apache.httpcomponents:httpclient
+34	#DEP#org.apache.http:httpclient
+35	#DEP#gdata:client
+36	#DEP#commonslogging:commons-logging
+37	#DEP#log4j:log4j
+38	#DEP#javax.servlet:servlet-api
+39	#DEP#org.apache.activemq:activemq-core

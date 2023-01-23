@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#io.grpc:grpc-protobuf	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#io.netty:netty-handler	1.0
+#DEP#io.netty:netty-transport	1.0
+#DEP#io.netty:netty-codec-http	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#io.netty:netty-transport-native-epoll	1.0
+#DEP#org.apache.ratis:ratis-project-dist	1.0
+#DEP#org.apache.ratis:ratis-main	1.0

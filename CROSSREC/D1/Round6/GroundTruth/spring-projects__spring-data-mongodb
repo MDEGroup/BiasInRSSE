@@ -1,0 +1,9 @@
+40	#DEP#org.jetbrains.kotlin:kotlin-reflect
+41	#DEP#org.springframework:spring-orm
+42	#DEP#com.fasterxml.jackson.core:jackson-databind
+43	#DEP#org.springframework.data:spring-data-mongodb
+44	#DEP#javax.enterprise:cdi-api
+45	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+46	#DEP#org.mongodb:mongodb-driver-async
+47	#DEP#org.openjdk.jmh:jmh-core
+48	#DEP#io.reactivex:rxjava

@@ -1,0 +1,16 @@
+1	#DEP#org.livetribe:livetribe-jsr223
+1	#DEP#antlr:antlr
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#commons-logging:commons-logging
+1	#DEP#asm:asm
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework:spring-web
+1	#DEP#asm:asm-analysis
+1	#DEP#asm:asm-util
+1	#DEP#com.vaadin:vaadin
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.apache.commons:commons-email
+1	#DEP#cglib:cglib
+1	#DEP#com.h2database:h2

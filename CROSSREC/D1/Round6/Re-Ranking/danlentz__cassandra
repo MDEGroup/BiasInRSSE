@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.springframework:spring-orm	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.antlr:antlr	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#log4j:log4j	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.linkedin.bowser:bowser-core	1.0
+#DEP#org.codehaus.jsr166-mirror:extra166y	1.0

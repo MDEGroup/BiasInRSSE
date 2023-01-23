@@ -1,0 +1,4 @@
+20	#DEP#junit:junit
+21	#DEP#org.elasticsearch.client:transport
+22	#DEP#org.codelibs.elasticsearch.module:analysis-common
+23	#DEP#org.apache.logging.log4j:log4j-api

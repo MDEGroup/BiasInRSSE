@@ -1,0 +1,13 @@
+1	git://github.com/benderatgec/gwttemplate.git
+2	#DEP#com.google.gwt:gwt-user
+3	#DEP#com.google.code.findbugs:jsr305
+4	#DEP#com.gwtplatform:gwtp-processors
+5	#DEP#com.google.gwt:gwt-servlet
+6	#DEP#com.gwtplatform:gwtp-dispatch-server-guice
+7	#DEP#com.google.guava:guava-gwt
+8	#DEP#com.google.inject:guice
+9	#DEP#com.google.inject.extensions:guice-assistedinject
+10	#DEP#com.google.guava:guava
+11	#DEP#com.google.inject.extensions:guice-servlet
+12	#DEP#com.google.gwt.inject:gin
+13	#DEP#com.gwtplatform:gwtp-dispatch-client

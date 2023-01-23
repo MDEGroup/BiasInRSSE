@@ -1,0 +1,8 @@
+1	#DEP#org.jooq:joou
+1	#DEP#eu.bittrade.libs:steemj-core
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#eu.bittrade.libs:steemj-parent
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.exparity:hamcrest-date
+1	#DEP#junit:junit
+1	#DEP#com.google.http-client:google-http-client

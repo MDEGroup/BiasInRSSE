@@ -1,0 +1,9 @@
+1	git://github.com/liuzho/ONE.git
+2	#DEP#com.squareup.picasso:picasso
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#de.hdodenhof:circleimageview
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.android.support:design

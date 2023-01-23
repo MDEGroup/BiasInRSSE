@@ -1,0 +1,5 @@
+1	#DEP#org.spout:downpour
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#junit:junit
+1	#DEP#com.beust:jcommander
+1	#DEP#org.swinglabs:swing-worker

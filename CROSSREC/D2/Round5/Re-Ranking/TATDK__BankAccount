@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#me.ashtheking.currency:MultiCurrency	1.0
+#DEP#cosine.boseconomy:BOSEconomy	1.0
+#DEP#fr.crafter.tickleman.RealShop:RealShop	1.0
+#DEP#com.palmergames.bukkit.towny:Towny	1.0
+#DEP#com.massivecraft.factions:Factions	1.0
+#DEP#com.bekvon.bukkit.residence:Residence	1.0
+#DEP#org.bukkit:minecraft-server	1.0
+#DEP#couk.Adamki11s.Regios:Regios	1.0

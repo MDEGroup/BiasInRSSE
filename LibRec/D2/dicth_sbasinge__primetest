@@ -1,0 +1,13 @@
+1	git://github.com/sbasinge/primetest.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.jboss.weld:weld-logger
+4	#DEP#net.sourceforge.nekohtml:nekohtml
+5	#DEP#org.jboss.arquillian:arquillian-junit
+6	#DEP#org.primefaces:primefaces
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#org.glassfish.extras:glassfish-embedded-all
+9	#DEP#log4j:log4j
+10	#DEP#org.jboss.arquillian.container:arquillian-glassfish-embedded-3
+11	#DEP#apache-lang:commons-lang
+12	#DEP#org.apache.derby:derby
+13	#DEP#junit:junit

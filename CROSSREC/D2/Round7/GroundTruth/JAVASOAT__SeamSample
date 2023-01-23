@@ -1,0 +1,16 @@
+1	#DEP#org.jboss.seam:jboss-seam-mail
+1	#DEP#org.antlr:antlr
+1	#DEP#org.drools:drools-core
+1	#DEP#org.mybiblio:mybiblio-parent
+1	#DEP#javax.faces:jsf-api
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.hibernate:hibernate-search
+1	#DEP#org.jboss.seam:jboss-seam-debug
+1	#DEP#com.sun.facelets:jsf-facelets
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.mybiblio:mybiblio-ejb
+1	#DEP#org.jboss.seam:jboss-seam-remoting
+1	#DEP#org.jboss.seam:jboss-seam-pdf
+1	#DEP#commons-digester:commons-digester
+1	#DEP#org.jboss.seam:jboss-seam-ioc
+1	#DEP#org.mybiblio:mybiblio-war

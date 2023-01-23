@@ -1,0 +1,11 @@
+1	#DEP#org.jeconfig:org.jeconfig.api
+1	#DEP#org.jeconfig:org.jeconfig.common
+1	#DEP#com.thoughtworks.xstream:com.springsource.com.thoughtworks.xstream
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.hibernate:com.springsource.org.hibernate.validator
+1	#DEP#org.slf4j:com.springsource.slf4j.org.apache.log4j
+1	#DEP#org.jeconfig:org.jeconfig.main
+1	#DEP#junit:junit
+1	#DEP#org.jeconfig:org.jeconfig.client
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#com.h2database:h2

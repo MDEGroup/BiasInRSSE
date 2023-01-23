@@ -1,0 +1,6 @@
+1	#DEP#org.openstreetmap.osmosis:core
+1	#DEP#org.openstreetmap.osmosis:hstore-jdbc
+1	#DEP#org.testng:testng
+1	#DEP#commons-dbcp:commons-dbcp
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#postgresql:postgresql

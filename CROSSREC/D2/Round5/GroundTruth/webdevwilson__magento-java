@@ -1,0 +1,4 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#junit:junit
+1	#DEP#org.apache.axis:axis
+1	#DEP#axis:axis-jaxrpc

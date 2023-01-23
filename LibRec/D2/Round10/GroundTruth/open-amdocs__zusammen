@@ -1,0 +1,13 @@
+1	#DEP#javax.inject:javax.inject
+1	#DEP#com.amdocs.zusammen:zusammen-adaptor-outbound-impl
+1	#DEP#com.amdocs.zusammen:zusammen-adaptor-inbound-api
+1	#DEP#com.amdocs.zusammen:amdocs-zusammen
+1	#DEP#com.amdocs.zusammen:zusammen-commons-configuration
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.amdocs.zusammen:zusammen-commons-utils
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#com.amdocs.zusammen:zusammen-core-impl
+1	#DEP#com.amdocs.zusammen:zusammen-sdk
+1	#DEP#com.amdocs.zusammen.plugin:zusammen-search-index-elasticsearch-plugin
+1	#DEP#com.amdocs.zusammen:application
+1	#DEP#com.amdocs.zusammen.plugin:zusammen-state-store-cassandra-plugin

@@ -1,0 +1,9 @@
+1	git://github.com/melphi/java-api-best-practices.git
+2	#DEP#io.springfox:springfox-swagger-ui
+3	#DEP#org.springframework.boot:spring-boot-starter-logging
+4	#DEP#javax.servlet:javax.servlet-api
+5	#DEP#io.springfox:springfox-swagger2
+6	#DEP#junit:junit
+7	#DEP#org.springframework.boot:spring-boot-starter-actuator
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-security

@@ -1,0 +1,17 @@
+1	git://github.com/mah01/examples.git
+2	#DEP#org.mule.modules:mule-module-builders
+3	#DEP#org.mule.transports:mule-transport-stdio
+4	#DEP#dk.sorokin.maksim:dosgiSecurity
+5	#DEP#org.mule:mule-core
+6	#DEP#org.apache.felix:org.osgi.core
+7	#DEP#org.codehaus.groovy:groovy-all
+8	#DEP#${project.groupId}:dosgiSecurity.api
+9	#DEP#org.apache.felix:org.apache.felix.framework
+10	#DEP#dk.sorokin.maksim:dosgiRemote
+11	#DEP#${project.groupId}:dosgiRemote.service.api
+12	#DEP#org.mule.transports:mule-transport-vm
+13	#DEP#org.mule.transports:mule-transport-servlet
+14	#DEP#org.mule.modules:mule-module-scripting
+15	#DEP#javax.servlet:servlet-api
+16	#DEP#org.apache.servicemix.specs:org.apache.servicemix.specs.jsr311-api-1.0
+17	#DEP#${project.groupId}:dosgiSecurity-security

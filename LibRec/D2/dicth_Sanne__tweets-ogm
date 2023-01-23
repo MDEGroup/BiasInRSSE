@@ -1,0 +1,9 @@
+1	git://github.com/Sanne/tweets-ogm.git
+2	#DEP#org.jboss.jbossts:jbossjta
+3	#DEP#org.hibernate:hibernate-search
+4	#DEP#org.hibernate.ogm:hibernate-ogm-core
+5	#DEP#javassist:javassist
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.infinispan:infinispan-core
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12

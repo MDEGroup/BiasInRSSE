@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.bytedeco:javacpp	1.0
+#DEP#org.reflections:reflections	1.0
+#DEP#org.jogamp.jogl:jogl	1.0
+#DEP#fr.inria.potioc:ProcessingTUIO	1.0
+#DEP#fr.inria.potioc:skatolo	1.0
+#DEP#com.att.aro.analytics:aro-analytics	1.0
+#DEP#org.processing:video	1.0
+#DEP#org.clojars.hozumi:toxiclibscore	1.0
+#DEP#org.jogamp.jogl:jogl-all	1.0

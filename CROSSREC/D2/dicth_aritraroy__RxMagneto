@@ -1,0 +1,10 @@
+1	git://github.com/aritraroy/RxMagneto.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#com.android.support:support-annotations
+4	#DEP#io.reactivex.rxjava2:rxandroid
+5	#DEP#com.afollestad.material-dialogs:core
+6	#DEP#io.reactivex.rxjava2:rxjava
+7	#DEP#com.android.support:recyclerview-v7
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design

@@ -1,0 +1,15 @@
+1	git://github.com/yangweigbh/VolleyX.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.robolectric:robolectric
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.android.support:design
+8	#DEP#com.android.support:cardview-v7
+9	#DEP#com.squareup.picasso:picasso
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.android.support:support-v4
+12	#DEP#com.android.volley:volley
+13	#DEP#junit:junit
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

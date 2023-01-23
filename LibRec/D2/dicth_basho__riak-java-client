@@ -1,0 +1,12 @@
+1	git://github.com/basho/riak-java-client.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#io.netty:netty-all
+4	#DEP#org.mockito:mockito-core
+5	#DEP#org.powermock:powermock-api-mockito
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+9	#DEP#org.erlang.otp:jinterface
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#com.jayway.awaitility:awaitility
+12	#DEP#com.google.protobuf:protobuf-java

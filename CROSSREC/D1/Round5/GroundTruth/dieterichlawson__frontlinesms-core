@@ -1,0 +1,4 @@
+17	#DEP#org.rxtx:rxtx
+18	#DEP#net.frontlinesms.core.mms:mmsgateway
+19	#DEP#javax.comm:comm
+20	#DEP#com.h2database:h2

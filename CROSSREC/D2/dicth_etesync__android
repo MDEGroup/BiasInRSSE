@@ -1,0 +1,16 @@
+1	git://github.com/etesync/android.git
+2	#DEP#io.requery:requery
+3	#DEP#io.requery:requery-processor
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.squareup.okhttp3:mockwebserver
+6	#DEP#com.android.support:design
+7	#DEP#com.android.support:cardview-v7
+8	#DEP#com.android.support:preference-v14
+9	#DEP#net.cachapa.expandablelayout:expandablelayout
+10	#DEP#com.squareup.okhttp3:logging-interceptor
+11	#DEP#org.apache.commons:commons-collections4
+12	#DEP#com.github.yukuku:ambilwarna
+13	#DEP#io.requery:requery-kotlin
+14	#DEP#org.projectlombok:lombok
+15	#DEP#io.requery:requery-android
+16	#DEP#junit:junit

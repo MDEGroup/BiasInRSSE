@@ -1,0 +1,5 @@
+20	#DEP#es.uji.security:uji-config
+21	#DEP#log4j:log4j
+22	#DEP#junit:junit
+23	#DEP#es.gob.afirma:afirma-crypto-pdf
+24	#DEP#es.uji.security:uji-crypto-cms

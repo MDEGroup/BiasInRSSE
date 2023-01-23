@@ -1,0 +1,8 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.arquillian.rusheye:rusheye-api
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#net.sf:jargs
+1	#DEP#org.codehaus.woodstox:woodstox-core-lgpl
+1	#DEP#com.google.guava:guava
+1	#DEP#com.beust:jcommander

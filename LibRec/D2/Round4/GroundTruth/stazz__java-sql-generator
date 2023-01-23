@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.api-typeable-pojos:org.api-typeable-pojos.api
+1	#DEP#junit:junit
+1	#DEP#org.qi4j.core:org.qi4j.core.api
+1	#DEP#org.java-sql-generator:org.java-sql-generator

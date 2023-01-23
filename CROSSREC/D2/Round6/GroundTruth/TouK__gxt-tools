@@ -1,0 +1,9 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#pl.touk.gwt:gxt-tools
+1	#DEP#pl.touk:mission-pack
+1	#DEP#org.supercsv:supercsv
+1	#DEP#org.apache.poi:poi
+1	#DEP#pl.touk:gxt-mission-pack
+1	#DEP#org.apache.derby:derby
+1	#DEP#net.sf.beanlib:beanlib-hibernate
+1	#DEP#org.codehaus.groovy.maven:gmaven-mojo

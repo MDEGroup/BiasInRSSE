@@ -1,0 +1,7 @@
+1	#DEP#org.fusesource.hawtdb:hawtdb-project
+1	#DEP#org.fusesource:fusesource-pom
+1	#DEP#org.fusesource.scalamd:scalamd
+1	#DEP#org.fusesource.hawtdb:hawtdb
+1	#DEP#log4j:log4j
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#junit:junit

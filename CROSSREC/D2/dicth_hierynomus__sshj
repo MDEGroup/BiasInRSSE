@@ -1,0 +1,14 @@
+1	git://github.com/hierynomus/sshj.git
+2	#DEP#org.glassfish.grizzly:grizzly-http-server
+3	#DEP#com.jcraft:jzlib
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.codehaus.mojo.signature:java16
+6	#DEP#org.spockframework:spock-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.mockito:mockito-core
+9	#DEP#yyyy-MM-dd'T'HH:mm
+10	#DEP#com.hierynomus:sshj
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#net.i2p.crypto:eddsa
+13	#DEP#org.apache.sshd:sshd-core
+14	#DEP#junit:junit

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#edu.emory.mathcs:JTransforms	1.0
+#DEP#org.jocl:jocl	1.0
+#DEP#com.l2fprod:l2fprod-common-all	1.0
+#DEP#org.scijava:jep	1.0

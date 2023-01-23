@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.github.rubensousa:gravitysnaphelper
+1	#DEP#com.eyro.mesosfer:MesosferSDK-Android

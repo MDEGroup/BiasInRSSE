@@ -1,0 +1,5 @@
+1	#DEP#commons-io:commons-io
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#junit:junit
+1	#DEP#com.github.kentonl:EasySRL
+1	#DEP#com.googlecode.charts4j:charts4j

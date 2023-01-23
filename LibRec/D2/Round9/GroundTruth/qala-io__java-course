@@ -1,0 +1,11 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#io.qala.datagen:qala-datagen
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#com.jayway.restassured:spring-mock-mvc
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#io.qala.datagen:qala-datagen-java8types
+1	#DEP#com.h2database:h2

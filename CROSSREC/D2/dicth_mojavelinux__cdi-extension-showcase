@@ -1,0 +1,10 @@
+1	git://github.com/mojavelinux/cdi-extension-showcase.git
+2	#DEP#org.jboss.seam.solder:seam-solder
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#org.jboss.seam.solder:seam-solder-tooling
+5	#DEP#org.jboss.spec:jboss-javaee-6.0
+6	#DEP#org.jboss.seam.config:seam-config-xml
+7	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+8	#DEP#org.apache.wicket:wicket
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit

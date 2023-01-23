@@ -1,0 +1,9 @@
+37	#DEP#com.google.web.bindery:requestfactory-apt
+38	#DEP#org.exoplatform.kernel:exo.kernel.component.common
+39	#DEP#picocontainer:picocontainer
+40	#DEP#log4j:log4j
+41	#DEP#javax.servlet:servlet-api
+42	#DEP#com.sencha.gxt:gxt
+43	#DEP#org.exoplatform.jcr:exo.jcr.component.core
+44	#DEP#org.hsqldb:hsqldb
+45	#DEP#com.sencha.gxt:uibinder-bridge

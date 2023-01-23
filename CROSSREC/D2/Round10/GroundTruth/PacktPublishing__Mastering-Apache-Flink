@@ -1,0 +1,8 @@
+1	#DEP#org.apache.flink:flink-streaming-scala_2.11
+1	#DEP#org.apache.flink:flink-connector-kafka-0.9_2.10
+1	#DEP#org.apache.flink:flink-connector-kafka-0.9_2.11
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.flink:flink-streaming-java_2.10
+1	#DEP#org.apache.flink:flink-streaming-java_2.11
+1	#DEP#org.apache.flink:flink-table_2.11
+1	#DEP#junit:junit

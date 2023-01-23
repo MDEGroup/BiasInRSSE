@@ -1,0 +1,7 @@
+1	#DEP#br.com.objectos:objectos-dojo
+1	#DEP#br.com.objectos:objectos-comuns-sitebricks
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.eclipse.jetty:jetty-http
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.eclipse.jetty:jetty-servlet

@@ -1,0 +1,13 @@
+1	git://github.com/tgrall/eXo-Statisitics.git
+2	#DEP#org.exoplatform.plugins:statistics.social.parent
+3	#DEP#org.exoplatform.kernel:exo.kernel.container
+4	#DEP#org.exoplatform.ks:exo.ks.eXoApplication.forum.service
+5	#DEP#org.exoplatform:exo.parent
+6	#DEP#org.exoplatform.ws:exo.ws.rest.core
+7	#DEP#org.exoplatform.ecms:exo-ecms-core-services
+8	#DEP#org.exoplatform.social:exo.social.component.core
+9	#DEP#org.exoplatform.social:exo.social.component.service
+10	#DEP#org.json:json
+11	#DEP#org.exoplatform.jcr:exo.jcr.framework.command
+12	#DEP#org.chromattic:chromattic.core
+13	#DEP#org.exoplatform.portal:exo.portal.webui.portal

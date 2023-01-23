@@ -1,0 +1,6 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#com.ovea.tajin.server:tajin-server-jetty9
+1	#DEP#junit:junit
+1	#DEP#org.concordion:concordion
+1	#DEP#org.testatoo:testatoo

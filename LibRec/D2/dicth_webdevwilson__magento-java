@@ -1,0 +1,9 @@
+1	git://github.com/webdevwilson/magento-java.git
+2	#DEP#commons-discovery:commons-discovery
+3	#DEP#axis:axis-wsdl4j
+4	#DEP#javax.mail:mail
+5	#DEP#javax.activation:activation
+6	#DEP#commons-logging:commons-logging
+7	#DEP#junit:junit
+8	#DEP#org.apache.axis:axis
+9	#DEP#axis:axis-jaxrpc

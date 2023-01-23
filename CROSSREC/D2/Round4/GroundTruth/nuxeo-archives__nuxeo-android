@@ -1,0 +1,7 @@
+1	#DEP#org.nuxeo.android:nuxeo-android-parent
+1	#DEP#org.nuxeo.android:nuxeo-automation-sample
+1	#DEP#org.nuxeo:nuxeo-ftest
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.nuxeo.ecm.automation:nuxeo-automation-thin-client
+1	#DEP#com.smartnsoft:droid4me
+1	#DEP#junit:junit

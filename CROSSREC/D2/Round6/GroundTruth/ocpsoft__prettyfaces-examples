@@ -1,0 +1,5 @@
+1	#DEP#com.ocpsoft:ocpsoft-pretty-time
+1	#DEP#junit:junit
+1	#DEP#org.jboss.seam.persistence:seam-persistence
+1	#DEP#com.ocpsoft.pretty.examples:prettyfaces-examples
+1	#DEP#com.ocpsoft:prettyfaces-jsf2

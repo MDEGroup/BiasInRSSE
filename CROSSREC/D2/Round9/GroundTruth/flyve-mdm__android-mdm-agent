@@ -1,0 +1,8 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.madgag.spongycastle:pkix
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.madgag.spongycastle:prov
+1	#DEP#com.android.support:multidex
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.flyve:inventory
+1	#DEP#junit:junit

@@ -1,0 +1,3 @@
+16	#DEP#junit:junit
+17	#DEP#com.sun.el:el-ri
+18	#DEP#org.hsqldb:hsqldb

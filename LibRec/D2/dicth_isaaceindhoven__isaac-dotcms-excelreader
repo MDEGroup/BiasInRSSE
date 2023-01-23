@@ -1,0 +1,15 @@
+1	git://github.com/isaaceindhoven/isaac-dotcms-excelreader.git
+2	#DEP#com.dotcms.lib:dot.felix
+3	#DEP#com.dotcms.lib:dot.commons-lang
+4	#DEP#com.dotcms.lib:dot.log4j-api
+5	#DEP#com.dotcms.lib:dot.org.apache.felix.http.bundle
+6	#DEP#com.dotcms.lib:dot.portlet
+7	#DEP#com.dotcms.lib:dot.log4j-core
+8	#DEP#net.sf.supercsv:super-csv
+9	#DEP#com.dotcms:dotcms
+10	#DEP#org.quartz-scheduler:quartz
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#javax.servlet:javax.servlet-api
+13	#DEP#com.dotcms.lib:dot.tika-app
+14	#DEP#com.dotcms.lib:dot.commons-io
+15	#DEP#com.dotcms.lib:dot.jettison

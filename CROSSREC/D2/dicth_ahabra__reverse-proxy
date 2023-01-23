@@ -1,0 +1,10 @@
+1	git://github.com/ahabra/reverse-proxy.git
+2	#DEP#commons-configuration:commons-configuration
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#log4j:log4j
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#com.google.guava:guava
+8	#DEP#org.apache.httpcomponents:httpmime
+9	#DEP#junit:junit
+10	#DEP#commons-lang:commons-lang

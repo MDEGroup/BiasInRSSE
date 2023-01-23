@@ -1,0 +1,7 @@
+32	#DEP#commons-collections:commons-collections
+33	#DEP#org.slf4j:org.slf4j
+34	#DEP#org.apache.commons:org.apache.commons
+35	#DEP#xerces:xercesImpl
+36	#DEP#org.aspectj:org.aspectj
+37	#DEP#junit:junit
+38	#DEP#javax.xml.bind:javax.xml.bind

@@ -1,0 +1,17 @@
+1	git://github.com/385841539/RecycleviewStaggered.git
+2	#DEP#com.github.bumptech.glide:okhttp3-integration
+3	#DEP#com.zhy:okhttputils
+4	#DEP#cn.bingoogolapple:bga-banner
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.gxz.stickynavlayout:library
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.daimajia.slider:library
+12	#DEP#com.android.support:cardview-v7
+13	#DEP#com.github.bumptech.glide:glide
+14	#DEP#com.squareup.picasso:picasso
+15	#DEP#com.lzy.net:okgo
+16	#DEP#com.cjj.materialrefeshlayout:library
+17	#DEP#junit:junit

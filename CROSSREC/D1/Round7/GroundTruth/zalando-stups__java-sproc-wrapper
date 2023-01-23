@@ -1,0 +1,4 @@
+16	#DEP#com.google.guava:guava
+17	#DEP#com.zaxxer:HikariCP
+18	#DEP#junit:junit
+19	#DEP#org.cthul:cthul-matchers

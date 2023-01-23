@@ -1,0 +1,15 @@
+1	git://github.com/bulain/jasper-demo.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.google.zxing:javase
+4	#DEP#com.bulain:parent
+5	#DEP#net.sf.jasperreports:jasperreports
+6	#DEP#org.springframework:spring-jdbc
+7	#DEP#com.lowagie:itext
+8	#DEP#net.sf.barcode4j:barcode4j
+9	#DEP#org.springframework:spring-test
+10	#DEP#org.apache.xmlgraphics:batik-bridge
+11	#DEP#log4j:log4j
+12	#DEP#org.apache.poi:poi
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#org.apache.poi:poi-ooxml
+15	#DEP#junit:junit

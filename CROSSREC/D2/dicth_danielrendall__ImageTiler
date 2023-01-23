@@ -1,0 +1,17 @@
+1	git://github.com/danielrendall/ImageTiler.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#uk.co.danielrendall:javamathlib
+4	#DEP#org.apache.xmlgraphics:batik-transcoder
+5	#DEP#org.apache.xmlgraphics:batik-codec
+6	#DEP#commons-beanutils:commons-beanutils
+7	#DEP#org.swinglabs:swingx
+8	#DEP#commons-lang:commons-lang
+9	#DEP#commons-configuration:commons-configuration
+10	#DEP#com.google.inject:guice
+11	#DEP#args4j:args4j
+12	#DEP#log4j:log4j
+13	#DEP#commons-collections:commons-collections
+14	#DEP#org.jdesktop.bsaf:bsaf
+15	#DEP#org.apache.xmlgraphics:batik-swing
+16	#DEP#junit:junit
+17	#DEP#uk.co.danielrendall:imagetiler

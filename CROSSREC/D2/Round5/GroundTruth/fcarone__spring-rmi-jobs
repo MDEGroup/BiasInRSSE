@@ -1,0 +1,8 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#cglib:cglib-nodep
+1	#DEP#aspectj:aspectjrt
+1	#DEP#aspectj:aspectjweaver
+1	#DEP#asm:asm-attrs
+1	#DEP#net.sourceforge.openutils:openutils-testing-junit
+1	#DEP#org.apache.xbean:xbean-spring-v2c
+1	#DEP#junit:junit

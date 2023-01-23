@@ -1,0 +1,9 @@
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.mybatis:mybatis
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.springframework.batch:spring-batch-infrastructure
+1	#DEP#junit:junit
+1	#DEP#org.mybatis:mybatis-spring

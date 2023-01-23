@@ -1,0 +1,12 @@
+1	git://github.com/dodozhang21/DatabaseConfiguration.git
+2	#DEP#commons-configuration:commons-configuration
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework:spring-test
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#org.springframework:spring-beans
+7	#DEP#org.springmodules:spring-modules-jakarta-commons
+8	#DEP#junit:junit
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#org.springframework:spring-core
+11	#DEP#commons-lang:commons-lang
+12	#DEP#com.h2database:h2

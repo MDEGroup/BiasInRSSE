@@ -1,0 +1,9 @@
+1	git://github.com/wordplat/RecyclerViewCornerRadius.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#org.xutils:xutils
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.android.support:multidex
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.readystatesoftware.systembartint:systembartint

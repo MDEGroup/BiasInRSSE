@@ -1,0 +1,3 @@
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid
+14	#DEP#cglib:cglib

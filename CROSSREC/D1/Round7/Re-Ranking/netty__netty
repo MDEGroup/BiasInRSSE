@@ -1,0 +1,10 @@
+#DEP#io.netty:netty-codec	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#io.netty:netty-transport-native-epoll	1.0
+#DEP#org.apache.commons:commons-io	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#io.netty:netty-common	1.0
+#DEP#commons-fileupload:commons-fileupload	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.squareup.retrofit2:converter-scalars	1.0
+#DEP#${project.groupId}:tomp2p-core	1.0

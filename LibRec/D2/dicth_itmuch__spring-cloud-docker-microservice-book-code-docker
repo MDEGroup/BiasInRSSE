@@ -1,0 +1,13 @@
+1	git://github.com/itmuch/spring-cloud-docker-microservice-book-code-docker.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+4	#DEP#org.springframework.cloud:spring-cloud-dependencies
+5	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+9	#DEP#org.springframework.cloud:spring-cloud-starter-turbine
+10	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+11	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard
+12	#DEP#org.springframework.boot:spring-boot-starter-actuator
+13	#DEP#com.h2database:h2

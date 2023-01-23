@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-integration
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.avro:avro
+1	#DEP#org.springframework.kafka:spring-kafka
+1	#DEP#org.springframework.integration:spring-integration-kafka
+1	#DEP#junit:junit

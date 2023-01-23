@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#${project.groupId}:mojo-executor	1.0

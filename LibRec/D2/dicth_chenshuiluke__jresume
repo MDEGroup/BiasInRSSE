@@ -1,0 +1,13 @@
+1	git://github.com/chenshuiluke/jresume.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#pl.allegro.finance:tradukisto
+5	#DEP#com.google.code.gson:gson
+6	#DEP#org.freemarker:freemarker
+7	#DEP#com.sparkjava:spark-core
+8	#DEP#com.j2html:j2html
+9	#DEP#net.lingala.zip4j:zip4j
+10	#DEP#net.sf.jtidy:jtidy
+11	#DEP#com.google.guava:guava
+12	#DEP#org.json:json
+13	#DEP#com.beust:jcommander

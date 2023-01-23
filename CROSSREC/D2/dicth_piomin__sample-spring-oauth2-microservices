@@ -1,0 +1,14 @@
+1	git://github.com/piomin/sample-spring-oauth2-microservices.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+5	#DEP#org.springframework.session:spring-session
+6	#DEP#org.springframework.cloud:spring-cloud-dependencies
+7	#DEP#org.springframework.cloud:spring-cloud-starter-oauth2
+8	#DEP#org.thymeleaf.extras:thymeleaf-extras-springsecurity4
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.springframework.cloud:spring-cloud-starter-security
+11	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+12	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+13	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+14	#DEP#pl.piomin.services:sample-spring-oauth2-microservices

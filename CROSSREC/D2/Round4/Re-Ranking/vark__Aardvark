@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#org.apache.maven.wagon:wagon-provider-api	1.0
+#DEP#org.apache.maven:maven-aether-provider	1.0
+#DEP#org.jenkins-ci.main.maven:maven32-interceptor	1.0
+#DEP#org.jenkins-ci.main.maven:maven3-interceptor	1.0
+#DEP#org.jenkins-ci.main.maven:maven-modules	1.0

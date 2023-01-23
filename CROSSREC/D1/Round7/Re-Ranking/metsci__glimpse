@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#org.apache.lucene:lucene-queryparser	1.0
+#DEP#org.apache.lucene:lucene-analyzers-common	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.lucene:lucene-spatial	1.0
+#DEP#net.openhft:koloboke-impl-jdk6-7	1.0

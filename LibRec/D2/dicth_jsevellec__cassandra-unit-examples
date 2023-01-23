@@ -1,0 +1,10 @@
+1	git://github.com/jsevellec/cassandra-unit-examples.git
+2	#DEP#com.datastax.cassandra:cassandra-driver-core
+3	#DEP#org.springframework:spring-test
+4	#DEP#org.cassandraunit:cassandra-unit
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.cassandraunit:cassandra-unit-spring
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.hectorclient:hector-core

@@ -1,0 +1,9 @@
+36	#DEP#org.fakereplace:fakereplace
+37	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+38	#DEP#org.jboss.resteasy:async-http-servlet-3.0
+39	#DEP#javax.enterprise:cdi-api
+40	#DEP#org.fakereplace:fakereplace-testsuite-shared
+41	#DEP#org.fakereplace:fakereplace-metawidget
+42	#DEP#org.wildfly.arquillian:wildfly-arquillian-container-managed
+43	#DEP#javax.servlet:servlet-api
+44	#DEP#org.fakereplace:fakereplace-wildfly

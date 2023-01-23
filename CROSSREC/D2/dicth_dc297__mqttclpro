@@ -1,0 +1,11 @@
+1	git://github.com/dc297/mqttclpro.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#org.sufficientlysecure:donations
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:support-vector-drawable
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#com.github.angads25:filepicker
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design

@@ -1,0 +1,6 @@
+24	#DEP#javax.servlet:servlet-api
+25	#DEP#org.apache.hadoop:hadoop-common
+26	#DEP#xmlenc:xmlenc
+27	#DEP#org.apache.hadoop:hadoop-auth
+28	#DEP#junit:junit
+29	#DEP#com.sun.jersey:jersey-server

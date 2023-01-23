@@ -1,0 +1,16 @@
+1	git://github.com/bluesky139/LTweaks.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.github.PhilJay:MPAndroidChart
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.android.support:support-vector-drawable
+6	#DEP#com.alibaba:fastjson
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.google.dagger:dagger-compiler
+11	#DEP#com.crossbowffs.remotepreferences:remotepreferences
+12	#DEP#com.github.sevar83:indeterminate-checkbox
+13	#DEP#com.android.support:support-v4
+14	#DEP#com.google.auto.service:auto-service
+15	#DEP#junit:junit
+16	#DEP#com.google.zxing:core

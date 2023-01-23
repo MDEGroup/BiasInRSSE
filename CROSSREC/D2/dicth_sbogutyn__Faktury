@@ -1,0 +1,11 @@
+1	git://github.com/sbogutyn/Faktury.git
+2	#DEP#Faktury:Faktury
+3	#DEP#org.apache.commons:commons-io
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.liquibase:liquibase-core
+6	#DEP#org.springframework:spring-webmvc
+7	#DEP#jgoodies:forms
+8	#DEP#jasperreports:jasperreports
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#postgresql:postgresql
+11	#DEP#org.springframework:spring-core

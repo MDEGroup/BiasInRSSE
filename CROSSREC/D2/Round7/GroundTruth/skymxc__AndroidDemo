@@ -1,0 +1,6 @@
+1	#DEP#com.jaredrummler:material-spinner
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#org.greenrobot:eventbus
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design

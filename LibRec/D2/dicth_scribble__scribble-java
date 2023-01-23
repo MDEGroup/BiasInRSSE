@@ -1,0 +1,14 @@
+1	git://github.com/scribble/scribble-java.git
+2	#DEP#org.scribble:scribble-core
+3	#DEP#org.scribble:scribble-parser
+4	#DEP#commons-io:commons-io
+5	#DEP#org.codehaus.jackson:jackson-core-asl
+6	#DEP#org.scribble:scribble-cli
+7	#DEP#org.scribble:scribble-test
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#org.scribble:scribble-codegen
+10	#DEP#log4j:log4j
+11	#DEP#org.antlr:antlr-runtime
+12	#DEP#org.scribble:scribble-runtime
+13	#DEP#junit:junit
+14	#DEP#org.scribble:parent

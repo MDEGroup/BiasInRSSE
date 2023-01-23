@@ -1,0 +1,11 @@
+1	git://github.com/florentp/spring-simplejdbcupdate.git
+2	#DEP#org.springframework:spring-expression
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework:spring-aop
+5	#DEP#org.springframework:spring-context-support
+6	#DEP#org.springframework:spring-beans
+7	#DEP#junit:junit
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#org.springframework:spring-core
+10	#DEP#org.springframework:spring-tx
+11	#DEP#org.hsqldb:hsqldb

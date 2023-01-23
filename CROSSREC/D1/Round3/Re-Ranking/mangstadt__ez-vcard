@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#nl.jqno.equalsverifier:equalsverifier	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#net.sourceforge.pinyin4j:pinyin4j	1.0

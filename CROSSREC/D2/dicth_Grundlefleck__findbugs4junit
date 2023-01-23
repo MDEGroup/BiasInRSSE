@@ -1,0 +1,11 @@
+1	git://github.com/Grundlefleck/findbugs4junit.git
+2	#DEP#junit:junit-dep
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.google.code.findbugs:findbugs
+6	#DEP#org.tmatesoft.svnkit:svnkit
+7	#DEP#com.google.code.findbugs:bcel
+8	#DEP#com.youdevise:test-driven-detectors4findbugs
+9	#DEP#joda-time:joda-time
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#org.eclipse.jgit:org.eclipse.jgit

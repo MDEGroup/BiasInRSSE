@@ -1,0 +1,16 @@
+1	git://github.com/jankotek/mapdb.git
+2	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+3	#DEP#org.junit.jupiter:junit-jupiter-api
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#net.jpountz.lz4:lz4
+6	#DEP#org.mapdb:elsa
+7	#DEP#org.jetbrains.kotlin:kotlin-reflect
+8	#DEP#org.jetbrains.kotlin:kotlin-stdlib-jre8
+9	#DEP#org.eclipse.collections:eclipse-collections-forkjoin
+10	#DEP#org.eclipse.collections:eclipse-collections
+11	#DEP#org.eclipse.collections:eclipse-collections-testutils
+12	#DEP#org.easytesting:fest-reflect
+13	#DEP#com.google.guava:guava
+14	#DEP#org.eclipse.collections:eclipse-collections-api
+15	#DEP#junit:junit
+16	#DEP#org.jetbrains.kotlin:kotlin-test

@@ -1,0 +1,5 @@
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#com.jfrog.bintray.gradle:gradle-bintray-plugin
+1	#DEP#com.netflix.nebula:gradle-extra-configurations-plugin
+1	#DEP#io.spring.gradle:dependency-management-plugin
+1	#DEP#com.h2database:h2

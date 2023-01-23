@@ -1,0 +1,10 @@
+1	#DEP#io.netty:netty-transport
+1	#DEP#io.netty:netty-handler
+1	#DEP#io.vertx:vertx-lang-js
+1	#DEP#io.netty:netty-codec-mqtt
+1	#DEP#io.netty:netty-common
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-lang-groovy
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.vertx:vertx-ext-parent

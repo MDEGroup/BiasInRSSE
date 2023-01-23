@@ -1,0 +1,15 @@
+1	git://github.com/PuffOpenSource/Puff-Android.git
+2	#DEP#com.github.ozodrukh:CircularReveal
+3	#DEP#com.github.medyo:android-about-page
+4	#DEP#com.github.kenumir:MaterialSettings
+5	#DEP#com.lyft:scissors
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#de.greenrobot:eventbus
+9	#DEP#com.android.support:cardview-v7
+10	#DEP#com.squareup.picasso:picasso
+11	#DEP#com.eftimoff:android-patternview
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.hanks.animatecheckbox:library
+14	#DEP#junit:junit
+15	#DEP#de.greenrobot:greendao

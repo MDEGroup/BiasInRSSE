@@ -1,0 +1,14 @@
+1	git://github.com/michelelacorte/FlickLauncher.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.android.support:palette-v7
+4	#DEP#com.google.protobuf.nano:protobuf-javanano
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.android.support.test.uiautomator:uiautomator-v18
+10	#DEP#com.github.QuadFlask:colorpicker
+11	#DEP#org.jetbrains:annotations-java5
+12	#DEP#com.android.support:support-v4
+13	#DEP#junit:junit
+14	#DEP#com.android.support.test:runner

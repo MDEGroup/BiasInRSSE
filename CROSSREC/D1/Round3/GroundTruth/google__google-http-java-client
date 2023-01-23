@@ -1,0 +1,7 @@
+29	#DEP#com.google.http-client:google-http-client-jdo
+30	#DEP#com.google.appengine:appengine-api-stubs
+31	#DEP#com.fasterxml.jackson.core:jackson-core
+32	#DEP#com.google.guava:guava-testlib
+33	#DEP#junit:junit
+34	#DEP#com.google.http-client:google-http-client
+35	#DEP#com.google.http-client:google-http-client-protobuf

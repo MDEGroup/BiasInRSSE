@@ -1,0 +1,5 @@
+1	#DEP#com.google.code.findbugs:bcel
+1	#DEP#com.youdevise:test-driven-detectors4findbugs
+1	#DEP#joda-time:joda-time
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit

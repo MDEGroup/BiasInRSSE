@@ -1,0 +1,14 @@
+gemserk__componentsengine
+essentials__Essentials
+narrowtux__Showcase
+pdaian__MCBouncer
+TATDK__BankAccount
+gwt-maven-plugin__gwt-maven-plugin
+elBukkit__MagicPlugin
+NathanWolf__PersistencePlugin
+mark2b__maven-jet-plugin
+lishid__OpenInv
+Multiverse__Multiverse-Core
+desht__ScrollingMenuSign
+itm__wsn-device-drivers
+ppolabs__jdoris

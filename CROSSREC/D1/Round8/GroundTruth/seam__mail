@@ -1,0 +1,16 @@
+68	#DEP#org.jacoco:org.jacoco
+69	#DEP#org.jboss.arquillian.testenricher:org.jboss.arquillian.testenricher
+70	#DEP#org.glassfish.extras:org.glassfish.extras
+71	#DEP#org.jboss.seam.test:org.jboss.seam.test
+72	#DEP#dom4j:dom4j
+73	#DEP#org.eclipse.jetty:org.eclipse.jetty
+74	#DEP#org.subethamail:subethasmtp
+75	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+76	#DEP#org.subethamail:org.subethamail
+77	#DEP#org.jboss.weld:org.jboss.weld
+78	#DEP#com.sun.faces:com.sun.faces
+79	#DEP#javax.enterprise:cdi-api
+80	#DEP#org.jboss.shrinkwrap.resolver:org.jboss.shrinkwrap.resolver
+81	#DEP#log4j:log4j
+82	#DEP#org.jboss.jbossas:org.jboss.jbossas
+83	#DEP#org.jboss.seam.mail:seam-mail-reference-guide

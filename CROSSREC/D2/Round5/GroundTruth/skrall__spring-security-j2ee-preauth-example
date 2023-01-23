@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#taglibs:standard
+1	#DEP#junit:junit

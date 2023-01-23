@@ -1,0 +1,13 @@
+1	git://github.com/tspannhw/phoenix.git
+2	#DEP#org.springframework.data:spring-data-jdbc-core
+3	#DEP#org.springframework.boot:spring-boot-starter-jetty
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.apache.phoenix:phoenix-core
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.apache.hadoop:hadoop-client
+12	#DEP#org.springframework.boot:spring-boot-starter-social-twitter
+13	#DEP#org.springframework.boot:spring-boot-starter-actuator

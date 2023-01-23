@@ -1,0 +1,17 @@
+1	git://github.com/mtedone/podam.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#org.springframework:spring-context
+4	#DEP#javax.validation:validation-api
+5	#DEP#javax.annotation:jsr250-api
+6	#DEP#org.hibernate:hibernate-validator
+7	#DEP#org.apache.logging.log4j:log4j-core
+8	#DEP#org.sonatype.oss:oss-parent
+9	#DEP#org.apache.logging.log4j:log4j-jcl
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#org.apache.commons:commons-lang3
+12	#DEP#javax.persistence:persistence-api
+13	#DEP#net.serenity-bdd:serenity-junit
+14	#DEP#net.jcip:jcip-annotations
+15	#DEP#org.springframework:spring-test
+16	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+17	#DEP#junit:junit

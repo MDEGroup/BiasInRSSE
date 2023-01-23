@@ -1,0 +1,4 @@
+1	#DEP#org.powermock:powermock-mockito-release-full
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#jdom:jdom	1.0
+#DEP#org.codehaus.plexus:plexus-container-default	1.0
+#DEP#com.carrotsearch:hppc	1.0
+#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner	1.0
+#DEP#it.unimi.dsi:fastutil	1.0
+#DEP#net.openhft:koloboke-impl-jdk6-7	1.0
+#DEP#com.carrotsearch:hppc-template-processor	1.0

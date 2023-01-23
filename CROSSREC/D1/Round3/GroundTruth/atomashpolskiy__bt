@@ -1,0 +1,4 @@
+18	#DEP#junit:junit
+19	#DEP#com.github.atomashpolskiy:bt-tests
+20	#DEP#com.github.atomashpolskiy:bt-core
+21	#DEP#com.google.inject.extensions:guice-multibindings

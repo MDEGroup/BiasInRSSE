@@ -1,0 +1,10 @@
+#DEP#org.testng:org.testng	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#cglib:cglib	1.0
+#DEP#org.testng:testng	1.0
+#DEP#org.hamcrest:org.hamcrest	1.0
+#DEP#ch.qos.logback:ch.qos.logback	1.0
+#DEP#com.fasterxml.jackson.dataformat:com.fasterxml.jackson.dataformat	1.0
+#DEP#com.fasterxml.jackson.datatype:com.fasterxml.jackson.datatype	1.0
+#DEP#com.fasterxml.jackson.core:com.fasterxml.jackson.core	1.0
+#DEP#org.openjdk.jmh:org.openjdk.jmh	1.0

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.hive:hive-serde	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.hadoop:hadoop-common	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#${project.groupId}:hadoop-pcap-serde	1.0
+#DEP#org.dnsjava:dnsjava	1.0
+#DEP#org.apache.hadoop:hadoop-mapreduce	1.0
+#DEP#org.openx.data:json-serde-parent	1.0
+#DEP#com.microsoft.azure:azure-documentdb	1.0

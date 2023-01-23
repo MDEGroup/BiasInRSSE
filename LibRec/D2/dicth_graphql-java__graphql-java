@@ -1,0 +1,14 @@
+1	git://github.com/graphql-java/graphql-java.git
+2	#DEP#com.github.javafaker:javafaker
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#org.spockframework:spock-core
+5	#DEP#org.codehaus.groovy:groovy-all
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.antlr:antlr4
+9	#DEP#cglib:cglib-nodep
+10	#DEP#com.graphql-java:java-dataloader
+11	#DEP#org.eclipse.jetty:jetty-server
+12	#DEP#org.objenesis:objenesis
+13	#DEP#org.awaitility:awaitility-groovy
+14	#DEP#org.antlr:antlr4-runtime

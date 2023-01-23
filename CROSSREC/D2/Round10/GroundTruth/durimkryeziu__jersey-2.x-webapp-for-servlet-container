@@ -1,0 +1,10 @@
+1	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2
+1	#DEP#io.swagger:swagger-jersey2-jaxrs
+1	#DEP#org.glassfish.jersey.containers:jersey-container-servlet
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.glassfish.jersey.ext:jersey-bean-validation
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#commons-validator:commons-validator
+1	#DEP#com.h2database:h2

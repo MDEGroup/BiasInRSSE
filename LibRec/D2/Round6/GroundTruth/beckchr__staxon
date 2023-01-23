@@ -1,0 +1,7 @@
+1	#DEP#de.odysseus.staxon:staxon-jaxrs
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.glassfish:javax.json
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#javax.json:javax.json-api
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server

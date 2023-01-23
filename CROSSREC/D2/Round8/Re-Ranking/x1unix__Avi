@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.squareup.retrofit2:adapter-rxjava	1.0
+#DEP#com.google.android.gms:play-services-ads	1.0
+#DEP#com.squareup.okhttp3:logging-interceptor	1.0
+#DEP#com.yandex.android:speechkit	1.0

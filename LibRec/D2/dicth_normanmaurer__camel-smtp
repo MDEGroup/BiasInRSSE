@@ -1,0 +1,14 @@
+1	git://github.com/normanmaurer/camel-smtp.git
+2	#DEP#org.apache.camel:camel-core
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#org.apache.james.protocols:protocols-smtp
+5	#DEP#org.apache.james:apache-mailet
+6	#DEP#commons-net:commons-net
+7	#DEP#org.apache.james.protocols:protocols-api
+8	#DEP#javax.mail:mail
+9	#DEP#javax.activation:activation
+10	#DEP#dnsjava:dnsjava
+11	#DEP#org.apache.james.protocols:protocols-impl
+12	#DEP#org.jboss.netty:netty
+13	#DEP#junit:junit
+14	#DEP#org.apache.camel:camel-test

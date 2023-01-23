@@ -1,0 +1,10 @@
+1	#DEP#com.sun.jersey:jersey-json
+1	#DEP#org.springframework:spring-test
+1	#DEP#com.sun.jersey.contribs:jersey-spring
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

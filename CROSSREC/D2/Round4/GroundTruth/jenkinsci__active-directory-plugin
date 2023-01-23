@@ -1,0 +1,4 @@
+1	#DEP#org.jvnet.com4j:com4j
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.jenkins-ci.test:docker-fixtures
+1	#DEP#org.jvnet.com4j.typelibs:active-directory

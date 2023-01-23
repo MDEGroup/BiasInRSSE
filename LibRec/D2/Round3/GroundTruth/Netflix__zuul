@@ -1,0 +1,15 @@
+1	#DEP#com.netflix.hystrix:hystrix-core
+1	#DEP#com.netflix.blitz4j:blitz4j
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#com.netflix.governator:governator-archaius
+1	#DEP#com.netflix.servo:servo-core
+1	#DEP#com.netflix.netflix-commons:netflix-commons-util
+1	#DEP#com.netflix.karyon:karyon-admin-web
+1	#DEP#com.netflix.astyanax:astyanax-cassandra
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#com.netflix.ribbon:ribbon-core
+1	#DEP#org.json:json
+1	#DEP#com.netflix.karyon:karyon-core
+1	#DEP#com.netflix.archaius:archaius-core
+1	#DEP#com.sun.jersey:jersey-server

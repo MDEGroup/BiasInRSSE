@@ -1,0 +1,9 @@
+1	git://github.com/future-architect/uroborosql.git
+2	#DEP#jline:jline
+3	#DEP#ch.qos.logback:logback-classic
+4	#DEP#org.hamcrest:hamcrest-all
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#ognl:ognl
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#junit:junit
+9	#DEP#com.h2database:h2

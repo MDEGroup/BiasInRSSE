@@ -1,0 +1,9 @@
+1	git://github.com/13120241790/RongCloudJcenter.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#cn.rongcloud.android:CallLib
+4	#DEP#cn.rongcloud.android:CallKit
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:multidex
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#cn.rongcloud.android:IMLib
+9	#DEP#cn.rongcloud.android:IMKit

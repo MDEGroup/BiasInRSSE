@@ -1,0 +1,5 @@
+1	#DEP#org.drools:knowledge-api
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#janino:janino
+1	#DEP#org.drools:drools-core

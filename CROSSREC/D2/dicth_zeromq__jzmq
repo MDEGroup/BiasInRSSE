@@ -1,0 +1,9 @@
+1	git://github.com/zeromq/jzmq.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.zeromq:jzmq-jni
+4	#DEP#org.zeromq:jzmq-parent
+5	#DEP#org.easymock:easymock
+6	#DEP#org.zeromq:jzmq-core
+7	#DEP#junit:junit
+8	#DEP#org.powermock:powermock-easymock-release-full
+9	#DEP#org.zeromq:jzmq-devices

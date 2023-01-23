@@ -1,0 +1,8 @@
+35	#DEP#pl.bristleback:action-validation
+36	#DEP#org.hamcrest:hamcrest-all
+37	#DEP#javax.servlet:servlet-api
+38	#DEP#pl.bristleback:bristleback-core
+39	#DEP#com.typesafe.akka:akka-actor_2.10
+40	#DEP#junit:junit
+41	#DEP#org.eclipse.jetty:jetty-websocket
+42	#DEP#cglib:cglib

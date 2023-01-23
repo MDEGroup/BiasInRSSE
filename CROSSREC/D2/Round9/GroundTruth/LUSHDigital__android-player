@@ -1,0 +1,8 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.github.JamieCruwys:StatefulView
+1	#DEP#com.android.support.test.espresso:espresso-core
+1	#DEP#com.brightcove.player:exoplayer
+1	#DEP#org.apmem.tools:layouts

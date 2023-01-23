@@ -1,0 +1,9 @@
+1	#DEP#com.sonarsource.cobol:sonar-cobol-plugin
+1	#DEP#org.sonarsource.sonarqube:sonar-plugin-api
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#org.sonarsource.javascript:javascript-frontend
+1	#DEP#org.sonarsource.java:sonar-java-plugin
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#org.sonarsource.sslr-squid-bridge:sslr-squid-bridge

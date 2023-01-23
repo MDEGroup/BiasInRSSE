@@ -1,0 +1,9 @@
+1	git://github.com/RickyLee28/Living.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-x86
+5	#DEP#tv.danmaku.ijk.media:ijkplayer-armv5
+6	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#tv.danmaku.ijk.media:ijkplayer-exo

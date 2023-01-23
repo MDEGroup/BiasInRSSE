@@ -1,0 +1,10 @@
+1	#DEP#com.github.ignition:ignition
+1	#DEP#com.bugsense:bugsense-trace
+1	#DEP#com.github.ignition:ignition-location-project
+1	#DEP#com.github.ignition:ignition-core-samples
+1	#DEP#com.github.ignition:ignition-core-project
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjtools
+1	#DEP#com.github.ignition:ignition-location-samples
+1	#DEP#com.github.ignition:ignition-support-project
+1	#DEP#org.aspectj:aspectjrt

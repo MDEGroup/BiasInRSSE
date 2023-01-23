@@ -1,0 +1,11 @@
+1	git://github.com/TFdream/cherry.git
+2	#DEP#jaxen:jaxen
+3	#DEP#com.mindflow:cherry-core
+4	#DEP#ch.qos.logback:logback-core
+5	#DEP#dom4j:dom4j
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#com.mindflow:cherry-demo-api
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#com.mindflow:cherry
+11	#DEP#com.mindflow:cherry-demo

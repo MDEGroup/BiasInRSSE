@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#net.sourceforge.collections:collections-generic	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#com.sun.jersey:jersey-server	1.0
+#DEP#com.sun.jersey:jersey-client	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.isatools:import_layer	1.0
+#DEP#uk.ac.ebi:ols	1.0

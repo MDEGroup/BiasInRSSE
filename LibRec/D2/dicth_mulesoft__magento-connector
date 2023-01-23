@@ -1,0 +1,16 @@
+1	git://github.com/mulesoft/magento-connector.git
+2	#DEP#commons-discovery:commons-discovery
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#org.mule.modules:mule-module-s3
+5	#DEP#org.mule.tests:mule-tests-functional
+6	#DEP#org.ibeans:ibeans-support
+7	#DEP#org.mule.modules:mule-module-ibeans
+8	#DEP#org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec
+9	#DEP#org.mule.transports:mule-transport-mongodb
+10	#DEP#org.mule.modules:mule-module-scripting
+11	#DEP#backport-util-concurrent:backport-util-concurrent
+12	#DEP#org.mule.modules:mule-module-magento
+13	#DEP#org.mule.tools.devkit:mule-devkit-parent
+14	#DEP#org.mule.modules:mule-module-ognl
+15	#DEP#org.apache.axis:axis
+16	#DEP#wsdl4j:wsdl4j

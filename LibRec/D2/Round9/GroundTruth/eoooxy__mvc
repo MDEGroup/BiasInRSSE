@@ -1,0 +1,8 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.mybatis.generator:mybatis-generator-core
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.mybatis:mybatis
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#junit:junit
+1	#DEP#org.mybatis:mybatis-spring

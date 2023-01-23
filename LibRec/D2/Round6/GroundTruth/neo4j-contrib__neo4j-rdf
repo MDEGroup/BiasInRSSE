@@ -1,0 +1,5 @@
+1	#DEP#org.neo4j:neo4j-shell
+1	#DEP#org.neo4j:neo4j-meta-model
+1	#DEP#junit:junit
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.neo4j:neo4j-index

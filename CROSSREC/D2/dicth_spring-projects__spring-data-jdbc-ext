@@ -1,0 +1,12 @@
+1	git://github.com/spring-projects/spring-data-jdbc-ext.git
+2	#DEP#cglib:cglib-nodep
+3	#DEP#com.oracle.jdbc:oracle.jdbc
+4	#DEP#javax.transaction:transaction-api
+5	#DEP#commons-pool:commons-pool
+6	#DEP#com.oracle.aq:oracle.aq
+7	#DEP#com.oracle.xdb:oracle.xdb
+8	#DEP#org.easymock:easymock
+9	#DEP#commons-dbcp:commons-dbcp
+10	#DEP#com.oracle.xml:oracle.xml
+11	#DEP#javax.jms:jms-api
+12	#DEP#org.hsqldb:hsqldb

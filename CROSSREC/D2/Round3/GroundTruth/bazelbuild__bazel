@@ -1,0 +1,14 @@
+1	#DEP#org.apache.ant:ant
+1	#DEP#com.google.protobuf.compatibility:compatibility-more-protos
+1	#DEP#com.google.code.gson:gson
+1	#DEP#joda-time:joda-time
+1	#DEP#com.google:google
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.infinitest:continuous-testing-toolkit
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#com.google.protobuf.compatibility:compatibility-test-suite
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#net.sf.proguard:proguard-parent
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:protobuf-java
+1	#DEP#com.google.protobuf:protobuf-parent

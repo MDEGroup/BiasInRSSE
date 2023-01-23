@@ -1,0 +1,11 @@
+1	git://github.com/ghillert/camellos-spring-integration.git
+2	#DEP#org.slf4j:jcl-over-slf4j
+3	#DEP#commons-io:commons-io
+4	#DEP#org.springframework.integration:spring-integration-ftp
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:log4j-over-slf4j
+7	#DEP#org.apache.ftpserver:ftpserver-core
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.jcraft:jsch
+10	#DEP#org.apache.ftpserver:ftpserver
+11	#DEP#org.springframework.integration:spring-integration-file

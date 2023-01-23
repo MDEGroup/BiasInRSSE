@@ -1,0 +1,14 @@
+1	git://github.com/gxl1240779189/ReIntelligentKitchen.git
+2	#DEP#me.iwf.photopicker:PhotoPicker
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.squareup.retrofit2:converter-scalars
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.michaelpardo:activeandroid
+10	#DEP#com.android.support:support-v4
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#junit:junit
+13	#DEP#io.reactivex:rxjava
+14	#DEP#io.reactivex:rxandroid

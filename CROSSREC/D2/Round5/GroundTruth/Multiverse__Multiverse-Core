@@ -1,0 +1,7 @@
+1	#DEP#com.dumptruckman.minecraft:Logging
+1	#DEP#me.main__.util:SerializationConfig
+1	#DEP#com.pneumaticraft.commandhandler:CommandHandler
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#junit:junit
+1	#DEP#net.milkbowl.vault:VaultAPI

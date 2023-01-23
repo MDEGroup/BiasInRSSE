@@ -1,0 +1,8 @@
+1	#DEP#io.takari:takari
+1	#DEP#org.eclipse.aether:aether-test-util
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#com.google.guava:guava
+1	#DEP#org.eclipse.aether:aether-impl
+1	#DEP#junit:junit
+1	#DEP#com.googlecode.multithreadedtc:multithreadedtc
+1	#DEP#org.eclipse.aether:aether-api

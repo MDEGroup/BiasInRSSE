@@ -1,0 +1,12 @@
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#${project.groupId}:bowman-client
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#uk.co.blackpepper:bp-parent
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.boot:spring-boot-starter-logging
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.springframework.hateoas:spring-hateoas
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

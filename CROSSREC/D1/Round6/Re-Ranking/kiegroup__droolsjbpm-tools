@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.drools:drools-persistence-jpa	1.0
+#DEP#org.drools:drools-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.assertj:assertj-core	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.drools:drools-templates	1.0
+#DEP#org.kie:kie-internal	1.0
+#DEP#org.osgi:org.osgi.compendium	1.0
+#DEP#org.kie:kie-ci	1.0

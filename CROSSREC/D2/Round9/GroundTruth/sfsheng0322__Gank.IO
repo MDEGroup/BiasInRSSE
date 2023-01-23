@@ -1,0 +1,10 @@
+1	#DEP#com.trello.rxlifecycle2:rxlifecycle
+1	#DEP#com.trello.rxlifecycle2:rxlifecycle-components
+1	#DEP#jp.wasabeef:recyclerview-animators
+1	#DEP#me.drakeet.multitype:multitype
+1	#DEP#zlc.season:rxdownload2
+1	#DEP#com.squareup.retrofit2:adapter-rxjava2
+1	#DEP#com.jakewharton.rxbinding2:rxbinding
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#com.sunfusheng:glideimageview

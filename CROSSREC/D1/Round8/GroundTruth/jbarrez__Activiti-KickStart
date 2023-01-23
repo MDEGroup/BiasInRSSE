@@ -1,0 +1,4 @@
+20	#DEP#org.apache.chemistry.opencmis:chemistry-opencmis-client-impl
+21	#DEP#commons-httpclient:commons-httpclient
+22	#DEP#junit:junit
+23	#DEP#com.h2database:h2

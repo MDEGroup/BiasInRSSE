@@ -1,0 +1,10 @@
+#DEP#org.exoplatform.kernel:exo.kernel.container	1.0
+#DEP#org.exoplatform.jcr:exo.jcr.component.ext	1.0
+#DEP#org.exoplatform.ws:exo.ws.rest.core	1.0
+#DEP#org.exoplatform.kernel:exo.kernel.component.common	1.0
+#DEP#junit:junit	1.0
+#DEP#org.exoplatform.kernel:exo.kernel.commons	1.0
+#DEP#org.exoplatform.kernel:exo.kernel.component.cache	1.0
+#DEP#org.exoplatform.core:exo.core.component.script.groovy	1.0
+#DEP#org.exoplatform.ws:exo.ws.rest.ext	1.0
+#DEP#org.chromattic:chromattic.ext	1.0

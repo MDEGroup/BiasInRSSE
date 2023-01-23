@@ -1,0 +1,6 @@
+1	#DEP#io.eventuate.client.java:eventuate-client-java-spring
+1	#DEP#com.example:javaone-event-sourcing
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.example:microservices
+1	#DEP#io.eventuate.local.java:eventuate-local-java-jdbc

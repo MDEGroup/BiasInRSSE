@@ -1,0 +1,16 @@
+1	git://github.com/orfjackal/cqrs-hotel.git
+2	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#org.flywaydb:flyway-core
+5	#DEP#org.postgresql:postgresql
+6	#DEP#org.javamoney:moneta
+7	#DEP#org.hamcrest:hamcrest-library
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+12	#DEP#org.reflections:reflections
+13	#DEP#org.springframework.boot:spring-boot-starter-test
+14	#DEP#org.mockito:mockito-core
+15	#DEP#junit:junit
+16	#DEP#org.openjdk.jmh:jmh-core

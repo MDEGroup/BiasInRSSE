@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.android:support-v4	1.0
+#DEP#com.google.testing.compile:compile-testing	1.0
+#DEP#com.picassotransformations:picasso-transformations	1.0
+#DEP#eu.inmite.android.lib:android-validation-komensky	1.0
+#DEP#eu.inmite.android.lib:android-styled-dialogs	1.0
+#DEP#com.github.rtyley:com.github.rtyley	1.0

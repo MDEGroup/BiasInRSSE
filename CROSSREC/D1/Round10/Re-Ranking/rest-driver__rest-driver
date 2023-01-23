@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#org.springframework.plugin:spring-plugin-core	1.0
+#DEP#org.atteo:evo-inflector	1.0
+#DEP#net.jadler:jadler-all	1.0

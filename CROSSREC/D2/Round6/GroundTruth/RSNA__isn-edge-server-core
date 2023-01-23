@@ -1,0 +1,8 @@
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.twilio.sdk:twilio-java-sdk
+1	#DEP#com.itextpdf.tool:xmlworker
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.xmlgraphics:fop
+1	#DEP#junit:junit
+1	#DEP#com.thedeanda:lorem
+1	#DEP#com.sun.mail:javax.mail

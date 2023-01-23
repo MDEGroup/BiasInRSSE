@@ -1,0 +1,5 @@
+1	#DEP#org.sonatype.oss:oss-parent
+1	#DEP#com.thoughtworks.xstream:xstream
+1	#DEP#org.glassfish.web:el-impl
+1	#DEP#junit:junit
+1	#DEP#org.apache.axis:axis

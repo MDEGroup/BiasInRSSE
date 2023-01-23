@@ -1,0 +1,9 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.mockito:mockito-all
+1	#DEP#io.klerch:alexa-skills-kit-states-java
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#io.klerch:alexa-skills-kit-tellask-java
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service

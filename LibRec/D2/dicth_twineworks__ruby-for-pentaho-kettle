@@ -1,0 +1,10 @@
+1	git://github.com/twineworks/ruby-for-pentaho-kettle.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.codehaus.janino:janino
+4	#DEP#pentaho-kettle:kettle-ui-swt
+5	#DEP#pentaho-kettle:kettle-engine
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#org.jruby:jruby-complete
+8	#DEP#pentaho-kettle:kettle-core
+9	#DEP#junit:junit
+10	#DEP#com.h2database:h2

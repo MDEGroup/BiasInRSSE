@@ -1,0 +1,6 @@
+1	#DEP#org.joda:joda-convert
+1	#DEP#org.openrdf.sesame:sesame-rio-trig
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.openrdf.sesame:sesame-repository-sail
+1	#DEP#junit:junit
+1	#DEP#org.openrdf.sesame:sesame-rio-rdfxml

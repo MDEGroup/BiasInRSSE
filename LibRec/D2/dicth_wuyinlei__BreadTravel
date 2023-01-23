@@ -1,0 +1,16 @@
+1	git://github.com/wuyinlei/BreadTravel.git
+2	#DEP#com.makeramen:roundedimageview
+3	#DEP#com.afollestad.material-dialogs:core
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.lzy.net:okserver
+6	#DEP#cn.leancloud.android:avoscloud-sdk
+7	#DEP#com.lzy.net:okrx
+8	#DEP#org.greenrobot:eventbus
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.google.code.gson:gson
+11	#DEP#com.android.support:design
+12	#DEP#com.android.support:cardview-v7
+13	#DEP#com.github.bumptech.glide:glide
+14	#DEP#com.lzy.net:okgo
+15	#DEP#com.android.support:support-v4
+16	#DEP#junit:junit

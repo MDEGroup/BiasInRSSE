@@ -1,0 +1,17 @@
+1	git://github.com/ruhkopf/Spring-Jersey-MongoDB.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring-aop
+4	#DEP#com.sun.jersey:jersey-client
+5	#DEP#org.glassfish.embedded:gf-embedded-api
+6	#DEP#org.springframework:spring-beans
+7	#DEP#org.springframework.data:spring-data-mongodb
+8	#DEP#org.springframework:spring-core
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.sun.jersey:jersey-json
+11	#DEP#org.springframework:spring-expression
+12	#DEP#org.springframework:spring-web
+13	#DEP#com.sun.jersey.contribs:jersey-spring
+14	#DEP#org.glassfish.distributions:web-all
+15	#DEP#junit:junit
+16	#DEP#com.sun.jersey:jersey-server
+17	#DEP#cglib:cglib

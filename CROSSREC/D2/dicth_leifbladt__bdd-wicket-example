@@ -1,0 +1,12 @@
+1	git://github.com/leifbladt/bdd-wicket-example.git
+2	#DEP#org.seleniumhq.webdriver:webdriver-firefox
+3	#DEP#org.mortbay.jetty:jetty
+4	#DEP#org.mortbay.jetty:jetty-util
+5	#DEP#log4j:log4j
+6	#DEP#org.picocontainer:picocontainer
+7	#DEP#org.seleniumhq.webdriver:webdriver-htmlunit
+8	#DEP#org.apache.wicket:wicket
+9	#DEP#junit:junit
+10	#DEP#org.mortbay.jetty:jetty-management
+11	#DEP#cuke4duke:cuke4duke
+12	#DEP#org.slf4j:slf4j-log4j12

@@ -1,0 +1,13 @@
+1	git://github.com/chrysler5798/RainbowSixAssistant.git
+2	#DEP#com.ogaclejapan.smarttablayout:library
+3	#DEP#com.bignerdranch.android:expandablerecyclerview
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.ogaclejapan.smarttablayout:utils-v4
+6	#DEP#ca.barrenechea.header-decor:header-decor
+7	#DEP#com.firebaseui:firebase-ui
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.android.support:cardview-v7
+11	#DEP#com.google.firebase:firebase-database
+12	#DEP#junit:junit
+13	#DEP#com.github.chrisbanes:PhotoView

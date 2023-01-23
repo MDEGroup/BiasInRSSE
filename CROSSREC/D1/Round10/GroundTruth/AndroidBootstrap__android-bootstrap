@@ -1,0 +1,4 @@
+19	#DEP#com.android.support.test:rules
+20	#DEP#junit:junit
+21	#DEP#com.android.support.test:runner
+22	#DEP#com.android.support.test.espresso:espresso-core

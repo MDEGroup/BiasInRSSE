@@ -1,0 +1,9 @@
+1	#DEP#net.orfjackal.retrolambda:java-lang-dummies
+1	#DEP#com.google.guava:guava
+1	#DEP#org.ow2.asm:asm-debug-all
+1	#DEP#net.orfjackal.retrolambda:retrolambda
+1	#DEP#net.orfjackal.retrolambda:parent
+1	#DEP#junit:junit
+1	#DEP#com.esotericsoftware:minlog
+1	#DEP#org.twdata.maven:mojo-executor
+1	#DEP#org.apache.bcel:bcel

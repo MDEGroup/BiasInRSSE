@@ -1,0 +1,10 @@
+1	git://github.com/barrypitman/antisamy-servlet-filter.git
+2	#DEP#org.owasp.antisamy:antisamy
+3	#DEP#javax.servlet.jsp:jsp-api
+4	#DEP#org.springframework:spring-test
+5	#DEP#log4j:log4j
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#javax.servlet:jstl
+8	#DEP#junit:junit
+9	#DEP#org.springframework:spring-core
+10	#DEP#commons-lang:commons-lang

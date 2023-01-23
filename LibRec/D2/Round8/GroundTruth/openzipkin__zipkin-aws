@@ -1,0 +1,17 @@
+1	#DEP#${project.groupId}:zipkin-storage-xray-udp
+1	#DEP#javax.xml.bind:jaxb-api
+1	#DEP#com.squareup.moshi:moshi
+1	#DEP#io.zipkin.aws:zipkin-autoconfigure
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#com.amazonaws:aws-java-sdk-bom
+1	#DEP#com.squareup.okhttp3:mockwebserver
+1	#DEP#org.awaitility:awaitility
+1	#DEP#io.zipkin.aws:zipkin-sparkstreaming-stream-kinesis
+1	#DEP#com.amazonaws:amazon-kinesis-client
+1	#DEP#${project.groupId}:zipkin-collector-kinesis
+1	#DEP#org.apache.logging.log4j:log4j-jul
+1	#DEP#io.zipkin.java:zipkin
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#junit:junit
+1	#DEP#com.amazonaws:aws-java-sdk-sqs

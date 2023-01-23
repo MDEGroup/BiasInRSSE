@@ -1,0 +1,15 @@
+1	git://github.com/apeglow/olaf.git
+2	#DEP#org.springframework:spring-hibernate3
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#de.mobile.olaf:olaf-client
+5	#DEP#de.mobile:mobile-utils
+6	#DEP#de.mobile.olaf:olaf-api
+7	#DEP#commons-logging:commons-logging
+8	#DEP#org.springframework:spring-orm
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#com.google.closure:soy-with-dependencies
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#log4j:log4j
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#org.jboss.netty:netty
+15	#DEP#de.mobile.olaf:parent

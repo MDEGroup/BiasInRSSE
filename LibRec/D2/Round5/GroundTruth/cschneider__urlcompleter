@@ -1,0 +1,4 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.karaf.shell:org.apache.karaf.shell.commands
+1	#DEP#org.osgi:org.osgi.core

@@ -1,0 +1,14 @@
+1	#DEP#cl.own.usi:joker-backend-common
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#org.springframework:spring-context
+1	#DEP#com.googlecode.json-simple:json-simple
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.codehaus.jackson:jackson-core-lgpl
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#jdom:jdom
+1	#DEP#junit:junit
+1	#DEP#cl.own.usi:joker-backend

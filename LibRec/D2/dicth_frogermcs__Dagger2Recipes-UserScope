@@ -1,0 +1,13 @@
+1	git://github.com/frogermcs/Dagger2Recipes-UserScope.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.squareup.retrofit2:converter-gson
+7	#DEP#com.google.dagger:dagger
+8	#DEP#com.google.dagger:dagger-compiler
+9	#DEP#com.jakewharton.rxbinding:rxbinding
+10	#DEP#com.squareup.okhttp3:logging-interceptor
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

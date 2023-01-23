@@ -1,0 +1,4 @@
+19	#DEP#org.sonatype.http-testing-harness:server-provider
+20	#DEP#org.sonatype.aether:aether-util
+21	#DEP#org.sonatype.aether:aether-impl
+22	#DEP#org.sonatype.http-testing-harness:junit-runner

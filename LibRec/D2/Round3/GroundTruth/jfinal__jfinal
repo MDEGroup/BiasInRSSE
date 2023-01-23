@@ -1,0 +1,11 @@
+1	#DEP#com.alibaba:druid
+1	#DEP#de.ruedigermoeller:fst
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#com.jfinal:jetty-server
+1	#DEP#com.zaxxer:HikariCP-java6
+1	#DEP#org.apache.velocity:velocity-tools
+1	#DEP#it.sauronsoftware.cron4j:cron4j
+1	#DEP#junit:junit
+1	#DEP#com.jfinal:cos

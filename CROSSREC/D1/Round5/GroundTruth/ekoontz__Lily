@@ -1,0 +1,12 @@
+50	#DEP#org.lilyproject:lily-testclient-fw
+51	#DEP#org.codehaus.jackson:jackson-core-asl
+52	#DEP#org.lilyproject:lily-indexer-master
+53	#DEP#org.lilyproject:lily-hbaseindex
+54	#DEP#org.slf4j:slf4j-log4j12
+55	#DEP#org.lilyproject:lily-rowlog-api
+56	#DEP#org.lilyproject:lily-mbox-import
+57	#DEP#org.lilyproject:lily-rowlog-impl
+58	#DEP#org.lilyproject:lily-solr-test-fw
+59	#DEP#org.lilyproject:lily-indexer-worker
+60	#DEP#org.lilyproject:lily-indexer-engine
+61	#DEP#org.lilyproject:lily-linkindex

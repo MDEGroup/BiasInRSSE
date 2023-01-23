@@ -1,0 +1,15 @@
+1	git://github.com/nurv/Fenix-Domain-Browser.git
+2	#DEP#javax.validation:validation-api
+3	#DEP#commons-io:commons-io
+4	#DEP#pt.ist:fenix-framework-core-api
+5	#DEP#com.google.gwt:gwt-user
+6	#DEP#com.google.gwt:gwt-servlet
+7	#DEP#ant:ant-apache-log4j
+8	#DEP#commons-codec:commons-codec
+9	#DEP#com.googlecode.gwtupload:gwtupload
+10	#DEP#net.sf.flexjson:flexjson
+11	#DEP#com.google.gwt:gwt-soyc-vis
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#commons-fileupload:commons-fileupload
+14	#DEP#com.google.gwt:gwt-api-checker
+15	#DEP#org.json:json

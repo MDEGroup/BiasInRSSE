@@ -1,0 +1,10 @@
+1	git://github.com/berinle/hsforum_correlation.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.hibernate:hibernate-search
+4	#DEP#log4j:log4j
+5	#DEP#org.codehaus.groovy:groovy
+6	#DEP#javassist:javassist
+7	#DEP#org.testng:testng
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#com.h2database:h2
+10	#DEP#commons-lang:commons-lang

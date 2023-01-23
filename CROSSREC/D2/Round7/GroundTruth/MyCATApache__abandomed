@@ -1,0 +1,4 @@
+1	#DEP#io.mycat:SQLParser
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#junit:junit
+1	#DEP#io.mycat.bigmem:mycat-bigmemory

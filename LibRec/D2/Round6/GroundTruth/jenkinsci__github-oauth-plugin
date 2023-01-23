@@ -1,0 +1,6 @@
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.jenkins-ci.plugins:github-api
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-multibranch
+1	#DEP#junit:junit
+1	#DEP#org.jenkins-ci.plugins:external-monitor-job

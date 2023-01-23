@@ -1,0 +1,9 @@
+1	git://github.com/wpivotto/vraptor-jasperreport.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#br.com.caelum:vraptor
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.hamcrest:hamcrest-all
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#net.sf.jasperreports:jasperreports

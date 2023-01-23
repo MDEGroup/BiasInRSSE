@@ -1,0 +1,8 @@
+1	#DEP#io.zipkin.azure:zipkin-azure-parent
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#com.microsoft.azure:azure-eventhubs
+1	#DEP#com.microsoft.azure:azure-eventhubs-eph
+1	#DEP#io.zipkin.azure:zipkin-collector-eventhub
+1	#DEP#junit:junit
+1	#DEP#io.zipkin.azure:zipkin-autoconfigure-parent

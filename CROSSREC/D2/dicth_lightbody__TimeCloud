@@ -1,0 +1,11 @@
+1	git://github.com/lightbody/TimeCloud.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#com.google.inject:guice
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.rrd4j:rrd4j
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#net.lightbody.timecloud:timecloud-api
+8	#DEP#com.google.inject.extensions:guice-servlet
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#net.lightbody.timecloud:parent
+11	#DEP#org.eclipse.jetty:jetty-servlet

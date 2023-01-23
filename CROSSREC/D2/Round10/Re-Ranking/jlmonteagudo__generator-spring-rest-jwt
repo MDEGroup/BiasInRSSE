@@ -1,0 +1,10 @@
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#org.springframework.boot:spring-boot-devtools	1.0
+#DEP#org.postgresql:postgresql	1.0
+#DEP#io.jsonwebtoken:jjwt	1.0
+#DEP#org.springframework.boot:spring-boot-starter-thymeleaf	1.0
+#DEP#io.springfox:springfox-swagger-ui	1.0
+#DEP#io.springfox:springfox-swagger2	1.0
+#DEP#org.projectlombok:lombok	1.0
+#DEP#com.stormpath.spring:stormpath-default-spring-boot-starter	1.0

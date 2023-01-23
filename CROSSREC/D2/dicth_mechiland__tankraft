@@ -1,0 +1,12 @@
+1	git://github.com/mechiland/tankraft.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#org.springframework:spring-expression
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.springframework:spring-aop
+6	#DEP#org.springframework:spring-context-support
+7	#DEP#org.springframework:spring-test
+8	#DEP#org.springframework:spring-webmvc
+9	#DEP#org.springframework:spring-beans
+10	#DEP#junit:junit
+11	#DEP#org.freemarker:freemarker
+12	#DEP#org.springframework:spring-core

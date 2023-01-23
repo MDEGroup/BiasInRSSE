@@ -1,0 +1,4 @@
+20	#DEP#junit:junit
+21	#DEP#com.google.cloud:google-cloud-speech
+22	#DEP#org.apache.logging.log4j:log4j-api
+23	#DEP#org.slf4j:slf4j-jdk14

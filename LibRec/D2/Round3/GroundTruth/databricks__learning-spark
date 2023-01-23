@@ -1,0 +1,7 @@
+1	#DEP#org.apache.spark:spark-streaming-kafka_2.10
+1	#DEP#org.apache.spark:spark-streaming_2.10
+1	#DEP#org.elasticsearch:elasticsearch-hadoop-mr
+1	#DEP#org.apache.spark:spark-sql_2.10
+1	#DEP#com.datastax.spark:spark-cassandra-connector-java_2.10
+1	#DEP#org.apache.spark:spark-hive_2.10
+1	#DEP#org.eclipse.jetty:jetty-client

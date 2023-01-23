@@ -1,0 +1,15 @@
+1	git://github.com/NanoHttpd/nanohttpd.git
+2	#DEP#org.pegdown:pegdown
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#${project.groupId}:nanohttpd
+6	#DEP#org.eclipse.jetty.websocket:websocket-client
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.nanohttpd:nanohttpd-project
+9	#DEP#org.nanohttpd:nanohttpd-project
+10	#DEP#org.nanohttpd:nanohttpd
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.apache.httpcomponents:httpmime
+13	#DEP#commons-fileupload:commons-fileupload
+14	#DEP#junit:junit
+15	#DEP#${project.groupId}:nanohttpd-webserver

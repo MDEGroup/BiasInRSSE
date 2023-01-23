@@ -1,0 +1,12 @@
+51	#DEP#org.antlr:antlr-runtime
+52	#DEP#org.exoplatform.ws:exo.ws.rest.ext
+53	#DEP#org.jboss:jboss-common-core
+54	#DEP#org.exoplatform.jcr:exo.jcr.framework.ftpclient
+55	#DEP#org.jibx:jibx-run
+56	#DEP#org.exoplatform.kernel:exo.kernel.component.ext.cache.impl.infinispan.v8
+57	#DEP#javax.transaction:jta
+58	#DEP#org.exoplatform.jcr:exo.jcr.applications.rest
+59	#DEP#org.slf4j:slf4j-log4j12
+60	#DEP#org.exoplatform.jcr:exo.jcr.component.webdav
+61	#DEP#org.exoplatform.kernel:exo.kernel.component.common
+62	#DEP#org.exoplatform.kernel:exo.kernel.component.cache

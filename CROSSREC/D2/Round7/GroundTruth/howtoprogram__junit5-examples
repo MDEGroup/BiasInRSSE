@@ -1,0 +1,6 @@
+1	#DEP#junit:junit
+1	#DEP#org.junit.platform:junit-platform-engine
+1	#DEP#org.junit.vintage:junit-vintage-engine
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.junit.platform:junit-platform-runner

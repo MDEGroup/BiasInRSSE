@@ -1,0 +1,10 @@
+1	#DEP#org.ebayopensource.turmeric.runtime:soa-server
+1	#DEP#com.sun.xml.bind:jaxb-xjc
+1	#DEP#org.ebayopensource.turmeric.errorlib:runtime-error-library
+1	#DEP#org.ebayopensource.turmeric:turmeric-junit
+1	#DEP#org.apache.axis2:axis2-java2wsdl
+1	#DEP#org.ebayopensource.turmeric.typelib:common-type-library
+1	#DEP#backport-util-concurrent:backport-util-concurrent
+1	#DEP#org.apache.neethi:neethi
+1	#DEP#org.apache.axis2:axis2-jaxbri
+1	#DEP#com.thoughtworks.qdox:qdox

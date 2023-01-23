@@ -1,0 +1,15 @@
+1	#DEP#org.eclipse.emf:ecore
+1	#DEP#org.eclipse.emf:ecore-xmi
+1	#DEP#org.openhealthtools.ihe:atna-context
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.openhealthtools.ihe:hl7v2
+1	#DEP#org.openhealthtools.ihe:xds-metadata-extract
+1	#DEP#com.sun.xml.ws:jaxws-tools
+1	#DEP#org.apache.axis2:axis2-saaj-api
+1	#DEP#log4j:log4j
+1	#DEP#org.openhealthtools.ihe:hl7v2-client
+1	#DEP#org.openhealthtools.ihe:common-ebxml3
+1	#DEP#org.openhealthtools.ihe:atna-auditor
+1	#DEP#org.openhealthtools.ihe:atna-nodeauth
+1	#DEP#org.openhealthtools.ihe:utils
+1	#DEP#org.openhealthtools.ihe:xds

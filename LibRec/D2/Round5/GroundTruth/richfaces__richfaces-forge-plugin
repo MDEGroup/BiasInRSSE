@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.forge.furnace.test:furnace-test-harness
+1	#DEP#org.jboss.forge:forge-bom
+1	#DEP#org.jboss.forge.addon:parser-java
+1	#DEP#org.jboss.forge.addon:shell
+1	#DEP#org.jboss.forge.addon:javaee

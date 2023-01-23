@@ -1,0 +1,6 @@
+1	#DEP#javax.mail:mail
+1	#DEP#com.jfoenix:jfoenix
+1	#DEP#com.lynden:GMapsFX
+1	#DEP#com.github.abdielou:parse4j
+1	#DEP#org.loadui:testFx
+1	#DEP#junit:junit

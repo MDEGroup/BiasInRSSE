@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#hadoop-mapred-test:hadoop-mapred-test	1.0
+#DEP#at.sti2.rif4j:rif4j-parser	1.0
+#DEP#thirdparty:jgrapht-jdk1.6	1.0
+#DEP#hadoop-mapred:hadoop-mapred	1.0
+#DEP#hadoop-common:hadoop-common	1.0
+#DEP#at.sti2.iris:iris-parser	1.0

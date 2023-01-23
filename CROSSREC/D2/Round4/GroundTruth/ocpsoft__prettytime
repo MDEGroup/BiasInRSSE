@@ -1,0 +1,9 @@
+1	#DEP#org.ocpsoft.prettytime:prettytime
+1	#DEP#org.eclipse.jetty:jetty-jsp-2.1
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.apache.felix:maven-bundle-plugin
+1	#DEP#junit:junit
+1	#DEP#org.ocpsoft:ocpsoft-parent

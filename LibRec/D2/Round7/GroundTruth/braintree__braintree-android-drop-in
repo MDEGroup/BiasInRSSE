@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.google.android.gms:play-services-wallet
+1	#DEP#io.card:android-sdk
+1	#DEP#junit:junit
+1	#DEP#com.lukekorth:mailable_log

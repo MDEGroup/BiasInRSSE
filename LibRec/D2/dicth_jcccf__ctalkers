@@ -1,0 +1,11 @@
+1	git://github.com/jcccf/ctalkers.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#com.hp.hpl.jena:tdb
+4	#DEP#log4j:log4j
+5	#DEP#com.hp.hpl.jena:sdb
+6	#DEP#com.hp.hpl.jena:arq
+7	#DEP#com.hp.hpl.jena:iri
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#com.hp.hpl.jena:jena

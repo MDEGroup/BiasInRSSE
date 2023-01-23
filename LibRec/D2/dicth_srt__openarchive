@@ -1,0 +1,10 @@
+1	git://github.com/srt/openarchive.git
+2	#DEP#org.directwebremoting:dwr
+3	#DEP#org.igniterealtime.openfire:openfire
+4	#DEP#org.powermock:powermock-module-junit4
+5	#DEP#org.apache.lucene:lucene-core
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#junit:junit
+10	#DEP#com.google.code.guice:guice

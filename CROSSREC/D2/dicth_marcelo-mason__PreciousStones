@@ -1,0 +1,16 @@
+1	git://github.com/marcelo-mason/PreciousStones.git
+2	#DEP#com.griefcraft:LWC
+3	#DEP#net.gravitydevelopment.anticheat:AntiCheat
+4	#DEP#br.net.fabiozumbi12.RedProtect:RedProtect
+5	#DEP#org.yi.acru.bukkit:Lockette
+6	#DEP#net.milkbowl.vault:Vault
+7	#DEP#org.bukkit:bukkit
+8	#DEP#com.nijikokun.bukkit:Permissions
+9	#DEP#com.sk89q:worldedit
+10	#DEP#ru.tehkode:PermissionsEx
+11	#DEP#ant-contrib:ant-contrib
+12	#DEP#com.sk89q:worldguard
+13	#DEP#com.gmail.nossr50.mcMMO:mcMMO
+14	#DEP#net.sacredlabyrinth.phaed.simpleclans:SimpleClans
+15	#DEP#com.trc202.CombatTag:CombatTag
+16	#DEP#com.platymuus:bukkit-permissions

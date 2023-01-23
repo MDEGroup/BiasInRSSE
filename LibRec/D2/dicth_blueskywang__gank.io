@@ -1,0 +1,15 @@
+1	git://github.com/blueskywang/gank.io.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.google.code.gson:gson
+6	#DEP#com.android.support:design
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:cardview-v7
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#org.greenrobot:greendao
+12	#DEP#com.squareup.retrofit2:retrofit
+13	#DEP#junit:junit
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

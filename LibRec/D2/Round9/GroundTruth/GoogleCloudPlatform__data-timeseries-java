@@ -1,0 +1,4 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.google.cloud.dataflow:google-cloud-dataflow-java-sdk-all
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14

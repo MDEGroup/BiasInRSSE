@@ -1,0 +1,10 @@
+1	git://github.com/hss01248/MyImageUtil.git
+2	#DEP#com.facebook.fresco:animated-webp
+3	#DEP#jp.wasabeef:fresco-processors
+4	#DEP#com.facebook.fresco:animated-gif
+5	#DEP#com.facebook.fresco:fresco
+6	#DEP#com.facebook.fresco:webpsupport
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.facebook.fresco:imagepipeline-okhttp3
+9	#DEP#junit:junit
+10	#DEP#com.facebook.fresco:animated-base-support

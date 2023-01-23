@@ -1,0 +1,6 @@
+1	#DEP#net.milkbowl.vault:Vault
+1	#DEP#org.bukkit:bukkit
+1	#DEP#com.ramblingwood.minecraft.jsonapi:JSONAPI
+1	#DEP#de.bananaco:bPermissions
+1	#DEP#junit:junit
+1	#DEP#org.dynmap:DynmapCoreAPI

@@ -1,0 +1,10 @@
+1	git://github.com/le-moulin-studio/small-rpc.git
+2	#DEP#com.lemoulinstudio.small:small-parent
+3	#DEP#${project.groupId}:small-annotation-processor
+4	#DEP#${project.groupId}:small-java
+5	#DEP#${project.groupId}:small-model
+6	#DEP#org.apache.mina:mina-core
+7	#DEP#${project.groupId}:small-mina
+8	#DEP#org.apache.maven:maven-project
+9	#DEP#${project.groupId}:small-maven-plugin
+10	#DEP#org.apache.maven:maven-plugin-api

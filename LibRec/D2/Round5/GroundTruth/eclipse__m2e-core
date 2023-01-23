@@ -1,0 +1,10 @@
+1	#DEP#org.apache.maven.resolver:maven-resolver-connector-basic
+1	#DEP#org.apache.maven.archetype:archetype-common
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#io.takari.aether:aether-connector-okhttp
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.maven.resolver:maven-resolver-transport-wagon
+1	#DEP#org.apache.maven.indexer:indexer-core
+1	#DEP#org.eclipse.sisu:org.eclipse.sisu.plexus
+1	#DEP#org.eclipse.m2e:m2e-maven-runtime

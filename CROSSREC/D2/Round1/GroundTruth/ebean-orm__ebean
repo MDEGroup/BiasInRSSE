@@ -1,0 +1,14 @@
+1	#DEP#org.avaje.composite:avaje-composite-testing
+1	#DEP#javax.transaction:jta
+1	#DEP#com.microsoft.sqlserver:mssql-jdbc
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#joda-time:joda-time
+1	#DEP#org.jetbrains:annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#io.ebean:persistence-api
+1	#DEP#io.ebean:ebean-migration
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.avaje.moduuid:avaje-moduuid
+1	#DEP#org.avaje:avaje-agentloader
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.h2database:h2

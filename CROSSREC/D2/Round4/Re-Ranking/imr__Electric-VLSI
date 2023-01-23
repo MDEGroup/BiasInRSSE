@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#eu.geekplace.javapinning:java-pinning-java7	1.0
+#DEP#org.whispersystems:signal-protocol-java	1.0
+#DEP#org.igniterealtime.jbosh:jbosh	1.0

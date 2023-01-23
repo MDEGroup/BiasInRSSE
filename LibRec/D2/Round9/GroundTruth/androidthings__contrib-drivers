@@ -1,0 +1,10 @@
+1	#DEP#org.powermock:powermock-classloading-xstream
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#com.google.android.things.contrib:driver-pwmspeaker
+1	#DEP#org.powermock:powermock-classloading-base
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.google.android.things.contrib:driver-button
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

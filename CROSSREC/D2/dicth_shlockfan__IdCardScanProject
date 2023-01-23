@@ -1,0 +1,9 @@
+1	git://github.com/shlockfan/IdCardScanProject.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#org.xutils:xutils
+5	#DEP#com.android.support:support-v4
+6	#DEP#id.zelory:compressor
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.lzy.widget:imagepicker

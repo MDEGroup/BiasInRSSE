@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design
+1	#DEP#cn.dreamtobe.threaddebugger:threaddebugger
+1	#DEP#:library
+1	#DEP#com.squareup.okio:okio

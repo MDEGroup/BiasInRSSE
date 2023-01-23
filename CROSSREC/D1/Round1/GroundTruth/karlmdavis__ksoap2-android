@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#com.google.code.ksoap2-android:ksoap2-midp
+15	#DEP#com.google.code.ksoap2-android:ksoap2-servlet

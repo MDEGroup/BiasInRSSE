@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#com.googlecode.windowlicker:windowlicker-swing
+1	#DEP#com.jgoodies:forms
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit

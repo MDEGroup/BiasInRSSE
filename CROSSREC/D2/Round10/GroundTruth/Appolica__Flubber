@@ -1,0 +1,5 @@
+1	#DEP#com.annimon:stream
+1	#DEP#org.jetbrains:annotations-java5
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design

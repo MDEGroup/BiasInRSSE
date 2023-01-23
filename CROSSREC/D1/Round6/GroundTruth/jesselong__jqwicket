@@ -1,0 +1,3 @@
+12	#DEP#org.apache.wicket:wicket-util
+13	#DEP#junit:junit
+14	#DEP#com.google.appengine:appengine-api-labs

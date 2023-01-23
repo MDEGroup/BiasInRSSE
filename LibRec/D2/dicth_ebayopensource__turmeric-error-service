@@ -1,0 +1,11 @@
+1	git://github.com/ebayopensource/turmeric-error-service.git
+2	#DEP#org.ebayopensource.turmeric.runtime:soa-client
+3	#DEP#org.ebayopensource.turmeric.typelib:common-type-library
+4	#DEP#org.ebayopensource.turmeric.codegen:codegen-tools
+5	#DEP#org.ebayopensource.turmeric:slf4j-to-jul
+6	#DEP#org.ebayopensource.turmeric.runtime:soa-server
+7	#DEP#com.sun.xml.bind:jaxb-xjc
+8	#DEP#org.ebayopensource.turmeric:turmeric-parent
+9	#DEP#junit:junit
+10	#DEP#org.ebayopensource.turmeric.impl:TurmericErrorIdServiceV1Impl
+11	#DEP#org.ebayopensource.turmeric.intf:TurmericErrorIdServiceV1

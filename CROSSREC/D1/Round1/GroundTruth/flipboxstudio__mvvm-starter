@@ -1,0 +1,4 @@
+17	#DEP#com.squareup.retrofit2:retrofit
+18	#DEP#com.orhanobut:hawk
+19	#DEP#junit:junit
+20	#DEP#com.github.Ilhasoft:data-binding-validator

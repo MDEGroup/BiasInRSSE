@@ -1,0 +1,11 @@
+1	git://github.com/gokulesh/SqlRecorder.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.mockito:mockito-core
+4	#DEP#ch.qos.logback:logback-classic
+5	#DEP#commons-collections:commons-collections
+6	#DEP#org.testng:testng
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#com.google.guava:guava
+9	#DEP#org.hsqldb:hsqldb
+10	#DEP#commons-lang:commons-lang
+11	#DEP#net.sourceforge.jtds:jtds

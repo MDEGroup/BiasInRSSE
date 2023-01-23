@@ -1,0 +1,10 @@
+1	git://github.com/aws/aws-toolkit-eclipse.git
+2	#DEP#com.amazonaws.eclipse:com.amazonaws.eclipse.tests
+3	#DEP#com.amazonaws.eclipse:com.amazonaws.eclipse.releng
+4	#DEP#com.amazonaws.eclipse:com.amazonaws.eclipse.root
+5	#DEP#com.amazonaws:aws-java-sdk-dynamodb
+6	#DEP#com.amazonaws.eclipse:com.amazonaws.eclipse.bundles
+7	#DEP#com.amazonaws:aws-java-sdk-s3
+8	#DEP#com.amazonaws:aws-java-sdk-bom
+9	#DEP#com.amazonaws:aws-java-sdk-ec2
+10	#DEP#javax:javaee-api

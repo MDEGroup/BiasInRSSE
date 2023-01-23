@@ -1,0 +1,14 @@
+1	#DEP#org.antlr:antlr4-runtime
+1	#DEP#commons-cli:commons-cli
+1	#DEP#com.yahoo.yqlplus:yqlplus_engine
+1	#DEP#com.yahoo.yqlplus:yqlplus_engine_project
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.yahoo.yqlplus:yqlplus_source_api
+1	#DEP#com.yahoo.monitor:metrics_api
+1	#DEP#org.ow2.asm:asm-util
+1	#DEP#com.google.inject.extensions:guice-multibindings

@@ -1,0 +1,15 @@
+1	#DEP#org.apache.kafka:kafka-clients
+1	#DEP#org.apache.parquet:parquet-common
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.roaringbitmap:RoaringBitmap
+1	#DEP#org.apache.logging.log4j:log4j-to-slf4j
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.apache.kafka:kafka_2.10
+1	#DEP#com.alibaba:druid
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.redisson:redisson
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#org.elasticsearch.client:transport
+1	#DEP#org.apache.parquet:parquet-avro

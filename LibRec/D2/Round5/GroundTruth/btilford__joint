@@ -1,0 +1,11 @@
+1	#DEP#org.joint:joint
+1	#DEP#org.mortbay.jetty:jetty-management
+1	#DEP#org.joint:wicket-joint
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.netbeans.api:org-openide-util-lookup
+1	#DEP#org.joint:joint-registers
+1	#DEP#org.joint:joint-nav
+1	#DEP#org.joint:wicket-joint-example-common
+1	#DEP#log4j:log4j
+1	#DEP#org.joint:wicket-joint-example-page1
+1	#DEP#org.joint:joint-registers-spi

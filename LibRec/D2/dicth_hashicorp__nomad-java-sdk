@@ -1,0 +1,13 @@
+1	git://github.com/hashicorp/nomad-java-sdk.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#com.google.code.findbugs:jsr305
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#com.fasterxml.jackson.core:jackson-annotations
+8	#DEP#com.fasterxml.jackson.core:jackson-core
+9	#DEP#com.hashicorp.nomad:nomad-sdk
+10	#DEP#org.bouncycastle:bcpkix-jdk15on
+11	#DEP#com.hashicorp.nomad:nomad-sdk-parent
+12	#DEP#junit:junit
+13	#DEP#org.hamcrest:java-hamcrest

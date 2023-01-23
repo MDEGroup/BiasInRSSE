@@ -1,0 +1,14 @@
+1	git://github.com/appleshan/data-import-sqlims.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#org.jasypt:jasypt
+5	#DEP#tk.mybatis:mapper
+6	#DEP#org.springframework.boot:spring-boot-starter
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#commons-configuration:commons-configuration
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+12	#DEP#com.zaxxer:HikariCP
+13	#DEP#org.apache.poi:poi-ooxml
+14	#DEP#org.springframework.boot:spring-boot-starter-aop

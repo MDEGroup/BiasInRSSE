@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.json:json	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.testng:testng	1.0
+#DEP#org.openstreetmap.osmosis:osmosis-tagfilter	1.0

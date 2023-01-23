@@ -1,0 +1,17 @@
+1	git://github.com/square/dagger.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.squareup.dagger:dagger
+4	#DEP#com.google.android:android
+5	#DEP#@dagger.groupId@:dagger
+6	#DEP#com.squareup:javapoet
+7	#DEP#com.google.truth:truth
+8	#DEP#@dagger.groupId@:dagger-compiler
+9	#DEP#com.squareup.dagger:dagger-compiler
+10	#DEP#com.google.android:support-v4
+11	#DEP#${project.groupId}:dagger
+12	#DEP#org.mockito:mockito-core
+13	#DEP#com.google.testing.compile:compile-testing
+14	#DEP#com.google.guava:guava
+15	#DEP#com.squareup.dagger:dagger-parent
+16	#DEP#com.squareup.dagger.example:dagger-example-parent
+17	#DEP#junit:junit

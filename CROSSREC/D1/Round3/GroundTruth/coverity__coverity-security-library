@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#org.jacoco:jacoco-maven-plugin
+15	#DEP#org.aspectj:aspectjrt

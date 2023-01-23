@@ -1,0 +1,5 @@
+1	#DEP#org.codehaus.jettison:jettison
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#smartrics.restfixture:smartrics-RestClient
+1	#DEP#org.fitnesse:fitnesse

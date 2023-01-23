@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.byteman:byteman-install
+1	#DEP#org.jboss.modules:jboss-modules
+1	#DEP#javax.json:javax.json-api
+1	#DEP#org.jboss.byteman:byteman-bmunit
+1	#DEP#junit:junit

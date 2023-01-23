@@ -1,0 +1,12 @@
+1	git://github.com/JGuillemotte/easysoa-demo-proxy.git
+2	#DEP#jersey:jersey-bundle-api
+3	#DEP#fscript:fscript
+4	#DEP#osoa:osoa-java-api
+5	#DEP#frascati:frascati-tinfi-oo
+6	#DEP#frascati:frascati-tinfi-runtime
+7	#DEP#frascati:frascati-util
+8	#DEP#junit:junit
+9	#DEP#aopalliance:aopalliance
+10	#DEP#ws.rs:jsr311-api
+11	#DEP#org.glassfish.grizzly:grizzly-framework
+12	#DEP#frascati:frascati-fscript-core

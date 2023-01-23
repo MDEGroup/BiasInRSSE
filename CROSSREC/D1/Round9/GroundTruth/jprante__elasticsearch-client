@@ -1,0 +1,7 @@
+28	#DEP#net.sf.trove4j:trove4j
+29	#DEP#log4j:log4j
+30	#DEP#org.hamcrest:hamcrest-all
+31	#DEP#org.elasticsearch.client:elasticsearch-transport
+32	#DEP#junit:junit
+33	#DEP#org.elasticsearch.client:elasticsearch-client-http-netty
+34	#DEP#org.eclipse.jetty:jetty-websocket

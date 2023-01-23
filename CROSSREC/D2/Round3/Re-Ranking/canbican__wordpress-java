@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#com.googlecode.windowlicker:windowlicker-swing	1.0
+#DEP#net.contentobjects:jnotify	1.0

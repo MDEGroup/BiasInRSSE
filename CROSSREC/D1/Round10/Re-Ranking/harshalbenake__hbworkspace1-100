@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.squareup:fest-android	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.easytesting:fest-assert-core	1.0
+#DEP#com.nineoldandroids:com.nineoldandroids	1.0
+#DEP#eu.inmite.android.lib:android-validation-komensky	1.0
+#DEP#com.picassotransformations:picasso-transformations	1.0
+#DEP#eu.inmite.android.lib:android-styled-dialogs	1.0
+#DEP#android:android	1.0

@@ -1,0 +1,3 @@
+16	#DEP#javaFlacEncoder:javaFlacEncoder
+17	#DEP#com.wavpack:wavpack
+18	#DEP#org.xiph:vorbis-java

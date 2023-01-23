@@ -1,0 +1,15 @@
+1	git://github.com/jeluard/semantic-versioning.git
+2	#DEP#org.apache.maven:maven-project
+3	#DEP#com.google.code.findbugs:jsr305
+4	#DEP#org.apache.maven:maven-plugin-api
+5	#DEP#org.ow2.asm:asm
+6	#DEP#de.tototec:de.tototec.cmdoption
+7	#DEP#org.apache.maven.enforcer:enforcer-api
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.apache.maven:maven-core
+10	#DEP#org.semver:parent
+11	#DEP#com.github.jeluard:oss-parent
+12	#DEP#org.ow2.asm:asm-commons
+13	#DEP#junit:junit
+14	#DEP#org.semver:api
+15	#DEP#org.apache.maven:maven-artifact

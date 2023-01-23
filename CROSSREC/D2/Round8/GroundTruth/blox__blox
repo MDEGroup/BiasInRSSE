@@ -1,0 +1,8 @@
+1	#DEP#:end-to-end-tests
+1	#DEP#org.reflections:reflections
+1	#DEP#:scheduling-manager
+1	#DEP#:frontend-service
+1	#DEP#com.github.briandilley.jsonrpc4j:jsonrpc4j
+1	#DEP#org.projectlombok:lombok
+1	#DEP#software.amazon.awssdk:cloudformation
+1	#DEP#junit:junit

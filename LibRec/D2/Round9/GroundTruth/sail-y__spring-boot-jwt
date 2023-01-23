@@ -1,0 +1,4 @@
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#io.jsonwebtoken:jjwt

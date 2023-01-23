@@ -1,0 +1,10 @@
+1	#DEP#com.afollestad.material-dialogs:commons
+1	#DEP#com.tbruyelle.rxpermissions:rxpermissions
+1	#DEP#com.trello:rxlifecycle
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.trello:rxlifecycle-components
+1	#DEP#com.android.support:support-v4
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#com.jaredrummler:android-processes
+1	#DEP#io.reactivex:rxandroid

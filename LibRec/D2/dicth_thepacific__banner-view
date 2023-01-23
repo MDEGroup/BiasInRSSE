@@ -1,0 +1,10 @@
+1	git://github.com/thepacific/banner-view.git
+2	#DEP#com.trello.rxlifecycle2:rxlifecycle-android
+3	#DEP#com.romandanylyk:pageindicatorview
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.github.thepacific:adapter
+6	#DEP#com.yqritc:recyclerview-flexibledivider
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.trello.rxlifecycle2:rxlifecycle
+10	#DEP#com.trello.rxlifecycle2:rxlifecycle-components

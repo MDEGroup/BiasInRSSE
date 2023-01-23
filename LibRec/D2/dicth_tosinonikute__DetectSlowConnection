@@ -1,0 +1,12 @@
+1	git://github.com/tosinonikute/DetectSlowConnection.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.squareup.retrofit:retrofit
+5	#DEP#com.facebook.network.connectionclass:connectionclass
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.squareup.retrofit:converter-gson
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.google.code.gson:gson
+11	#DEP#junit:junit
+12	#DEP#com.android.support:design

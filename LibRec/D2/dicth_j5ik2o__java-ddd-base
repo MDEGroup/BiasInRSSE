@@ -1,0 +1,11 @@
+1	git://github.com/j5ik2o/java-ddd-base.git
+2	#DEP#org.slf4j:jcl-over-slf4j
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-core
+5	#DEP#ch.qos.logback:logback-core
+6	#DEP#mockit:jmockit
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.google.collections:google-collections
+10	#DEP#junit:junit
+11	#DEP#commons-lang:commons-lang

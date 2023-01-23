@@ -1,0 +1,10 @@
+1	git://github.com/ryanramage/couchapp-takeout.git
+2	#DEP#org.swinglabs:swing-layout
+3	#DEP#com.github.couchapp-takeout:plugins
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.googlecode.reupholster:reupholster
+6	#DEP#org.easymock:easymock
+7	#DEP#junit:junit
+8	#DEP#org.ini4j:ini4j
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang

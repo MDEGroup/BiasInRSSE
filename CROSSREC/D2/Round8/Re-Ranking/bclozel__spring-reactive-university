@@ -1,0 +1,10 @@
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#io.projectreactor.addons:reactor-test	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.springframework.boot.experimental:spring-boot-starter-web-reactive	1.0
+#DEP#org.springframework.boot:spring-boot-starter-thymeleaf	1.0
+#DEP#io.projectreactor.ipc:reactor-netty	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#org.springframework.boot:spring-boot-starter-data-jpa	1.0
+#DEP#pl.piomin.services:common	1.0
+#DEP#pl.piomin.services:sample-spring-reactive	1.0

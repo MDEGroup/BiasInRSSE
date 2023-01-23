@@ -1,0 +1,9 @@
+1	git://github.com/mplacona/selfie.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#org.powermock:powermock-classloading-xstream
+5	#DEP#org.robolectric:robolectric
+6	#DEP#org.powermock:powermock-api-mockito
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

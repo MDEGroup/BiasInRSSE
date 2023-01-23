@@ -1,0 +1,4 @@
+1	#DEP#io.gatling:jsonpath_2.10
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#yyyy-MM-dd HH:mm
+1	#DEP#org.eclipse.jetty:jetty-webapp

@@ -1,0 +1,11 @@
+1	git://github.com/dhanji/scmtc.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#com.google.sitebricks:sitebricks-options
+5	#DEP#cglib:cglib-full
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.jboss.netty:netty
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#jscheme:jscheme

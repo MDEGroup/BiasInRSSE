@@ -1,0 +1,12 @@
+1	git://github.com/Graylog2/graylog-plugin-threatintel.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#com.google.auto.value:auto-value
+4	#DEP#org.graylog2:graylog2-server
+5	#DEP#org.graylog.plugins:graylog-plugin-pipeline-processor
+6	#DEP#org.graylog.autovalue:auto-value-javabean
+7	#DEP#org.mockito:mockito-core
+8	#DEP#org.graylog.plugins:graylog-plugin-web-parent
+9	#DEP#com.google.auto.service:auto-service
+10	#DEP#junit:junit
+11	#DEP#commons-net:commons-net
+12	#DEP#commons-validator:commons-validator

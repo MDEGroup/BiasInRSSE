@@ -1,0 +1,17 @@
+71	#DEP#com.asual.lesscss:lesscss-engine
+72	#DEP#org.testng:testng
+73	#DEP#org.codehaus.jackson:jackson-jaxrs
+74	#DEP#org.duguo.xdir.service.codec:xdir-service-codec-less
+75	#DEP#org.apache.felix:org.apache.felix.framework
+76	#DEP#com.jamonapi:com.springsource.com.jamonapi
+77	#DEP#org.apache.maven:maven-core
+78	#DEP#org.seleniumhq.selenium:selenium-java
+79	#DEP#org.eclipse.jetty:jetty-server
+80	#DEP#org.springframework:org.springframework.context
+81	#DEP#org.eclipse.jetty:jetty-servlet
+82	#DEP#org.codehaus.jackson:jackson-core-asl
+83	#DEP#org.apache.maven:maven-plugin-api
+84	#DEP#org.slf4j:slf4j-log4j12
+85	#DEP#org.apache.maven:maven-compat
+86	#DEP#commons-fileupload:commons-fileupload
+87	#DEP#org.eclipse.jetty:jetty-util

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec	1.0
+#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven	1.0
+#DEP#org.jboss.solder:solder-impl	1.0
+#DEP#javax.validation:validation-api	1.0
+#DEP#org.jboss.seam:seam-parent	1.0
+#DEP#org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec	1.0
+#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api-maven	1.0
+#DEP#org.jboss.seam.persistence:seam-persistence-api	1.0

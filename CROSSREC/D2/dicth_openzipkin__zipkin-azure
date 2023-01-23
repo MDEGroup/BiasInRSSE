@@ -1,0 +1,16 @@
+1	git://github.com/openzipkin/zipkin-azure.git
+2	#DEP#org.springframework.boot:spring-boot-test
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.springframework.boot:spring-boot-dependencies
+5	#DEP#org.hamcrest:hamcrest-core
+6	#DEP#org.mockito:mockito-core
+7	#DEP#io.zipkin.java:zipkin
+8	#DEP#io.zipkin.azure:zipkin-collector-parent
+9	#DEP#io.zipkin.azure:zipkin-azure-parent
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.springframework.boot:spring-boot-autoconfigure
+12	#DEP#com.microsoft.azure:azure-eventhubs
+13	#DEP#com.microsoft.azure:azure-eventhubs-eph
+14	#DEP#io.zipkin.azure:zipkin-collector-eventhub
+15	#DEP#junit:junit
+16	#DEP#io.zipkin.azure:zipkin-autoconfigure-parent

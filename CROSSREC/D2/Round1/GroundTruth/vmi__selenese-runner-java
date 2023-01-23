@@ -1,0 +1,15 @@
+1	#DEP#net.sourceforge.htmlunit:htmlunit
+1	#DEP#com.floreysoft:jmte
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.httpcomponents:httpasyncclient
+1	#DEP#org.littleshoot:littleproxy
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.inject:guice
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#net.sourceforge.htmlunit:neko-htmlunit
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.commons:commons-text
+1	#DEP#junit:junit

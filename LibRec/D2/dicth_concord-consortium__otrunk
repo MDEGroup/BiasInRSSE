@@ -1,0 +1,11 @@
+1	git://github.com/concord-consortium/otrunk.git
+2	#DEP#org.concord.utilities:response-cache
+3	#DEP#org.concord:swing
+4	#DEP#jdom:jdom
+5	#DEP#asm:asm
+6	#DEP#org.concord:apple-support
+7	#DEP#org.concord.project-groups:otrunk
+8	#DEP#org.concord:frameworkview
+9	#DEP#jug:jug
+10	#DEP#org.concord.testing:gui
+11	#DEP#org.concord:framework

@@ -1,0 +1,9 @@
+1	git://github.com/Project-Quantum/Quantum-Starter-Kit.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#log4j:log4j
+4	#DEP#io.appium:java-client
+5	#DEP#com.qmetry:qaf-support
+6	#DEP#info.cukes:cucumber-java
+7	#DEP#com.quantum:quantum-support
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#com.qmetry:qaf

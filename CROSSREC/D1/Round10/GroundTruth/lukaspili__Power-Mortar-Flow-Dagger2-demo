@@ -1,0 +1,3 @@
+13	#DEP#com.squareup.flow:flow-path
+14	#DEP#com.squareup.mortar:mortar
+15	#DEP#com.github.lukaspili.autodagger2:autodagger2-compiler

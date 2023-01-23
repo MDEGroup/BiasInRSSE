@@ -1,0 +1,17 @@
+1	git://github.com/ChinaSilence/any-video.git
+2	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+3	#DEP#org.springframework.boot:spring-boot-starter-log4j2
+4	#DEP#org.mariadb.jdbc:mariadb-java-client
+5	#DEP#com.alibaba:fastjson
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-security
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.jsoup:jsoup
+12	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+13	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+14	#DEP#com.zaxxer:HikariCP
+15	#DEP#org.projectlombok:lombok
+16	#DEP#org.springframework.boot:spring-boot-devtools
+17	#DEP#org.springframework.boot:spring-boot-starter-undertow

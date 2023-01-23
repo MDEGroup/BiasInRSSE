@@ -1,0 +1,12 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.jboss.resteasy:resteasy-jaxrs
+1	#DEP#org.dbunit:dbunit
+1	#DEP#org.jboss.resteasy:resteasy-multipart-provider
+1	#DEP#log4j:log4j
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+1	#DEP#com.sun.xml.ws:jaxws-rt
+1	#DEP#org.hibernate:hibernate-jpamodelgen
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit
+1	#DEP#org.jboss.jbossas:jboss-as-client

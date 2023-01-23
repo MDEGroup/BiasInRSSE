@@ -1,0 +1,4 @@
+1	#DEP#com.android.support.test:runner
+1	#DEP#dk.ilios:spanner
+1	#DEP#com.squareup.okio:okio
+1	#DEP#com.github.fabianterhorst:fast-serialization

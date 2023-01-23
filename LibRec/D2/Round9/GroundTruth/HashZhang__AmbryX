@@ -1,0 +1,14 @@
+1	#DEP#com.github.ambry:ambry-messageformat
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.github.ambry:ambry-network
+1	#DEP#com.github.ambry:ambry-replication
+1	#DEP#com.codahale.metrics:metrics-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#log4j:log4j
+1	#DEP#com.github.ambry:ambry-utils
+1	#DEP#com.github.ambry:ambry-clustermap
+1	#DEP#com.github.ambry:ambry-admin
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#org.json:json
+1	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	git://github.com/TulevaEE/onboarding-service.git
+2	#DEP#io.springfox:springfox-swagger-ui
+3	#DEP#com.github.ErkoRisthein:mobileid
+4	#DEP#org.spockframework:spock-spring
+5	#DEP#com.github.tomakehurst:wiremock
+6	#DEP#org.spockframework:spock-core
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#io.springfox:springfox-swagger2
+9	#DEP#org.jsoup:jsoup
+10	#DEP#com.mandrillapp.wrapper.lutung:lutung
+11	#DEP#cglib:cglib-nodep
+12	#DEP#com.ecwid:maleorang
+13	#DEP#com.getsentry.raven:raven-logback
+14	#DEP#com.sun.xml.ws:jaxws-rt
+15	#DEP#org.objenesis:objenesis
+16	#DEP#org.projectlombok:lombok
+17	#DEP#com.rollbar:rollbar

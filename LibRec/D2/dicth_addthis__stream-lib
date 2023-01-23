@@ -1,0 +1,10 @@
+1	git://github.com/addthis/stream-lib.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.apache.mahout:mahout-math
+4	#DEP#colt:colt
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.google.guava:guava
+7	#DEP#it.unimi.dsi:fastutil
+8	#DEP#junit:junit
+9	#DEP#com.addthis.common.build.maven.pom:jar-pom
+10	#DEP#com.googlecode.charts4j:charts4j

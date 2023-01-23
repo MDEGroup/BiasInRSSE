@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.netty:netty
+1	#DEP#org.jboss.naming:jnp-client
+1	#DEP#javax.ejb:ejb-api
+1	#DEP#org.jboss.ejb3:jboss-ejb3-ext-api
+1	#DEP#org.hornetq.example.mdb:mdb-pom

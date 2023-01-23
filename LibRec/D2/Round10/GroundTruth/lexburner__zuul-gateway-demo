@@ -1,0 +1,5 @@
+1	#DEP#com.sinosoft:zuul-gateway-demo
+1	#DEP#com.googlecode.log4jdbc:log4jdbc
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-starter-web

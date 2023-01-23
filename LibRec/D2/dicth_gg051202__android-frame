@@ -1,0 +1,15 @@
+1	git://github.com/gg051202/android-frame.git
+2	#DEP#jp.wasabeef:glide-transformations
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#org.greenrobot:eventbus
+6	#DEP#com.github.githubwing:DragPhotoView
+7	#DEP#com.scwang.smartrefresh:SmartRefreshLayout
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.nineoldandroids:library
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.github.bumptech.glide:glide
+12	#DEP#com.android.support.constraint:constraint-layout
+13	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

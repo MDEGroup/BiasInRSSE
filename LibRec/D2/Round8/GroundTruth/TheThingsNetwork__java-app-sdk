@@ -1,0 +1,8 @@
+1	#DEP#${project.groupId}:account
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#${project.groupId}:data-mqtt
+1	#DEP#io.reactivex:rxjava
+1	#DEP#org.thethingsnetwork:data-common
+1	#DEP#org.thethingsnetwork:data
+1	#DEP#org.thethingsnetwork:app-sdk
+1	#DEP#${project.groupId}:management

@@ -1,0 +1,10 @@
+1	#DEP#org.diveintojee.poc.wss4j:wss4j-poc-core
+1	#DEP#org.apache.cxf:cxf-rt-ws-security
+1	#DEP#org.springframework:spring-test
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit
+1	#DEP#org.diveintojee.poc.wss4j:wss4j-poc-root
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.apache.cxf:cxf-rt-core

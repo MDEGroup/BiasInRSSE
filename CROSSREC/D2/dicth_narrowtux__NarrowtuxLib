@@ -1,0 +1,10 @@
+1	git://github.com/narrowtux/NarrowtuxLib.git
+2	#DEP#com:iCo6
+3	#DEP#org.bukkit:bukkit
+4	#DEP#me.ashtheking:currency
+5	#DEP#org.getspout:spoutpluginapi
+6	#DEP#me.ic3d:eco
+7	#DEP#cosine:boseconomy
+8	#DEP#com:iConomy
+9	#DEP#com.nijiko.coelho:iConomy
+10	#DEP#com.earth2me:essentials

@@ -1,0 +1,4 @@
+1	#DEP#org.jenkins-ci.plugins:cobertura
+1	#DEP#org.jvnet.hudson.plugins:pmd
+1	#DEP#org.jenkins-ci.plugins:jacoco
+1	#DEP#org.jvnet.hudson.plugins:findbugs

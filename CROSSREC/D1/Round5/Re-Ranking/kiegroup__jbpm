@@ -1,0 +1,10 @@
+#DEP#org.drools:drools-compiler	1.0
+#DEP#org.jbpm:jbpm-flow	1.0
+#DEP#org.antlr:antlr-runtime	1.0
+#DEP#org.hibernate:hibernate-validator	1.0
+#DEP#org.jbpm:org.jbpm.eclipse	1.0
+#DEP#org.drools:drools-bom	1.0
+#DEP#org.drools:org.guvnor.tools	1.0
+#DEP#org.jbpm:jbpm-bom	1.0
+#DEP#org.kie:kie-bom	1.0
+#DEP#org.jbpm:jbpm-test	1.0

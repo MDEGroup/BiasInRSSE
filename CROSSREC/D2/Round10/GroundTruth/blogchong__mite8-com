@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#org.ansj:ansj_seg
+1	#DEP#javax.servlet:jstl

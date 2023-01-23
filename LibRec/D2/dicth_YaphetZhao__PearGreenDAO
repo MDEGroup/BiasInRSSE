@@ -1,0 +1,10 @@
+1	git://github.com/YaphetZhao/PearGreenDAO.git
+2	#DEP#com.jakewharton.rxbinding:rxbinding
+3	#DEP#de.greenrobot:greendao-generator
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#de.greenrobot:greendao
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

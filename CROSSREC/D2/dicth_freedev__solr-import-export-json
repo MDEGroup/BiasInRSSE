@@ -1,0 +1,10 @@
+1	git://github.com/freedev/solr-import-export-json.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.eclipse.persistence:org.eclipse.persistence.moxy
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:log4j-over-slf4j
+7	#DEP#commons-logging:commons-logging
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#org.apache.solr:solr-solrj

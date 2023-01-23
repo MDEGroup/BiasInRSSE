@@ -1,0 +1,17 @@
+1	#DEP#org.switchyard.tools:switchyard-tools-eclipse-features
+1	#DEP#org.switchyard.tools:switchyard-tools-eclipse-plugins
+1	#DEP#org.apache.cxf:cxf-rt-databinding-jaxb
+1	#DEP#org.apache.ws.xmlschema:xmlschema-core
+1	#DEP#org.apache.cxf:cxf-tools-validator
+1	#DEP#org.switchyard.components:switchyard-component-bean
+1	#DEP#org.switchyard:switchyard-api
+1	#DEP#org.apache.cxf:cxf-tools-common
+1	#DEP#org.switchyard.tools:switchyard-tools-parent
+1	#DEP#org.apache.cxf:cxf-rt-ws-addr
+1	#DEP#org.apache.cxf:cxf-tools-wsdlto-core
+1	#DEP#org.apache.cxf:cxf-api
+1	#DEP#org.apache.cxf:cxf-rt-databinding-aegis
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#org.apache.cxf:cxf-rt-bindings-soap
+1	#DEP#org.apache.neethi:neethi
+1	#DEP#org.apache.cxf:cxf-rt-core

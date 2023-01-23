@@ -1,0 +1,8 @@
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.github.mzule.activityrouter:activityrouter
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.github.mzule.activityrouter:compiler
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.squareup.retrofit2:retrofit-converters

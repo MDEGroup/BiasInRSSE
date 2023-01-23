@@ -1,0 +1,10 @@
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#org.apache.tapestry:tapestry-ioc
+1	#DEP#org.spockframework:spock-guice
+1	#DEP#com.example:spi-example
+1	#DEP#com.google.inject:guice
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.spockframework:spock-tapestry
+1	#DEP#junit:junit
+1	#DEP#com.example:samples
+1	#DEP#cglib:cglib

@@ -1,0 +1,4 @@
+17	#DEP#org.powermock:powermock-api-mockito
+18	#DEP#ch.qos.logback:logback-classic
+19	#DEP#be.abeel:ajt
+20	#DEP#junit:junit

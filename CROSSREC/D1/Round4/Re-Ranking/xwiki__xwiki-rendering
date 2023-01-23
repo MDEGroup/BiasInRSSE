@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-beanutils:commons-beanutils	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.googlecode.java-diff-utils:diffutils	1.0
+#DEP#org.xwiki.commons:xwiki-commons-environment-api	1.0
+#DEP#org.junit.vintage:junit-vintage-engine	1.0
+#DEP#org.xwiki.commons:xwiki-commons-component-api	1.0

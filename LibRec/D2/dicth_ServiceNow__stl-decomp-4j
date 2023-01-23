@@ -1,0 +1,9 @@
+1	git://github.com/ServiceNow/stl-decomp-4j.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.apache.commons:commons-math3
+4	#DEP#com.opencsv:opencsv
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#junit:junit
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#com.github.servicenow.stl4j:stl-decomp-4j
+9	#DEP#com.sparkjava:spark-core

@@ -1,0 +1,7 @@
+1	#DEP#org.totalgrid.reef:reef-service-client
+1	#DEP#org.totalgrid.reef.examples:evented-proto-service-impl
+1	#DEP#org.totalgrid.reef.examples:basic-proto-service-impl
+1	#DEP#org.totalgrid.reef:reef-standalone-fep
+1	#DEP#org.totalgrid.reef:reef-protocol-api
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#junit:junit

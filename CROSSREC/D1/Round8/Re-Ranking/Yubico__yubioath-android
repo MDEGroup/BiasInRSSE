@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.android.support:support-annotations	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#com.jakewharton:butterknife-compiler	1.0
+#DEP#com.linkedin.dexmaker:dexmaker-mockito	1.0
+#DEP#com.android.tools.build:gradle	1.0
+#DEP#com.auth0.android:auth0	1.0

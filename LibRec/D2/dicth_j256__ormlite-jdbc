@@ -1,0 +1,10 @@
+1	git://github.com/j256/ormlite-jdbc.git
+2	#DEP#log4j:log4j
+3	#DEP#org.easymock:easymock
+4	#DEP#commons-logging:commons-logging
+5	#DEP#javax.persistence:persistence-api
+6	#DEP#com.j256.ormlite:ormlite-core
+7	#DEP#junit:junit
+8	#DEP#joda-time:joda-time
+9	#DEP#org.apache.logging.log4j:log4j-api
+10	#DEP#com.h2database:h2

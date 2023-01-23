@@ -1,0 +1,17 @@
+1	git://github.com/4911Mana/project.git
+2	#DEP#org.jboss.seam.solder:seam-solder
+3	#DEP#org.primefaces.themes:overcast
+4	#DEP#org.primefaces.themes:excite-bike
+5	#DEP#org.hibernate:hibernate-validator
+6	#DEP#org.jboss.arquillian:arquillian-junit
+7	#DEP#org.primefaces.themes:aristo
+8	#DEP#org.primefaces.themes:rocket
+9	#DEP#org.primefaces:primefaces
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#org.primefaces.themes:eggplant
+12	#DEP#org.primefaces:facestrace
+13	#DEP#org.primefaces.themes:glass-x
+14	#DEP#org.primefaces.themes:vader
+15	#DEP#org.hibernate:hibernate-jpamodelgen
+16	#DEP#junit:junit
+17	#DEP#org.primefaces.themes:flick

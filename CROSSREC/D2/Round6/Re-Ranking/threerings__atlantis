@@ -1,0 +1,10 @@
+#DEP#com.threerings.nexus:nexus-gwt-server	1.0
+#DEP#com.threerings:vilyalib	1.0
+#DEP#${project.groupId}:toybox	1.0
+#DEP#com.threerings:ooo-user	1.0
+#DEP#com.threerings:getdown	1.0
+#DEP#com.threerings:gwt-utils	1.0
+#DEP#org.apache.velocity:velocity-ooo	1.0
+#DEP#com.threerings.gardens:toybox	1.0
+#DEP#${project.groupId}:gardens-api	1.0
+#DEP#${project.groupId}:gardens-core	1.0

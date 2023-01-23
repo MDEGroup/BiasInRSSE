@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.jmockit:jmockit
+1	#DEP#junit:junit
+1	#DEP#org.apache.lucene:lucene-test-framework
+1	#DEP#com.carrotsearch:hppc

@@ -1,0 +1,12 @@
+1	git://github.com/javalong/Retrofit2-RxJava-Dagger2-MVP.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.jakewharton.rxbinding:rxbinding
+4	#DEP#com.squareup.retrofit2:adapter-rxjava
+5	#DEP#org.glassfish:javax.annotation
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#io.reactivex:rxjava
+11	#DEP#com.google.dagger:dagger
+12	#DEP#io.reactivex:rxandroid

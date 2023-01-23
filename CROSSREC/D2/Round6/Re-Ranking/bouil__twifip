@@ -1,0 +1,10 @@
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#junit:junit	1.0
+#DEP#org.apache.tapestry:tapestry-test	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#org.testng:testng	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#fr.exanpe:exanpe-t5-lib	1.0
+#DEP#fr.exanpe:exanpe-parent	1.0

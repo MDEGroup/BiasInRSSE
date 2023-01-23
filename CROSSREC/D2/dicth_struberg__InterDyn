@@ -1,0 +1,15 @@
+1	git://github.com/struberg/InterDyn.git
+2	#DEP#at.struct.devtools.cdi.interdyn:interdyn-parent
+3	#DEP#org.apache.myfaces.extensions.cdi.core:myfaces-extcdi-core-api
+4	#DEP#org.apache.openwebbeans.test:cditest
+5	#DEP#org.apache.myfaces.extensions.cdi.core:myfaces-extcdi-core-impl
+6	#DEP#org.apache.openwebbeans.test:cditest-owb
+7	#DEP#org.testng:testng
+8	#DEP#org.apache.geronimo.specs:geronimo-jcdi_1.0_spec
+9	#DEP#at.struct.devtools.cdi.interdyn:interdyn
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+12	#DEP#org.apache.geronimo.specs:geronimo-interceptor_1.1_spec
+13	#DEP#org.apache.geronimo.specs:geronimo-servlet_2.5_spec
+14	#DEP#org.apache.openwebbeans:openwebbeans-spi
+15	#DEP#org.apache.openwebbeans:openwebbeans-impl

@@ -1,0 +1,7 @@
+1	#DEP#org.forgerock.ce.opendj:opendj-server
+1	#DEP#javax.mail:mail
+1	#DEP#org.forgerock.opendj:build-tools
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.forgerock.ce.opendj:opendj-project
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.sleepycat:je

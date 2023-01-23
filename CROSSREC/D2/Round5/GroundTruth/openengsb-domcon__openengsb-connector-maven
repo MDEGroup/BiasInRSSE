@@ -1,0 +1,5 @@
+1	#DEP#org.openengsb.domain:org.openengsb.domain.build
+1	#DEP#org.openengsb.framework:org.openengsb.framework.test
+1	#DEP#org.openengsb.domain:org.openengsb.domain.deploy
+1	#DEP#junit:junit
+1	#DEP#org.openengsb.framework:org.openengsb.framework.common

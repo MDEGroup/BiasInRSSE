@@ -1,0 +1,11 @@
+1	git://github.com/XiqingLiu/SuJin.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.github.dmytrodanylyk.circular-progress-button:library
+5	#DEP#com.orhanobut:logger
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#io.reactivex:rxjava
+11	#DEP#io.reactivex:rxandroid

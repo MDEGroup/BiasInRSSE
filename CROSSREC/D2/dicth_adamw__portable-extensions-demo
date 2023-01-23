@@ -1,0 +1,16 @@
+1	git://github.com/adamw/portable-extensions-demo.git
+2	#DEP#org.jboss.weld.se:weld-se
+3	#DEP#javax.validation:validation-api
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#org.jboss.weld:weld-core
+6	#DEP#pl.softwaremill.common:softwaremill-cdi
+7	#DEP#org.jboss.spec:jboss-javaee-6.0
+8	#DEP#org.testng:testng
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#pl.softwaremill.common:softwaremill-parent
+11	#DEP#org.mockito:mockito-all
+12	#DEP#org.slf4j:slf4j-log4j12
+13	#DEP#javax.enterprise:cdi-api
+14	#DEP#org.easytesting:fest-assert
+15	#DEP#com.google.guava:guava
+16	#DEP#org.jboss.logging:jboss-logging

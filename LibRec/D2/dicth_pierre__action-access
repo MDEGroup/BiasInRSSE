@@ -1,0 +1,12 @@
+1	git://github.com/pierre/action-access.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#com.ning:async-http-client
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#org.testng:testng
+8	#DEP#com.google.guava:guava
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.eclipse.jetty:jetty-http
+11	#DEP#org.eclipse.jetty:jetty-util
+12	#DEP#org.codehaus.jackson:jackson-mapper-asl

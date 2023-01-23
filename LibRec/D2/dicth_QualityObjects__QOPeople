@@ -1,0 +1,11 @@
+1	git://github.com/QualityObjects/QOPeople.git
+2	#DEP#com.qualityobjects:qopeople-core
+3	#DEP#com.sun.faces:jsf-api
+4	#DEP#com.qualityobjects:qopeople-web
+5	#DEP#com.qualityobjects:qopeople-app
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#javax.servlet:jstl
+8	#DEP#javax:javaee-web-api
+9	#DEP#com.sun.faces:jsf-impl
+10	#DEP#junit:junit
+11	#DEP#javax:javaee-api

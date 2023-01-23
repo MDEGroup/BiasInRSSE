@@ -1,0 +1,9 @@
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#com.google.guava:guava
+1	#DEP#org.hibernate.validator:hibernate-validator
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

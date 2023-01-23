@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.ws:spring-oxm-tiger
+1	#DEP#org.springframework:spring-test
+1	#DEP#com.shopzilla.api:root
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.springframework.ws:spring-oxm
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit

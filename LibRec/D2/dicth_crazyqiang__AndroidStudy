@@ -1,0 +1,9 @@
+1	git://github.com/crazyqiang/AndroidStudy.git
+2	#DEP#com.github.promeg:tinypinyin
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.github.promeg:tinypinyin-lexicons-android-cncity
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

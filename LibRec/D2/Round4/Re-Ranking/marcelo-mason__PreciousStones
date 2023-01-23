@@ -1,0 +1,10 @@
+#DEP#org.bukkit:bukkit	1.0
+#DEP#junit:junit	1.0
+#DEP#net.milkbowl.vault:Vault	1.0
+#DEP#org.bukkit:craftbukkit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.comphenix.protocol:ProtocolLib	1.0
+#DEP#MultiCurrency:MultiCurrency	1.0
+#DEP#com.dumptruckman.minecraft:BukkitPlugin	1.0
+#DEP#org.spoutcraft:spoutcraftplugin	1.0
+#DEP#com.destroystokyo.paper:paper-api	1.0

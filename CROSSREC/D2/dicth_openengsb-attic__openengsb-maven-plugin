@@ -1,0 +1,14 @@
+1	git://github.com/openengsb-attic/openengsb-maven-plugin.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.apache.maven:maven-plugin-api
+6	#DEP#org.apache.maven:maven-core
+7	#DEP#org.openengsb:openengsb-root
+8	#DEP#org.apache.commons:commons-compress
+9	#DEP#log4j:log4j
+10	#DEP#org.hamcrest:hamcrest-all
+11	#DEP#com.google.guava:guava
+12	#DEP#org.ops4j.pax.runner:pax-runner-platform
+13	#DEP#junit:junit
+14	#DEP#org.openengsb:openengsb-manual-builder-resources

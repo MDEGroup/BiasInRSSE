@@ -1,0 +1,6 @@
+24	#DEP#org.apache.axis2:axis2-codegen
+25	#DEP#org.apache.maven:maven-archiver
+26	#DEP#org.codehaus.plexus:plexus-compiler-api
+27	#DEP#org.apache.maven:maven-plugin-api
+28	#DEP#javax.xml.stream:stax-api
+29	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,9 @@
+1	git://github.com/hiphonezhu/Android-Demos.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.android.support.constraint:constraint-layout
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#junit:junit
+6	#DEP#org.aspectj:aspectjtools
+7	#DEP#com.android.support:design
+8	#DEP#com.android.tools.build:gradle
+9	#DEP#org.aspectj:aspectjrt

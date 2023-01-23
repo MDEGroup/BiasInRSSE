@@ -1,0 +1,5 @@
+1	#DEP#org.apache.httpcomponents:httpclient-cache
+1	#DEP#oauth.signpost:signpost-core
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.json:json
+1	#DEP#commons-httpclient:commons-httpclient

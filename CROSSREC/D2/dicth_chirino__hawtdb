@@ -1,0 +1,14 @@
+1	git://github.com/chirino/hawtdb.git
+2	#DEP#commons-logging:commons-logging
+3	#DEP#org.fusesource.scalate:scalate-page
+4	#DEP#org.fusesource.scalate:scalate-wikitext
+5	#DEP#org.slf4j:slf4j-log4j12
+6	#DEP#org.fusesource.hawtbuf:hawtbuf
+7	#DEP#org.scala-lang:scala-compiler
+8	#DEP#org.fusesource.hawtdb:hawtdb-project
+9	#DEP#org.fusesource:fusesource-pom
+10	#DEP#org.fusesource.scalamd:scalamd
+11	#DEP#org.fusesource.hawtdb:hawtdb
+12	#DEP#log4j:log4j
+13	#DEP#org.scala-lang:scala-library
+14	#DEP#junit:junit

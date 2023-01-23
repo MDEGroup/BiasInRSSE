@@ -1,0 +1,8 @@
+1	#DEP#com.activiti:activiti-spring-boot-starter-integration
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#com.activiti:activiti-spring-boot-starter-jpa
+1	#DEP#com.activiti:activiti-spring-boot-starter-actuator
+1	#DEP#org.subethamail:subethasmtp-wiser
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

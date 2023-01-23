@@ -1,0 +1,16 @@
+1	git://github.com/vavr-io/vavr.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.scalaz:scalaz-core_2.12
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#${project.groupId}:vavr-match
+6	#DEP#io.vavr:vavr-parent
+7	#DEP#org.clojure:clojure
+8	#DEP#org.openjdk.jol:jol-core
+9	#DEP#org.jetbrains:annotations
+10	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+11	#DEP#org.eclipse.collections:eclipse-collections
+12	#DEP#org.pcollections:pcollections
+13	#DEP#org.functionaljava:functionaljava-java8
+14	#DEP#junit:junit
+15	#DEP#${project.groupId}:vavr
+16	#DEP#io.usethesource:capsule

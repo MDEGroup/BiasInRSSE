@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.android.support.constraint:constraint-layout	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.github.jdsjlzx:banner	1.0
+#DEP#cn.bingoogolapple:bga-badgeview	1.0

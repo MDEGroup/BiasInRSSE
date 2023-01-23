@@ -1,0 +1,9 @@
+1	#DEP#com.github.amlcurran.showcaseview:library
+1	#DEP#:plugins
+1	#DEP#net.jcip:jcip-annotations
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#org.apache.james:apache-mime4j-core
+1	#DEP#de.cketti.library.changelog:ckchangelog
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

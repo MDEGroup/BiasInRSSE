@@ -1,0 +1,13 @@
+1	git://github.com/miguelbcr/RxBillingService.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.google.auto.value:auto-value
+5	#DEP#com.github.VictorAlbertos:RxActivityResult
+6	#DEP#com.ryanharter.auto.value:auto-value-gson
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.mockito:mockito-core
+10	#DEP#com.android.support:support-v4
+11	#DEP#com.android.support.test:rules
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test:runner

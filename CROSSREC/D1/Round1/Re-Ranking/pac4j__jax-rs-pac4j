@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.glassfish.jersey.test-framework:jersey-test-framework-core	1.0
+#DEP#org.json:json	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.glassfish.jersey.core:jersey-server	1.0
+#DEP#org.mapdb:mapdb	1.0
+#DEP#org.telegram:telegrambots	1.0
+#DEP#io.vertx:vertx-auth-common	1.0
+#DEP#org.telegram:telegrambots-meta	1.0

@@ -1,0 +1,10 @@
+1	#DEP#nl.flotsam.pecia:pecia
+1	#DEP#org.codehaus.preon:preon
+1	#DEP#multithreadedtc:multithreadedtc
+1	#DEP#org.codehaus.preon:preon-el
+1	#DEP#org.codehaus.preon:preon-io
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.codehaus.preon:preon-samples
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

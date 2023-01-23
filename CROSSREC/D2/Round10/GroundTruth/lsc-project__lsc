@@ -1,0 +1,15 @@
+1	#DEP#commons-cli:commons-cli
+1	#DEP#hsqldb:hsqldb
+1	#DEP#javax.transaction:jta
+1	#DEP#org.apache.tapestry:tapestry5-annotations
+1	#DEP#xmlrpc:xmlrpc-client
+1	#DEP#org.apache.ibatis:ibatis-sqlmap
+1	#DEP#org.apache.directory.api:api-all
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#net.java.dev.stax-utils:stax-utils
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.sleepycat:je
+1	#DEP#org.codehaus.btm:btm
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javaee:javaee-api
+1	#DEP#junit:junit

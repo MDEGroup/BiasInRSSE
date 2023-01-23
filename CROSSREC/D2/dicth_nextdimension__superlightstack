@@ -1,0 +1,12 @@
+1	git://github.com/nextdimension/superlightstack.git
+2	#DEP#com.jakewharton.rxbinding:rxbinding-appcompat-v7
+3	#DEP#com.jakewharton.rxbinding:rxbinding-design
+4	#DEP#com.jakewharton.rxbinding:rxbinding
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.github.nextdimension:superlightstack
+7	#DEP#com.jakewharton.rxbinding:rxbinding-support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

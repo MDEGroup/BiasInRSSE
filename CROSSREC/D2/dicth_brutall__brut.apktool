@@ -1,0 +1,12 @@
+1	git://github.com/brutall/brut.apktool.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#net.sf.proguard:proguard-base
+4	#DEP#com.google.code.findbugs:jsr305
+5	#DEP#com.google.guava:guava
+6	#DEP#:brut.apktool
+7	#DEP#de.jflex:jflex
+8	#DEP#com.google.collections:google-collections
+9	#DEP#org.antlr:antlr-runtime
+10	#DEP#junit:junit
+11	#DEP#org.antlr:antlr
+12	#DEP#:brut.apktool.smali

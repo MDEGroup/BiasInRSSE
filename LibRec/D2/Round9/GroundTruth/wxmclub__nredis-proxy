@@ -1,0 +1,14 @@
+1	#DEP#com.opensource:nredis-proxy
+1	#DEP#commons-logging:commons-logging
+1	#DEP#com.alibaba:fastjson
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.opensource:nredis-proxy-commons
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#log4j:log4j
+1	#DEP#com.opensource:nredis-proxy-registry
+1	#DEP#com.opensource:nredis-proxy-spring
+1	#DEP#junit:junit
+1	#DEP#com.opensource:nredis-proxy-net
+1	#DEP#com.101tec:zkclient

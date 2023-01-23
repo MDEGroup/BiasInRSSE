@@ -1,0 +1,7 @@
+1	#DEP#com.google:google
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.bytedeco:javacpp
+1	#DEP#junit:junit

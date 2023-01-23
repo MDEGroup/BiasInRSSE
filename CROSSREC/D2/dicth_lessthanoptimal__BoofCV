@@ -1,0 +1,9 @@
+1	git://github.com/lessthanoptimal/BoofCV.git
+2	#DEP#:integration
+3	#DEP#org.reflections:reflections
+4	#DEP#com.android.support:support-annotations
+5	#DEP#:main
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support.test:rules
+8	#DEP#junit:junit
+9	#DEP#com.android.support.test:runner

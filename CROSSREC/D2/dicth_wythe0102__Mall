@@ -1,0 +1,9 @@
+1	git://github.com/wythe0102/Mall.git
+2	#DEP#com.zhy:okhttputils
+3	#DEP#com.youth.banner:banner
+4	#DEP#com.zhy:base-adapter
+5	#DEP#de.hdodenhof:circleimageview
+6	#DEP#com.google.android.gms:play-services-appindexing
+7	#DEP#com.github.lovetuzitong:MultiImageSelector
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit

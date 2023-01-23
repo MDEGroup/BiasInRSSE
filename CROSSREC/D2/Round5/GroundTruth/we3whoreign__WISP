@@ -1,0 +1,5 @@
+1	#DEP#WISP:wisp-data
+1	#DEP#org.jdom:jdom
+1	#DEP#junit:junit
+1	#DEP#com.cooldatasoft:wicket-menu
+1	#DEP#org.slf4j:slf4j-log4j12

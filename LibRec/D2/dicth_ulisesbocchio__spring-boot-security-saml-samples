@@ -1,0 +1,16 @@
+1	git://github.com/ulisesbocchio/spring-boot-security-saml-samples.git
+2	#DEP#org.jasypt:jasypt
+3	#DEP#org.springframework.boot:spring-boot-dependencies
+4	#DEP#com.github.ulisesbocchio:spring-boot-security-saml-samples-parent
+5	#DEP#org.springframework.boot:spring-boot-starter-web
+6	#DEP#org.springframework.boot:spring-boot-starter-security
+7	#DEP#ch.qos.logback:logback-access
+8	#DEP#org.springframework.boot:spring-boot-actuator
+9	#DEP#com.github.ulisesbocchio:spring-boot-security-saml
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+12	#DEP#org.springframework.security.extensions:spring-security-saml2-core
+13	#DEP#com.google.guava:guava
+14	#DEP#org.projectlombok:lombok
+15	#DEP#org.springframework.security:spring-security-bom
+16	#DEP#org.springframework.boot:spring-boot-maven-plugin

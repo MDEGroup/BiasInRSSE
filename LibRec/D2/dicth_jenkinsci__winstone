@@ -1,0 +1,12 @@
+1	git://github.com/jenkinsci/winstone.git
+2	#DEP#org.eclipse.jetty.http2:http2-server
+3	#DEP#commons-io:commons-io
+4	#DEP#org.eclipse.jetty.http2:http2-hpack
+5	#DEP#org.codehaus.mojo.signature:java18
+6	#DEP#httpunit:httpunit
+7	#DEP#org.codehaus.mojo.signature:java17
+8	#DEP#org.eclipse.jetty:jetty-webapp
+9	#DEP#org.eclipse.jetty:jetty-alpn-server
+10	#DEP#junit:junit
+11	#DEP#org.eclipse.jetty.alpn:alpn-api
+12	#DEP#org.eclipse.jetty:jetty-servlet

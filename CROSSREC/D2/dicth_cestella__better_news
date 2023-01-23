@@ -1,0 +1,11 @@
+1	git://github.com/cestella/better_news.git
+2	#DEP#3rdparty:nekohtml
+3	#DEP#3rdparty:xerces
+4	#DEP#3rdparty:minor_third
+5	#DEP#lingpipe:lingpipe
+6	#DEP#org.apache.commons:commons-math
+7	#DEP#com.google.guava:guava
+8	#DEP#junit:junit
+9	#DEP#3rdparty:mallet
+10	#DEP#3rdparty:malletdeps
+11	#DEP#3rdparty:boilerpipe

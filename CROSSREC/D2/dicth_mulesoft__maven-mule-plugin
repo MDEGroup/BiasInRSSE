@@ -1,0 +1,16 @@
+1	git://github.com/mulesoft/maven-mule-plugin.git
+2	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+3	#DEP#org.apache.maven.shared:maven-filtering
+4	#DEP#org.apache.maven:maven-project
+5	#DEP#org.mule:mule-core
+6	#DEP#org.mule.transports:mule-transport-http
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#org.mod4j.org.eclipse.xtext:log4j
+9	#DEP#org.codehaus.plexus:plexus-archiver
+10	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-tools
+11	#DEP#org.codehaus.plexus:plexus-utils
+12	#DEP#log4j:log4j
+13	#DEP#org.mule:assembly-with-mule-app
+14	#DEP#junit:junit
+15	#DEP#org.mule:mule-app
+16	#DEP#org.apache.maven:maven-artifact

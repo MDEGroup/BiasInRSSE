@@ -1,0 +1,10 @@
+#DEP#org.easytesting:fest-assert-core	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#com.squareup:fest-android	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.google.mockwebserver:mockwebserver	1.0
+#DEP#com.github.traex.rippleeffect:library	1.0
+#DEP#com.picassotransformations:picasso-transformations	1.0
+#DEP#android:android	1.0

@@ -1,0 +1,10 @@
+#DEP#org.geotools:gt-render	1.0
+#DEP#org.geotools:gt-shapefile	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.esa.beam:beam-meris-radiometry	1.0
+#DEP#org.esa.beam:beam-meris-sdr	1.0
+#DEP#org.esa.beam:beam-unmix	1.0
+#DEP#org.esa.beam.synergy:beam-meris-aatsr-synergy-aerosol-retrieval	1.0
+#DEP#org.esa.beam:beam-collocation	1.0
+#DEP#org.esa.beam.synergy:beam-meris-aatsr-synergy-core	1.0
+#DEP#org.esa.beam.aatsr-recalibration:beam-aatsr-recalibration	1.0

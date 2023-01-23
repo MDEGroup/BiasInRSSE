@@ -1,0 +1,16 @@
+1	git://github.com/RSNA/isn-edge-server-core.git
+2	#DEP#org.jasypt:jasypt
+3	#DEP#commons-io:commons-io
+4	#DEP#com.itextpdf:itextpdf
+5	#DEP#org.antlr:ST4
+6	#DEP#c3p0:c3p0
+7	#DEP#postgresql:postgresql
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.jsoup:jsoup
+10	#DEP#com.twilio.sdk:twilio-java-sdk
+11	#DEP#com.itextpdf.tool:xmlworker
+12	#DEP#log4j:log4j
+13	#DEP#org.apache.xmlgraphics:fop
+14	#DEP#junit:junit
+15	#DEP#com.thedeanda:lorem
+16	#DEP#com.sun.mail:javax.mail

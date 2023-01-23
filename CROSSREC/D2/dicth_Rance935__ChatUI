@@ -1,0 +1,9 @@
+1	git://github.com/Rance935/ChatUI.git
+2	#DEP#com.jude:easyrecyclerview
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.android.support:support-v4
+5	#DEP#org.greenrobot:eventbus
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife

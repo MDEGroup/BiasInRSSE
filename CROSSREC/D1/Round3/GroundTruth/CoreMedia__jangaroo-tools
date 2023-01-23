@@ -1,0 +1,13 @@
+55	#DEP#org.apache.maven:maven-core
+56	#DEP#org.seleniumhq.selenium:selenium-java
+57	#DEP#org.eclipse.jetty:jetty-server
+58	#DEP#net.jangaroo:jangaroo-utils
+59	#DEP#org.eclipse.jetty:jetty-servlet
+60	#DEP#com.fasterxml.jackson.core:jackson-databind
+61	#DEP#org.apache.maven:maven-plugin-api
+62	#DEP#net.jangaroo:properties-compiler-api
+63	#DEP#org.mockito:mockito-core
+64	#DEP#javax.servlet:servlet-api
+65	#DEP#org.eclipse.jetty:jetty-util
+66	#DEP#commons-digester:commons-digester
+67	#DEP#org.eclipse.jetty:jetty-webapp

@@ -1,0 +1,8 @@
+34	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+35	#DEP#org.vibur:vibur-dbcp
+36	#DEP#com.zaxxer:HikariCP-java6
+37	#DEP#org.ow2.asm:asm-debug-all
+38	#DEP#fakejar:fakejar
+39	#DEP#junit:junit
+40	#DEP#org.testcontainers:testcontainers
+41	#DEP#io.dropwizard:dropwizard-core

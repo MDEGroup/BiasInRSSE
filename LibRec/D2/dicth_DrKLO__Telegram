@@ -1,0 +1,14 @@
+1	git://github.com/DrKLO/Telegram.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.android.support:support-core-ui
+4	#DEP#com.android.support:support-core-utils
+5	#DEP#com.android.support:palette-v7
+6	#DEP#com.google.android.gms:play-services-gcm
+7	#DEP#com.google.android.gms:play-services-wallet
+8	#DEP#com.google.android.gms:play-services-maps
+9	#DEP#com.google.android.gms:play-services-wearable
+10	#DEP#net.hockeyapp.android:HockeySDK
+11	#DEP#com.android.support:support-compat
+12	#DEP#com.googlecode.mp4parser:isoparser
+13	#DEP#com.stripe:stripe-android
+14	#DEP#com.google.android.gms:play-services-vision

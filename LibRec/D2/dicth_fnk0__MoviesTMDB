@@ -1,0 +1,11 @@
+1	git://github.com/fnk0/MoviesTMDB.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#javax.annotation:jsr250-api
+5	#DEP#com.squareup.sqlbrite:sqlbrite
+6	#DEP#com.jakewharton.timber:timber
+7	#DEP#com.jakewharton:butterknife-compiler
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid
+11	#DEP#com.google.dagger:dagger

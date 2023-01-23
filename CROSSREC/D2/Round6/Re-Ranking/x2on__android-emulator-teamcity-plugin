@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#net.orfjackal.idea-sbt-plugin:sbt	1.0
+#DEP#com.intellij:httpclient-4.5.2	1.0
+#DEP#com.intellij:jna	1.0
+#DEP#com.intellij:jing	1.0
+#DEP#com.intellij:trove4j	1.0
+#DEP#org.easytesting:fest-util	1.0
+#DEP#com.intellij:resources_en	1.0
+#DEP#net.orfjackal.idea-sbt-plugin:sbt-plugin	1.0
+#DEP#com.intellij:swingx-core	1.0

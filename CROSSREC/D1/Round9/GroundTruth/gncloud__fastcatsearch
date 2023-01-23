@@ -1,0 +1,5 @@
+23	#DEP#net.minidev:json-smart
+24	#DEP#org.json:json
+25	#DEP#org.apache.derby:derby
+26	#DEP#junit:junit
+27	#DEP#org.mortbay.jetty:jsp-2.1

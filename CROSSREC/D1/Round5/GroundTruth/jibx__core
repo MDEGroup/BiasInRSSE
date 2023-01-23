@@ -1,0 +1,6 @@
+28	#DEP#log4j:log4j
+29	#DEP#org.springframework:org.springframework
+30	#DEP#junit:junit
+31	#DEP#org.apache.bcel:bcel
+32	#DEP#org.jibx.config.3rdparty.org.eclipse:org.eclipse.osgi
+33	#DEP#cglib:cglib

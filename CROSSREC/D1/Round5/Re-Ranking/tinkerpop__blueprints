@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#cglib:cglib	1.0
+#DEP#net.sf.jung:jung-graph-impl	1.0
+#DEP#net.sf.jung:jung-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#log4j:log4j	1.0
+#DEP#net.sf.jung:jung-algorithms	1.0
+#DEP#org.apache.hbase:hbase-server	1.0
+#DEP#com.querydsl:querydsl-lucene3	1.0

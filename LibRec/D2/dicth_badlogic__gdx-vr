@@ -1,0 +1,11 @@
+1	git://github.com/badlogic/gdx-vr.git
+2	#DEP#com.badlogicgames.gdx:gdx-platform
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.lwjgl:lwjgl-glfw
+5	#DEP#org.lwjgl:lwjgl-opengl
+6	#DEP#com.badlogicgames.gdx:gdx-backend-lwjgl3
+7	#DEP#org.lwjgl:lwjgl-jemalloc
+8	#DEP#com.badlogicgames.gdx:gdx
+9	#DEP#org.lwjgl:lwjgl-openvr
+10	#DEP#org.lwjgl:lwjgl
+11	#DEP#org.lwjgl:lwjgl-openal

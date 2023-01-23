@@ -1,0 +1,3 @@
+14	#DEP#com.beust:jcommander
+15	#DEP#org.weakref:jmxutils
+16	#DEP#com.google.inject.extensions:guice-multibindings

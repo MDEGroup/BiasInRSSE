@@ -1,0 +1,4 @@
+1	#DEP#org.apache.flink:flink-java
+1	#DEP#org.apache.flink:flink-streaming-java_2.10
+1	#DEP#org.apache.flink:flink-gelly_2.10
+1	#DEP#org.apache.hadoop:hadoop-aws

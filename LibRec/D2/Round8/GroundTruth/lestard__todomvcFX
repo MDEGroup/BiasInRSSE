@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#eu.lestard:fluxfx
+1	#DEP#org.testfx:testfx-junit
+1	#DEP#org.fxmisc.easybind:easybind
+1	#DEP#junit:junit
+1	#DEP#com.netopyr.reduxfx:reduxfx
+1	#DEP#de.saxsys:mvvmfx

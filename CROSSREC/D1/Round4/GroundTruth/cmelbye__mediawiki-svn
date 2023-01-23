@@ -1,0 +1,5 @@
+23	#DEP#org.neo4j:neo4j-utils
+24	#DEP#trove:trove
+25	#DEP#org.dbunit:dbunit
+26	#DEP#xerces:xercesImpl
+27	#DEP#org.neo4j:neo4j-index

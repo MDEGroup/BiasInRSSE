@@ -1,0 +1,13 @@
+1	git://github.com/vecnatechnologies/dbDiff.git
+2	#DEP#commons-io:commons-io
+3	#DEP#javassist:javassist
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#postgresql:postgresql
+6	#DEP#commons-lang:commons-lang
+7	#DEP#org.hibernate:hibernate-core
+8	#DEP#com.vecna:dbDiff
+9	#DEP#commons-collections:commons-collections
+10	#DEP#com.google.guava:guava
+11	#DEP#junit:junit
+12	#DEP#com.vecna.parent:open-parent-pom
+13	#DEP#com.h2database:h2

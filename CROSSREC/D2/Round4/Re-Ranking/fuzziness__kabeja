@@ -1,0 +1,10 @@
+#DEP#org.springframework.security:spring-security-core	1.0
+#DEP#org.jvnet:mimepull	1.0
+#DEP#org.apache.xmlgraphics:fop	1.0
+#DEP#org.postgresql:postgresql	1.0
+#DEP#org.saikuanalytics:saiku-service	1.0
+#DEP#eigenbase:eigenbase-xom	1.0
+#DEP#org.apache.jackrabbit:jackrabbit-jcr-servlet	1.0
+#DEP#pentaho:cpf-pentaho5	1.0
+#DEP#org.olap4j:olap4j-xmlaserver	1.0
+#DEP#pentaho:pentaho-bi-platform-plugin-actions	1.0

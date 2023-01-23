@@ -1,0 +1,6 @@
+1	#DEP#cn.leancloud.android:avoscloud-feedback
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#cn.jiguang.sdk:jpush
+1	#DEP#com.tencent.bugly:crashreport
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit

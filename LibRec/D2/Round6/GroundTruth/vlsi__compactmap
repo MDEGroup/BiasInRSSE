@@ -1,0 +1,5 @@
+1	#DEP#org.pcollections:pcollections
+1	#DEP#com.github.vlsi.compactmap:compactmap
+1	#DEP#org.openjdk.jol:jol-core
+1	#DEP#com.github.vlsi.compactmap:parent
+1	#DEP#org.openjdk.jmh:jmh-core

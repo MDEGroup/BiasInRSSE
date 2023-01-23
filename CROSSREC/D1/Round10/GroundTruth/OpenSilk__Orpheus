@@ -1,0 +1,8 @@
+34	#DEP#com.android.support:support-v4
+35	#DEP#org.opensilk.music.plugin:folders
+36	#DEP#com.jakewharton:disklrucache
+37	#DEP#com.squareup.mortar:mortar
+38	#DEP#junit:junit
+39	#DEP#org.fourthline.cling:cling-core
+40	#DEP#com.google.android.gms:play-services-identity
+41	#DEP#org.eclipse.jetty:jetty-client

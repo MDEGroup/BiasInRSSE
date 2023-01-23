@@ -1,0 +1,4 @@
+20	#DEP#javax.servlet:javax.servlet-api
+21	#DEP#org.neo4j:neo4j-ogm-bolt-driver
+22	#DEP#org.springframework:spring-webmvc
+23	#DEP#org.apache.openwebbeans:openwebbeans-se

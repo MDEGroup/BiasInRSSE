@@ -1,0 +1,12 @@
+1	#DEP#org.seleniumhq.selenium:selenium-htmlunit-driver
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.grails:grails-gsp-spring-boot
+1	#DEP#org.grails:grails-validation
+1	#DEP#org.grails:gorm-hibernate4-spring-boot
+1	#DEP#org.grails.profiles:web
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2

@@ -1,0 +1,11 @@
+1	git://github.com/z-android/ZLayer.git
+2	#DEP#com.squareup.retrofit2:converter-protobuf
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.squareup.okhttp3:logging-interceptor
+5	#DEP#com.squareup.retrofit2:converter-scalars
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.squareup.retrofit2:retrofit
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.squareup.retrofit2:converter-gson

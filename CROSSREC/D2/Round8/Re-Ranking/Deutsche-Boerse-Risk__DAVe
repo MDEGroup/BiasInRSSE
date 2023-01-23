@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#io.vertx:vertx-unit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#io.vertx:vertx-codegen	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#io.vertx:vertx-hazelcast	1.0
+#DEP#io.vertx:vertx-dependencies	1.0
+#DEP#org.assertj:assertj-core	1.0
+#DEP#io.vertx:vertx-service-discovery	1.0
+#DEP#io.vertx:vertx-sockjs-service-proxy	1.0

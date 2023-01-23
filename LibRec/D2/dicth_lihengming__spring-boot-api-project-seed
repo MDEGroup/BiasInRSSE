@@ -1,0 +1,17 @@
+1	git://github.com/lihengming/spring-boot-api-project-seed.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#tk.mybatis:mapper
+5	#DEP#com.github.pagehelper:pagehelper
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.alibaba:fastjson
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.freemarker:freemarker
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#commons-codec:commons-codec
+12	#DEP#org.mybatis.generator:mybatis-generator-core
+13	#DEP#org.springframework.boot:spring-boot-starter-test
+14	#DEP#org.mybatis:mybatis
+15	#DEP#com.alibaba:druid-spring-boot-starter
+16	#DEP#com.google.guava:guava
+17	#DEP#org.mybatis:mybatis-spring

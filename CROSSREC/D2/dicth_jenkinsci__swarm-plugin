@@ -1,0 +1,12 @@
+1	git://github.com/jenkinsci/swarm-plugin.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#com.google.code.findbugs:annotations
+5	#DEP#org.jenkins-ci.plugins:plugin
+6	#DEP#args4j:args4j
+7	#DEP#commons-logging:commons-logging
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#org.jenkins-ci.main:remoting
+10	#DEP#commons-httpclient:commons-httpclient
+11	#DEP#org.jenkins-ci.plugins:swarm-plugin
+12	#DEP#commons-lang:commons-lang

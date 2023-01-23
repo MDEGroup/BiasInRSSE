@@ -1,0 +1,5 @@
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#${project.groupId}:small-mina
+1	#DEP#org.apache.maven:maven-project
+1	#DEP#${project.groupId}:small-maven-plugin
+1	#DEP#org.apache.maven:maven-plugin-api

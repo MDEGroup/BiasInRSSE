@@ -1,0 +1,5 @@
+1	#DEP#com.jcraft:jsch
+1	#DEP#org.jboss.forge:forge-test-harness
+1	#DEP#log4j:apache-log4j-extras
+1	#DEP#org.jboss:jboss-dmr
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit

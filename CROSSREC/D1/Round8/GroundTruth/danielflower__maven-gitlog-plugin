@@ -1,0 +1,2 @@
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.hamcrest:hamcrest-core

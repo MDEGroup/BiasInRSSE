@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.restdocs:spring-restdocs-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.skyscreamer:jsonassert
+1	#DEP#net.minidev:json-smart
+1	#DEP#org.springframework.restdocs:spring-restdocs-restassured
+1	#DEP#com.shazam:shazamcrest
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.github.tomakehurst:wiremock-standalone

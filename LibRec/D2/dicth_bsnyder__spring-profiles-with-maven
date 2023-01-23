@@ -1,0 +1,10 @@
+1	git://github.com/bsnyder/spring-profiles-with-maven.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#com.mycompany.app:spring-profiles-with-maven
+4	#DEP#com.mycompany.app:test1
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#hsqldb:hsqldb
+7	#DEP#junit:junit
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#org.springframework:spring-core
+10	#DEP#postgresql:postgresql

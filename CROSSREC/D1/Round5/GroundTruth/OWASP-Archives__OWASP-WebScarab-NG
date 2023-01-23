@@ -1,0 +1,4 @@
+18	#DEP#junit:junit
+19	#DEP#wsdl4j:wsdl4j
+20	#DEP#org.springframework.richclient:spring-richclient-docking
+21	#DEP#javax.help:jhelp

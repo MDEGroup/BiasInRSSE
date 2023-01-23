@@ -1,0 +1,5 @@
+1	#DEP#org.neo4j:neo4j-ha
+1	#DEP#junit:junit
+1	#DEP#org.neo4j:neo4j-udc
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#com.sun.jersey:jersey-server

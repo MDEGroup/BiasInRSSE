@@ -1,0 +1,15 @@
+1	git://github.com/puhaiyang/springBoot-swagger-mybatis-shardbatis.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#io.springfox:springfox-swagger-ui
+5	#DEP#com.github.pagehelper:pagehelper
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#io.springfox:springfox-swagger2
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.alibaba:druid
+10	#DEP#org.shardbatis:shardbatis
+11	#DEP#org.mybatis:mybatis
+12	#DEP#org.springframework.boot:spring-boot-devtools
+13	#DEP#junit:junit
+14	#DEP#org.springframework.boot:spring-boot-starter-aop
+15	#DEP#org.mybatis:mybatis-spring

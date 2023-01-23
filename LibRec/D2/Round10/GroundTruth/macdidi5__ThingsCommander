@@ -1,0 +1,7 @@
+1	#DEP#com.google.android.things.contrib:driver-pwmservo
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.android.support:multidex
+1	#DEP#com.google.firebase:firebase-database
+1	#DEP#com.jjoe64:graphview
+1	#DEP#junit:junit
+1	#DEP#com.google.android.things.contrib:driver-ssd1306

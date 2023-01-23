@@ -1,0 +1,4 @@
+1	#DEP#com.google.android.wearable:wearable
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.android.gms:play-services-wearable

@@ -1,0 +1,12 @@
+1	#DEP#org.jenkins-ci.plugins:jclouds-shaded
+1	#DEP#org.jenkins-ci.plugins:bouncycastle-api
+1	#DEP#org.apache.jclouds.driver:jclouds-enterprise
+1	#DEP#org.apache.jclouds.labs:packet
+1	#DEP#com.github.felfert:cidrutils
+1	#DEP#org.apache.jclouds:jclouds-allcompute
+1	#DEP#org.apache.jclouds.driver:jclouds-jsch
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.jenkins-ci.plugins:config-file-provider
+1	#DEP#org.apache.jclouds:jclouds-scriptbuilder
+1	#DEP#org.jenkins-ci.main:jenkins-core

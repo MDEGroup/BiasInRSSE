@@ -1,0 +1,10 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#io.confluent:kafka-connect-storage-common
+1	#DEP#io.confluent:kafka-connect-storage-common-parent
+1	#DEP#io.confluent:kafka-connect-storage-format
+1	#DEP#org.apache.kafka:connect-api
+1	#DEP#io.confluent:kafka-connect-storage-hive
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#io.confluent:kafka-connect-storage-cloud
+1	#DEP#junit:junit
+1	#DEP#io.confluent:kafka-connect-storage-core

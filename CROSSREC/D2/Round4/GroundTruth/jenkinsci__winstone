@@ -1,0 +1,6 @@
+1	#DEP#org.codehaus.mojo.signature:java17
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.eclipse.jetty:jetty-alpn-server
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty.alpn:alpn-api
+1	#DEP#org.eclipse.jetty:jetty-servlet

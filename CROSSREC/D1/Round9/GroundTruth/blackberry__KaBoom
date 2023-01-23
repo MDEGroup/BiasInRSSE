@@ -1,0 +1,3 @@
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit
+14	#DEP#com.blackberry.bdp.krackle:krackle

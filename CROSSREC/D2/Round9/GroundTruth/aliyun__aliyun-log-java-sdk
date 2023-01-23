@@ -1,0 +1,4 @@
+1	#DEP#com.alibaba:fastjson
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator
+1	#DEP#com.google.protobuf:protobuf-java

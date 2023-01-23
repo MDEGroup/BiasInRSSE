@@ -1,0 +1,9 @@
+1	git://github.com/liangAhh/spring-boot-druid.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.alibaba:druid
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+6	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+7	#DEP#com.github.pagehelper:pagehelper
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.springframework.boot:spring-boot-devtools

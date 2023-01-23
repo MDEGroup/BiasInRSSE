@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.mozilla:rhino	1.0
+#DEP#org.verapdf:verapdf-library	1.0
+#DEP#org.verapdf:verapdf-xmp-core	1.0
+#DEP#org.codehaus.sonar-plugins.java:sonar-jacoco-listeners	1.0
+#DEP#org.verapdf:pdf-model	1.0
+#DEP#org.xmlunit:xmlunit-core	1.0
+#DEP#org.verapdf:verapdf-parent	1.0

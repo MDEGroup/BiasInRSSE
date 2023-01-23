@@ -1,0 +1,4 @@
+1	#DEP#org.apache.nifi:nifi-properties-loader
+1	#DEP#org.apache.nifi:nifi-properties
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit

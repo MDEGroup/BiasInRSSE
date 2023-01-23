@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#com.tikal:tikal-suites-parent
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr

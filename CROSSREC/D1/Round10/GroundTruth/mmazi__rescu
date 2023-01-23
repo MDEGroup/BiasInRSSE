@@ -1,0 +1,3 @@
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#oauth.signpost:signpost-core
+14	#DEP#com.google.guava:guava

@@ -1,0 +1,14 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-redis
+1	#DEP#com.netflix.hystrix:hystrix-core
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+1	#DEP#org.springframework.boot:spring-boot-starter-mail
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.cloud:spring-cloud-starter-ribbon
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.cloud:spring-cloud-config-server
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

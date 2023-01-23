@@ -1,0 +1,14 @@
+1	git://github.com/hyperledger-archives/fabric-api-archive.git
+2	#DEP#org.slf4j:jul-to-slf4j
+3	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+4	#DEP#org.hyperledger:hyperledger-examples
+5	#DEP#io.grpc:grpc-all
+6	#DEP#org.bouncycastle:bcprov-jdk15on
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.hyperledger:hyperledger-client-api
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#org.hyperledger:hyperledger-server-dropwizard
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.apache.avro:avro
+13	#DEP#org.hyperledger:hyperledger-client
+14	#DEP#junit:junit

@@ -1,0 +1,12 @@
+1	git://github.com/brianway/webporter.git
+2	#DEP#com.github.brianway:webporter-core
+3	#DEP#com.github.brianway:webporter-parent
+4	#DEP#com.google.guava:guava
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#us.codecraft:webmagic-extension
+7	#DEP#junit:junit
+8	#DEP#us.codecraft:webmagic-core
+9	#DEP#org.elasticsearch.client:transport
+10	#DEP#org.apache.logging.log4j:log4j-to-slf4j
+11	#DEP#com.github.brianway:webporter-data-elasticsearch
+12	#DEP#org.slf4j:slf4j-log4j12

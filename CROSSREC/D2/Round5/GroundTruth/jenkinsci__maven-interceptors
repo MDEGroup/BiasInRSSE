@@ -1,0 +1,15 @@
+1	#DEP#org.eclipse.sisu:org.eclipse.sisu.plexus
+1	#DEP#org.sonatype.aether:aether-connector-wagon
+1	#DEP#org.apache.ant:ant
+1	#DEP#org.sonatype.aether:aether-api
+1	#DEP#org.apache.maven:maven-repository-metadata
+1	#DEP#org.apache.maven:maven-embedder
+1	#DEP#org.apache.maven.wagon:wagon-provider-api
+1	#DEP#org.jenkins-ci.main.maven:maven3-interceptor-commons
+1	#DEP#org.jenkins-ci.main.maven:maven-modules
+1	#DEP#classworlds:classworlds
+1	#DEP#org.sonatype.aether:aether-spi
+1	#DEP#org.jenkins-ci:jenkins
+1	#DEP#org.sonatype.aether:aether-impl
+1	#DEP#org.sonatype.aether:aether-util
+1	#DEP#junit:junit

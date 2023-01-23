@@ -1,0 +1,6 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+1	#DEP#org.erlang.otp:jinterface
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#com.jayway.awaitility:awaitility
+1	#DEP#com.google.protobuf:protobuf-java

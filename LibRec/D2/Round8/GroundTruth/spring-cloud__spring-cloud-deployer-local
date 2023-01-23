@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-validation
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework.cloud:spring-cloud-deployer-local
+1	#DEP#org.springframework.cloud:spring-cloud-deployer-resource-support
+1	#DEP#org.springframework.cloud:spring-cloud-deployer-resource-docker
+1	#DEP#org.springframework.cloud:spring-cloud-deployer-parent

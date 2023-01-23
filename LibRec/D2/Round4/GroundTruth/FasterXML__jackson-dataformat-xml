@@ -1,0 +1,4 @@
+1	#DEP#com.fasterxml.jackson:jackson-base
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.codehaus.woodstox:stax2-api

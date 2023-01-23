@@ -1,0 +1,6 @@
+1	#DEP#com.github.k0shk0sh:PermissionHelper
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#junit:junit
+1	#DEP#com.jaredrummler:android-processes
+1	#DEP#com.squareup.okio:okio

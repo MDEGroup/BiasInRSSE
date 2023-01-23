@@ -1,0 +1,11 @@
+1	git://github.com/ludovicianul/geolog.git
+2	#DEP#org.projectreactor.spring:reactor-spring-context
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.springframework.boot:spring-boot-starter-mail
+5	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.hsqldb:hsqldb
+11	#DEP#io.projectreactor:reactor-bus

@@ -1,0 +1,10 @@
+#DEP#io.dropwizard:dropwizard-core	1.0
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#io.dropwizard:dropwizard-client	1.0
+#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jdk8	1.0
+#DEP#org.restlet.jse:org.restlet.ext.guice	1.0
+#DEP#io.dropwizard:dropwizard-views	1.0

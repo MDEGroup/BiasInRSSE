@@ -1,0 +1,17 @@
+1	#DEP#org.apache.mahout:mahout-core
+1	#DEP#org.twitter4j:twitter4j-stream
+1	#DEP#org.apache.mahout:mahout-utils
+1	#DEP#org.apache.lucene:lucene-analyzers
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#net.liftweb:lift-mapper_2.9.1
+1	#DEP#rome:rome-fetcher
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.squeryl:squeryl_2.9.1
+1	#DEP#jp.mwsoft:h2-lucene-ex
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#rome:rome
+1	#DEP#org.apache.mahout:mahout-collections
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2
+1	#DEP#org.apache.lucene:lucene-icu
+1	#DEP#org.atilika.kuromoji:kuromoji-solr

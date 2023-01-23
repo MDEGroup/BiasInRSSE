@@ -1,0 +1,17 @@
+1	#DEP#dom4j:dom4j
+1	#DEP#commons-logging:commons-logging
+1	#DEP#commons-net:commons-net
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.codehaus.staxmate:staxmate
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.apache.poi:poi-scratchpad
+1	#DEP#log4j:log4j
+1	#DEP#org.archive:heritrix
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#org.apache.poi:poi
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.archive.heritrix:archive-commons
+1	#DEP#junit:junit
+1	#DEP#pdfbox:pdfbox

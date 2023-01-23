@@ -1,0 +1,11 @@
+1	git://github.com/mybatis/mybatis-dynamic-sql.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.junit.jupiter:junit-jupiter-api
+5	#DEP#org.mybatis:mybatis
+6	#DEP#org.mybatis:mybatis-parent
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#junit:junit
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#org.hsqldb:hsqldb
+11	#DEP#org.junit.platform:junit-platform-runner

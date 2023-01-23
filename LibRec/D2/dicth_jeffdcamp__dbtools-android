@@ -1,0 +1,10 @@
+1	git://github.com/jeffdcamp/dbtools-android.git
+2	#DEP#org.dbtools:dbtools-query
+3	#DEP#org.threeten:threetenbp
+4	#DEP#org.mockito:mockito-core
+5	#DEP#org.sqlite.sqliteX:sqlite-android
+6	#DEP#net.zetetic:android-database-sqlcipher
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.jetbrains.kotlinx:kotlinx-coroutines-android
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time

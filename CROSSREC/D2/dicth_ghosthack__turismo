@@ -1,0 +1,9 @@
+1	git://github.com/ghosthack/turismo.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.eclipse.jetty:jetty-jsp-2.1
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#org.eclipse.jetty:jetty-webapp
+7	#DEP#org.apache.tomcat:jasper
+8	#DEP#junit:junit
+9	#DEP#org.eclipse.jetty:jetty-servlet

@@ -1,0 +1,10 @@
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.google.appengine:appengine-api-1.0-sdk	1.0
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#junit:junit	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.appengine:appengine-endpoints	1.0
+#DEP#javax.servlet.jsp:jsp-api	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#jstl:jstl	1.0
+#DEP#com.leanengine.server:leanengine-server-lib	1.0

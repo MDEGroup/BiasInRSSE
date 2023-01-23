@@ -1,0 +1,6 @@
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.bluelinelabs:conductor
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

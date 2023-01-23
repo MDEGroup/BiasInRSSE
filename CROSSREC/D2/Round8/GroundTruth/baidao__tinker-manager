@@ -1,0 +1,8 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+1	#DEP#com.android.support:support-v4
+1	#DEP#junit:junit
+1	#DEP#com.google.zxing:core
+1	#DEP#com.journeyapps:zxing-android-embedded

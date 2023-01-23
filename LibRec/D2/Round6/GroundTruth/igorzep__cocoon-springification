@@ -1,0 +1,11 @@
+1	#DEP#org.apache.cocoon.servlet:cocoon-servlet
+1	#DEP#org.apache.cocoon:cocoon-spring-configurator
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.alveolo.cocoon:cocoon-springification-main
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen.processor
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#cglib:cglib

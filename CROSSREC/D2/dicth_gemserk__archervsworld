@@ -1,0 +1,15 @@
+1	git://github.com/gemserk/archervsworld.git
+2	#DEP#com.badlogic.gdx:gdx
+3	#DEP#com.google.android:android
+4	#DEP#${project.groupId}:archervsworld-core
+5	#DEP#com.gemserk.games.archervsworld:archervsworld
+6	#DEP#org.jmock:jmock-junit4
+7	#DEP#com.badlogic.gdx:gdx-backend-android
+8	#DEP#com.gemserk.vecmath:vecmath
+9	#DEP#com.badlogic.gdx:gdx-backend-lwjgl
+10	#DEP#com.gemserk.commons.gdx:commons-gdx-artemis
+11	#DEP#org.jmock:jmock
+12	#DEP#com.gemserk.commons.gdx:commons-gdx-core
+13	#DEP#org.jmock:jmock-legacy
+14	#DEP#junit:junit
+15	#DEP#com.gemserk.animation4j:animation4j-core

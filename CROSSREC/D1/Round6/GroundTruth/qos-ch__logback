@@ -1,0 +1,6 @@
+26	#DEP#log4j:log4j
+27	#DEP#javax.servlet:javax.servlet-api
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#ch.qos.cal10n.plugins:maven-cal10n-plugin
+30	#DEP#org.apache.felix:org.apache.felix.main
+31	#DEP#org.hsqldb:hsqldb

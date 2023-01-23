@@ -1,0 +1,15 @@
+1	#DEP#org.apache.felix:maven-bundle-plugin
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.apache.maven.shared:maven-dependency-tree
+1	#DEP#org.apache.maven:maven-archiver
+1	#DEP#org.ops4j.pax.swissbox:pax-swissbox-tinybundles
+1	#DEP#org.apache.maven.wagon:wagon-provider-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit
+1	#DEP#org.ops4j.pax.exam:pax-exam
+1	#DEP#org.apache.felix:org.apache.felix.configadmin
+1	#DEP#de.akquinet.gomobile:deployment-package-api
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:deployment-admin-impl
+1	#DEP#org.apache.felix:org.apache.felix.ipojo
+1	#DEP#org.apache.maven:maven-artifact

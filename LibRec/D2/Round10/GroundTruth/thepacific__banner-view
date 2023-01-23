@@ -1,0 +1,5 @@
+1	#DEP#com.yqritc:recyclerview-flexibledivider
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.trello.rxlifecycle2:rxlifecycle
+1	#DEP#com.trello.rxlifecycle2:rxlifecycle-components

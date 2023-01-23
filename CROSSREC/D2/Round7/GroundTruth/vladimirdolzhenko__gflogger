@@ -1,0 +1,9 @@
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#log4j:log4j
+1	#DEP#org.gflogger:log4j-adapter
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.gflogger:gflogger
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#org.gflogger:jcl-adapter
+1	#DEP#org.openjdk.jmh:jmh-core

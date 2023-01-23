@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#org.eclipse:text	1.0
+#DEP#janino:janino	1.0
+#DEP#org.hibernate:hibernate-entitymanager	1.0
+#DEP#ma.glasnost.orika:orika-eclipse-tools	1.0

@@ -1,0 +1,16 @@
+1	git://github.com/WrBug/wechatrobot.git
+2	#DEP#com.github.hotchemi:permissionsdispatcher
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:design
+10	#DEP#org.jsoup:jsoup
+11	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+12	#DEP#org.greenrobot:greendao
+13	#DEP#me.drakeet.materialdialog:library
+14	#DEP#junit:junit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#io.reactivex:rxandroid

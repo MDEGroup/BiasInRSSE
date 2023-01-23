@@ -1,0 +1,4 @@
+20	#DEP#com.octo.android.robospice:robospice-ormlite
+21	#DEP#com.google.http-client:google-http-client-jackson
+22	#DEP#com.octo.android.robospice:robospice-google-http-client
+23	#DEP#com.j256.ormlite:ormlite-core

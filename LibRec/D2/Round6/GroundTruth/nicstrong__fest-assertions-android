@@ -1,0 +1,4 @@
+1	#DEP#org.easytesting:fest-assertions-android
+1	#DEP#junit:junit
+1	#DEP#android:android
+1	#DEP#org.easytesting:fest-util-android

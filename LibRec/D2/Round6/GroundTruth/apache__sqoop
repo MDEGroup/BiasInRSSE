@@ -1,0 +1,8 @@
+1	#DEP#org.apache.hadoop:hadoop-test
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.avro:avro
+1	#DEP#org.apache.avro:avro-mapred
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop:hadoop-mrunit

@@ -1,0 +1,12 @@
+1	#DEP#cc.mallet:mallet
+1	#DEP#commons-logging:commons-logging
+1	#DEP#edu.umd:cloud9
+1	#DEP#net.sf:javaml
+1	#DEP#edu.iu.harp:harp
+1	#DEP#org.dvincent1337:neuralNet
+1	#DEP#log4j:log4j
+1	#DEP#tw.edu.ntu.csie:libsvm
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.jblas:jblas
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop:hadoop-yarn-client

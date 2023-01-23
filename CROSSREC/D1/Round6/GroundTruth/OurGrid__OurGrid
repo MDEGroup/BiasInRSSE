@@ -1,0 +1,8 @@
+35	#DEP#javax.xml.ws:jaxws-api
+36	#DEP#log4j:log4j
+37	#DEP#ourgrid-jivesoftware:smack
+38	#DEP#bouncycastle:bcprov-jdk15
+39	#DEP#org.hibernate:ejb3-persistence
+40	#DEP#vboxjxpcom:vboxjxpcom
+41	#DEP#org.apache.derby:derby
+42	#DEP#junit:junit

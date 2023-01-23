@@ -1,0 +1,4 @@
+1	#DEP#org.aspectj:aspectjtools
+1	#DEP#com.android.support:design
+1	#DEP#com.android.tools.build:gradle
+1	#DEP#org.aspectj:aspectjrt

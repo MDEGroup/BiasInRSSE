@@ -1,0 +1,6 @@
+26	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.address
+27	#DEP#com.cloudeggtech.chalk.xeps:com.cloudeggtech.chalk.xeps.xdata
+28	#DEP#com.cloudeggtech.chalk.xeps:com.cloudeggtech.chalk.xeps.disco
+29	#DEP#com.cloudeggtech.chalk:com.cloudeggtech.chalk.parent
+30	#DEP#com.cloudeggtech.basalt.xeps:com.cloudeggtech.basalt.xeps.oob
+31	#DEP#com.cloudeggtech.chalk.xeps:com.cloudeggtech.chalk.xeps.component

@@ -1,0 +1,6 @@
+24	#DEP#org.eclipse.jetty:jetty-servlets
+25	#DEP#com.yammer.dropwizard:dropwizard-views
+26	#DEP#org.axonframework:axon-distributed-commandbus
+27	#DEP#junit:junit
+28	#DEP#com.yammer.dropwizard:dropwizard-testing
+29	#DEP#org.eclipse.jetty:jetty-websocket

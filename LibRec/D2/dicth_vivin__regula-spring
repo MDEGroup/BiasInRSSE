@@ -1,0 +1,12 @@
+1	git://github.com/vivin/regula-spring.git
+2	#DEP#javax.servlet.jsp:jsp-api
+3	#DEP#javax.validation:validation-api
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#org.springframework:spring-test
+6	#DEP#org.springframework:spring-webmvc
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#javax.el:el-api
+9	#DEP#org.glassfish.web:jstl-impl
+10	#DEP#org.testng:testng
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#commons-lang:commons-lang

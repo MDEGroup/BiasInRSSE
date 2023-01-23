@@ -1,0 +1,6 @@
+1	#DEP#org.codehaus.fabric3.fabric3-db-exist:sunxacml
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework:spring-beans
+1	#DEP#junit:junit
+1	#DEP#org.openliberty:openaz
+1	#DEP#org.springframework:spring-core

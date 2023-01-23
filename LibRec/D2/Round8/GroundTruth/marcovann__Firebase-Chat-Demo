@@ -1,0 +1,9 @@
+1	#DEP#com.google.firebase:firebase-auth
+1	#DEP#com.google.firebase:firebase-invites
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.miguelcatalan:materialsearchview
+1	#DEP#com.google.android.gms:play-services-auth
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.google.firebase:firebase-storage
+1	#DEP#com.google.firebase:firebase-database
+1	#DEP#junit:junit

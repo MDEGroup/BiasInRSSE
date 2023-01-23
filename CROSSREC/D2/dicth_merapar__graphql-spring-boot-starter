@@ -1,0 +1,10 @@
+1	git://github.com/merapar/graphql-spring-boot-starter.git
+2	#DEP#com.graphql-java:graphql-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.assertj:assertj-core
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.projectlombok:lombok
+8	#DEP#junit:junit
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#${project.groupId}:graphql-spring-boot-starter

@@ -1,0 +1,4 @@
+16	#DEP#junit:junit
+17	#DEP#org.openjdk.jmh:jmh-core
+18	#DEP#${project.groupId}:pushy
+19	#DEP#com.google.code.gson:com.google.code.gson

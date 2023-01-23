@@ -1,0 +1,14 @@
+1	git://github.com/x2on/android-emulator-teamcity-plugin.git
+2	#DEP#com.jetbrains.teamcity:common-api
+3	#DEP#com.jetbrains.teamcity:annotations
+4	#DEP#com.intellij:util
+5	#DEP#de.felixschulze.teamcity:android-emulator-teamcity-plugin
+6	#DEP#com.jetbrains.teamcity:server-api
+7	#DEP#de.felixschulze.teamcity:android-emulator-teamcity-plugin-common
+8	#DEP#com.jetbrains.teamcity:agent
+9	#DEP#com.jetbrains.teamcity:agent-api
+10	#DEP#log4j:log4j
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#com.intellij:openapi
+14	#DEP#com.jetbrains.teamcity:util

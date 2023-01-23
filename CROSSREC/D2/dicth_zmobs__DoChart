@@ -1,0 +1,12 @@
+1	git://github.com/zmobs/DoChart.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#com.google.dagger:dagger-compiler
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#org.glassfish:javax.annotation
+7	#DEP#org.reactivestreams:reactive-streams
+8	#DEP#com.alibaba:fastjson
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.jakewharton:butterknife
+12	#DEP#com.google.dagger:dagger

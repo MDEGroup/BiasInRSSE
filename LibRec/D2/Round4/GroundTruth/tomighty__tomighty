@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.tomighty:tomighty-parent
+1	#DEP#org.tomighty:tomighty-api
+1	#DEP#junit:junit

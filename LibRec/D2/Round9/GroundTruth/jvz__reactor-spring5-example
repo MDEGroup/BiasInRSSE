@@ -1,0 +1,4 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-data-cassandra
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot.experimental:spring-boot-starter-web-reactive

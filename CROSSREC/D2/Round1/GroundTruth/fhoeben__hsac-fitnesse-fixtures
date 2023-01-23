@@ -1,0 +1,9 @@
+1	#DEP#com.galenframework:galen-core
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#com.sksamuel.diff:diff
+1	#DEP#org.apache.commons:commons-text
+1	#DEP#junit:junit
+1	#DEP#org.fitnesse:fitnesse

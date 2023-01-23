@@ -1,0 +1,9 @@
+1	git://github.com/zerqent/cloud-storage-vault.git
+2	#DEP#no.ntnu.item.csv:CSV
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.google.android:android
+5	#DEP#de.rtner.security.auth:spi
+6	#DEP#com.google.android:android-test
+7	#DEP#org.apache.httpcomponents:httpmime
+8	#DEP#no.ntnu.item.csv:CSVlib
+9	#DEP#junit:junit

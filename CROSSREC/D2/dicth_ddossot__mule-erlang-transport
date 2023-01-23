@@ -1,0 +1,11 @@
+1	git://github.com/ddossot/mule-erlang-transport.git
+2	#DEP#org.mule.tests:mule-tests-functional
+3	#DEP#org.mule.modules:mule-module-spring-config
+4	#DEP#org.mule.transports:mule-transport-stdio
+5	#DEP#org.mule:mule-core
+6	#DEP#org.mule.transports:mule-transport-jms
+7	#DEP#org.mule.modules:mule-module-client
+8	#DEP#org.erlang.otp:jinterface
+9	#DEP#junit:junit
+10	#DEP#org.mule.transports:mule-transport-vm
+11	#DEP#org.apache.activemq:activemq-core

@@ -1,0 +1,13 @@
+1	#DEP#junit:junit-dep
+1	#DEP#org.xwiki.platform:xwiki-platform-store-datanucleus-attachments
+1	#DEP#org.datanucleus:datanucleus-enhancer
+1	#DEP#cpsuite:cpsuite
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#org.xwiki.platform:xwiki-platform-query-manager
+1	#DEP#org.xwiki.platform:xwiki-platform-store-datanucleus
+1	#DEP#org.xwiki.platform:xwiki-platform-store-datanucleus-cassandra
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.xwiki.platform:xwiki-platform-store-filesystem-attachments
+1	#DEP#org.xwiki.platform:xwiki-platform-store-datanucleus-base
+1	#DEP#org.xwiki.platform:xwiki-platform-model
+1	#DEP#org.jmock:jmock-legacy

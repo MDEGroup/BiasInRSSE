@@ -1,0 +1,14 @@
+1	git://github.com/gdutxiaoxu/CoordinatorLayoutExample.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.zhy:base-adapter
+4	#DEP#com.github.clans:fab
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#de.hdodenhof:circleimageview
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.android.support:design
+10	#DEP#com.squareup.picasso:picasso
+11	#DEP#com.android.support.constraint:constraint-layout
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test:runner
+14	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#jline:jline	1.0
+#DEP#jsonsimple:jsonsimple	1.0
+#DEP#com.reardencommerce:clhm	1.0
+#DEP#high-scale-lib:high-scale-lib	1.0
+#DEP#libthrift:libthrift	1.0
+#DEP#flexjson:flexjson	1.0

@@ -1,0 +1,4 @@
+1	#DEP#com.amazonaws:aws-java-sdk-kms
+1	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+1	#DEP#io.dropwizard:dropwizard-core
+1	#DEP#io.dropwizard:dropwizard-client

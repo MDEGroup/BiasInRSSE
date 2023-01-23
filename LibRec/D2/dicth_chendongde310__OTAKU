@@ -1,0 +1,13 @@
+1	git://github.com/chendongde310/OTAKU.git
+2	#DEP#com.lcodecorex:tkrefreshlayout
+3	#DEP#com.facebook.fresco:fresco
+4	#DEP#de.hdodenhof:circleimageview
+5	#DEP#com.orhanobut:logger
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#org.jsoup:jsoup
+9	#DEP#com.android.support:cardview-v7
+10	#DEP#com.miguelcatalan:materialsearchview
+11	#DEP#com.android.support:support-v4
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,7 @@
+32	#DEP#antlr:antlr
+33	#DEP#org.springframework:spring
+34	#DEP#dom4j:dom4j
+35	#DEP#easymock:easymock
+36	#DEP#org.opensymphony.quartz:quartz
+37	#DEP#javax.servlet:servlet-api
+38	#DEP#org.sakaiproject.entitybroker:entitybroker-utils

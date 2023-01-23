@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.commons:commons-compress	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.lucene:lucene-analyzers	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#org.apache.commons:commons-collections4	1.0
+#DEP#com.strategicgains.plugin-express:RoutesMetadataPlugin	1.0
+#DEP#me.osm.osm-doc:osm-doc-java	1.0
+#DEP#com.strategicgains:RestExpress	1.0

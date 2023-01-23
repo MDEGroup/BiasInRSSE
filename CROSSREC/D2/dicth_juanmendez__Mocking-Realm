@@ -1,0 +1,11 @@
+1	git://github.com/juanmendez/Mocking-Realm.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#org.powermock:powermock-classloading-xstream
+5	#DEP#org.robolectric:robolectric
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#io.reactivex:rxjava

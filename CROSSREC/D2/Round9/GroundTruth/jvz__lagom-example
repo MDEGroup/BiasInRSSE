@@ -1,0 +1,8 @@
+1	#DEP#com.typesafe.play:play-netty-server_2.11
+1	#DEP#com.lightbend.lagom:lagom-javadsl-persistence-cassandra_2.11
+1	#DEP#com.lightbend.lagom:lagom-logback_2.11
+1	#DEP#com.typesafe.conductr:${conductr.lib.name}
+1	#DEP#com.lightbend.lagom:lagom-javadsl-server_2.11
+1	#DEP#com.lightbend.lagom:lagom-javadsl-integration-client_2.11
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

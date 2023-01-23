@@ -1,0 +1,10 @@
+#DEP#org.mockito:org.mockito	1.0
+#DEP#ch.qos.logback:ch.qos.logback	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#com.fasterxml.jackson.dataformat:com.fasterxml.jackson.dataformat	1.0
+#DEP#com.fasterxml.jackson.datatype:com.fasterxml.jackson.datatype	1.0
+#DEP#com.fasterxml.jackson.core:com.fasterxml.jackson.core	1.0
+#DEP#org.apache.commons:org.apache.commons	1.0
+#DEP#com.google.code.findbugs:com.google.code.findbugs	1.0
+#DEP#org.weakref:org.weakref	1.0
+#DEP#org.openjdk.jmh:org.openjdk.jmh	1.0

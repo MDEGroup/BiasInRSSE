@@ -1,0 +1,5 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#junit:junit

@@ -1,0 +1,11 @@
+1	git://github.com/algaworks/videoaula-jsf-hospedagem.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-core
+4	#DEP#org.postgresql:postgresql
+5	#DEP#org.webjars:bootstrap
+6	#DEP#org.glassfish:javax.faces
+7	#DEP#javax.servlet:javax.servlet-api
+8	#DEP#org.webjars:jquery
+9	#DEP#org.webjars:font-awesome
+10	#DEP#junit:junit
+11	#DEP#org.jboss.weld.servlet:weld-servlet

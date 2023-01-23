@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.nineoldandroids:library	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#com.squareup:fest-android	1.0
+#DEP#com.j256.ormlite:ormlite-core	1.0
+#DEP#com.github.rtyley:roboguice-sherlock	1.0
+#DEP#${project.groupId}:extra-viewpager	1.0
+#DEP#${project.groupId}:extra-listfragment	1.0

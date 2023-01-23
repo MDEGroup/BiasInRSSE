@@ -1,0 +1,9 @@
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.ynotscript:ynot
+1	#DEP#commons-lang:commons-lang
+1	#DEP#${project.groupId}:ynot-lang
+1	#DEP#log4j:log4j
+1	#DEP#${project.parent.groupId}:ynot-core
+1	#DEP#${project.parent.groupId}:ynot-impl
+1	#DEP#xstream:xstream
+1	#DEP#junit:junit

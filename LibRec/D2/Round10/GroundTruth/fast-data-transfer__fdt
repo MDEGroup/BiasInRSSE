@@ -1,0 +1,17 @@
+1	#DEP#com.sshtools.ext:putty-pk
+1	#DEP#org.globus.gsi.gssapi:gss
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.jdesktop:swing-layout
+1	#DEP#org.globus.io:io
+1	#DEP#commons-logging:commons-logging
+1	#DEP#com.google.code.gson:gson
+1	#DEP#edu.illinois.ncsa:ncsa-lcrypto
+1	#DEP#org.globus:gram
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#net.iharder.dnd:filedrop
+1	#DEP#com.sshtools.sshterm:SSHTerm
+1	#DEP#edu.illinois.ncsa:BCGSS
+1	#DEP#log4j:log4j
+1	#DEP#com.sshtools.tunnel:SecureTunneling
+1	#DEP#com.sshtools.shift:ShiFT
+1	#DEP#org.json:json

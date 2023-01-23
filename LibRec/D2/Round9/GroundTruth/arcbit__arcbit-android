@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.json:json
+1	#DEP#com.neovisionaries:nv-websocket-client
+1	#DEP#fr.avianey.com.viewpagerindicator:library
+1	#DEP#junit:junit

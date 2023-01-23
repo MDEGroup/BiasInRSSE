@@ -1,0 +1,12 @@
+51	#DEP#org.societies.api.external:societies-api
+52	#DEP#uk.ac.gate:gate-core
+53	#DEP#org.societies.comm.android:JaxbAndroidApi
+54	#DEP#org.societies.platform:socialdata
+55	#DEP#com.google.code.gson:gson
+56	#DEP#org.jsoup:jsoup
+57	#DEP#org.societies.platform:facebook_connector
+58	#DEP#xerces:xercesImpl
+59	#DEP#org.societies.android.platform.content:SocietiesContent
+60	#DEP#org.apache.commons:com.springsource.org.apache.commons.dbcp
+61	#DEP#org.societies.comm.xmpp:CommunicationFrameworkCommons
+62	#DEP#com.github.pmerienne:trident-ml

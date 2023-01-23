@@ -1,0 +1,10 @@
+#DEP#org.apache.maven.scm:maven-scm-api	1.0
+#DEP#org.apache.continuum:continuum-distributed-slave-client	1.0
+#DEP#org.codehaus.plexus:plexus-command-line	1.0
+#DEP#org.apache.continuum:continuum-reports	1.0
+#DEP#org.apache.archiva:archiva-model	1.0
+#DEP#org.apache.continuum:continuum-artifact-manager	1.0
+#DEP#org.apache.continuum:continuum-purge	1.0
+#DEP#org.apache.continuum:continuum-builder	1.0
+#DEP#org.apache.continuum:continuum-buildagent-api	1.0
+#DEP#org.apache.continuum:continuum-model	1.0

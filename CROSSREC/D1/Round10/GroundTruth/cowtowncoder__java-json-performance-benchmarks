@@ -1,0 +1,4 @@
+19	#DEP#org.apache.johnzon:johnzon-core
+20	#DEP#org.openjdk.jmh:jmh-core
+21	#DEP#com.dslplatform:dsl-json-processor
+22	#DEP#com.squareup.okio:okio

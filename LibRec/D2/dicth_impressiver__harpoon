@@ -1,0 +1,14 @@
+1	git://github.com/impressiver/harpoon.git
+2	#DEP#org.mongodb:mongo-java-driver
+3	#DEP#com.google.code.morphia:morphia
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#com.googlecode.sli4j:sli4j-slf4j-jdk14
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#com.google.sitebricks:sitebricks
+8	#DEP#cglib:cglib-nodep
+9	#DEP#com.thoughtworks.proxytoys:proxytoys
+10	#DEP#com.google.inject:guice
+11	#DEP#org.eclipse.jetty:jetty-server
+12	#DEP#com.google.inject.extensions:guice-servlet
+13	#DEP#com.google.inject.extensions:guice-multibindings
+14	#DEP#org.eclipse.jetty:jetty-servlet

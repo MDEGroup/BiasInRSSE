@@ -1,0 +1,4 @@
+16	#DEP#javax.activation:activation
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#com.drew:metadata-extractor
+19	#DEP#junit:junit

@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.xml:jaxb-api
+1	#DEP#org.zeroturnaround:jr-javassist
+1	#DEP#junit:junit
+1	#DEP#org.zeroturnaround:jr-utils

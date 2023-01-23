@@ -1,0 +1,12 @@
+1	git://github.com/skymxc/AndroidDemo.git
+2	#DEP#com.lcodecorex:tkrefreshlayout
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#cn.bingoogolapple:bga-banner
+5	#DEP#org.greenrobot:eventbus-annotation-processor
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.jaredrummler:material-spinner
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#org.greenrobot:eventbus
+10	#DEP#com.android.support:appcompat-v7
+11	#DEP#junit:junit
+12	#DEP#com.android.support:design

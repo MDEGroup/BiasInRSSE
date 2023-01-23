@@ -1,0 +1,9 @@
+1	git://github.com/tyano/wicket15-snippet.git
+2	#DEP#org.apache.wicket:wicket-core
+3	#DEP#net.java.dev.rome:rome-fetcher
+4	#DEP#org.slf4j:jcl-over-slf4j
+5	#DEP#log4j:log4j
+6	#DEP#org.eclipse.jetty.aggregate:jetty-all-server
+7	#DEP#org.apache.wicket:wicket-extensions
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12

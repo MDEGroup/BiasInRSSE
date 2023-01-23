@@ -1,0 +1,7 @@
+1	#DEP#se.hitta:pom-json
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#se.hitta:pom-master
+1	#DEP#org.simpleframework:simple-xml
+1	#DEP#se.hitta:simplerialize-lib
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

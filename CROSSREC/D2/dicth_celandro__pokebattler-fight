@@ -1,0 +1,12 @@
+1	git://github.com/celandro/pokebattler-fight.git
+2	#DEP#org.springframework.boot:spring-boot-actuator
+3	#DEP#org.springframework.boot:spring-boot-starter-jersey
+4	#DEP#com.leandronunes85.jax-rs:etag-response-filter
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#com.pokebattler:pogoprotos
+7	#DEP#com.google.cloud:google-cloud-storage
+8	#DEP#org.mitre.dsmiley.httpproxy:smiley-http-proxy-servlet
+9	#DEP#com.google.protobuf:protobuf-java-util
+10	#DEP#org.apache.commons:commons-lang3
+11	#DEP#com.google.cloud:gcloud-java
+12	#DEP#com.google.protobuf:protobuf-java

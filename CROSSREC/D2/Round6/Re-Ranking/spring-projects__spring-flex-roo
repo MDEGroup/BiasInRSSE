@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.osgi:org.osgi.core	1.0
+#DEP#org.apache.felix:org.apache.felix.scr.annotations	1.0
+#DEP#org.springframework.roo:org.springframework.roo.project	1.0
+#DEP#org.springframework.roo:org.springframework.roo.process.manager	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.dbre.annotations	1.0
+#DEP#org.springframework.roo:org.springframework.roo.settings	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.jpa.annotations	1.0
+#DEP#org.springframework.roo:org.springframework.roo.bootstrap	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.jdbc	1.0

@@ -1,0 +1,9 @@
+1	git://github.com/operasoftware/operaprestodriver.git
+2	#DEP#org.apache.commons:commons-exec
+3	#DEP#org.seleniumhq.selenium:selenium-java
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.google.guava:guava
+6	#DEP#com.opera:operalaunchers
+7	#DEP#commons-jxpath:commons-jxpath
+8	#DEP#org.ini4j:ini4j
+9	#DEP#com.google.protobuf:protobuf-java

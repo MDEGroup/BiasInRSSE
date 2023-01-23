@@ -1,0 +1,12 @@
+1	git://github.com/aserg-ufmg/RefDiff.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#asm:asm-util
+4	#DEP#commons-io:commons-io
+5	#DEP#org.jdom:jdom
+6	#DEP#com.github.aserg-ufmg:refdiff-core
+7	#DEP#asm:asm
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#joda-time:joda-time
+11	#DEP#asm:asm-tree
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

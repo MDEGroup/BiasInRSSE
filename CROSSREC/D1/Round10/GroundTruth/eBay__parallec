@@ -1,0 +1,4 @@
+20	#DEP#com.google.guava:guava
+21	#DEP#com.typesafe.akka:akka-actor_2.10
+22	#DEP#com.typesafe.akka:akka-cluster_2.10
+23	#DEP#junit:junit

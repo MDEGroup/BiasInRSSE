@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.lucene:lucene-highlighter	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#it.unimi.dsi:fastutil	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.mpatric:mp3agic	1.0
+#DEP#com.github.tulskiy:jkeymaster	1.0

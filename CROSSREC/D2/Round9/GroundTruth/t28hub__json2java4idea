@@ -1,0 +1,8 @@
+1	#DEP#org.jooq:jool
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guava:guava
+1	#DEP#org.assertj:assertj-swing
+1	#DEP#junit:junit
+1	#DEP#com.google.errorprone:error_prone_core

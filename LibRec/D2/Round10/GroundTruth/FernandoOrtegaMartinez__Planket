@@ -1,0 +1,8 @@
+1	#DEP#se.akerfeldt:okhttp-signpost
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#org.mockito:mockito-core
+1	#DEP#oauth.signpost:signpost-core
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

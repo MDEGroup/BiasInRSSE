@@ -1,0 +1,9 @@
+1	git://github.com/robharper/restlet-guice.git
+2	#DEP#com.google.inject:guice
+3	#DEP#com.google.inject.extensions:guice-assisted-inject
+4	#DEP#org.restlet.jee:org.restlet
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#org.restlet.jee:org.restlet.ext.servlet
+8	#DEP#com.google.inject.extensions:guice-multibindings
+9	#DEP#org.eclipse.jetty:jetty-servlet

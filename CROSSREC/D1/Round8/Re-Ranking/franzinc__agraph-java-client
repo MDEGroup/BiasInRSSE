@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-queryresultio-sparqlxml	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-queryalgebra-evaluation	1.0
+#DEP#net.fortytwo.sesametools:replay-sail	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-http-protocol	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-util	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-sail-nativerdf	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-queryparser-sparql	1.0

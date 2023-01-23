@@ -1,0 +1,9 @@
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.springframework:spring-test
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.dangdang:elastic-job-lite-spring
+1	#DEP#junit:junit
+1	#DEP#com.googlecode.jmockit:jmockit

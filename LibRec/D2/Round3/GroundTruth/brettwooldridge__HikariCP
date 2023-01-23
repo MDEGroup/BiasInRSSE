@@ -1,0 +1,13 @@
+1	#DEP#simple-jndi:simple-jndi
+1	#DEP#org.javassist:javassist
+1	#DEP#io.dropwizard.metrics:metrics-core
+1	#DEP#javax.inject:javax.inject
+1	#DEP#io.micrometer:micrometer-core
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-assembly
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+1	#DEP#org.mockito:mockito-core
+1	#DEP#io.dropwizard.metrics:metrics-healthchecks
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+1	#DEP#junit:junit
+1	#DEP#org.ops4j.pax.url:pax-url-reference
+1	#DEP#com.h2database:h2

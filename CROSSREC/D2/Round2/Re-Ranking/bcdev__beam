@@ -1,0 +1,10 @@
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.esri:jpe_sdk	1.0
+#DEP#org.locationtech.jts.io:jts-io-common	1.0
+#DEP#org.locationtech.jts:jts-tests	1.0
+#DEP#com.esri:jsde_sdk	1.0
+#DEP#com.rometools:rome-modules	1.0
+#DEP#org.locationtech.jts:jts-core	1.0

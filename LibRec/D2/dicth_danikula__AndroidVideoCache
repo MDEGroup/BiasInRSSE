@@ -1,0 +1,13 @@
+1	git://github.com/danikula/AndroidVideoCache.git
+2	#DEP#org.robolectric:robolectric
+3	#DEP#org.androidannotations:androidannotations
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#com.google.guava:guava-jdk5
+6	#DEP#com.squareup:fest-android
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.slf4j:slf4j-android
+9	#DEP#org.androidannotations:androidannotations-api
+10	#DEP#com.android.support:support-v4
+11	#DEP#com.viewpagerindicator:library
+12	#DEP#junit:junit
+13	#DEP#com.danikula:videocache

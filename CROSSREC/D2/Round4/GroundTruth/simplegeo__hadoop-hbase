@@ -1,0 +1,17 @@
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.apache.thrift:thrift
+1	#DEP#javax.xml.bind:jaxb-api
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#stax:stax-api
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.commons:commons-math
+1	#DEP#com.cloudera.cdh:cdh-root
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#tomcat:jasper-runtime
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop:avro
+1	#DEP#org.mortbay.jetty:jsp-2.1
+1	#DEP#com.sun.jersey:jersey-server

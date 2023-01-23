@@ -1,0 +1,9 @@
+1	git://github.com/pilloPl/functional-eventsourcing.git
+2	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+3	#DEP#io.javaslang:javaslang
+4	#DEP#cglib:cglib-nodep
+5	#DEP#org.springframework.cloud:spring-cloud-dependencies
+6	#DEP#com.google.guava:guava
+7	#DEP#org.springframework.cloud:spring-cloud-stream-test-support-internal
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations

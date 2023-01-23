@@ -1,0 +1,5 @@
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#com.github.spullara.mustache.java:compiler
+1	#DEP#org.ow2.asm:asm
+1	#DEP#org.antlr:antlr4-runtime
+1	#DEP#org.elasticsearch:elasticsearch

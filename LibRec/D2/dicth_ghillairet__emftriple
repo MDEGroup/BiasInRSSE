@@ -1,0 +1,11 @@
+1	git://github.com/ghillairet/emftriple.git
+2	#DEP#org.eclipse.emf:org.eclipse.emf.common
+3	#DEP#org.eclipse.emf:org.eclipse.emf.ecore
+4	#DEP#org.eclipselabs:org.eclipselabs.emftriple.jena
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#xerces:xercesImpl
+7	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+8	#DEP#org.openrdf.sesame:sesame-repository-sail
+9	#DEP#org.eclipselabs:org.eclipselabs.emftriple.sesame
+10	#DEP#org.eclipselabs:emftriple
+11	#DEP#org.eclipselabs:org.eclipselabs.emftriple.junit

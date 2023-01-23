@@ -1,0 +1,4 @@
+1	#DEP#asm:asm
+1	#DEP#oro:oro
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

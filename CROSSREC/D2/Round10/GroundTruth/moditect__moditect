@@ -1,0 +1,10 @@
+1	#DEP#org.ow2.asm:asm
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.jboss.logging:jboss-logging-annotations
+1	#DEP#io.vertx:vertx-core
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#org.moditect:moditect-integrationtest-parent
+1	#DEP#org.hibernate.validator:hibernate-validator
+1	#DEP#org.moditect:moditect-parent
+1	#DEP#junit:junit
+1	#DEP#com.beust:jcommander

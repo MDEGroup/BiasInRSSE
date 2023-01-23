@@ -1,0 +1,9 @@
+37	#DEP#com.google.code.findbugs:findbugs-annotations
+38	#DEP#org.springframework:spring-tx
+39	#DEP#org.antlr:antlr-runtime
+40	#DEP#org.jetbrains.kotlin:kotlin-test
+41	#DEP#net.jodah:expiringmap
+42	#DEP#org.jdbi:jdbi3-spring4
+43	#DEP#org.jetbrains:annotations
+44	#DEP#io.vavr:vavr
+45	#DEP#org.mockito:mockito-core

@@ -1,0 +1,14 @@
+1	git://github.com/jdonee/Spring-boot-shiro-spring-session-redis-example.git
+2	#DEP#http://www.riversdm.com
+3	#DEP#org.thymeleaf:thymeleaf-spring4
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.apache.shiro:shiro-quartz
+6	#DEP#org.thymeleaf:thymeleaf
+7	#DEP#com.github.theborakompanioni:thymeleaf-extras-shiro
+8	#DEP#com.alibaba:druid
+9	#DEP#nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect
+10	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+11	#DEP#com.google.guava:guava
+12	#DEP#org.apache.shiro:shiro-spring
+13	#DEP#org.projectlombok:lombok
+14	#DEP#org.apache.shiro:shiro-aspectj

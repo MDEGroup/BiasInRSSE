@@ -1,0 +1,9 @@
+1	git://github.com/dreamerkr/mircoservice.git
+2	#DEP#io.springfox:springfox-swagger-ui
+3	#DEP#io.zipkin.brave:brave-core
+4	#DEP#org.springframework.boot:spring-boot-starter
+5	#DEP#io.zipkin.brave:brave-spancollector-http
+6	#DEP#io.zipkin.brave:brave-web-servlet-filter
+7	#DEP#io.springfox:springfox-swagger2
+8	#DEP#io.zipkin.brave:brave-okhttp
+9	#DEP#org.springframework.boot:spring-boot-starter-web

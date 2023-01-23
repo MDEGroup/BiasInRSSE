@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jmock:jmock-legacy	1.0
+#DEP#org.jmock:jmock	1.0
+#DEP#com.gemserk.commons.gdx:commons-gdx-core	1.0
+#DEP#${project.groupId}:libgdx-test-core	1.0
+#DEP#${project.groupId}:facehunt-core	1.0
+#DEP#com.gemserk.games.archervsworld:archervsworld	1.0
+#DEP#${project.groupId}:archervsworld-core	1.0
+#DEP#com.gemserk.libgdxtest:libgdxtest	1.0
+#DEP#com.gemserk.games.facehunt:facehunt	1.0

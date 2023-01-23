@@ -1,0 +1,5 @@
+1	#DEP#com.github.cage:cage
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#com.github.cage:cage-parent
+1	#DEP#com.github.cage.examples:cage-examples-parent

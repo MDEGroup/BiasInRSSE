@@ -1,0 +1,10 @@
+#DEP#com.bc.ceres:ceres-binding	1.0
+#DEP#junit:junit	1.0
+#DEP#org.esa.beam:beam-visat	1.0
+#DEP#com.bc.ceres:ceres-core	1.0
+#DEP#com.bc.ceres:ceres-launcher	1.0
+#DEP#org.esa.beam:beam-csv-dataio	1.0
+#DEP#javax.media.jai:jai-codec	1.0
+#DEP#javax.media.jai:mlibwrapper-jai	1.0
+#DEP#com.sun.media:clibwrapper-jiio	1.0
+#DEP#ncsa.hdf:jhdf	1.0

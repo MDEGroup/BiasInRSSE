@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.apache.cassandra:cassandra-thrift	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.thrift:libthrift	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.mortbay.jetty:jetty	1.0
+#DEP#commons-pool:commons-pool	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#org.apache.cassandra.deps:avro	1.0

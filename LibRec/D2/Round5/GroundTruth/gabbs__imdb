@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.neo4j:neo4j-shell
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit

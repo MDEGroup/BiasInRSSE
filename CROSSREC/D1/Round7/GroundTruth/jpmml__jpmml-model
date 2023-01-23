@@ -1,0 +1,4 @@
+19	#DEP#junit:junit
+20	#DEP#org.eclipse.persistence:org.eclipse.persistence.core
+21	#DEP#org.jpmml:pmml-model-metro
+22	#DEP#com.beust:jcommander

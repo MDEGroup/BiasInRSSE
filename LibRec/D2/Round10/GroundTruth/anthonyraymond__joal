@@ -1,0 +1,12 @@
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.apache.httpcomponents:fluent-hc
+1	#DEP#com.turn:ttorrent-core
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.springframework:spring-messaging
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.apache.logging.log4j:log4j-jcl
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.github.mifmif:generex
+1	#DEP#org.springframework.security:spring-security-messaging
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#junit:junit

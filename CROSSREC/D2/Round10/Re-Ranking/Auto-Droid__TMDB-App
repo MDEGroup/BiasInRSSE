@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.powermock:powermock-api-mockito	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.powermock:powermock-classloading-xstream	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#com.squareup.picasso:picasso	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.android.support.constraint:constraint-layout	1.0
+#DEP#com.github.pedrovgs:nox	1.0

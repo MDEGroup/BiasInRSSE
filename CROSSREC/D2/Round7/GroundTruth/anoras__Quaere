@@ -1,0 +1,6 @@
+1	#DEP#castor:castor
+1	#DEP#org.hibernate:hibernate
+1	#DEP#org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#junit:junit

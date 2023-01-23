@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.openjdk.jmh:jmh-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.aeonbits.owner:owner-examples-common	1.0

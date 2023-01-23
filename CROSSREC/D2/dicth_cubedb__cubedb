@@ -1,0 +1,15 @@
+1	git://github.com/cubedb/cubedb.git
+2	#DEP#org.glassfish.jersey.core:jersey-common
+3	#DEP#org.xerial.snappy:snappy-java
+4	#DEP#org.apache.commons:commons-io
+5	#DEP#javax.ws.rs:javax.ws.rs-api
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.jsoniter:jsoniter
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2
+10	#DEP#org.glassfish.jersey.core:jersey-server
+11	#DEP#net.sf.trove4j:trove4j
+12	#DEP#log4j:log4j
+13	#DEP#com.esotericsoftware:kryo
+14	#DEP#junit:junit
+15	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http

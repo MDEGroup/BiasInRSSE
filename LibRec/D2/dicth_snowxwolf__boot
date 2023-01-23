@@ -1,0 +1,14 @@
+1	git://github.com/snowxwolf/boot.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#io.springfox:springfox-swagger-ui
+4	#DEP#com.github.pagehelper:pagehelper
+5	#DEP#com.alibaba:fastjson
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#io.springfox:springfox-swagger2
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.alibaba:druid
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+12	#DEP#com.google.guava:guava
+13	#DEP#org.projectlombok:lombok
+14	#DEP#org.springframework.boot:spring-boot-starter-aop

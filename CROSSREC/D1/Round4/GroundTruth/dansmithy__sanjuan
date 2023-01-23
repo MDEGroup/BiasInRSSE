@@ -1,0 +1,7 @@
+32	#DEP#org.springframework.data:spring-data-mongodb
+33	#DEP#joda-time:joda-time
+34	#DEP#org.springframework:spring-core
+35	#DEP#org.eclipse.jetty:jetty-servlets
+36	#DEP#javax.servlet:servlet-api
+37	#DEP#org.eclipse.jetty:jetty-webapp
+38	#DEP#org.aspectj:aspectjrt

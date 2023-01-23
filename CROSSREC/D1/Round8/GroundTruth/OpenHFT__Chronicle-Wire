@@ -1,0 +1,4 @@
+17	#DEP#net.openhft:chronicle-wire
+18	#DEP#junit:junit
+19	#DEP#org.openjdk.jmh:jmh-core
+20	#DEP#uk.co.real-logic:sbe

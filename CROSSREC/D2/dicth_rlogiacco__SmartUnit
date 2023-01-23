@@ -1,0 +1,11 @@
+1	git://github.com/rlogiacco/SmartUnit.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.seleniumhq.selenium:selenium-java
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.springframework:spring-test
+8	#DEP#info.cukes:cucumber-spring
+9	#DEP#info.cukes:cucumber-junit
+10	#DEP#org.projectlombok:lombok
+11	#DEP#junit:junit

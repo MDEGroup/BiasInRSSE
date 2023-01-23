@@ -1,0 +1,9 @@
+1	git://github.com/mulesoft-labs/flickr-connector.git
+2	#DEP#org.mule.ibeans:ibeans-ri
+3	#DEP#org.mule.tests:mule-tests-functional
+4	#DEP#org.ibeans:ibeans-annotation-api
+5	#DEP#org.mule.modules:mule-module-spring-config
+6	#DEP#org.mule.tools:mule-cloud-connector-annotations
+7	#DEP#org.mule.tools:mule-cloud-connector-ibeans
+8	#DEP#org.mule.modules:mule-module-ibeans
+9	#DEP#org.ibeans:ibeans-support

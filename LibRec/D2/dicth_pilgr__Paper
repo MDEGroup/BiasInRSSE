@@ -1,0 +1,9 @@
+1	git://github.com/pilgr/Paper.git
+2	#DEP#com.squareup.assertj:assertj-android
+3	#DEP#de.javakaffee:kryo-serializers
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.esotericsoftware:kryo
+6	#DEP#com.orhanobut:hawk
+7	#DEP#com.android.support.test:runner
+8	#DEP#joda-time:joda-time
+9	#DEP#io.paperdb:paperdb

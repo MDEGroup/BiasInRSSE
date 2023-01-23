@@ -1,0 +1,10 @@
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#junit:junit	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.spigotmc:spigot-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.kellerkindt:ShowCaseStandalone	1.0
+#DEP#org.spigotmc:spigot	1.0
+#DEP#org.apache.tomcat:dbcp	1.0

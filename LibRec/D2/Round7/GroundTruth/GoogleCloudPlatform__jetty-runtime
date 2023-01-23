@@ -1,0 +1,8 @@
+1	#DEP#com.google.cloud.runtimes.tests:gcloud-testing-core
+1	#DEP#com.google.cloud:google-cloud-logging
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.google.cloud.runtimes:jetty9-base
+1	#DEP#com.google.cloud:google-cloud-bom
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper

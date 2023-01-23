@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#edu.mostafa.security:abac-spring-security-parent
+1	#DEP#org.springframework.security:spring-security-config

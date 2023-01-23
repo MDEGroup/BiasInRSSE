@@ -1,0 +1,12 @@
+1	#DEP#org.apache.spark:spark-hive_2.11
+1	#DEP#org.apache.spark:spark-streaming-kafka_2.11
+1	#DEP#org.apache.hbase:hbase-common
+1	#DEP#org.apache.hive:hive-service
+1	#DEP#org.apache.pig:pig
+1	#DEP#org.apache.hive:hive-jdbc
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.spark:spark-streaming-twitter_2.11
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+1	#DEP#org.apache.spark:spark-streaming_2.11
+1	#DEP#au.com.bytecode:opencsv

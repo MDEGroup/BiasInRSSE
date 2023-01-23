@@ -1,0 +1,9 @@
+37	#DEP#org.apache.poi:poi-contrib
+38	#DEP#org.apache.maven:maven-plugin-api
+39	#DEP#com.fasterxml.jackson.core:jackson-core
+40	#DEP#com.docdoku:docdoku-api-java
+41	#DEP#org.apache.poi:poi-scratchpad
+42	#DEP#${project.parent.groupId}:converter-step-ejb
+43	#DEP#io.swagger:swagger-annotations
+44	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+45	#DEP#${project.groupId}:converter-dae-ejb

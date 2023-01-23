@@ -1,0 +1,16 @@
+1	git://github.com/jklingsporn/vertx-jooq.git
+2	#DEP#io.reactivex.rxjava2:rxjava
+3	#DEP#io.vertx:vertx-rx-java2
+4	#DEP#io.github.jklingsporn:vertx-jooq-shared
+5	#DEP#io.vertx:vertx-core
+6	#DEP#com.google.inject:guice
+7	#DEP#org.jooq:jooq
+8	#DEP#org.jooq:jooq-codegen
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#io.github.jklingsporn:vertx-jooq
+11	#DEP#me.escoffier.vertx:vertx-completable-future
+12	#DEP#io.github.jklingsporn:vertx-jooq-rx
+13	#DEP#io.github.jklingsporn:vertx-jooq-future
+14	#DEP#junit:junit
+15	#DEP#org.hsqldb:hsqldb
+16	#DEP#io.github.jklingsporn:vertx-jooq-classic

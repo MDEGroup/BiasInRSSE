@@ -1,0 +1,15 @@
+1	#DEP#org.onehippo.cms7.hst.dependencies:hst-client-dependencies
+1	#DEP#org.onehippo.plugins:google-maps-plugin-reactor
+1	#DEP#taglibs:standard
+1	#DEP#org.onehippo.cms7:hippo-addon-channel-manager-frontend
+1	#DEP#org.onehippo.cms7:hippo-addon-automatic-export-frontend
+1	#DEP#org.onehippo.plugins:google-maps-plugin
+1	#DEP#org.onehippo.cms7.hst.dependencies:hst-server-dependencies
+1	#DEP#org.onehippo.cms7:hippo-cms-editor-frontend
+1	#DEP#org.onehippo.addon.frontend.gallerypicker:gallerypicker
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.onehippo.cms7:hippo-cms-engine
+1	#DEP#org.onehippo.cms7.hst.toolkit-resources.addon.toolkit-cnd:hst-addon-cnd
+1	#DEP#junit:junit
+1	#DEP#org.onehippo.cms7.hst.dependencies:hst-spring-dependencies
+1	#DEP#org.onehippo.cms7:hippo-package-cms-resources

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.powermock:powermock-module-junit4	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.amazonaws:aws-java-sdk-bom	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.powermock:powermock-api-mockito2	1.0
+#DEP#com.amazonaws:aws-java-sdk-s3	1.0
+#DEP#org.apache.kafka:connect-json	1.0
+#DEP#io.confluent:kafka-connect-avro-converter	1.0

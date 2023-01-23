@@ -1,0 +1,6 @@
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.tessell:tessell-apt
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.google.guava:guava-gwt

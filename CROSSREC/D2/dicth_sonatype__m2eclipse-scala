@@ -1,0 +1,14 @@
+1	git://github.com/sonatype/m2eclipse-scala.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#net.liftweb:lift-mapper
+4	#DEP#org.scala-tools.testing:specs_2.8.0.RC6
+5	#DEP#org.specs2:specs2_${scala.compat.version}
+6	#DEP#org.scala-lang:scala-compiler
+7	#DEP#org.scala-lang:scala-library
+8	#DEP#org.scalatest:scalatest_2.10.0
+9	#DEP#org.maven.ide.eclipse.scala:m2eclipse-scala
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#org.scala-tools.testing:specs_2.8.0.Beta1
+12	#DEP#junit:junit
+13	#DEP#example:parent
+14	#DEP#com.h2database:h2

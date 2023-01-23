@@ -1,0 +1,10 @@
+1	#DEP#org.gatein.common:common-logging
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#org.gatein.management:gatein-management-core
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.crsh:crsh.shell.ssh
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#org.gatein.management:gatein-management-spi
+1	#DEP#javax.jcr:jcr

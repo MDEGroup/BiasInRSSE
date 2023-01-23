@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#oauth.signpost:signpost-commonshttp4
+1	#DEP#com.google.inject:guice
+1	#DEP#org.slf4j:slf4j-android
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#oauth.signpost:signpost-core
+1	#DEP#org.apache.httpcomponents:httpcore

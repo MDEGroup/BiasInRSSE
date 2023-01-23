@@ -1,0 +1,8 @@
+1	#DEP#org.jetbrains.kotlin:kotlin-test-junit
+1	#DEP#org.amshove.kluent:kluent
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.nhaarman:mockito-kotlin
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

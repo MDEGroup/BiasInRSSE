@@ -1,0 +1,12 @@
+1	#DEP#brown.tracingplane:baggagecontext-api
+1	#DEP#brown.tracingplane:tracingplane-dist-project
+1	#DEP#brown.tracingplane:tracingplane-project
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#com.lihaoyi:fastparse_2.11
+1	#DEP#com.google.guava:guava
+1	#DEP#org.scalatest:scalatest_2.11
+1	#DEP#brown.tracingplane:atomlayer-core
+1	#DEP#brown.tracingplane:atomlayer
+1	#DEP#junit:junit
+1	#DEP#com.beust:jcommander
+1	#DEP#brown.tracingplane:bdl-baggagecontext

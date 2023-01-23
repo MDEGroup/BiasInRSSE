@@ -1,0 +1,5 @@
+1	#DEP#tomcat:tomcat-util
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit

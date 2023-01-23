@@ -1,0 +1,10 @@
+1	#DEP#org.eclipse.acceleo:org.eclipse.acceleo.parser
+1	#DEP#org.eclipse.acceleo:org.eclipse.acceleo.common
+1	#DEP#org.eclipse.acceleo:org.eclipse.acceleo.engine
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+1	#DEP#org.eclipse.ocl:org.eclipse.ocl.ecore
+1	#DEP#com.google.guava:guava
+1	#DEP#${groupId}:${rootArtifactId}.parent
+1	#DEP#org.eclipse.ocl:org.eclipse.ocl
+1	#DEP#org.eclipse.acceleo:org.eclipse.acceleo.model
+1	#DEP#org.eclipse.ocl:org.eclipse.ocl.common

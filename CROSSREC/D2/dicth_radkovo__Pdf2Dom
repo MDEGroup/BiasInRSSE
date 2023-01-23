@@ -1,0 +1,11 @@
+1	git://github.com/radkovo/Pdf2Dom.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#commons-codec:commons-codec
+4	#DEP#org.apache.pdfbox:pdfbox
+5	#DEP#commons-io:commons-io
+6	#DEP#net.mabboud.gfxassert:GfxAssert
+7	#DEP#net.mabboud.fontverter:FontVerter
+8	#DEP#org.slf4j:slf4j-simple
+9	#DEP#org.hamcrest:hamcrest-all
+10	#DEP#junit:junit
+11	#DEP#net.sf.cssbox:cssbox

@@ -1,0 +1,4 @@
+19	#DEP#jdom:jdom
+20	#DEP#junit:junit
+21	#DEP#org.apache.wicket:wicket-extensions
+22	#DEP#com.rectang.xsm:xsm-bin

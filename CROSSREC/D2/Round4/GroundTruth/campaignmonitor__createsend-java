@@ -1,0 +1,4 @@
+1	#DEP#com.sun.jersey:jersey-client
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.codehaus.jackson:jackson-jaxrs
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl

@@ -1,0 +1,7 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#your.company:my-android-library
+1	#DEP#junit:junit
+1	#DEP#me.gladwell.eclipse.m2e.android.test:simple-project
+1	#DEP#your.company:android-multi-module
+1	#DEP#your.company:android-child-library
+1	#DEP#your.company:issue-68

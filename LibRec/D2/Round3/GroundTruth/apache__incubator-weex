@@ -1,0 +1,17 @@
+1	#DEP#org.javassist:javassist
+1	#DEP#org.robolectric:shadows-httpclient
+1	#DEP#com.squareup.okhttp:okhttp-ws
+1	#DEP#org.powermock:powermock-module-junit4-rule
+1	#DEP#com.facebook.fresco:animated-gif
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#com.facebook.fresco:fresco
+1	#DEP#org.powermock:powermock-module-junit4-common
+1	#DEP#com.android.support.test.espresso:espresso-idling-resource
+1	#DEP#com.taobao.android.weex_inspection:urlconnection_interceptor
+1	#DEP#com.loopj.android:android-async-http
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#org.powermock:powermock-classloading-xstream
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#com.jakewharton.scalpel:scalpel

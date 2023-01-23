@@ -1,0 +1,4 @@
+18	#DEP#org.apache.mina:mina-core
+19	#DEP#org.mp4parser:isoparser
+20	#DEP#junit:junit
+21	#DEP#org.red5:red5-parent

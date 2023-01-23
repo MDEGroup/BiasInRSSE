@@ -1,0 +1,10 @@
+1	git://github.com/zhongl/nij.git
+2	#DEP#org.xsocket:xSocket
+3	#DEP#btrace:btrace
+4	#DEP#ch.qos.logback:logback-classic
+5	#DEP#org.apache.mina:mina-core
+6	#DEP#org.scala-lang:scala-library
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#org.jboss.netty:netty
+9	#DEP#junit:junit
+10	#DEP#org.glassfish.grizzly:grizzly-framework

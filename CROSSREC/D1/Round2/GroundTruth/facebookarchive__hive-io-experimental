@@ -1,0 +1,5 @@
+21	#DEP#com.fasterxml.jackson.core:jackson-annotations
+22	#DEP#com.fasterxml.jackson.core:jackson-core
+23	#DEP#com.yammer.metrics:metrics-core
+24	#DEP#org.apache.hive:hive-service
+25	#DEP#log4j:log4j

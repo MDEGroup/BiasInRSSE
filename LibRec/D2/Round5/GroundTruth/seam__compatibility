@@ -1,0 +1,8 @@
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.jboss.resteasy:jaxrs-api
+1	#DEP#org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-api-javaee
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#junit:junit-dep
+1	#DEP#org.jboss.seam:seam-parent
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#commons-httpclient:commons-httpclient

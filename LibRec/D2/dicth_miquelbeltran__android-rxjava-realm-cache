@@ -1,0 +1,15 @@
+1	git://github.com/miquelbeltran/android-rxjava-realm-cache.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#javax.annotation:javax.annotation-api
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.google.dagger:dagger
+11	#DEP#com.google.dagger:dagger-compiler
+12	#DEP#com.squareup.retrofit2:retrofit
+13	#DEP#junit:junit
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

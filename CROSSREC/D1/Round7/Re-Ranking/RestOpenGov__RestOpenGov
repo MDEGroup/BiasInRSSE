@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#samtools:samtools	1.0
+#DEP#com.samskivert:depot	1.0
+#DEP#distlib:distlib	1.0
+#DEP#com.threerings:vilya	1.0
+#DEP#com.threerings:getdown	1.0

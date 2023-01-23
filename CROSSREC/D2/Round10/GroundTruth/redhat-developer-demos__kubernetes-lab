@@ -1,0 +1,8 @@
+1	#DEP#org.apache.deltaspike.core:deltaspike-core-api
+1	#DEP#org.wildfly.swarm:bom
+1	#DEP#io.vertx:vertx-core
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#org.wildfly.swarm:undertow
+1	#DEP#org.apache.deltaspike.core:deltaspike-core-impl
+1	#DEP#org.wildfly.swarm:datasources
+1	#DEP#org.apache.deltaspike.distribution:distributions-bom

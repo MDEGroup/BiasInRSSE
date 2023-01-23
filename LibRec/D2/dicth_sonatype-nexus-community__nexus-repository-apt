@@ -1,0 +1,9 @@
+1	git://github.com/sonatype-nexus-community/nexus-repository-apt.git
+2	#DEP#org.tukaani:xz
+3	#DEP#org.sonatype.nexus:nexus-rapture
+4	#DEP#org.apache.commons:commons-compress
+5	#DEP#org.sonatype.nexus:nexus-plugin-api
+6	#DEP#org.sonatype.nexus:nexus-repository
+7	#DEP#org.bouncycastle:bcpg-jdk15on
+8	#DEP#org.sonatype.goodies:goodies-testsupport
+9	#DEP#org.sonatype.nexus.plugins:nexus-plugins

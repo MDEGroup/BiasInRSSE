@@ -1,0 +1,9 @@
+1	git://github.com/gigsterous/gigy-example.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.springframework.boot:spring-boot-starter-test
+4	#DEP#org.springframework.security.oauth:spring-security-oauth2
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.boot:spring-boot-starter-actuator
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#com.h2database:h2

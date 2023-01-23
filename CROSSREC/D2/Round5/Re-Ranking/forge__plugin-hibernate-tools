@@ -1,0 +1,10 @@
+#DEP#com.openshift:openshift-java-client	1.0
+#DEP#org.jboss.forge:forge-test-harness	1.0
+#DEP#log4j:apache-log4j-extras	1.0
+#DEP#org.jboss:jboss-dmr	1.0
+#DEP#org.eclipse.jgit:org.eclipse.jgit	1.0
+#DEP#com.jcraft:jsch	1.0
+#DEP#com.pokebattler:pogoprotos	1.0
+#DEP#com.mite8:mite-bigdata	1.0
+#DEP#org.webjars:d3-plugins	1.0
+#DEP#io.cereebro:cereebro-snitch-spring-boot-starter	1.0

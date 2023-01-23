@@ -1,0 +1,11 @@
+1	git://github.com/romanb/JPA-NestedSet.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#javax.inject:javax.inject
+4	#DEP#org.eclipse.persistence:javax.persistence
+5	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.testng:testng
+8	#DEP#org.eclipse.persistence:eclipselink
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#hsqldb:hsqldb
+11	#DEP#net.jcip:jcip-annotations

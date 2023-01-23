@@ -1,0 +1,6 @@
+27	#DEP#org.easytesting:fest-reflect
+28	#DEP#org.parceler:parceler-api
+29	#DEP#com.squareup:otto
+30	#DEP#org.androidannotations:androidannotations-testutils
+31	#DEP#org.mockito:mockito-core
+32	#DEP#bouncycastle:bcprov-jdk16

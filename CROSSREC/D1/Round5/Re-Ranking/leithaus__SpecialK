@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.xmlrpc:xmlrpc-client	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.xmlrpc:xmlrpc-common	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#javax.activation:activation	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.apache.xmlrpc:xmlrpc-server	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#cup:java-cup-11a	1.0

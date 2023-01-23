@@ -1,0 +1,11 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.chanven.lib:cptr
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.yqritc:recyclerview-flexibledivider
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

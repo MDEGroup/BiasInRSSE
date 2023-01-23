@@ -1,0 +1,4 @@
+19	#DEP#org.apache.httpcomponents:httpcore
+20	#DEP#org.apache.httpcomponents:fluent-hc
+21	#DEP#junit:junit
+22	#DEP#com.github.tlrx:elasticsearch-test

@@ -1,0 +1,4 @@
+17	#DEP#com.squareup.mortar:mortar
+18	#DEP#com.jakewharton.scalpel:scalpel
+19	#DEP#io.reactivex:rxandroid
+20	#DEP#com.squareup.okhttp:okhttp-urlconnection

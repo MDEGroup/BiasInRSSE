@@ -1,0 +1,9 @@
+1	git://github.com/luminis-ams/elastic-rest-spring-wrapper.git
+2	#DEP#org.elasticsearch.client:elasticsearch-rest-client
+3	#DEP#org.springframework.boot:spring-boot-starter-test
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.elasticsearch.client:elasticsearch-rest-client-sniffer
+7	#DEP#org.jtwig:jtwig-core
+8	#DEP#org.springframework.boot:spring-boot-starter-actuator
+9	#DEP#org.apache.logging.log4j:log4j-api

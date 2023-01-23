@@ -1,0 +1,9 @@
+37	#DEP#org.codelibs:spnego
+38	#DEP#javax.servlet:jstl
+39	#DEP#commons-fileupload:commons-fileupload
+40	#DEP#org.ow2.asm:asm-commons
+41	#DEP#org.codelibs:corelib
+42	#DEP#org.elasticsearch.client:transport
+43	#DEP#junit:junit
+44	#DEP#org.ow2.asm:asm-util
+45	#DEP#org.codelibs.fess:fess-crawler-es

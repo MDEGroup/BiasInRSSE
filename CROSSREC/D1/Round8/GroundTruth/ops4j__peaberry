@@ -1,0 +1,3 @@
+16	#DEP#org.ops4j:peaberry
+17	#DEP#junit:junit
+18	#DEP#org.osgi:org.osgi.core

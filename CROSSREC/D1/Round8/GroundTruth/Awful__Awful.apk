@@ -1,0 +1,4 @@
+18	#DEP#junit:junit
+19	#DEP#com.github.rubensousa:BottomSheetBuilder
+20	#DEP#com.samskivert:jmustache
+21	#DEP#com.github.chrisbanes:PhotoView

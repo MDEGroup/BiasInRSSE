@@ -1,0 +1,7 @@
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.swinglabs:swingx
+1	#DEP#org.swinglabs:swing-layout
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.derby:derby
+1	#DEP#commons-digester:commons-digester
+1	#DEP#junit:junit

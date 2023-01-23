@@ -1,0 +1,10 @@
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.postgresql:postgresql	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.hsqldb:hsqldb	1.0
+#DEP#org.springframework:spring-jdbc	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.wildfly.swarm:jaxrs-cdi	1.0
+#DEP#org.wildfly.swarm:ejb	1.0

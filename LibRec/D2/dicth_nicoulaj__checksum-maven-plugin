@@ -1,0 +1,11 @@
+1	git://github.com/nicoulaj/checksum-maven-plugin.git
+2	#DEP#net.nicoulaj.maven.plugins.checksum.test.projects:multi-module.artifacts.default
+3	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+4	#DEP#net.nicoulaj.maven.plugins.checksum.test.projects:multi-module.artifacts.no-fail-on-error
+5	#DEP#org.codehaus.plexus:plexus-utils
+6	#DEP#org.apache.maven:maven-project
+7	#DEP#org.bouncycastle:bcprov-jdk15on
+8	#DEP#net.nicoulaj:parent
+9	#DEP#junit:junit
+10	#DEP#org.apache.maven:maven-model
+11	#DEP#org.apache.maven:maven-plugin-api

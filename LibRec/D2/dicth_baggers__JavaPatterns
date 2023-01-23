@@ -1,0 +1,9 @@
+1	git://github.com/baggers/JavaPatterns.git
+2	#DEP#antlr:antlr
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.apache.ant:ant
+5	#DEP#commons-beanutils:commons-beanutils-core
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#com.sun:tools
+8	#DEP#com.google.collections:google-collections
+9	#DEP#junit:junit

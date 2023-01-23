@@ -1,0 +1,10 @@
+1	#DEP#org.apache.wicket:wicket-devutils
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.scalatest:scalatest
+1	#DEP#org.eclipse.jetty.aggregate:jetty-all-server
+1	#DEP#junit:junit
+1	#DEP#org.scala-tools.testing:specs_2.8.1
+1	#DEP#org.wicketstuff.stateless:stateless-parent
+1	#DEP#org.slf4j:slf4j-jdk14

@@ -1,0 +1,13 @@
+1	git://github.com/estwanick/FirebaseChat.git
+2	#DEP#jp.wasabeef:glide-transformations
+3	#DEP#com.google.firebase:firebase-config
+4	#DEP#com.google.android.gms:play-services-appindexing
+5	#DEP#com.firebaseui:firebase-ui
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.android.support:design
+9	#DEP#com.google.firebase:firebase-messaging
+10	#DEP#com.google.firebase:firebase-auth
+11	#DEP#com.google.firebase:firebase-storage
+12	#DEP#com.google.firebase:firebase-database
+13	#DEP#junit:junit

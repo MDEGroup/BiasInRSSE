@@ -1,0 +1,17 @@
+1	git://github.com/jhannes/java-ee-turnkey.git
+2	#DEP#net.sourceforge.htmlunit:htmlunit
+3	#DEP#dom4j:dom4j
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.mockito:mockito-all
+6	#DEP#joda-time:joda-time
+7	#DEP#c3p0:c3p0
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.jsoup:jsoup
+10	#DEP#org.seleniumhq.selenium:selenium-htmlunit-driver
+11	#DEP#org.apache.velocity:velocity
+12	#DEP#org.easytesting:fest-assert
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#com.google.guava:guava
+16	#DEP#junit:junit
+17	#DEP#com.h2database:h2

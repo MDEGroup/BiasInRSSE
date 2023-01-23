@@ -1,0 +1,11 @@
+1	git://github.com/richfaces/richfaces-forge-plugin.git
+2	#DEP#org.jboss.forge.addon:ui-test-harness
+3	#DEP#org.jboss.forge.addon:projects
+4	#DEP#org.jboss.forge.addon:maven
+5	#DEP#org.jboss.forge.furnace.container:cdi
+6	#DEP#org.jboss.forge.addon:ui
+7	#DEP#org.jboss.forge.furnace.test:furnace-test-harness
+8	#DEP#org.jboss.forge:forge-bom
+9	#DEP#org.jboss.forge.addon:parser-java
+10	#DEP#org.jboss.forge.addon:shell
+11	#DEP#org.jboss.forge.addon:javaee

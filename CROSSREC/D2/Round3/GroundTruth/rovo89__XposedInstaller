@@ -1,0 +1,5 @@
+1	#DEP#eu.chainfire:libsuperuser
+1	#DEP#com.android.support:customtabs
+1	#DEP#com.android.support:design
+1	#DEP#se.emilsjolander:stickylistheaders
+1	#DEP#com.afollestad.material-dialogs:commons

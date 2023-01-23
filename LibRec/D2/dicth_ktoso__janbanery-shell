@@ -1,0 +1,15 @@
+1	git://github.com/ktoso/janbanery-shell.git
+2	#DEP#org.slf4j:slf4j-nop
+3	#DEP#com.thoughtworks.xstream:xstream
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.codehaus.groovy:groovy-all
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.google.code.gson:gson
+8	#DEP#joda-time:joda-time
+9	#DEP#org.easytesting:fest-assert
+10	#DEP#jline:jline
+11	#DEP#com.ning:async-http-client
+12	#DEP#xpp3:xpp3
+13	#DEP#pl.project13.janbanery:janbanery-core
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit

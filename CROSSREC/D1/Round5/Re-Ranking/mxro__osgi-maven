@@ -1,0 +1,10 @@
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.google.guava:guava-gwt	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#com.extjs:com.extjs	1.0

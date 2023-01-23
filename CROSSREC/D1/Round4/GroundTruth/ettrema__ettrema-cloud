@@ -1,0 +1,10 @@
+42	#DEP#org.netbeans.api:org-openide-util
+43	#DEP#com.ettrema:cloud-server
+44	#DEP#org.netbeans.api:org-netbeans-modules-settings
+45	#DEP#com.ettrema:berry-admin
+46	#DEP#log4j:log4j
+47	#DEP#com.ettrema:clyde-patches
+48	#DEP#${project.groupId}:sync-engine
+49	#DEP#net.java.dev.appframework:appframework
+50	#DEP#com.ettrema:sync-engine
+51	#DEP#com.ettrema:endrick-jnotify

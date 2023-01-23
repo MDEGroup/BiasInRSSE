@@ -1,0 +1,5 @@
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+1	#DEP#org.openrdf.sesame:sesame-repository-sail
+1	#DEP#org.eclipselabs:org.eclipselabs.emftriple.sesame
+1	#DEP#org.eclipselabs:emftriple
+1	#DEP#org.eclipselabs:org.eclipselabs.emftriple.junit

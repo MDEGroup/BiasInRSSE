@@ -1,0 +1,16 @@
+1	git://github.com/tsbreuer/IRCAutoHost.git
+2	#DEP#IRCAutoHost:AutoHostShared
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#IRCAutoHost:IRCAutoHost
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.freemarker:freemarker
+10	#DEP#org.springframework:spring-jdbc
+11	#DEP#commons-codec:commons-codec
+12	#DEP#org.nanohttpd:nanohttpd
+13	#DEP#com.google.guava:guava
+14	#DEP#org.apache.httpcomponents:httpcore
+15	#DEP#org.json:json
+16	#DEP#org.apache.derby:derby

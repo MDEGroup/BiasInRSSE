@@ -1,0 +1,11 @@
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.youth.banner:banner
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#android.arch.core:core-testing
+1	#DEP#android.arch.lifecycle:extensions
+1	#DEP#com.android.support:multidex
+1	#DEP#com.google.zxing:core
+1	#DEP#com.cocosw:bottomsheet
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.squareup.okio:okio

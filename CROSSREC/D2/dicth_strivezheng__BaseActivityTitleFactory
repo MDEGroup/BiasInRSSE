@@ -1,0 +1,12 @@
+1	git://github.com/strivezheng/BaseActivityTitleFactory.git
+2	#DEP#com.github.chrisbanes.actionbarpulltorefresh:library
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.youth.banner:banner
+5	#DEP#com.yolanda.nohttp:nohttp
+6	#DEP#com.github.castorflex.smoothprogressbar:library-circular
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.google.code.gson:gson
+12	#DEP#de.greenrobot:eventbus

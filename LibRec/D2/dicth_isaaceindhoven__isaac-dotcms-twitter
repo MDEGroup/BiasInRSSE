@@ -1,0 +1,17 @@
+1	git://github.com/isaaceindhoven/isaac-dotcms-twitter.git
+2	#DEP#com.dotcms.lib:dot.felix
+3	#DEP#com.dotcms.lib:dot.urlrewritefilter
+4	#DEP#com.dotcms.lib:dot.commons-lang
+5	#DEP#com.dotcms.lib:dot.log4j-api
+6	#DEP#com.dotcms.lib:dot.org.apache.felix.http.bundle
+7	#DEP#com.dotcms.lib:dot.jackson-core-asl
+8	#DEP#com.dotcms.lib:dot.portlet
+9	#DEP#com.dotcms.lib:dot.log4j-core
+10	#DEP#com.dotcms:dotcms
+11	#DEP#com.dotcms.lib:dot.jackson-mapper-asl
+12	#DEP#org.quartz-scheduler:quartz
+13	#DEP#javax.servlet:javax.servlet-api
+14	#DEP#org.springframework:spring-webmvc
+15	#DEP#com.dotcms.lib:dot.tika-app
+16	#DEP#org.twitter4j:twitter4j-core
+17	#DEP#com.dotcms.lib:dot.commons-io

@@ -1,0 +1,6 @@
+1	#DEP#org.jsr107.ri:cache-annotations-ri
+1	#DEP#org.jsr107.ri:cache-ri
+1	#DEP#javax.cache:cache-api
+1	#DEP#${project.groupId}:cache-annotations-ri-common
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-core

@@ -1,0 +1,6 @@
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.vpac.grisu:grisu-core
+1	#DEP#au.org.arcs.auth:arcs-gsi
+1	#DEP#junit:junit
+1	#DEP#org.vpac.grisu:grisu-client
+1	#DEP#com.google.gwt:gwt-servlet

@@ -1,0 +1,9 @@
+1	git://github.com/castagna/tdbloader4.git
+2	#DEP#javax.ws.rs:jsr311-api
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#junit:junit
+7	#DEP#org.apache.jena:jena-tdb
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.apache.hadoop:hadoop-test

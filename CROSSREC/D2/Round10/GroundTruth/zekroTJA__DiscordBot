@@ -1,0 +1,5 @@
+1	#DEP#fr.bmartel:jspeedtest
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.brunocvcunha.jiphy:jiphy
+1	#DEP#com.sedmelluq:lavaplayer

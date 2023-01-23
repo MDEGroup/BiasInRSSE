@@ -1,0 +1,9 @@
+1	git://github.com/crazyhitty/firebase-chat.git
+2	#DEP#com.google.firebase:firebase-auth
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.google.firebase:firebase-database
+5	#DEP#org.greenrobot:eventbus
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.google.firebase:firebase-messaging

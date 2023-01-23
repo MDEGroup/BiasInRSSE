@@ -1,0 +1,17 @@
+1	git://github.com/nuxeo/nuxeo-platform-ocr.git
+2	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-annotations-core-contrib
+3	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-annotations-core
+4	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-annotations-repository-plugin
+5	#DEP#org.nuxeo.ecm.platform:nuxeo-services-parent
+6	#DEP#org.nuxeo.ecm.core:nuxeo-core-api
+7	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-relations-core
+8	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-relations-default-config
+9	#DEP#commons-lang:commons-lang
+10	#DEP#org.nuxeo.runtime:nuxeo-runtime
+11	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-relations-api
+12	#DEP#org.nuxeo.common:nuxeo-common
+13	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-relations-jena-plugin
+14	#DEP#org.nuxeo.ecm.core:nuxeo-core-storage-sql
+15	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-convert
+16	#DEP#org.nuxeo.ecm.core:nuxeo-core-convert-api
+17	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-annotations-api

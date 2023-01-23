@@ -1,0 +1,7 @@
+1	#DEP#org.eclipse.mylyn.commons:org.eclipse.mylyn.commons.core
+1	#DEP#org.eclipse.mylyn.commons:org.eclipse.mylyn.commons.repositories.core
+1	#DEP#org.eclipse.mylyn.commons:org.eclipse.mylyn.commons.repositories.http.core
+1	#DEP#org.eclipse.core:org.eclipse.core.runtime
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+1	#DEP#commons-httpclient:commons-httpclient

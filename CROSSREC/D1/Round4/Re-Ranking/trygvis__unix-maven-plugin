@@ -1,0 +1,10 @@
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven:maven-model	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#org.codehaus.plexus:plexus-component-annotations	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#jdom:jdom	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#org.apache.maven:maven-compat	1.0
+#DEP#plexus:plexus-testFodder-componentWithPlexusXml	1.0
+#DEP#org.apache.xbean:xbean-reflect	1.0

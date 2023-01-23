@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-lang:commons-lang
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#commons-codec:commons-codec
+1	#DEP#junit:junit

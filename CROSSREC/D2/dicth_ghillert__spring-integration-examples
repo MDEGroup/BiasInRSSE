@@ -1,0 +1,9 @@
+1	git://github.com/ghillert/spring-integration-examples.git
+2	#DEP#org.slf4j:jcl-over-slf4j
+3	#DEP#commons-io:commons-io
+4	#DEP#ch.qos.logback:logback-classic
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.springframework.integration:spring-integration-core
+9	#DEP#org.springframework.integration:spring-integration-file

@@ -1,0 +1,9 @@
+1	git://github.com/arunkumar9t2/rxSuggestions.git
+2	#DEP#com.android.support:support-core-utils
+3	#DEP#com.jakewharton.rxbinding:rxbinding
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#junit:junit
+6	#DEP#com.android.support:design
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#io.reactivex:rxjava
+9	#DEP#io.reactivex:rxandroid

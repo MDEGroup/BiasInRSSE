@@ -1,0 +1,11 @@
+1	git://github.com/sevntu-checkstyle/dsm-maven-plugin.git
+2	#DEP#org.apache.maven.reporting:maven-reporting-api
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.dtangler:dtangler-core
+6	#DEP#com.google.guava:guava
+7	#DEP#org.apache.maven.doxia:doxia-sink-api
+8	#DEP#junit:junit
+9	#DEP#org.freemarker:freemarker
+10	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+11	#DEP#org.apache.maven.reporting:maven-reporting-impl

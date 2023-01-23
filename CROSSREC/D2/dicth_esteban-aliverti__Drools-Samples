@@ -1,0 +1,11 @@
+1	git://github.com/esteban-aliverti/Drools-Samples.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.drools:drools-api
+4	#DEP#org.drools:drools-compiler
+5	#DEP#org.drools:drools-spring
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.mortbay.jetty:jetty-embedded
+8	#DEP#org.springframework:spring-beans
+9	#DEP#junit:junit
+10	#DEP#org.springframework:spring-core
+11	#DEP#org.drools:drools-core

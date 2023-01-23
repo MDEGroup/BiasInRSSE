@@ -1,0 +1,16 @@
+1	git://github.com/softprog/spring-boot-pay.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.alibaba.druid:druid-wrapper
+4	#DEP#dom4j:dom4j
+5	#DEP#com.alibaba:fastjson
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+8	#DEP#org.springframework.cloud:spring-cloud-netflix
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#org.jdom:jdom
+12	#DEP#org.apache.directory.studio:org.apache.commons.codec
+13	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard
+14	#DEP#org.aspectj:aspectjtools
+15	#DEP#com.google.zxing:core
+16	#DEP#org.aspectj:aspectjrt

@@ -1,0 +1,10 @@
+1	git://github.com/krinsdeath/TeleportSuite_old.git
+2	#DEP#com.earth2me.essentials:Essentials
+3	#DEP#org.bukkit:bukkit
+4	#DEP#com.nijiko.coelho.iConomy:iConomy
+5	#DEP#com.iConomy:iConomy
+6	#DEP#cosine.boseconomy:BOSEconomy
+7	#DEP#com.iCo6:iConomy
+8	#DEP#junit:junit
+9	#DEP#fr.crafter.tickleman.RealShop:RealShop
+10	#DEP#me.ashtheking.currency:MultiCurrency

@@ -1,0 +1,15 @@
+1	git://github.com/davidmarquis/redisq.git
+2	#DEP#org.springframework.data:spring-data-redis
+3	#DEP#redis.clients:jedis
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#info.cukes:cucumber-junit
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.springframework:spring-test
+12	#DEP#info.cukes:cucumber-spring
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#info.cukes:cucumber-java
+15	#DEP#junit:junit

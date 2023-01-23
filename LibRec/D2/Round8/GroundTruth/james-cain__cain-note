@@ -1,0 +1,7 @@
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.xuliugen.demo:spring-session.demo
+1	#DEP#biz.paluch.redis:lettuce
+1	#DEP#junit:junit

@@ -1,0 +1,5 @@
+20	#DEP#com.amazonaws:aws-java-sdk-kms
+21	#DEP#junit:junit
+22	#DEP#com.google.auto.service:auto-service
+23	#DEP#com.google.crypto.tink:tink
+24	#DEP#com.google.crypto.tink:tink-android

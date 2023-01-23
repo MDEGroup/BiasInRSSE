@@ -1,0 +1,14 @@
+1	#DEP#com.ryanharter.auto.value:auto-value-parcel
+1	#DEP#com.ryanharter.auto.value:auto-value-gson
+1	#DEP#com.jakewharton.rxrelay:rxrelay
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#de.greenrobot:eventbus
+1	#DEP#net.hockeyapp.android:HockeySDK
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader
+1	#DEP#org.roboguice:roboguice
+1	#DEP#com.jakewharton.auto.value:auto-value-annotations
+1	#DEP#com.android.support:multidex
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#io.reactivex:rxjava

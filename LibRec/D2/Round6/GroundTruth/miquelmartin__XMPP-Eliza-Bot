@@ -1,0 +1,4 @@
+1	#DEP#org.socialblend.eliza:Parent
+1	#DEP#junit:junit
+1	#DEP#hayden:Eliza
+1	#DEP#jivesoftware:smackx

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.amazonaws:aws-java-sdk-s3	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#com.amazonaws:aws-lambda-java-log4j	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#io.klerch:alexa-skills-kit-tellask-java	1.0
+#DEP#io.klerch:alexa-skills-kit-states-java	1.0

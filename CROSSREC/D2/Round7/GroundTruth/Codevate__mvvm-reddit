@@ -1,0 +1,10 @@
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.androidannotations:androidannotations-api
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.ocpsoft.prettytime:prettytime
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

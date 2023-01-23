@@ -1,0 +1,6 @@
+1	#DEP#com.miglayout:miglayout
+1	#DEP#com.intellij:jdom
+1	#DEP#com.intellij:openapi
+1	#DEP#junit:junit
+1	#DEP#net.orfjackal.idea-sbt-plugin:sbt-plugin
+1	#DEP#commons-lang:commons-lang

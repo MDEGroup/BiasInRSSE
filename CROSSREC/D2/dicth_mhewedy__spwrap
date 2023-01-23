@@ -1,0 +1,14 @@
+1	git://github.com/mhewedy/spwrap.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#com.oracle:ojdbc6
+5	#DEP#com.microsoft:sqljdbc4
+6	#DEP#org.spockframework:spock-core
+7	#DEP#uk.org.lidalia:slf4j-test
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.codehaus.groovy:groovy-all
+10	#DEP#org.springframework:spring-jdbc
+11	#DEP#commons-dbutils:commons-dbutils
+12	#DEP#cglib:cglib-nodep
+13	#DEP#junit:junit
+14	#DEP#org.hsqldb:hsqldb

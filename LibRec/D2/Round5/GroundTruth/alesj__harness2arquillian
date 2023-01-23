@@ -1,0 +1,4 @@
+1	#DEP#javassist:javassist
+1	#DEP#org.jboss.test-harness:jboss-test-harness-api
+1	#DEP#org.jboss.arquillian:arquillian-impl-base
+1	#DEP#junit:junit

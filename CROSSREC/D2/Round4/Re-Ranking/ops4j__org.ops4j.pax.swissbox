@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.ops4j.pax.exam:pax-exam	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.ops4j.base:ops4j-base-io	1.0
+#DEP#org.ops4j:base	1.0
+#DEP#org.ops4j.base:ops4j-base-monitors	1.0
+#DEP#org.ops4j.base:ops4j-base-util	1.0

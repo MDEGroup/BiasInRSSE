@@ -1,0 +1,12 @@
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#nu.validator.htmlparser:htmlparser
+1	#DEP#org.apache.wicket:wicket-devutils
+1	#DEP#com.55minutes:fiftyfive-wicket-core
+1	#DEP#org.apache.wicket:wicket-datetime
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.shiro:shiro-web
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#junit:junit
+1	#DEP#com.55minutes:fiftyfive-wicket-js
+1	#DEP#com.55minutes:fiftyfive-util
+1	#DEP#com.55minutes:fiftyfive-wicket-test

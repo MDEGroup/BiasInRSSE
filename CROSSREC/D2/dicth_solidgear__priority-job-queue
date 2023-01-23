@@ -1,0 +1,11 @@
+1	git://github.com/solidgear/priority-job-queue.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.google.android.gms:play-services-gcm
+5	#DEP#com.birbit:android-priority-jobqueue
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#org.greenrobot:eventbus
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.android.support:design
+11	#DEP#com.squareup.retrofit2:converter-gson

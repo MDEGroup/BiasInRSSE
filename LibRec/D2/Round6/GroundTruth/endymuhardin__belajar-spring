@@ -1,0 +1,6 @@
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

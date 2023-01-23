@@ -1,0 +1,10 @@
+1	git://github.com/jbundle/biorhythm.git
+2	#DEP#org.jbundle.config:jbundle-parent
+3	#DEP#org.jbundle.util:org.jbundle.util.muffinmanager
+4	#DEP#org.jbundle.util.biorhythm:org.jbundle.util.biorhythm.osgi
+5	#DEP#org.jbundle.util.jcalendarbutton:org.jbundle.util.jcalendarbutton
+6	#DEP#org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.jnlp.sample
+7	#DEP#${project.groupId}:org.jbundle.util.biorhythm.i18n
+8	#DEP#${project.groupId}:org.jbundle.util.biorhythm
+9	#DEP#org.jbundle.util.biorhythm:jbundle-util-biorhythm-reactor
+10	#DEP#org.osgi:org.osgi.core

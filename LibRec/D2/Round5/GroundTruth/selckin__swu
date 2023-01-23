@@ -1,0 +1,8 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#joda-time:joda-time
+1	#DEP#cglib:cglib-nodep
+1	#DEP#be.selckin.swu:swu-base
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.apache.wicket:wicket-extensions

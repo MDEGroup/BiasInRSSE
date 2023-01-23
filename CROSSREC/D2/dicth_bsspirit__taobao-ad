@@ -1,0 +1,11 @@
+1	git://github.com/bsspirit/taobao-ad.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.taobao.api:client
+4	#DEP#log4j:log4j
+5	#DEP#org.mybatis:mybatis
+6	#DEP#commons-dbcp:commons-dbcp
+7	#DEP#javax:javaee-web-api
+8	#DEP#org.mybatis.caches:mybatis-ehcache
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang
+11	#DEP#cglib:cglib

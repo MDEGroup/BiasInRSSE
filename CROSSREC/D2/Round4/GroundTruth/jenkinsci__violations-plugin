@@ -1,0 +1,8 @@
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#xpp3:xpp3
+1	#DEP#root.project:primary-source
+1	#DEP#org.jenkins-ci.main:maven-plugin
+1	#DEP#root.project:servlets
+1	#DEP#junit:junit

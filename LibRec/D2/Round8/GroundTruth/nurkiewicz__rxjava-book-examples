@@ -1,0 +1,16 @@
+1	#DEP#com.google.android:android
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.twitter4j:twitter4j-stream
+1	#DEP#org.apache.activemq:activemq-client
+1	#DEP#org.apache.activemq:activemq-camel
+1	#DEP#commons-dbutils:commons-dbutils
+1	#DEP#io.dropwizard:dropwizard-metrics
+1	#DEP#org.springframework:spring-jms
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.camel:camel-rx
+1	#DEP#org.apache.camel:camel-kafka
+1	#DEP#junit:junit
+1	#DEP#com.couchbase.client:java-client
+1	#DEP#io.reactivex:rxjava
+1	#DEP#org.mongodb:mongodb-driver-rx

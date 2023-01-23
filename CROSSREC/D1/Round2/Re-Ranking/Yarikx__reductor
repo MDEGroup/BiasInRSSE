@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.testing.compile:compile-testing	1.0
+#DEP#com.google.auto.service:auto-service	1.0
+#DEP#com.google.auto:auto-common	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#com.google.dagger:dagger	1.0
+#DEP#com.google.dagger:dagger-compiler	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#com.github.lukaspili.processor-workflow:processor-workflow	1.0
+#DEP#org.robolectric:shadows-supportv4	1.0

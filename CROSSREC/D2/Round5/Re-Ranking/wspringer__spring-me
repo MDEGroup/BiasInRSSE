@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.capatect.restatic:restatic	1.0
+#DEP#org.liquibase.samples:liquibase-ext-sqlgenerator	1.0
+#DEP#org.capatect.restatic.core:restatic-core	1.0
+#DEP#org.liquibase.samples:liquibase-ext-change	1.0

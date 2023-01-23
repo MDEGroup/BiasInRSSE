@@ -1,0 +1,13 @@
+1	git://github.com/ovea-deprecated/testatoo-html4.git
+2	#DEP#org.testatoo:testatoo-config
+3	#DEP#com.ovea.tajin.server:tajin-server-tomcat7
+4	#DEP#org.testatoo:testatoo-selenium
+5	#DEP#org.testatoo:testatoo-core
+6	#DEP#org.seleniumhq.selenium:selenium-api
+7	#DEP#org.seleniumhq.selenium:selenium-java
+8	#DEP#org.mockito:mockito-core
+9	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+10	#DEP#com.ovea.tajin.server:tajin-server-jetty9
+11	#DEP#junit:junit
+12	#DEP#org.concordion:concordion
+13	#DEP#org.testatoo:testatoo

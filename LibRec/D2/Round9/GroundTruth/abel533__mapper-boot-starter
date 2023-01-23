@@ -1,0 +1,9 @@
+1	#DEP#tk.mybatis:mapper-spring
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#tk.mybatis:mapper-spring-boot-autoconfigure
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#ognl:ognl
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#tk.mybatis:mapper-parent
+1	#DEP#com.h2database:h2

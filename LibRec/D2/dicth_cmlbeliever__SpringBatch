@@ -1,0 +1,15 @@
+1	git://github.com/cmlbeliever/SpringBatch.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.slf4j:log4j-over-slf4j
+4	#DEP#commons-logging:commons-logging
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#bsf:bsf
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.batch:spring-batch-core
+9	#DEP#joda-time:joda-time
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.mybatis:mybatis
+12	#DEP#org.springframework.boot:spring-boot-autoconfigure
+13	#DEP#org.springframework.boot:spring-boot-starter-batch
+14	#DEP#org.mybatis:mybatis-spring
+15	#DEP#org.igniterealtime.smack:smack-extensions

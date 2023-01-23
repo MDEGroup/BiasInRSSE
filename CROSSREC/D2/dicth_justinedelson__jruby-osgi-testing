@@ -1,0 +1,10 @@
+1	git://github.com/justinedelson/jruby-osgi-testing.git
+2	#DEP#org.ops4j.pax.exam:pax-exam-junit
+3	#DEP#commons-io:commons-io
+4	#DEP#org.ops4j.pax.exam:pax-exam-container-default
+5	#DEP#org.jruby:jruby
+6	#DEP#com.justinedelson.jrubyosgi:jruby-osgi-tests-project
+7	#DEP#org.ops4j.pax.exam:pax-exam
+8	#DEP#commons-logging:commons-logging
+9	#DEP#org.osgi:org.osgi.core
+10	#DEP#com.justinedelson.jrubyosgi:api.bundle

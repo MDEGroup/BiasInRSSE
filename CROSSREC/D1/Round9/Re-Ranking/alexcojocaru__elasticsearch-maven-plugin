@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.eclipse.tycho:org.eclipse.osgi	1.0
+#DEP#org.eclipse.tycho:org.eclipse.jdt.compiler.apt	1.0
+#DEP#org.eclipse.tycho:tycho-core	1.0
+#DEP#org.eclipse.tycho:tycho-compiler-jdt	1.0
+#DEP#org.eclipse.tycho:org.eclipse.tycho.p2.resolver.shared	1.0
+#DEP#com.company.proficio:proficio-store-memory	1.0
+#DEP#org.codehaus.plexus:plexus-compiler-manager	1.0
+#DEP#org.eclipse.tycho:tycho-testing-harness	1.0
+#DEP#org.eclipse.tycho:sisu-equinox-api	1.0

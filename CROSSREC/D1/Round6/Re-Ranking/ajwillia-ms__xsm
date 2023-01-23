@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.wicket:wicket-extensions	1.0
+#DEP#org.apache.velocity:velocity	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#stax:stax-api	1.0
+#DEP#javax.activation:activation	1.0
+#DEP#org.mortbay.jetty:jetty-util	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#oracle:jdbc	1.0

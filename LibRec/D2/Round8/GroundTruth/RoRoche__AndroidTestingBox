@@ -1,0 +1,17 @@
+1	#DEP#com.android.support:support-core-utils
+1	#DEP#com.tngtech.jgiven:jgiven-junit
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:support-fragment
+1	#DEP#org.jetbrains.spek:spek-junit-platform-engine
+1	#DEP#com.google.truth:truth
+1	#DEP#com.android.support:animated-vector-drawable
+1	#DEP#org.khronos:opengl-api
+1	#DEP#com.greghaskins:spectrum
+1	#DEP#org.robolectric:shadows-multidex
+1	#DEP#org.robolectric:shadows-support-v4
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support:multidex
+1	#DEP#org.amshove.kluent:kluent
+1	#DEP#com.tngtech.jgiven:jgiven-android
+1	#DEP#junit:junit
+1	#DEP#org.junit.platform:junit-platform-runner

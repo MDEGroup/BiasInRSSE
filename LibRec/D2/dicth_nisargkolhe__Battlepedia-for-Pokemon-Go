@@ -1,0 +1,10 @@
+1	git://github.com/nisargkolhe/Battlepedia-for-Pokemon-Go.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.koushikdutta.ion:ion
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design

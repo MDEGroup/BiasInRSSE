@@ -1,0 +1,9 @@
+1	git://github.com/InMobi/messaging-client-scribe.git
+2	#DEP#com.inmobi.stats:common
+3	#DEP#com.cgbystrom:netty-tools
+4	#DEP#inmobi.messaging.client:core
+5	#DEP#log4j:log4j
+6	#DEP#org.testng:testng
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.jboss.netty:netty
+9	#DEP#org.apache.thrift:libthrift

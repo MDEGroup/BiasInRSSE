@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.doc	1.0
+#DEP#org.apache.sling:org.apache.sling.commons.json	1.0
+#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.utils	1.0
+#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.testutils	1.0

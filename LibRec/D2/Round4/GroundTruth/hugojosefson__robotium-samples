@@ -1,0 +1,5 @@
+1	#DEP#com.jayway.android.com.metago.astro:astro
+1	#DEP#com.google.android:android-test
+1	#DEP#com.jayway.android.robotium.samples:samples
+1	#DEP#com.jayway.android.robotium.samples.srplayer:srplayer-app
+1	#DEP#com.jayway.android.robotium.samples.secrets-for-android:secrets-for-android

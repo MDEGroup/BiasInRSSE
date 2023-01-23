@@ -1,0 +1,10 @@
+1	git://github.com/sandrios/sandriosCamera.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.karumi:dexter
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.yalantis:ucrop
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design

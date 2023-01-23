@@ -1,0 +1,7 @@
+28	#DEP#com.google.code.guice:guice
+29	#DEP#org.jivesoftware:smack
+30	#DEP#batik:batik-util
+31	#DEP#batik:batik-awt-util
+32	#DEP#picocontainer:picocontainer
+33	#DEP#log4j:log4j
+34	#DEP#net.java.dev.scenegraph:scenario

@@ -1,0 +1,9 @@
+1	git://github.com/HpWens/WRecyclerView.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.flyco.dialog:FlycoDialog_Lib
+4	#DEP#com.github.promeg:tinypinyin
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.nineoldandroids:library
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

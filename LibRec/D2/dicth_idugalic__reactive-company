@@ -1,0 +1,9 @@
+1	git://github.com/idugalic/reactive-company.git
+2	#DEP#org.springframework.boot:spring-boot-starter-test
+3	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+4	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb-reactive
+5	#DEP#de.flapdoodle.embed:de.flapdoodle.embed.mongo
+6	#DEP#io.projectreactor.addons:reactor-test
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#io.gatling.highcharts:gatling-charts-highcharts
+9	#DEP#org.springframework.boot:spring-boot-starter-webflux

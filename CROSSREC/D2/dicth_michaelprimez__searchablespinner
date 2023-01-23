@@ -1,0 +1,9 @@
+1	git://github.com/michaelprimez/searchablespinner.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#gr.escsoft.michaelprimez.revealedittext:RevealEditText
+4	#DEP#com.android.support:cardview-v7
+5	#DEP#com.amulyakhare:com.amulyakhare.textdrawable
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.joanzapata.iconify:android-iconify-material

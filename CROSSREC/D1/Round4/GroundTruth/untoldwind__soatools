@@ -1,0 +1,17 @@
+69	#DEP#org.jbpm:jbpm-jpdl
+70	#DEP#org.apache.camel:camel-jpa
+71	#DEP#org.springframework:spring-jdbc
+72	#DEP#jboss:jboss-jmx-rmi-connector-client
+73	#DEP#de.objectcode.soatools.logging:soatools-logging-logstore
+74	#DEP#org.jboss.resteasy:resteasy-jaxrs
+75	#DEP#org.springframework.security:spring-security-config
+76	#DEP#com.google.gwt:gwt-user
+77	#DEP#javassist:javassist
+78	#DEP#de.objectcode.soatools.test.services:soatools-test-services-webservice-in
+79	#DEP#mysql:mysql-connector-java
+80	#DEP#de.objectcode.soatools.test.services:soatools-test-services-mock-webservice
+81	#DEP#org.testng:testng
+82	#DEP#org.milyn:milyn-smooks-core
+83	#DEP#org.jboss.client:jbossall-client
+84	#DEP#org.springframework:spring-tx
+85	#DEP#javax.xml.ws:jaxws-api

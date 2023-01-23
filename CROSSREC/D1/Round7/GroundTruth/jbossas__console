@@ -1,0 +1,5 @@
+20	#DEP#org.jboss.ballroom:widgets
+21	#DEP#com.google.gwt:gwt-servlet
+22	#DEP#org.jboss.as:jboss-as-console-flow
+23	#DEP#org.jboss.as:diagnostics
+24	#DEP#log4j:log4j

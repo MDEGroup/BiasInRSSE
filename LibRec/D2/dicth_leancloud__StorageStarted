@@ -1,0 +1,9 @@
+1	git://github.com/leancloud/StorageStarted.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#cn.leancloud.android:avoscloud-sdk
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#cn.leancloud.android:avoscloud-statistics
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

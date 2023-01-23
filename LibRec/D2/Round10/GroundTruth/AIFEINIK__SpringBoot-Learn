@@ -1,0 +1,13 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.boot:spring-boot-starter-redis
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#org.springframework.boot:spring-boot-starter-log4j2
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#junit:junit

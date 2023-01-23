@@ -1,0 +1,11 @@
+1	git://github.com/zinniasystems/Nectar.git
+2	#DEP#com.zinnia:Nectar
+3	#DEP#org.apache.hadoop:hadoop-mapred
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#jline:jline
+6	#DEP#com.zinnia:Nectar-regression
+7	#DEP#org.apache.commons:commons-math
+8	#DEP#commons-logging:commons-logging
+9	#DEP#org.antlr:antlr-runtime
+10	#DEP#org.apache.hadoop:hadoop-hdfs
+11	#DEP#com.zinnia:Nectar-common

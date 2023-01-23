@@ -1,0 +1,12 @@
+1	git://github.com/luojilab/DDComponentForAndroid.git
+2	#DEP#com.luojilab.ddcomponent:router-anno-compiler
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#org.apache.commons:commons-collections4
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#com.alibaba:fastjson
+7	#DEP#com.squareup:javapoet
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.auto.service:auto-service
+10	#DEP#junit:junit
+11	#DEP#com.luojilab.ddcomponent:componentlib
+12	#DEP#com.android.tools.build:gradle

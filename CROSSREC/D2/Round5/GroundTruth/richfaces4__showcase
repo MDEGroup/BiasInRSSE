@@ -1,0 +1,13 @@
+1	#DEP#org.atmosphere:atmosphere-runtime
+1	#DEP#org.jboss.netty:netty
+1	#DEP#javax.validation:validation-api
+1	#DEP#org.richfaces:richfaces-root-parent
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.ocpsoft.rewrite:rewrite-servlet
+1	#DEP#org.hsqldb:hsqldb-j5
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.richfaces.ui:richfaces-components-ui
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.hornetq:hornetq-logging
+1	#DEP#org.jboss.weld.servlet:weld-servlet

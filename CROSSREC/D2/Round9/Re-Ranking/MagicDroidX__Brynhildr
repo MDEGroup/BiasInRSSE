@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#net.milkbowl.vault:VaultAPI	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.mcstats.bukkit:metrics	1.0
+#DEP#com.googlecode.json-simple:json-simple	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#org.spigotmc:spigot	1.0

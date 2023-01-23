@@ -1,0 +1,5 @@
+1	#DEP#net.thucydides.plugins.jira:thucydides-jira-plugin
+1	#DEP#net.thucydides:thucydides-junit
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit
+1	#DEP#com.googlecode.lambdaj:lambdaj

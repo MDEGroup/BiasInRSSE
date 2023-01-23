@@ -1,0 +1,2 @@
+9	#DEP#junit:junit
+10	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2

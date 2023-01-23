@@ -1,0 +1,11 @@
+1	git://github.com/bingoogolapple/BGABadgeView-Android.git
+2	#DEP#cn.bingoogolapple:bga-badgeview-api
+3	#DEP#com.google.auto:auto-common
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#cn.bingoogolapple:bga-baseadapter
+6	#DEP#com.google.android:android
+7	#DEP#cn.bingoogolapple:bga-badgeview-compiler
+8	#DEP#com.squareup:javapoet
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.google.auto.service:auto-service
+11	#DEP#com.android.support:design

@@ -1,0 +1,7 @@
+1	#DEP#org.hibernate:hibernate-envers
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.liquibase:liquibase-core
+1	#DEP#org.springframework:spring-test
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.h2database:h2

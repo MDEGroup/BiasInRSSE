@@ -1,0 +1,10 @@
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.jcodec:jcodec	1.0
+#DEP#tech.tablesaw:tablesaw-core	1.0
+#DEP#com.twelvemonkeys.imageio:imageio-psd	1.0
+#DEP#org.bytedeco.javacpp-presets:leptonica-platform	1.0
+#DEP#org.datavec:datavec-spark-inference-model	1.0
+#DEP#com.typesafe.play:play-json_2.11	1.0

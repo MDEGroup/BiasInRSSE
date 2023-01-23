@@ -1,0 +1,9 @@
+1	git://github.com/jjdxmashl/jjdxm_ucloudlive.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.dou361.customui:jjdxm-customui
+4	#DEP#com.dou361.baseutils:jjdxm-baseutils
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.github.florent37:viewanimator
+7	#DEP#com.dou361.statusbar:jjdxm-statusbar
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife

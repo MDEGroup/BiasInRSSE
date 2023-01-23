@@ -1,0 +1,16 @@
+65	#DEP#org.slf4j:slf4j-api
+66	#DEP#com.springsource.insight:insight-util
+67	#DEP#org.mockito:mockito-all
+68	#DEP#org.springframework:spring-jdbc
+69	#DEP#com.springsource.insight:insight-collection
+70	#DEP#javax.portlet:portlet-api
+71	#DEP#com.springsource.insight:insight-intercept
+72	#DEP#org.springframework:spring-oxm
+73	#DEP#org.apache.jackrabbit:jackrabbit-core
+74	#DEP#org.slf4j:jcl-over-slf4j
+75	#DEP#commons-dbcp:commons-dbcp
+76	#DEP#org.springframework:spring-tx
+77	#DEP#org.hibernate:hibernate-core
+78	#DEP#net.sf.portletunit:portletunit2
+79	#DEP#com.springsource.insight:insight-annotation
+80	#DEP#com.typesafe.akka:akka-actor

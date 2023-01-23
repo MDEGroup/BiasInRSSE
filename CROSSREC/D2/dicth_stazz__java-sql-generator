@@ -1,0 +1,11 @@
+1	git://github.com/stazz/java-sql-generator.git
+2	#DEP#org.java-sql-generator:org.java-sql-generator.api
+3	#DEP#org.api-typeable-pojos:org.api-typeable-pojos.spi
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.qi4j.core:org.qi4j.core.bootstrap
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.api-typeable-pojos:org.api-typeable-pojos.api
+9	#DEP#junit:junit
+10	#DEP#org.qi4j.core:org.qi4j.core.api
+11	#DEP#org.java-sql-generator:org.java-sql-generator

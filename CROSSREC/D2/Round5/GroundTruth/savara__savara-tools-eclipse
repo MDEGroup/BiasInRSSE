@@ -1,0 +1,15 @@
+1	#DEP#org.scribble.bundles:org.scribble.protocol.export.monitor
+1	#DEP#org.savara.tools:org.savara.tools.bpmn2
+1	#DEP#org.savara.tools:org.savara.tools.wsdl
+1	#DEP#org.savara.bundles:org.savara.wsdl
+1	#DEP#org.savara.tools:org.savara.tools.switchyard.bpel
+1	#DEP#org.savara.bundles:org.savara.bpmn2.model
+1	#DEP#org.savara.bundles:org.savara.scenario.simulator.switchyard
+1	#DEP#org.savara.bundles:org.savara.switchyard.bpel
+1	#DEP#org.scribble.bundles:org.scribble.protocol
+1	#DEP#org.scribble.bundles:org.scribble.protocol.projection
+1	#DEP#org.savara.tools:features
+1	#DEP#org.savara.bundles:org.savara.java
+1	#DEP#org.savara.bundles:org.savara.common
+1	#DEP#org.savara.bundles:org.savara.switchyard.java
+1	#DEP#org.savara.bundles:org.savara.scenario.simulator.protocol

@@ -1,0 +1,10 @@
+1	git://github.com/mutualmobile/Barricade.git
+2	#DEP#com.jakewharton.espresso:okhttp3-idling-resource
+3	#DEP#com.squareup.retrofit2:retrofit
+4	#DEP#com.squareup:javapoet
+5	#DEP#junit:junit
+6	#DEP#com.google.auto.service:auto-service
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#com.android.support.test:runner
+9	#DEP#com.google.truth:truth
+10	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,10 @@
+1	git://github.com/jcraane/Restatic.git
+2	#DEP#org.antlr:stringtemplate
+3	#DEP#org.capatect.restatic:restatic
+4	#DEP#org.capatect.restatic.core:restatic-core
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#org.easymock:easymock
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#junit:junit
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#commons-lang:commons-lang

@@ -1,0 +1,5 @@
+1	#DEP#org.erlang.otp:jinterface
+1	#DEP#junit:junit
+1	#DEP#com.github.ghaskins:osclarity
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven.reporting:maven-reporting-impl

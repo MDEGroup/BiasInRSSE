@@ -1,0 +1,6 @@
+1	#DEP#org.apache.logging.log4j:log4j-core
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.reactivestreams:reactive-streams
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#io.projectreactor:reactor-bom

@@ -1,0 +1,11 @@
+1	#DEP#org.icepush:icepush
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.apache.camel:camel-jetty
+1	#DEP#com.vaadin:vaadin
+1	#DEP#org.vaadin.addons:icepush
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#se.scalablesolutions.akka:akka-http
+1	#DEP#se.scalablesolutions.akka:akka-persistence-redis
+1	#DEP#se.scalablesolutions.akka:akka-persistence-couchdb
+1	#DEP#org.apache.camel:camel-jms
+1	#DEP#org.apache.activemq:activemq-core

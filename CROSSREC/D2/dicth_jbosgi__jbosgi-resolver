@@ -1,0 +1,14 @@
+1	git://github.com/jbosgi/jbosgi-resolver.git
+2	#DEP#org.jboss.osgi.resolver:jbosgi-resolver-api
+3	#DEP#org.jboss.osgi.testing:jbosgi-testing
+4	#DEP#org.jboss.osgi.metadata:jbosgi-metadata
+5	#DEP#org.jboss:jboss-vfs
+6	#DEP#org.jboss.osgi:jbosgi-parent
+7	#DEP#org.jboss.modules:jboss-modules
+8	#DEP#org.jboss.logging:jboss-logging-processor
+9	#DEP#org.jboss.osgi.spi:jbosgi-spi
+10	#DEP#org.jboss.logging:jboss-logging
+11	#DEP#junit:junit
+12	#DEP#org.jboss.osgi.resolver:jbosgi-resolver-parent
+13	#DEP#org.osgi:org.osgi.core
+14	#DEP#org.jboss.logmanager:jboss-logmanager

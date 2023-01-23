@@ -1,0 +1,9 @@
+1	git://github.com/alibaba/asyncload.git
+2	#DEP#org.springframework:spring
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.springframework:spring-test
+5	#DEP#javassist:javassist
+6	#DEP#asm:asm
+7	#DEP#oro:oro
+8	#DEP#junit:junit
+9	#DEP#cglib:cglib

@@ -1,0 +1,10 @@
+1	git://github.com/pedrovgs/EffectiveAndroidUI.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.squareup.dagger:dagger-compiler
+4	#DEP#com.github.pedrovgs:renderers
+5	#DEP#com.squareup.picasso:picasso
+6	#DEP#com.squareup.dagger:dagger
+7	#DEP#com.github.pedrovgs:draggablepanel
+8	#DEP#com.android.support:support-v4
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.jakewharton:butterknife

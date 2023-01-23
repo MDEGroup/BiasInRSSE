@@ -1,0 +1,8 @@
+1	#DEP#org.jboss.seam.social:seam-social-api
+1	#DEP#org.scribe:scribe
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.glassfish.extras:glassfish-embedded-all
+1	#DEP#org.jboss.seam:seam-parent
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.jboss.seam.social:seam-social

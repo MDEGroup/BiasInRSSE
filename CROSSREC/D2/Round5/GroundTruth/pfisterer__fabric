@@ -1,0 +1,11 @@
+1	#DEP#de.uniluebeck.itm:fabric.module.api
+1	#DEP#de.uniluebeck.itm:fabric.module.microfibre
+1	#DEP#org.apache.xmlbeans:xmlbeans
+1	#DEP#de.uniluebeck.itm:fabric.module.exi
+1	#DEP#de.uniluebeck.itm:fabric.module.macrofibre
+1	#DEP#xerces:xercesImpl
+1	#DEP#com.google.guava:guava
+1	#DEP#de.uniluebeck.itm:fabric.module.typegen
+1	#DEP#junit:junit
+1	#DEP#de.uniluebeck.itm:fabric.wsdl-schema-parser
+1	#DEP#wsdl4j:wsdl4j

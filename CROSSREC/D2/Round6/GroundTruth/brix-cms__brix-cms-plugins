@@ -1,0 +1,15 @@
+1	#DEP#brix-plugins:brix-plugin-content
+1	#DEP#org.brixcms:brix-plugin-menu
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.brixcms:brix-jackrabbit
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.brixcms:brix-plugin-publish
+1	#DEP#org.jsoup:jsoup
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#brix-plugins:brix-plugin-jpa
+1	#DEP#org.apache.commons:commons-imaging
+1	#DEP#junit:junit
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#com.h2database:h2

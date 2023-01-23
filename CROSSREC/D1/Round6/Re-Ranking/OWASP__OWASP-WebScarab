@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#xml-apis:xml-apis	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#xerces:xercesImpl	1.0
+#DEP#com.itextpdf:itext-parent	1.0
+#DEP#org.seleniumhq.selenium:selenium-leg-rc	1.0

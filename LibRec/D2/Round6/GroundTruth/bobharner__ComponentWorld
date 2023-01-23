@@ -1,0 +1,6 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.apache.ddlutils:ddlutils
+1	#DEP#org.apache.tapestry:tapestry-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.apache.derby:derby

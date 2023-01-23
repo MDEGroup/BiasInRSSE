@@ -1,0 +1,9 @@
+1	#DEP#com.graphql-java:graphql-java
+1	#DEP#net.dongliu:gson-java8-datatype
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#io.leangen.geantyref:geantyref
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#junit:junit
+1	#DEP#com.fasterxml.jackson.module:jackson-module-parameter-names
+1	#DEP#com.fasterxml.jackson:jackson-bom
+1	#DEP#cglib:cglib

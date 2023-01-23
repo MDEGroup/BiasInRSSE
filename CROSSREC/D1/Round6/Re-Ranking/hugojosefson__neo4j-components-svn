@@ -1,0 +1,10 @@
+#DEP#org.neo4j:neo4j-kernel	1.0
+#DEP#org.scala-lang:scala-library	1.0
+#DEP#org.geotools:gt-shapefile	1.0
+#DEP#org.neo4j:neo4j-lucene-index	1.0
+#DEP#org.beanshell:bsh-commands	1.0
+#DEP#de.wikimedia:WikiWord	1.0
+#DEP#ardverk:patricia-trie	1.0
+#DEP#de.brightbyte:BrightByteDB	1.0
+#DEP#de.brightbyte:BrightByteRDF	1.0
+#DEP#org.beanshell:bsh-classpath	1.0

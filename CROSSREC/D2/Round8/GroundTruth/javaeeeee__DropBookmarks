@@ -1,0 +1,6 @@
+1	#DEP#io.dropwizard:dropwizard-bom
+1	#DEP#io.dropwizard:dropwizard-testing
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#io.dropwizard:dropwizard-core
+1	#DEP#com.h2database:h2
+1	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2

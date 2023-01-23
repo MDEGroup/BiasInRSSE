@@ -1,0 +1,12 @@
+1	git://github.com/yuhuanxi/sboot-learn.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+5	#DEP#com.alibaba:druid
+6	#DEP#org.springframework.boot:spring-boot-starter-mail
+7	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+8	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.projectlombok:lombok
+11	#DEP#org.springframework.boot:spring-boot-starter-web
+12	#DEP#com.yhx.sboot-learn:sboot-root

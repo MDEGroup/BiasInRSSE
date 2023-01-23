@@ -1,0 +1,10 @@
+1	git://github.com/tfredrich/Domain-Eventing.git
+2	#DEP#org.apache.kafka:kafka-clients
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.strategicgains.domain-eventing:domain-eventing-core
+5	#DEP#com.strategicgains.domain-eventing:domain-eventing-parent
+6	#DEP#com.typesafe.akka:akka-actor_2.11
+7	#DEP#com.hazelcast:hazelcast
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#com.typesafe.akka:akka-testkit_2.11

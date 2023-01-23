@@ -1,0 +1,9 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.ctp.javaone:archiver
+1	#DEP#org.fusesource.jansi:jansi
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.slf4j:slf4j-ext
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian.container:arquillian-weld-se-embedded-1.1

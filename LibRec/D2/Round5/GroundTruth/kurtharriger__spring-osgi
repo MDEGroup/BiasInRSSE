@@ -1,0 +1,15 @@
+1	#DEP#org.slf4j:com.springsource.slf4j.api
+1	#DEP#org.springframework.osgi:spring-osgi-io
+1	#DEP#org.springframework.osgi.iandt:simple.service2
+1	#DEP#net.sourceforge.cglib:com.springsource.net.sf.cglib
+1	#DEP#org.apache.felix:org.osgi.compendium
+1	#DEP#org.apache.log4j:com.springsource.org.apache.log4j
+1	#DEP#org.springframework:org.springframework.beans
+1	#DEP#org.springframework.osgi.iandt.blueprint:bundles
+1	#DEP#org.springframework:org.springframework.aop
+1	#DEP#org.springframework.osgi:spring-osgi
+1	#DEP#org.junit:com.springsource.junit
+1	#DEP#org.springframework.osgi:spring-osgi-mock
+1	#DEP#org.osgi:osgi_R4_compendium
+1	#DEP#org.springframework.osgi:spring-osgi-annotation
+1	#DEP#org.springframework.osgi.iandt:simple.service

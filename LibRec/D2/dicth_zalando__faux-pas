@@ -1,0 +1,11 @@
+1	git://github.com/zalando/faux-pas.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.slf4j:slf4j-nop
+4	#DEP#org.hobsoft.hamcrest:hamcrest-compose
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.junit.platform:junit-platform-launcher
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#com.google.gag:gag
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.projectlombok:lombok
+11	#DEP#org.hamcrest:java-hamcrest

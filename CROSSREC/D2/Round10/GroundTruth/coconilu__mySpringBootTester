@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.hateoas:spring-hateoas
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2

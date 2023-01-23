@@ -1,0 +1,11 @@
+1	git://github.com/afollestad/pi-feeder-android.git
+2	#DEP#com.afollestad:bridge
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.afollestad:assent
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.orhanobut:hawk
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.afollestad:udpdiscovery
+11	#DEP#com.afollestad.material-dialogs:commons

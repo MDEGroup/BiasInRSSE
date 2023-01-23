@@ -1,0 +1,15 @@
+1	git://github.com/rhwayfun/spring-boot-learning-examples.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter
+4	#DEP#org.springframework.boot:spring-boot-starter-log4j2
+5	#DEP#org.mockito:mockito-all
+6	#DEP#com.rhwayfun:spring-boot-learning-examples
+7	#DEP#org.springframework.boot:spring-boot-configuration-processor
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.dangdang:sharding-jdbc-core
+10	#DEP#com.alibaba:druid
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+13	#DEP#org.springframework.boot:spring-boot-autoconfigure
+14	#DEP#com.rhwayfun:spring-boot-starter
+15	#DEP#org.springframework.boot:spring-boot-devtools

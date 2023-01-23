@@ -1,0 +1,4 @@
+20	#DEP#junit:junit
+21	#DEP#com.marverenic.heterogeneousadapter:heterogeneousadapter
+22	#DEP#io.reactivex:rxjava
+23	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,11 @@
+1	git://github.com/braintree/braintree-android-drop-in.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#com.squareup.retrofit:retrofit
+6	#DEP#com.lukekorth:device-automator
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.google.android.gms:play-services-wallet
+9	#DEP#io.card:android-sdk
+10	#DEP#junit:junit
+11	#DEP#com.lukekorth:mailable_log

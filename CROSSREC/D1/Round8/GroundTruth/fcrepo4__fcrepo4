@@ -1,0 +1,17 @@
+71	#DEP#org.apache.jena:jena-core
+72	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2
+73	#DEP#com.fasterxml.jackson.core:jackson-core
+74	#DEP#org.springframework:spring-web
+75	#DEP#org.fcrepo:fcrepo-jcr-bom
+76	#DEP#io.dropwizard.metrics:metrics-annotation
+77	#DEP#org.glassfish.jersey.core:jersey-server
+78	#DEP#org.eclipse.jetty:jetty-servlets
+79	#DEP#org.mockito:mockito-core
+80	#DEP#javax.servlet:javax.servlet-api
+81	#DEP#ch.qos.logback:logback-classic
+82	#DEP#commons-digester:commons-digester
+83	#DEP#org.eclipse.jetty:jetty-webapp
+84	#DEP#com.amazonaws:aws-java-sdk-core
+85	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+86	#DEP#org.fcrepo:fcrepo-auth-webac
+87	#DEP#com.github.jsonld-java:jsonld-java

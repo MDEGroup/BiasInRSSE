@@ -1,0 +1,11 @@
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#com.healthmarketscience.sqlbuilder:sqlbuilder
+1	#DEP#org.linqs:psl
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#log4j:log4j
+1	#DEP#org.linqs:psl-parser
+1	#DEP#com.google.guava:guava
+1	#DEP#edu.emory.mathcs:jplasma
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2
+1	#DEP#org.antlr:antlr4-runtime

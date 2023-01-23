@@ -1,0 +1,10 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework.batch:spring-batch-test
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework.batch:spring-batch-infrastructure
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

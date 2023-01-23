@@ -1,0 +1,7 @@
+32	#DEP#io.netty:netty-buffer
+33	#DEP#ch.qos.logback:logback-classic
+34	#DEP#org.eclipse.jetty.websocket:websocket-servlet
+35	#DEP#commons-fileupload:commons-fileupload
+36	#DEP#org.eclipse.jetty:jetty-proxy
+37	#DEP#io.reactivex:rxjava
+38	#DEP#org.asynchttpclient:async-http-client-netty-utils

@@ -1,0 +1,9 @@
+1	#DEP#org.eclipse.m2e.tests.diff:parent
+1	#DEP#org.eclipse.m2e.tests:multi-parent
+1	#DEP#org.eclipse.m2e.tests.modules:project1
+1	#DEP#test:move-but-exists
+1	#DEP#org.eclipse.m2e.tests:dep_exists_diff_version_diff_poms_parent
+1	#DEP#org.eclipse.m2e.tests:grandparent-parent
+1	#DEP#org.eclipse.m2e.tests:broken_child
+1	#DEP#test:to-move
+1	#DEP#junit:junit

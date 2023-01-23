@@ -1,0 +1,14 @@
+1	git://github.com/boontadata/boontadata-streams.git
+2	#DEP#org.apache.kafka:kafka-clients
+3	#DEP#com.tuplejump:kafka-connect-cassandra_2.11
+4	#DEP#org.apache.kafka:kafka-streams
+5	#DEP#org.apache.flink:flink-connector-cassandra_2.11
+6	#DEP#org.apache.flink:flink-java
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.apache.flink:flink-clients_2.11
+9	#DEP#org.apache.flink:flink-clients_2.10
+10	#DEP#com.codahale.metrics:metrics-core
+11	#DEP#org.apache.flink:flink-streaming-java_2.10
+12	#DEP#org.apache.flink:flink-streaming-java_2.11
+13	#DEP#org.apache.flink:flink-connector-kafka-0.8_2.11
+14	#DEP#junit:junit

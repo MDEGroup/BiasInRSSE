@@ -1,0 +1,15 @@
+1	git://github.com/chrisichris/yeti-maven-plugin.git
+2	#DEP#org.apache.maven.reporting:maven-reporting-api
+3	#DEP#org.apache.commons:commons-exec
+4	#DEP#org.yaml:snakeyaml
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#org.apache.maven.doxia:doxia-sink-api
+7	#DEP#org.yeti:yeti
+8	#DEP#org.apache.maven:maven-model
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.maven:maven-core
+11	#DEP#org.codehaus.plexus:plexus-utils
+12	#DEP#junit:junit
+13	#DEP#org.apache.maven.shared:maven-invoker
+14	#DEP#org.apache.maven.shared:maven-dependency-tree
+15	#DEP#org.apache.maven:maven-artifact

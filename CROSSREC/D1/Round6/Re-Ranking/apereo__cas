@@ -1,0 +1,10 @@
+#DEP#com.squareup.okhttp3:okhttp	1.0
+#DEP#com.squareup.okhttp3:logging-interceptor	1.0
+#DEP#com.anthonycr.grant:permissions	1.0
+#DEP#${project.parent.groupId}:core	1.0
+#DEP#${project.parent.groupId}:core-cpp	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#com.bladejava:blade-jdbc-core	1.0
+#DEP#org.sql2o:sql2o	1.0
+#DEP#com.bladejava:blade-jdbc	1.0
+#DEP#link.fls:swipestack	1.0

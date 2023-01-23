@@ -1,0 +1,11 @@
+1	git://github.com/tomighty/tomighty.git
+2	#DEP#com.google.inject:guice
+3	#DEP#com.mycila:mycila-guice
+4	#DEP#org.mockito:mockito-core
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+7	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.tomighty:tomighty-parent
+10	#DEP#org.tomighty:tomighty-api
+11	#DEP#junit:junit

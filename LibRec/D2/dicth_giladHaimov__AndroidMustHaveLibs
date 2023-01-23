@@ -1,0 +1,11 @@
+1	git://github.com/giladHaimov/AndroidMustHaveLibs.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.squareup.picasso:picasso
+5	#DEP#com.michaelpardo:activeandroid
+6	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+7	#DEP#org.greenrobot:eventbus
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.jakewharton:butterknife

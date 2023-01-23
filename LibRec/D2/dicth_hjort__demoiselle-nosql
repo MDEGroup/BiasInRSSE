@@ -1,0 +1,9 @@
+1	git://github.com/hjort/demoiselle-nosql.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#org.mongodb:mongo-java-driver
+4	#DEP#br.gov.frameworkdemoiselle.component:demoiselle-component-parent
+5	#DEP#br.gov.frameworkdemoiselle.component:demoiselle-junit
+6	#DEP#log4j:log4j
+7	#DEP#me.prettyprint:hector-core
+8	#DEP#br.gov.frameworkdemoiselle:demoiselle-core
+9	#DEP#junit:junit

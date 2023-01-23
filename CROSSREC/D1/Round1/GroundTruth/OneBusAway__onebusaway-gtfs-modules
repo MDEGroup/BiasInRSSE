@@ -1,0 +1,4 @@
+16	#DEP#org.json:json
+17	#DEP#org.onebusaway:onebusaway-gtfs
+18	#DEP#junit:junit
+19	#DEP#org.hsqldb:hsqldb

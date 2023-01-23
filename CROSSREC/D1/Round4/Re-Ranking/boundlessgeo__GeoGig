@@ -1,0 +1,10 @@
+#DEP#commons-io:commons-io	1.0
+#DEP#org.geotools:gt-shapefile	1.0
+#DEP#net.sf.trove4j:trove4j	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.wikibrainapi:wdtk-storage	1.0
+#DEP#org.wikibrainapi:wikibrain-loader	1.0
+#DEP#org.wikibrainapi:wikibrain-download	1.0
+#DEP#org.geotools:gt-data	1.0
+#DEP#net.sourceforge.jeval:jeval	1.0
+#DEP#org.wikibrainapi:wikibrain-matrix	1.0

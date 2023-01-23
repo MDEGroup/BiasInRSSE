@@ -1,0 +1,5 @@
+20	#DEP#gmultipart:gmultipart
+21	#DEP#commons-fileupload:commons-fileupload
+22	#DEP#junit:junit
+23	#DEP#org.hsqldb:hsqldb
+24	#DEP#com.google.appengine:appengine-testing

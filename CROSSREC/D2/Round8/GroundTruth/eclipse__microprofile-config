@@ -1,0 +1,6 @@
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.testng:testng
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+1	#DEP#org.eclipse.microprofile.config:microprofile-config-api
+1	#DEP#org.jboss.arquillian.testng:arquillian-testng-container

@@ -1,0 +1,12 @@
+1	#DEP#org.springframework.roo:org.springframework.roo.process.manager
+1	#DEP#org.springframework.roo:org.springframework.roo.project
+1	#DEP#org.springframework.roo:org.springframework.roo.shell
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.springframework.roo:org.springframework.roo.file.undo
+1	#DEP#org.springframework.roo:org.springframework.roo.model
+1	#DEP#org.apache.felix:org.apache.felix.scr.annotations
+1	#DEP#org.springframework.roo:org.springframework.roo.addon.web.mvc.jsp
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework.roo:org.springframework.roo.support.osgi
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.powermock:powermock-api-easymock	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#net.encomendaz:encomendaz-services-core	1.0
+#DEP#org.eluder.logback:logback-ext	1.0
+#DEP#org.eluder.logback:logback-ext-sns-appender	1.0
+#DEP#net.encomendaz:encomendaz-services-client	1.0
+#DEP#org.alfredlibrary:alfred	1.0

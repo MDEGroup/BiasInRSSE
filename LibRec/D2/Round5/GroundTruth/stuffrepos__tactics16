@@ -1,0 +1,4 @@
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#slick:slick
+1	#DEP#commons-lang:commons-lang

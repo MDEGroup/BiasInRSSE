@@ -1,0 +1,7 @@
+31	#DEP#commons-fileupload:commons-fileupload
+32	#DEP#${project.parent.groupId}:test-server
+33	#DEP#org.springframework.data:spring-data-rest-core
+34	#DEP#org.eclipse.jetty:jetty-webapp
+35	#DEP#${project.parent.groupId}:restler-core
+36	#DEP#org.springframework.data:spring-data-rest-webmvc
+37	#DEP#com.h2database:h2

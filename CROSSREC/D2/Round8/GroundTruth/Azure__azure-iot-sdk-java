@@ -1,0 +1,13 @@
+1	#DEP#com.android.support:support-annotations
+1	#DEP#com.github.microsoft:TSS.Java
+1	#DEP#com.microsoft.azure.sdk.iot.provisioning.security:security-provider
+1	#DEP#com.microsoft.azure.sdk.iot:iot-e2e-common
+1	#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3
+1	#DEP#org.apache.qpid:proton-j
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jmockit:jmockit
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit

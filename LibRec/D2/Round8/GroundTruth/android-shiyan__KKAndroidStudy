@@ -1,0 +1,11 @@
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+1	#DEP#com.jakewharton.rxbinding:rxbinding
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.linsea:universalvideoview
+1	#DEP#com.bluelinelabs:logansquare
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.zhy:mpermission-compiler

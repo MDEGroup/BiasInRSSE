@@ -1,0 +1,11 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.google.android.gms:play-services-analytics
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#com.dmitrymalkovich.android:progress-fab
+1	#DEP#com.github.aercanozcan:Progressive
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.vincentbrison.openlibraries.android:dualcache
+1	#DEP#com.google.maps.android:android-maps-utils
+1	#DEP#com.android.support:multidex
+1	#DEP#junit:junit

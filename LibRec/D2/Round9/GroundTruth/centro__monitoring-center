@@ -1,0 +1,9 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#io.dropwizard.metrics:metrics-healthchecks
+1	#DEP#io.dropwizard.metrics:metrics-jvm
+1	#DEP#com.google.guava:guava
+1	#DEP#io.dropwizard.metrics:metrics-json
+1	#DEP#junit:junit
+1	#DEP#io.dropwizard.metrics:metrics-graphite

@@ -1,0 +1,2 @@
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit

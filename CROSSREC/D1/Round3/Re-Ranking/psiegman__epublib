@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.json:json	1.0
+#DEP#net.sf.kxml:kxml2	1.0
+#DEP#net.sourceforge.htmlcleaner:htmlcleaner	1.0
+#DEP#stax:stax	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.codehaus.jettison:jettison	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#${project.groupId}:xstream-benchmark	1.0
+#DEP#net.sf.kxml:kxml2-min	1.0

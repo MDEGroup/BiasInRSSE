@@ -1,0 +1,11 @@
+1	git://github.com/jbrixhe/spring-webflux-client.git
+2	#DEP#org.springframework:spring-webflux
+3	#DEP#org.assertj:assertj-core
+4	#DEP#io.projectreactor.ipc:reactor-netty
+5	#DEP#org.springframework:spring-test
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.projectlombok:lombok
+8	#DEP#junit:junit
+9	#DEP#org.springframework:spring-framework-bom
+10	#DEP#io.projectreactor:reactor-test
+11	#DEP#io.projectreactor:reactor-bom

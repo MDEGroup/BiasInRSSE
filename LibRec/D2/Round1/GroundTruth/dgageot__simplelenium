@@ -1,0 +1,6 @@
+1	#DEP#org.seleniumhq.selenium:selenium-support
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#net.code-story:http
+1	#DEP#org.seleniumhq.selenium:selenium-chrome-driver
+1	#DEP#junit:junit

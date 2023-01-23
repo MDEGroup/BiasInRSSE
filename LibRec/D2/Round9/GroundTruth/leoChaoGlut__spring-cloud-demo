@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+1	#DEP#org.springframework.cloud:spring-cloud-starter-config
+1	#DEP#org.springframework.cloud:spring-cloud-config-server
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

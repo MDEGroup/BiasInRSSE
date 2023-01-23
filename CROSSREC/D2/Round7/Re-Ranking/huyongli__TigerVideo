@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#io.reactivex:rxjava	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#org.droidparts.dexmaker:dexmaker-dx	1.0
+#DEP#com.github.Blankeer:ProgressButton	1.0
+#DEP#frankiesardo:auto-parcel	1.0
+#DEP#com.dyhdyh.loadingbar:loadingbar	1.0

@@ -1,0 +1,14 @@
+1	git://github.com/CrawlScript/WebCollector.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.mchange:c3p0
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.google.code.gson:gson
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.jsoup:jsoup
+10	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+11	#DEP#org.seleniumhq.selenium:selenium-java
+12	#DEP#com.sleepycat:je
+13	#DEP#org.apache.avro:avro
+14	#DEP#junit:junit

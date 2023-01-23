@@ -1,0 +1,14 @@
+1	git://github.com/vainolo/Object-Process-Programming.git
+2	#DEP#com.vainolo.phd.opp:com.vainolo.phd.opp.releng
+3	#DEP#io.vertx:vertx-web
+4	#DEP#commons-logging:commons-logging
+5	#DEP#com.vainolo.phd.opp:com.vainolo.phd.opp.java-dependencies
+6	#DEP#org.mockito:mockito-all
+7	#DEP#org.beanshell:bsh-util
+8	#DEP#io.vertx:vertx-core
+9	#DEP#com.mashape.unirest:unirest-java
+10	#DEP#com.google.guava:guava
+11	#DEP#org.twitter4j:twitter4j-core
+12	#DEP#com.eclipsesource.minimal-json:minimal-json
+13	#DEP#org.json:json
+14	#DEP#org.jgrapht:jgrapht-core

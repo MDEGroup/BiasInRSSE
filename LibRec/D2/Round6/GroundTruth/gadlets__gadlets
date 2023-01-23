@@ -1,0 +1,11 @@
+1	#DEP#javax.el:el-api
+1	#DEP#org.gadlets:gadlets-jsf20
+1	#DEP#org.gadlets:gadlets-cdi
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+1	#DEP#org.jboss.seam:jboss-seam
+1	#DEP#org.gadlets:gadlets-parent
+1	#DEP#org.gadlets:gadlets-facelets-common
+1	#DEP#org.glassfish.web:el-impl
+1	#DEP#org.jboss.weld.servlet:weld-servlet
+1	#DEP#org.jboss.weld:weld-core-bom

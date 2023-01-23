@@ -1,0 +1,6 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.google.android.gms:play-services
+1	#DEP#com.android.support:multidex
+1	#DEP#com.ibm.watson.developer_cloud:conversation
+1	#DEP#junit:junit
+1	#DEP#com.ibm.watson.developer_cloud:speech-to-text

@@ -1,0 +1,10 @@
+#DEP#org.openrdf.sesame:sesame-rio-rdfxml	1.0
+#DEP#org.openrdf.sesame:sesame-rio-turtle	1.0
+#DEP#org.openrdf.sesame:sesame-sail-memory	1.0
+#DEP#org.openrdf.sesame:sesame-rio-trix	1.0
+#DEP#org.openrdf.sesame:sesame-repository-sail	1.0
+#DEP#org.openrdf.sesame:sesame-rio-api	1.0
+#DEP#org.openrdf.sesame:sesame-queryparser-sparql	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.openrdf.sesame:sesame-sail-nativerdf	1.0
+#DEP#org.openrdf.sesame:sesame-rio-jsonld	1.0

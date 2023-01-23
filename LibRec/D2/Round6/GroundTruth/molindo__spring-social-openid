@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-expression
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.springframework.social:spring-social-security
+1	#DEP#at.molindo:molindo-oss-pom
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework.security:spring-security-openid

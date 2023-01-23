@@ -1,0 +1,8 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#org.jcuda:jcublas
+1	#DEP#org.jcuda:jcuda
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#junit:junit
+1	#DEP#org.jcuda:jcudnn
+1	#DEP#org.jcuda:jcuda-vec

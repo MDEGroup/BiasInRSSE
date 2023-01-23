@@ -1,0 +1,15 @@
+1	git://github.com/guardianproject/proofmode.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.madgag.spongycastle:core
+6	#DEP#com.madgag.spongycastle:pg
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support:design
+9	#DEP#net.hockeyapp.android:HockeySDK
+10	#DEP#com.madgag.spongycastle:pkix
+11	#DEP#com.madgag.spongycastle:prov
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.google.android.gms:play-services-safetynet
+14	#DEP#com.github.paolorotolo:appintro
+15	#DEP#junit:junit

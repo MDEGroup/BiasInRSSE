@@ -1,0 +1,16 @@
+1	git://github.com/johndemic/essential-mule-refcard.git
+2	#DEP#org.mule.transports:mule-transport-file
+3	#DEP#org.hornetq:hornetq-core-client
+4	#DEP#org.mule.tests:mule-tests-functional
+5	#DEP#org.mule.modules:mule-module-cxf
+6	#DEP#org.mule:mule-core
+7	#DEP#org.mule.modules:mule-module-jersey
+8	#DEP#org.mule.transports:mule-transport-http
+9	#DEP#org.mule.modules:mule-module-client
+10	#DEP#org.mule.transports:mule-transport-vm
+11	#DEP#org.mule.transports:mule-transport-quartz
+12	#DEP#org.hornetq:hornetq-jms
+13	#DEP#org.hornetq:hornetq-core
+14	#DEP#org.mule.transports:mule-transport-jms
+15	#DEP#org.hornetq:hornetq-logging
+16	#DEP#org.jboss.netty:netty

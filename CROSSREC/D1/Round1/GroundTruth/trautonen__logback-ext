@@ -1,0 +1,5 @@
+23	#DEP#junit:junit
+24	#DEP#org.eluder.logback:logback-ext-aws-core
+25	#DEP#org.openjdk.jmh:jmh-core
+26	#DEP#org.eluder.logback:logback-ext-lmax-appender
+27	#DEP#com.amazonaws:aws-java-sdk-sqs

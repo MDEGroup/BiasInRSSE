@@ -1,0 +1,4 @@
+19	#DEP#org.apache.tika:tika-parsers
+20	#DEP#org.apache.lucene:lucene-backward-codecs
+21	#DEP#org.eclipse.jetty:jetty-webapp
+22	#DEP#junit:junit

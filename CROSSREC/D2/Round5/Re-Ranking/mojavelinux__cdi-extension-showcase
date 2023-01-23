@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.jboss.arquillian.junit:arquillian-junit-container	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.jboss.weld:weld-core	1.0
+#DEP#org.jboss.seam.servlet:seam-servlet-reference-guide	1.0
+#DEP#org.jboss.seam.servlet:seam-servlet	1.0
+#DEP#org.jboss.seam.servlet:seam-servlet-api	1.0

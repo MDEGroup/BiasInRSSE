@@ -1,0 +1,10 @@
+#DEP#org.springframework.boot:spring-boot-starter-security	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.springframework.boot:spring-boot-starter-actuator	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#org.springframework.boot:spring-boot-configuration-processor	1.0
+#DEP#org.springframework.boot:spring-boot-starter-mail	1.0
+#DEP#io.rest-assured:rest-assured	1.0
+#DEP#org.openconext:mujina-common	1.0

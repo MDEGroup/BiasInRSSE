@@ -1,0 +1,11 @@
+1	#DEP#com.taobao.api:taobao-sdk
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#ch.hsr:geohash
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+1	#DEP#com.oneapm.touch.retrofit:retrofit-spring-boot-starter
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

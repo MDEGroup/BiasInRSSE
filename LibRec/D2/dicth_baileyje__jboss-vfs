@@ -1,0 +1,9 @@
+1	git://github.com/baileyje/jboss-vfs.git
+2	#DEP#org.jboss:jboss-parent
+3	#DEP#org.jboss.logging:jboss-logging-log4j
+4	#DEP#org.jboss.vfs:web_pkg_scope
+5	#DEP#org.jboss.logging:jboss-logging-spi
+6	#DEP#org.jboss.test:jboss-test
+7	#DEP#org.jboss.vfs:web_pkg_scope_web
+8	#DEP#junit:junit
+9	#DEP#org.jboss:jboss-common-core

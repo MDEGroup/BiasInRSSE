@@ -1,0 +1,9 @@
+1	git://github.com/kohsuke/args4j.git
+2	#DEP#args4j:args4j-site
+3	#DEP#org.kohsuke:pom
+4	#DEP#args4j:args4j
+5	#DEP#args4j:args4j-tools
+6	#DEP#org.apache.maven:maven-project
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#org.apache.maven:maven-plugin-api

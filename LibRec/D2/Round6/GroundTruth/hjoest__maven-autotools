@@ -1,0 +1,8 @@
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#net.sf.maven-autotools.tests:macros
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#net.sf.maven-autotools:maven-autotools-archetype
+1	#DEP#net.sf.maven-autotools.tests:libstatic-foo
+1	#DEP#junit:junit
+1	#DEP#net.sf.maven-autotools.tests:libraries
+1	#DEP#org.apache.maven:maven-artifact

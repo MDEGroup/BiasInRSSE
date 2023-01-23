@@ -1,0 +1,14 @@
+1	git://github.com/rabidgremlin/Mutters.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#joda-time:joda-time
+7	#DEP#com.github.vinhkhuc:jfasttext
+8	#DEP#com.joestelmach:natty
+9	#DEP#com.bladecoder.ink:blade-ink
+10	#DEP#org.mockito:mockito-core
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#org.apache.opennlp:opennlp-tools
+13	#DEP#junit:junit
+14	#DEP#commons-validator:commons-validator

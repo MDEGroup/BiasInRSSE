@@ -1,0 +1,4 @@
+1	#DEP#org.json:json
+1	#DEP#org.apache.httpcomponents:httpcore-nio
+1	#DEP#junit:junit
+1	#DEP#com.intellij:forms_rt

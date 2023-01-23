@@ -1,0 +1,16 @@
+1	git://github.com/seam/servlet.git
+2	#DEP#org.jboss.seam.solder:seam-solder
+3	#DEP#org.jboss.seam.solder:seam-solder-api
+4	#DEP#org.jboss.seam.servlet:seam-servlet-reference-guide
+5	#DEP#org.jboss.seam.solder:seam-solder-tooling
+6	#DEP#org.jboss.seam:seam-bom
+7	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+8	#DEP#org.jboss.seam.catch:seam-catch-api
+9	#DEP#org.mockito:mockito-all
+10	#DEP#javax.enterprise:cdi-api
+11	#DEP#org.jboss.seam.servlet:seam-servlet-api
+12	#DEP#org.jboss.seam.servlet:seam-servlet
+13	#DEP#org.jboss.seam:seam-parent
+14	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+15	#DEP#org.jboss.seam.servlet:seam-servlet-parent
+16	#DEP#junit:junit

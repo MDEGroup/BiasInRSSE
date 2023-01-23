@@ -1,0 +1,7 @@
+1	#DEP#org.apache.maven.scm:maven-scm-manager-plexus
+1	#DEP#org.apache.maven.wagon:wagon-provider-test
+1	#DEP#org.codehaus.plexus:plexus-interactivity-api
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#org.apache.maven.scm:maven-scm-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven.scm:maven-scm-provider-git-commons

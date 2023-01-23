@@ -1,0 +1,12 @@
+1	#DEP#com.readystatesoftware.systembartint:systembartint
+1	#DEP#org.greenrobot:eventbus-annotation-processor
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.tonicartos:stickygridheader-parent
+1	#DEP#com.uwetrottmann.photoview:library
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.google.flatbuffers:flatbuffers-java
+1	#DEP#com.android.support.test:runner
+1	#DEP#io.palaima.debugdrawer:debugdrawer-actions
+1	#DEP#com.android.support.test.espresso:espresso-core

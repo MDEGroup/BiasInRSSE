@@ -1,0 +1,10 @@
+#DEP#org.jenkins-ci.plugins.workflow:workflow-job	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step	1.0
+#DEP#junit:junit	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api	1.0
+#DEP#org.jenkins-ci.plugins:credentials	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-api	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-support	1.0
+#DEP#org.jenkins-ci.plugins:matrix-project	1.0
+#DEP#org.jenkins-ci.plugins:aws-java-sdk	1.0

@@ -1,0 +1,5 @@
+1	#DEP#com.google.android:android-test
+1	#DEP#android.future:usb
+1	#DEP#junit:junit
+1	#DEP#net.thiagoalz.hermeto:Hermeto
+1	#DEP#net.thiagoalz.hermeto:AndroidMain

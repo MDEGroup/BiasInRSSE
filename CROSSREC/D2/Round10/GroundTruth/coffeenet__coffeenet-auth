@@ -1,0 +1,10 @@
+1	#DEP#org.liquibase:liquibase-core
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#coffee.synyx:starter-logging
+1	#DEP#org.webjars:font-awesome
+1	#DEP#org.springframework.security:spring-security-jwt
+1	#DEP#coffee.synyx:starter-navigation-thymeleaf
+1	#DEP#org.springframework.security:spring-security-ldap
+1	#DEP#commons-validator:commons-validator

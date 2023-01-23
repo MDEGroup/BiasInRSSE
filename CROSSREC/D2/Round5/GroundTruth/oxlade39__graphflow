@@ -1,0 +1,5 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.cloudfoundry:cloudfoundry-runtime
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.freemarker:freemarker
+1	#DEP#org.springframework:spring-tx

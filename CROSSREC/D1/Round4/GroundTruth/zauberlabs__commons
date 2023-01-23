@@ -1,0 +1,14 @@
+56	#DEP#org.springframework:spring-jdbc
+57	#DEP#org.springframework.security:spring-security-config
+58	#DEP#com.zaubersoftware.commons.web:commons-web-version
+59	#DEP#com.zaubersoftware.commons.auth:commons-auth-api
+60	#DEP#com.zaubersoftware.commons:commons-base
+61	#DEP#com.zaubersoftware.commons.auth:commons-auth-impl
+62	#DEP#com.zaubersoftware.commons.persistence:commons-persistence-utils
+63	#DEP#org.slf4j:jcl-over-slf4j
+64	#DEP#org.springframework:spring-dao
+65	#DEP#commons-dbcp:commons-dbcp
+66	#DEP#org.springframework:spring-tx
+67	#DEP#org.hibernate:hibernate-core
+68	#DEP#org.mockito:mockito-core
+69	#DEP#com.zaubersoftware.commons.social.oauth:commons-social-oauth-api

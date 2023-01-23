@@ -1,0 +1,6 @@
+1	#DEP#com.jakewharton.rxbinding:rxbinding
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava-math
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

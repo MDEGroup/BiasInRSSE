@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.bukkit:craftbukkit	1.0
+#DEP#com.narrowtux:narrowtuxlib	1.0
+#DEP#com.narrowtux:dropchest	1.0
+#DEP#info.somethingodd.bukkit:OddItem	1.0
+#DEP#net.milkbowl:vault	1.0
+#DEP#org.spoutcraft:spoutcraftplugin	1.0
+#DEP#org.bukkit:minecraft-server	1.0
+#DEP#com.nijikokun.bukkit:permissions	1.0

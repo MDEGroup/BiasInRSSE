@@ -1,0 +1,10 @@
+#DEP#org.drools:drools-compiler	1.0
+#DEP#org.antlr:antlr-runtime	1.0
+#DEP#org.jbpm:jbpm-bpmn2	1.0
+#DEP#org.jbpm:jbpm-test	1.0
+#DEP#org.drools:org.guvnor.tools	1.0
+#DEP#org.jbpm:org.jbpm.eclipse	1.0
+#DEP#org.kie.soup:kie-soup-project-datamodel-api	1.0
+#DEP#org.drools:org.drools.updatesite	1.0
+#DEP#org.drools:drools-bom	1.0
+#DEP#org.drools:org.drools.eclipse	1.0

@@ -1,0 +1,14 @@
+1	#DEP#org.apache.wicket:wicket
+1	#DEP#org.mortbay.jetty:jetty-management
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.soebes.maven.training.module:parent-pom
+1	#DEP#${project.groupId}:mod-war
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#${project.groupId}:m2.1
+1	#DEP#org.mockito:mockito-core
+1	#DEP#log4j:log4j
+1	#DEP#${project.groupId}:mod-prop
+1	#DEP#${project.groupId}:m3
+1	#DEP#${project.groupId}:m4
+1	#DEP#junit:junit
+1	#DEP#com.soebes.maven.training.module:parent

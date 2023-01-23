@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#com.heaven7.core.util:util-v1
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.heaven7.core.util:memory

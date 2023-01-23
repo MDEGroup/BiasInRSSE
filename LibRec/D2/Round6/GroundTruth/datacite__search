@@ -1,0 +1,6 @@
+1	#DEP#org.easymock:easymock
+1	#DEP#org.apache.solr:solr-test-framework
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.apache.solr:solr-velocity
+1	#DEP#com.ibm.icu:icu4j
+1	#DEP#org.slf4j:slf4j-log4j12

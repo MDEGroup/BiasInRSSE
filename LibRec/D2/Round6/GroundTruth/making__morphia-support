@@ -1,0 +1,4 @@
+1	#DEP#com.google.code.morphia:morphia-logging-slf4j
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#junit:junit

@@ -1,0 +1,10 @@
+1	git://github.com/dbof10/FBReaction.git
+2	#DEP#org.mockito:mockito-core
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.android.support.constraint:constraint-layout
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.android.support:design
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

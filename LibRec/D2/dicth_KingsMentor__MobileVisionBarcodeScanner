@@ -1,0 +1,9 @@
+1	git://github.com/KingsMentor/MobileVisionBarcodeScanner.git
+2	#DEP#io.reactivex.rxjava2:rxjava
+3	#DEP#com.tbruyelle.rxpermissions2:rxpermissions
+4	#DEP#:barcodescanner
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.android.gms:play-services-vision
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

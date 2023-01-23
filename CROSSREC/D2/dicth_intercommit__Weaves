@@ -1,0 +1,9 @@
+1	git://github.com/intercommit/Weaves.git
+2	#DEP#org.hibernate:hibernate-core
+3	#DEP#org.apache.tapestry:tapestry-core
+4	#DEP#javax.servlet:servlet-api
+5	#DEP#org.hibernate:hibernate-annotations
+6	#DEP#org.chenillekit:chenillekit-tapestry
+7	#DEP#junit:junit
+8	#DEP#org.hsqldb:hsqldb
+9	#DEP#org.apache.tapestry:tapestry-test

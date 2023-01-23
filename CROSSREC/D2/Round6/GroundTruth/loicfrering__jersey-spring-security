@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.security:spring-security-core
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#org.eclipse.jetty:jetty-servlet

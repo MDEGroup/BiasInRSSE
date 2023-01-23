@@ -1,0 +1,10 @@
+1	git://github.com/frontlinesms/camel-smslib.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.apache.camel:camel-core
+4	#DEP#net.frontlinesms.core:smslib
+5	#DEP#org.powermock:powermock-api-mockito
+6	#DEP#net.frontlinesms.test:hayescommandset-test
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#net.frontlinesms.core:serial
+10	#DEP#org.apache.camel:camel-test

@@ -1,0 +1,4 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.fizzed:fizzed-maven-parent
+1	#DEP#junit:junit
+1	#DEP#com.cloudhopper:ch-commons-charset

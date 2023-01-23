@@ -1,0 +1,10 @@
+#DEP#org.apache.logging.log4j:log4j-core	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#io.vertx:vertx-web	1.0
+#DEP#io.vertx:vertx-dropwizard-metrics	1.0
+#DEP#io.vertx:vertx-service-discovery-bridge-kubernetes	1.0
+#DEP#com.twelvemonkeys.imageio:imageio-pnm	1.0
+#DEP#io.vertx:testtools	1.0

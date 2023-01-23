@@ -1,0 +1,15 @@
+1	git://github.com/lnwazg/JavaSwingSoftwares.git
+2	#DEP#com.lnwazg:dbkit
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.melloware:jintellitype
+5	#DEP#commons-logging:commons-logging
+6	#DEP#javazoom:jlayer
+7	#DEP#com.lnwazg:httpkit
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.xerial:sqlite-jdbc
+10	#DEP#org.jsoup:jsoup
+11	#DEP#com.lnwazg:kit
+12	#DEP#com.lowagie:itext
+13	#DEP#log4j:log4j
+14	#DEP#org.json:json
+15	#DEP#com.other:beautyeye

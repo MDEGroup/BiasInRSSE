@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-hg	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-cvsexe	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-vss	1.0
+#DEP#org.apache.maven.scm:maven-scm-manager-plexus	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-jazz	1.0

@@ -1,0 +1,5 @@
+1	#DEP#com.netflix.eureka:eureka-client
+1	#DEP#com.netflix.servo:servo-core
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#com.netflix.archaius:archaius-core

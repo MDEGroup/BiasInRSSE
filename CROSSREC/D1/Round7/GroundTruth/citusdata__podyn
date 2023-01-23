@@ -1,0 +1,2 @@
+10	#DEP#com.amazonaws:dynamodb-streams-kinesis-adapter
+11	#DEP#org.apache.logging.log4j:log4j-api

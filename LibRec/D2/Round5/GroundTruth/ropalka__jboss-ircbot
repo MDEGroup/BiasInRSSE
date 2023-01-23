@@ -1,0 +1,7 @@
+1	#DEP#org.jboss.ircbot:ircbot-impl
+1	#DEP#org.fossnova:fossnova-io
+1	#DEP#org.jboss.msc:jboss-msc
+1	#DEP#org.x2jb:x2jb-annotation-provider
+1	#DEP#org.fossnova:fossnova-fue-impl
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.jboss.ircbot:ircbot-api

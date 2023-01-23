@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#io.datafx:flow
+1	#DEP#com.jfoenix:jfoenix
+1	#DEP#junit:junit

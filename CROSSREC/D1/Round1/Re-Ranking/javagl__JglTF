@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.lwjgl.lwjgl:lwjgl_util	1.0
+#DEP#com.googlecode.playn:playn-core	1.0
+#DEP#org.lwjgl.lwjgl:lwjgl-platform	1.0
+#DEP#as3isolib:as3isolib-fp10	1.0
+#DEP#com.samskivert:samskivert	1.0
+#DEP#com.google.code.flexlib:flexlib	1.0
+#DEP#com.threerings:nenya-tools	1.0
+#DEP#org.jcraft:jorbis	1.0

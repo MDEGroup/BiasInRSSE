@@ -1,0 +1,12 @@
+1	git://github.com/claus437/feed-analyser.git
+2	#DEP#jaxen:jaxen
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#javax.servlet.jsp:jsp-api
+5	#DEP#jstl:jstl
+6	#DEP#org.dbunit:dbunit
+7	#DEP#log4j:log4j
+8	#DEP#org.mybatis:mybatis
+9	#DEP#dom4j:dom4j
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#junit:junit
+12	#DEP#org.hsqldb:hsqldb

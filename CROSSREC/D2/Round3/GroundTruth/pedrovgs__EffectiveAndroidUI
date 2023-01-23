@@ -1,0 +1,5 @@
+1	#DEP#com.squareup.dagger:dagger
+1	#DEP#com.github.pedrovgs:draggablepanel
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.jakewharton:butterknife

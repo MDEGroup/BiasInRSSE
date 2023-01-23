@@ -1,0 +1,13 @@
+1	git://github.com/linked-solutions/jarql.git
+2	#DEP#org.apache.clerezza:rdf.ontologies
+3	#DEP#org.apache.clerezza:rdf.jena.parser
+4	#DEP#org.apache.clerezza.commons-rdf:commons-rdf-api
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#solutions.linked:parent
+7	#DEP#org.apache.clerezza:rdf.jena.commons
+8	#DEP#org.apache.clerezza:rdf.core
+9	#DEP#org.glassfish:javax.json
+10	#DEP#org.apache.clerezza.commons-rdf:commons-rdf-impl-utils
+11	#DEP#org.apache.clerezza:rdf.jena.serializer
+12	#DEP#junit:junit
+13	#DEP#org.apache.clerezza:rdf.jena.sparql

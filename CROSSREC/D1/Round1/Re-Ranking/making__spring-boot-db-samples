@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.postgresql:postgresql	1.0
+#DEP#org.springframework.boot:spring-boot-starter-security	1.0
+#DEP#org.springframework.boot:spring-boot-devtools	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#de.codecentric:spring-boot-admin-server	1.0
+#DEP#net.kaczmarzyk:specification-arg-resolver	1.0

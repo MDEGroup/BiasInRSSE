@@ -1,0 +1,9 @@
+1	git://github.com/tinkerpop/frames.git
+2	#DEP#org.javassist:javassist
+3	#DEP#com.tinkerpop.gremlin:gremlin-groovy
+4	#DEP#com.tinkerpop.blueprints:blueprints-sail-graph
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#com.tinkerpop.blueprints:blueprints-test
+7	#DEP#com.tinkerpop.blueprints:blueprints-core
+8	#DEP#com.google.guava:guava
+9	#DEP#org.mockito:mockito-all

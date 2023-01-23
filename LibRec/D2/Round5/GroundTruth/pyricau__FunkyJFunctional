@@ -1,0 +1,8 @@
+1	#DEP#org.easytesting:fest-assert-core
+1	#DEP#log4j:log4j
+1	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-parent
+1	#DEP#com.google.guava:guava
+1	#DEP#org.functionaljava:fj
+1	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-wicket
+1	#DEP#junit:junit
+1	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-fest-assert

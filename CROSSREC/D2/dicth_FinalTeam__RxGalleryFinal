@@ -1,0 +1,15 @@
+1	git://github.com/FinalTeam/RxGalleryFinal.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#com.facebook.fresco:animated-gif
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.android.support:exifinterface
+7	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+8	#DEP#com.facebook.fresco:fresco
+9	#DEP#com.android.support:recyclerview-v7
+10	#DEP#com.android.support:appcompat-v7
+11	#DEP#com.nostra13.universalimageloader:universal-image-loader
+12	#DEP#com.squareup.picasso:picasso
+13	#DEP#com.github.bumptech.glide:glide
+14	#DEP#com.yalantis:ucrop
+15	#DEP#junit:junit

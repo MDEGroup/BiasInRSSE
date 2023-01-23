@@ -1,0 +1,13 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-mail
+1	#DEP#org.springframework.boot:spring-boot-starter-log4j2
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.sackr:eforum-api
+1	#DEP#com.sackr:eforum
+1	#DEP#com.alibaba:druid
+1	#DEP#com.octo.captcha:jcaptcha-all
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#junit:junit
+1	#DEP#com.sackr:eforum-model

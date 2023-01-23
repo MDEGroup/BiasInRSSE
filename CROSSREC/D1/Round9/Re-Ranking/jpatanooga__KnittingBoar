@@ -1,0 +1,10 @@
+#DEP#org.apache.hadoop:hadoop-common	1.0
+#DEP#junit:junit	1.0
+#DEP#org.apache.hadoop:hadoop-hdfs	1.0
+#DEP#org.apache.hadoop:hadoop-mapreduce-client-core	1.0
+#DEP#org.apache.hadoop:hadoop-auth	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.apache.hadoop:hadoop-yarn	1.0

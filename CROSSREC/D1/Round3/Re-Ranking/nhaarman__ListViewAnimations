@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#eu.inmite.android.lib:android-validation-komensky	1.0
+#DEP#:dependencies	1.0
+#DEP#com.actionbarsherlock:parent	1.0
+#DEP#com.actionbarsherlock:parent-sample	1.0

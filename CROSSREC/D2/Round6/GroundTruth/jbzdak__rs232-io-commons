@@ -1,0 +1,6 @@
+1	#DEP#cx.ath.jbzdak:rxtx-port
+1	#DEP#cx.ath.jbzdak:termios-port
+1	#DEP#org.rxtx:rxtx
+1	#DEP#edu.umd.cs.findbugs:annotations
+1	#DEP#junit:junit
+1	#DEP#cx.ath.jbzdak:io-commons-api

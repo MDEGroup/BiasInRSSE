@@ -1,0 +1,12 @@
+1	git://github.com/cornell-cup/cs-minibot-platform.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#Xbox:xbox
+4	#DEP#XboxC:xboxc
+5	#DEP#com.sparkjava:spark-template-velocity
+6	#DEP#com.cornellcup:cs-base-station-interface
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#com.zeroc:ice
+9	#DEP#com.google.code.gson:gson
+10	#DEP#org.jbox2d:jbox2d-library
+11	#DEP#junit:junit
+12	#DEP#com.sparkjava:spark-core

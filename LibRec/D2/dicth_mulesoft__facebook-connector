@@ -1,0 +1,15 @@
+1	git://github.com/mulesoft/facebook-connector.git
+2	#DEP#org.mule.tests:mule-tests-functional
+3	#DEP#org.mule.modules:mule-modules-utils
+4	#DEP#org.mule.modules:mule-connector-test
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#org.mule.modules:mule-module-ibeans
+7	#DEP#org.mule.transports:mule-transport-http
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#com.sun.jersey.contribs:jersey-multipart
+10	#DEP#org.mule.modules:mule-module-scripting
+11	#DEP#org.mule.modules:mule-module-as2
+12	#DEP#org.mule.modules:mule-module-spring-config
+13	#DEP#org.mule.tools.devkit:mule-devkit-parent
+14	#DEP#com.restfb:restfb
+15	#DEP#org.mule.modules:mule-module-facebook

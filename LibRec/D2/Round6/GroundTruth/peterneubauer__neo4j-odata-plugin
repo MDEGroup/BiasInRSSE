@@ -1,0 +1,7 @@
+1	#DEP#org.neo4j.app:neo4j-server
+1	#DEP#org.codehaus.jackson:jackson-jaxrs
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.odata4j:odata4j
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server

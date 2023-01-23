@@ -1,0 +1,10 @@
+#DEP#org.mule.transports:mule-transport-vm	1.0
+#DEP#org.mule.modules:mule-module-spring-config	1.0
+#DEP#org.mule.transports:mule-transport-http	1.0
+#DEP#org.mule.modules:mule-module-ibeans	1.0
+#DEP#org.mule.modules:mule-module-hbase	1.0
+#DEP#org.mule.modules:mule-module-as2	1.0
+#DEP#org.mule.modules:mule-connector-test	1.0
+#DEP#org.mule.modules:mule-modules-utils	1.0
+#DEP#org.mule.modules:mule-module-facebook	1.0
+#DEP#org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec	1.0

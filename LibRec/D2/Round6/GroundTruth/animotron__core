@@ -1,0 +1,5 @@
+1	#DEP#javolution:javolution
+1	#DEP#org.jetlang:jetlang
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#com.eaio.uuid:uuid

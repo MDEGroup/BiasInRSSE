@@ -1,0 +1,15 @@
+1	git://github.com/GurpreetSK95/PopularMovies2.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.squareup:javapoet
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.android.support:design
+6	#DEP#com.jakewharton:butterknife
+7	#DEP#com.android.support:cardview-v7
+8	#DEP#com.github.jd-alexander:LikeButton
+9	#DEP#com.squareup.picasso:picasso
+10	#DEP#com.android.support:support-v4
+11	#DEP#ckm.simple:simple_sql_provider_annotation
+12	#DEP#ckm.simple:simple_sql_provider_processor
+13	#DEP#com.android.volley:volley
+14	#DEP#junit:junit
+15	#DEP#com.github.paolorotolo:expandableheightlistview

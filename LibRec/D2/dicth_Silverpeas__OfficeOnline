@@ -1,0 +1,11 @@
+1	git://github.com/Silverpeas/OfficeOnline.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#org.apache.jackrabbit:jackrabbit-jcr-commons
+5	#DEP#org.apache.jackrabbit:jackrabbit-webdav
+6	#DEP#xerces:xercesImpl
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.silverpeas:silverpeas-project

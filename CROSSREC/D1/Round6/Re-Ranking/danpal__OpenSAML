@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework:spring-mock	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#log4j:log4j	1.0
+#DEP#net.sf.json-lib:json-lib	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#net.sf.jstester:jstester	1.0

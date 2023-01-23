@@ -1,0 +1,11 @@
+1	#DEP#com.anupcowkur:reservoir
+1	#DEP#me.zhanghai.android.materialprogressbar:library
+1	#DEP#com.github.satyan:sugar
+1	#DEP#com.github.348476129:RxPermission
+1	#DEP#com.android.support:multidex
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.tinkerpatch.sdk:tinkerpatch-android-sdk
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

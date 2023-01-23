@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#de.uniluebeck.itm.util:concurrent	1.0
+#DEP#com.google.code.findbugs:jsr305	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.classpath-explorer:classpath-explorer	1.0
+#DEP#de.uniluebeck.itm.util:propconf	1.0

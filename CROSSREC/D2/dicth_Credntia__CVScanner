@@ -1,0 +1,10 @@
+1	git://github.com/Credntia/CVScanner.git
+2	#DEP#com.getbase:floatingactionbutton
+3	#DEP#com.android.support:exifinterface
+4	#DEP#com.google.android.gms:play-services-basement
+5	#DEP#org.opencv:OpenCV-Android
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.android.gms:play-services-vision
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#online.devliving:mobilevision-pipeline

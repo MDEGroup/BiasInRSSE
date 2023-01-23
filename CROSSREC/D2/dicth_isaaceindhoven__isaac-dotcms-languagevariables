@@ -1,0 +1,12 @@
+1	git://github.com/isaaceindhoven/isaac-dotcms-languagevariables.git
+2	#DEP#com.dotcms:dotcms
+3	#DEP#com.dotcms.lib:dot.felix
+4	#DEP#com.dotcms.lib:dot.urlrewritefilter
+5	#DEP#com.dotcms.lib:dot.commons-lang
+6	#DEP#org.quartz-scheduler:quartz
+7	#DEP#javax.servlet:javax.servlet-api
+8	#DEP#com.dotcms.lib:dot.log4j-api
+9	#DEP#com.dotcms.lib:dot.commons-io
+10	#DEP#com.dotcms.lib:dot.org.apache.felix.http.bundle
+11	#DEP#com.dotcms.lib:dot.portlet
+12	#DEP#com.dotcms.lib:dot.log4j-core

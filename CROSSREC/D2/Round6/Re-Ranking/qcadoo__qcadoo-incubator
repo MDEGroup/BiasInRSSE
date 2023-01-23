@@ -1,0 +1,10 @@
+#DEP#c3p0:c3p0	1.0
+#DEP#com.qcadoo:qcadoo-commons	1.0
+#DEP#org.apache.poi:poi	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.springframework:spring-tx	1.0
+#DEP#com.qcadoo:qcadoo-tenant	1.0
+#DEP#com.qcadoo:qcadoo-custom-translation	1.0
+#DEP#com.qcadoo:qcadoo-plugin	1.0
+#DEP#com.qcadoo.maven:qcadoo-super-pom	1.0
+#DEP#com.qcadoo:qcadoo	1.0

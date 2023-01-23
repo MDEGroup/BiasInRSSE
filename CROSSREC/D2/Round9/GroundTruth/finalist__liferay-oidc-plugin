@@ -1,0 +1,14 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.codehaus.jettison:jettison
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.liferay.portal:portal-service
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#nl.finalist.liferay.oidc:oidc-parent
+1	#DEP#nl.finalist.liferay.oidc:dxp-oidc-filter
+1	#DEP#com.liferay:com.liferay.portal.settings.lang
+1	#DEP#com.liferay:com.liferay.petra.lang
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.liferay.portal:com.liferay.util.taglib
+1	#DEP#org.apache.oltu.commons:org.apache.oltu.commons.encodedtoken
+1	#DEP#junit:junit

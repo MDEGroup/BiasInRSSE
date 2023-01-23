@@ -1,0 +1,7 @@
+30	#DEP#org.apache.struts:struts-tiles
+31	#DEP#javax.servlet:servlet-api
+32	#DEP#commons-fileupload:commons-fileupload
+33	#DEP#javax.servlet:jstl
+34	#DEP#org.springframework.hateoas:spring-hateoas
+35	#DEP#cglib:cglib
+36	#DEP#org.grails:grails-core

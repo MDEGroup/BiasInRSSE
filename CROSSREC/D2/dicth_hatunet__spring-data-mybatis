@@ -1,0 +1,12 @@
+1	git://github.com/hatunet/spring-data-mybatis.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.postgresql:postgresql
+5	#DEP#org.mybatis:mybatis
+6	#DEP#org.springframework.data.build:spring-data-parent
+7	#DEP#org.springframework:spring-orm
+8	#DEP#org.mybatis:mybatis-spring
+9	#DEP#com.querydsl:querydsl-core
+10	#DEP#org.springframework.data:spring-data-commons
+11	#DEP#com.h2database:h2
+12	#DEP#net.sourceforge.jtds:jtds

@@ -1,0 +1,9 @@
+1	#DEP#org.jivesoftware:org.jivesoftware.smackx-debug
+1	#DEP#com.google.android:support-v4
+1	#DEP#org.sintef.jarduino:org.sintef.jarduino.core
+1	#DEP#org.jivesoftware:org.jivesoftware.smackx
+1	#DEP#jfree:jfreechart
+1	#DEP#org.sintef.jarduino:org.sintef.jarduino.serial
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#org.sintef.jarduino:org.sintef.jarduino.gui
+1	#DEP#org.sintef.jarduino:org.sintef.jarduino.bluetooth

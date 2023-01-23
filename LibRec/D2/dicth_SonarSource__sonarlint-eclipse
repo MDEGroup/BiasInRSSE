@@ -1,0 +1,16 @@
+1	git://github.com/SonarSource/sonarlint-eclipse.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.sonarsource.sonarlint.eclipse:sonarlint-eclipse-parent
+4	#DEP#commons-io:commons-io
+5	#DEP#net.bytebuddy:byte-buddy-agent
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.sonarsource.parent:parent
+8	#DEP#org.sonarsource.sonarlint.core:sonarlint-client-api
+9	#DEP#net.bytebuddy:byte-buddy
+10	#DEP#org.sonarlint.its.sample:sample-maven
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.sonarsource.orchestrator:sonar-orchestrator-osgi
+13	#DEP#org.sonarsource.sonarlint.eclipse.its:sonarlint-eclipse-its-parent
+14	#DEP#org.objenesis:objenesis
+15	#DEP#junit:junit
+16	#DEP#org.sonarsource.sonarlint.core:sonarlint-core

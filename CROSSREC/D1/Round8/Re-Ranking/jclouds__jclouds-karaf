@@ -1,0 +1,10 @@
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-link-mvn	1.0
+#DEP#org.osgi:org.osgi.compendium	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-junit4	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#com.jcraft:jsch.agentproxy.jsch	1.0
+#DEP#me.normanmaurer.niosmtp:niosmtp	1.0
+#DEP#org.jclouds.provider:azureblob	1.0

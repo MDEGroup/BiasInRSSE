@@ -1,0 +1,14 @@
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#com.jayway.awaitility:awaitility
+1	#DEP#io.engagingspaces:vertx-dataloader
+1	#DEP#io.vertx:vertx-sockjs-service-proxy
+1	#DEP#io.vertx:vertx-rx-java
+1	#DEP#io.vertx:vertx-dependencies
+1	#DEP#com.distelli.graphql:graphql-apigen-deps
+1	#DEP#com.github.bmsantos:vertx-graphql-example
+1	#DEP#com.google.inject:guice
+1	#DEP#io.vertx:vertx-circuit-breaker
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#com.google.inject.extensions:guice-multibindings

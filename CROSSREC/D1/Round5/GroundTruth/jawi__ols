@@ -1,0 +1,12 @@
+50	#DEP#xerces:xerces
+51	#DEP#nl.lxtreme.ols.device:test
+52	#DEP#org.apache.xmlgraphics:batik-xml
+53	#DEP#nl.lxtreme.ols.client:client.project
+54	#DEP#nl.lxtreme.ols.tool:uart
+55	#DEP#org.ops4j.pax.exam:pax-exam-testforge
+56	#DEP#nl.lxtreme.ols:service.taskexecution
+57	#DEP#nl.lxtreme.ols:logging
+58	#DEP#nl.lxtreme.ols.device:generic
+59	#DEP#org.apache.xmlgraphics:batik-svggen
+60	#DEP#org.apache.felix:org.apache.felix.configadmin
+61	#DEP#nl.lxtreme.ols:test.util

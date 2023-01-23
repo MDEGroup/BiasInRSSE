@@ -1,0 +1,7 @@
+1	#DEP#com.goldmansachs.reladomo:reladomo-test-util
+1	#DEP#junit:junit
+1	#DEP#com.goldmansachs:gs-collections-testutils
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http
+1	#DEP#com.goldmansachs.reladomo:reladomo-tour
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+1	#DEP#com.h2database:h2

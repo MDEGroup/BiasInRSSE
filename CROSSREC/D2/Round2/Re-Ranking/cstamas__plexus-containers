@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#io.protostuff:protostuff-runtime-view	1.0
+#DEP#io.protostuff:protostuff-json	1.0
+#DEP#io.protostuff:protostuff-runtime-md	1.0

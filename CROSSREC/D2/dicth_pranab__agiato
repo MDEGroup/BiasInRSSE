@@ -1,0 +1,10 @@
+1	git://github.com/pranab/agiato.git
+2	#DEP#org.codehaus.jackson:jackson-mapper-lgpl
+3	#DEP#commons-pool:commons-pool
+4	#DEP#org.apache.cassandra:cassandra-all
+5	#DEP#log4j:log4j
+6	#DEP#org.testng:testng
+7	#DEP#org.codehaus.jackson:jackson-core-lgpl
+8	#DEP#commons-beanutils:commons-beanutils
+9	#DEP#org.apache.thrift:libthrift
+10	#DEP#com.eaio.uuid:uuid

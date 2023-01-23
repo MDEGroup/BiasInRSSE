@@ -1,0 +1,5 @@
+1	#DEP#com.orhanobut:hawk
+1	#DEP#junit:junit
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.afollestad:udpdiscovery
+1	#DEP#com.afollestad.material-dialogs:commons

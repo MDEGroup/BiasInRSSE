@@ -1,0 +1,17 @@
+1	#DEP#com.beust:jcommander
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#com.droidefense:vfs
+1	#DEP#kxml2:kxml2
+1	#DEP#commons-cli:commons-cli
+1	#DEP#antlr:antlr
+1	#DEP#org.junit.jupiter:junit-jupiter-api
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.droidefense:ssdeep
+1	#DEP#com.droidefense:entropy
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.droidefense:core
+1	#DEP#log4j:log4j
+1	#DEP#com.j256.simplemagic:simplemagic
+1	#DEP#junit:junit
+1	#DEP#com.droidefense:memapktool
+1	#DEP#com.droidefense:sdk

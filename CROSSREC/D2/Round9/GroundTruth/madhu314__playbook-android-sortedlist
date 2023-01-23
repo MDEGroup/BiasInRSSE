@@ -1,0 +1,9 @@
+1	#DEP#com.ryanharter.auto.value:auto-value-parcel
+1	#DEP#com.ryanharter.auto.value:auto-value-moshi
+1	#DEP#com.squareup.okhttp3:mockwebserver
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.squareup.retrofit2:converter-moshi
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.ryanharter.auto.value:auto-value-moshi-annotations
+1	#DEP#com.android.support.test.espresso:espresso-core

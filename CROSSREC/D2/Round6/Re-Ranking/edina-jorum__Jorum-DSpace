@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#jaxen:jaxen	1.0
+#DEP#org.dspace.dependencies.cocoon:dspace-cocoon-servlet-service-impl	1.0
+#DEP#org.dspace:dspace-jspui	1.0
+#DEP#org.dspace:modules	1.0
+#DEP#org.dspace:dspace-lni	1.0

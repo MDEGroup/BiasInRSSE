@@ -1,0 +1,14 @@
+1	git://github.com/nitroventures/bot4j.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.apache.logging.log4j:log4j-core
+4	#DEP#com.amazon.alexa:alexa-skills-kit
+5	#DEP#com.github.seratch:jslack
+6	#DEP#com.google.code.gson:gson
+7	#DEP#javax.enterprise:cdi-api
+8	#DEP#ai.api.libai.web:libai-web-servlet
+9	#DEP#org.springframework:spring-test
+10	#DEP#javax.servlet:javax.servlet-api
+11	#DEP#com.google.guava:guava
+12	#DEP#com.restfb:restfb
+13	#DEP#junit:junit
+14	#DEP#com.github.pengrad:java-telegram-bot-api

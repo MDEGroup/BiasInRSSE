@@ -1,0 +1,9 @@
+1	git://github.com/insula/opes.git
+2	#DEP#org.hibernate:hibernate-core
+3	#DEP#org.codehaus.jackson:jackson-core-asl
+4	#DEP#com.google.guava:guava
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#junit:junit
+8	#DEP#joda-time:joda-time
+9	#DEP#org.slf4j:slf4j-log4j12

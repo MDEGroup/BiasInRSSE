@@ -1,0 +1,5 @@
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#org.eclipse.jetty:jetty-proxy
+1	#DEP#junit:junit
+1	#DEP#com.squareup.okhttp3:mockwebserver
+1	#DEP#com.google.truth:truth

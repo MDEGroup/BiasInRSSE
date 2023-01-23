@@ -1,0 +1,9 @@
+1	#DEP#com.commit451:PhotoView
+1	#DEP#com.facebook.stetho:stetho
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.tbruyelle.rxpermissions:rxpermissions
+1	#DEP#com.soundcloud.android:android-crop
+1	#DEP#junit:junit
+1	#DEP#com.facebook.stetho:stetho-urlconnection
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

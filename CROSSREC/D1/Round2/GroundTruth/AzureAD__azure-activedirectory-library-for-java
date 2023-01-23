@@ -1,0 +1,4 @@
+19	#DEP#com.google.guava:guava
+20	#DEP#org.powermock:powermock-api-easymock
+21	#DEP#org.json:json
+22	#DEP#org.powermock:powermock-module-testng

@@ -1,0 +1,13 @@
+1	git://github.com/mbax/VanishNoPacket.git
+2	#DEP#org.getspout:spoutplugin
+3	#DEP#uk.org.whoami:GeoIPTools
+4	#DEP#pgDev:disguisecraft
+5	#DEP#com.comphenix.protocol:ProtocolLib
+6	#DEP#org.kitteh:tagapi
+7	#DEP#com.earth2me:essentials
+8	#DEP#net.milkbowl.vault:Vault
+9	#DEP#org.bukkit:bukkit
+10	#DEP#com.ramblingwood.minecraft.jsonapi:JSONAPI
+11	#DEP#de.bananaco:bPermissions
+12	#DEP#junit:junit
+13	#DEP#org.dynmap:DynmapCoreAPI

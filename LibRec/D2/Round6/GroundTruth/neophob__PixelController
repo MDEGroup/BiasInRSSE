@@ -1,0 +1,12 @@
+1	#DEP#artnet4j:artnet4j
+1	#DEP#org.qbang:rxtx
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#controlP5:controlP5
+1	#DEP#compartmental.net:tritonus_aos
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.neophob.pixelcontroller:pixelcontroller-core
+1	#DEP#rv3sf_api:rv3sf_api
+1	#DEP#com.neophob.pixelcontroller:pixelcontroller-cli
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.neophob.pixelcontroller:pixelcontroller
+1	#DEP#junit:junit

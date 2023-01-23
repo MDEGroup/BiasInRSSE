@@ -1,0 +1,17 @@
+1	git://github.com/jinsu/cass-fate.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#com.reardencommerce:clhm
+4	#DEP#org.apache:apache
+5	#DEP#high-scale-lib:high-scale-lib
+6	#DEP#libthrift:libthrift
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.collections:google-collections
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang
+11	#DEP#jsonsimple:jsonsimple
+12	#DEP#jline:jline
+13	#DEP#log4j:log4j
+14	#DEP#commons-collections:commons-collections
+15	#DEP#org.antlr:antlr-runtime
+16	#DEP#flexjson:flexjson
+17	#DEP#junit:junit

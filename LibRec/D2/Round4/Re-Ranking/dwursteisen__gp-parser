@@ -1,0 +1,10 @@
+#DEP#org.easytesting:fest-assert	1.0
+#DEP#junit:junit	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#log4j:log4j	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#pl.project13.janbanery:janbanery-core	1.0

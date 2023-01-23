@@ -1,0 +1,4 @@
+17	#DEP#commons-compress:commons-compress
+18	#DEP#com.xtructure.xnet.xutil:xutil
+19	#DEP#org.hamcrest:hamcrest-all
+20	#DEP#com.xtructure.xnet.xbatch:xbatch

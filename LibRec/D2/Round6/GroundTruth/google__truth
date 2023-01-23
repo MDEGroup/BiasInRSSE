@@ -1,0 +1,8 @@
+1	#DEP#com.google.re2j:re2j
+1	#DEP#com.google.guava:guava-gwt
+1	#DEP#com.google.errorprone:error_prone_annotations
+1	#DEP#com.google.guava:guava-testlib
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.google.guava:guava
+1	#DEP#com.google.truth.extensions:truth-liteproto-extension
+1	#DEP#junit:junit

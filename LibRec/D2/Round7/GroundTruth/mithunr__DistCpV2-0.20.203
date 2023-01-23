@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.hadoop:hadoop-test
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.aspectj:aspectjweaver

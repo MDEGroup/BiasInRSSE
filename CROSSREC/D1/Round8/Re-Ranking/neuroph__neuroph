@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.commons:commons-compress	1.0
+#DEP#org.json:json	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#se.kodapan.osm.common:core	1.0
+#DEP#se.kodapan.osm.common:java	1.0
+#DEP#se.kodapan.osm.common:common-parent	1.0
+#DEP#se.kodapan.osm.common:tools	1.0

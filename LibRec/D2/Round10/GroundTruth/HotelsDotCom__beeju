@@ -1,0 +1,6 @@
+1	#DEP#org.apache.hive:hive-jdbc
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

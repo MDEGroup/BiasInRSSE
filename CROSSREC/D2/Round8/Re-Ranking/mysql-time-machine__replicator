@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.hbase:hbase-client	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#:new-cdc	1.0

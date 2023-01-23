@@ -1,0 +1,12 @@
+1	git://github.com/simplegeo/hadoop-pig.git
+2	#DEP#org.python:jython
+3	#DEP#jline:jline
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#com.cloudera.cdh:pig-root
+6	#DEP#com.google.guava:guava
+7	#DEP#com.jcraft:jsch
+8	#DEP#com.cloudera.cdh:cdh-root
+9	#DEP#com.cloudera.cdh:pig-ant
+10	#DEP#joda-time:joda-time
+11	#DEP#commons-lang:commons-lang
+12	#DEP#com.cloudera.cdh:hadoop-root

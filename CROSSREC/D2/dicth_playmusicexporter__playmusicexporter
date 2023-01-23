@@ -1,0 +1,10 @@
+1	git://github.com/playmusicexporter/playmusicexporter.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.mpatric:mp3agic
+4	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+5	#DEP#ly.count.android:sdk
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:support-vector-drawable
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.github.paolorotolo:appintro
+10	#DEP#com.android.support:design

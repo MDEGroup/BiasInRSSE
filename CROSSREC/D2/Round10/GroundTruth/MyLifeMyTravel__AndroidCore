@@ -1,0 +1,11 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.github.bumptech.glide:compiler
+1	#DEP#com.airbnb.android:lottie
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.google.zxing:core

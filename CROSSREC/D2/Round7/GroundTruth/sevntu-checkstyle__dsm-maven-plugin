@@ -1,0 +1,5 @@
+1	#DEP#org.apache.maven.doxia:doxia-sink-api
+1	#DEP#junit:junit
+1	#DEP#org.freemarker:freemarker
+1	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+1	#DEP#org.apache.maven.reporting:maven-reporting-impl

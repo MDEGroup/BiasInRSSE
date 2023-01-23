@@ -1,0 +1,10 @@
+1	git://github.com/srt/maven-openfire-plugin.git
+2	#DEP#org.apache.maven:maven-archiver
+3	#DEP#org.apache.ant:ant
+4	#DEP#org.eclipse.jetty:jetty-jsp
+5	#DEP#org.eclipse.jetty:jetty-annotations
+6	#DEP#org.eclipse.jetty:apache-jstl
+7	#DEP#org.eclipse.jetty:apache-jsp
+8	#DEP#org.eclipse.jetty:jetty-server
+9	#DEP#org.eclipse.jetty:jetty-webapp
+10	#DEP#org.apache.maven:maven-plugin-api

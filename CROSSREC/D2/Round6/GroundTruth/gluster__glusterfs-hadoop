@@ -1,0 +1,4 @@
+1	#DEP#org.apache.hadoop:hadoop-yarn-server-nodemanager
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop:hadoop-test
+1	#DEP#org.slf4j:slf4j-log4j12

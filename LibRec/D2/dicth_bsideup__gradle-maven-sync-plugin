@@ -1,0 +1,9 @@
+1	git://github.com/bsideup/gradle-maven-sync-plugin.git
+2	#DEP#org.zeroturnaround:zt-exec
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.jdom:jdom2
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.projectlombok:lombok
+7	#DEP#info.cukes:cucumber-java
+8	#DEP#junit:junit
+9	#DEP#org.apache.maven:maven-model

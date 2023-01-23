@@ -1,0 +1,14 @@
+1	git://github.com/seam/render.git
+2	#DEP#org.jboss.weld:weld-core
+3	#DEP#org.jboss.arquillian:arquillian-junit
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.jboss.spec:jboss-javaee-6.0
+6	#DEP#org.jboss.solder:solder-impl
+7	#DEP#org.mvel:mvel2
+8	#DEP#javax.enterprise:cdi-api
+9	#DEP#org.jboss:jboss-parent
+10	#DEP#org.jboss.weld.arquillian.container:arquillian-weld-ee-embedded-1.1
+11	#DEP#org.jboss.logging:jboss-logging
+12	#DEP#org.glassfish.web:el-impl
+13	#DEP#junit:junit
+14	#DEP#org.jboss.weld:weld-core-bom

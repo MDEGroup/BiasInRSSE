@@ -1,0 +1,13 @@
+1	git://github.com/orb/lemma.git
+2	#DEP#org.teleal.lemma:lemma-core
+3	#DEP#org.apache.maven.reporting:maven-reporting-api
+4	#DEP#net.dev.java:pdf-renderer
+5	#DEP#org.teleal:teleal-common
+6	#DEP#com.google.code.javaparser:javaparser
+7	#DEP#org.testng:testng
+8	#DEP#org.apache.maven.reporting:maven-reporting-impl
+9	#DEP#com.lowagie:itext
+10	#DEP#org.codehaus.plexus:plexus-utils
+11	#DEP#args4j:args4j
+12	#DEP#org.xhtmlrenderer:core-renderer
+13	#DEP#org.teleal.lemma:root

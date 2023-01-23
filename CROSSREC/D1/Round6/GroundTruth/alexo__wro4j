@@ -1,0 +1,9 @@
+39	#DEP#org.springframework:spring-web
+40	#DEP#commons-pool:commons-pool
+41	#DEP#org.mockito:mockito-core
+42	#DEP#org.jruby:jruby-core
+43	#DEP#javax.servlet:servlet-api
+44	#DEP#org.webjars:jquery
+45	#DEP#org.webjars:font-awesome
+46	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+47	#DEP#org.apache.maven:maven-artifact

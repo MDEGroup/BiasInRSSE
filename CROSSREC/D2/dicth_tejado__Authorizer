@@ -1,0 +1,9 @@
+1	git://github.com/tejado/Authorizer.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.android.support:preference-v14
+4	#DEP#com.android.support:support-annotations
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#com.android.support:gridlayout-v7
+9	#DEP#com.android.support:preference-v7

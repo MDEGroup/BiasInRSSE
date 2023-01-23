@@ -1,0 +1,16 @@
+1	#DEP#org.apache.maven.plugins:maven-war-plugin
+1	#DEP#com.sun.jersey.jersey-test-framework:jersey-test-framework-grizzly2
+1	#DEP#spy:spymemcached
+1	#DEP#javax.websocket:javax.websocket-api
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.activemq:activemq-client
+1	#DEP#io.personium:personium-lib-es-adapter
+1	#DEP#org.apache.wink:wink-webdav
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#junit:junit

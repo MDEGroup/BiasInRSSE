@@ -1,0 +1,16 @@
+1	git://github.com/baidao/tinker-manager.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.zhy:okhttputils
+4	#DEP#org.springframework.boot:spring-boot-test
+5	#DEP#commons-io:commons-io
+6	#DEP#com.google.zxing:javase
+7	#DEP#com.alibaba:fastjson
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#org.mockito:mockito-all
+10	#DEP#org.springframework:spring-test
+11	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+12	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+13	#DEP#com.android.support:support-v4
+14	#DEP#junit:junit
+15	#DEP#com.google.zxing:core
+16	#DEP#com.journeyapps:zxing-android-embedded

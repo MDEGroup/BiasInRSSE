@@ -1,0 +1,11 @@
+1	git://github.com/jwpttcg66/redis-game-transaction.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.jdom:jdom
+4	#DEP#org.springframework:spring-context-support
+5	#DEP#org.springframework:spring-test
+6	#DEP#redis.clients:jedis
+7	#DEP#org.apache.commons:commons-pool2
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.springframework:spring-core
+11	#DEP#commons-lang:commons-lang

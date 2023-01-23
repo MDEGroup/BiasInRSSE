@@ -1,0 +1,5 @@
+24	#DEP#log4j:log4j
+25	#DEP#com.google.code.simple-spring-memcached:simple-spring-memcached
+26	#DEP#nl.jqno.equalsverifier:equalsverifier
+27	#DEP#net.vidageek:mirror
+28	#DEP#junit:junit

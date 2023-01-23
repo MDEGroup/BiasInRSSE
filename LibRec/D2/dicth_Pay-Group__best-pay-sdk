@@ -1,0 +1,17 @@
+1	git://github.com/Pay-Group/best-pay-sdk.git
+2	#DEP#org.apache.tomcat.embed:tomcat-embed-core
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.google.code.gson:gson
+9	#DEP#joda-time:joda-time
+10	#DEP#org.glassfish.jersey.connectors:jersey-apache-connector
+11	#DEP#com.fasterxml.jackson.core:jackson-core
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#org.projectlombok:lombok
+15	#DEP#junit:junit
+16	#DEP#org.glassfish.jersey.core:jersey-client
+17	#DEP#com.squareup.retrofit2:converter-simplexml

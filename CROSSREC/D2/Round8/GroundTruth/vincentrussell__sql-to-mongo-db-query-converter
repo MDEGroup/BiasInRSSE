@@ -1,0 +1,9 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.github.jsqlparser:jsqlparser
+1	#DEP#joda-time:joda-time
+1	#DEP#org.mongodb:bson
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.joestelmach:natty
+1	#DEP#com.github.stefanbirkner:system-rules
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

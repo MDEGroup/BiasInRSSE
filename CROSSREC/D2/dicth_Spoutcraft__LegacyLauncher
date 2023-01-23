@@ -1,0 +1,11 @@
+1	git://github.com/Spoutcraft/LegacyLauncher.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.swinglabs:swing-layout
+4	#DEP#commons-io:commons-io
+5	#DEP#org.codehaus.jackson:jackson-core-asl
+6	#DEP#org.yaml:snakeyaml
+7	#DEP#org.spout:downpour
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#junit:junit
+10	#DEP#com.beust:jcommander
+11	#DEP#org.swinglabs:swing-worker

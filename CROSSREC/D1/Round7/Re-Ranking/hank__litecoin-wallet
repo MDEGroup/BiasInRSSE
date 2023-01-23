@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#com.google.zxing:android-core	1.0
+#DEP#com.google.zxing:core	1.0
+#DEP#com.beust:jcommander	1.0
+#DEP#com.google.gwt:gwt-user	1.0
+#DEP#javax:javaee-web-api	1.0
+#DEP#com.octo.android.robospice:robospice-okhttp	1.0
+#DEP#com.github.rtyley:com.github.rtyley	1.0

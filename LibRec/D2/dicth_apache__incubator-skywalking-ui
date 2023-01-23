@@ -1,0 +1,12 @@
+1	git://github.com/apache/incubator-skywalking-ui.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#com.graphql-java:graphiql-spring-boot-starter
+4	#DEP#com.graphql-java:graphql-spring-boot-starter
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.boot:spring-boot-devtools
+7	#DEP#org.projectlombok:lombok
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit
+10	#DEP#org.springframework.boot:spring-boot-configuration-processor
+11	#DEP#org.springframework.boot:spring-boot-starter-web
+12	#DEP#org.springframework.boot:spring-boot-starter-actuator

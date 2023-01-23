@@ -1,0 +1,9 @@
+1	#DEP#org.ops4j.base:ops4j-base-util
+1	#DEP#org.ops4j.base:ops4j-base-net
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.ops4j.base:ops4j-base-io
+1	#DEP#org.ops4j:master
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.ops4j.base:ops4j-base-spi
+1	#DEP#junit:junit
+1	#DEP#org.ops4j.base:ops4j-base-util-property

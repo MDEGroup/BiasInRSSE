@@ -1,0 +1,4 @@
+16	#DEP#org.joda:joda-convert
+17	#DEP#com.google.guava:guava
+18	#DEP#org.apache.httpcomponents:fluent-hc
+19	#DEP#junit:junit

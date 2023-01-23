@@ -1,0 +1,10 @@
+1	#DEP#c3p0:c3p0
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.hibernate:hibernate
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org:jaudiotagger
+1	#DEP#log4j:log4j
+1	#DEP#org.blinkenlights.jid3:JID3
+1	#DEP#com.google.code.gwt-log:gwt-log
+1	#DEP#junit:junit
+1	#DEP#org.miller:gwt-sound

@@ -1,0 +1,12 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.activation:activation
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#com.esotericsoftware:reflectasm
+1	#DEP#com.google.guava:guava
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#gemfire:gemfire
+1	#DEP#org.jboss.netty:netty
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#com.esotericsoftware:minlog
+1	#DEP#spy:memcached

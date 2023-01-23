@@ -1,0 +1,12 @@
+1	git://github.com/ZhuoKeTeam/AndroidJsoup.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#com.facebook.stetho:stetho
+4	#DEP#com.zhy:okhttputils
+5	#DEP#com.facebook.stetho:stetho-okhttp3
+6	#DEP#com.facebook.stetho:stetho-js-rhino
+7	#DEP#com.squareup.okhttp:okhttp
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.facebook.stetho:stetho-urlconnection
+10	#DEP#junit:junit
+11	#DEP#com.google.code.gson:gson
+12	#DEP#com.android.support:design

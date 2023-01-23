@@ -1,0 +1,8 @@
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.jakewharton.rxbinding:rxbinding
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.facebook.fresco:imagepipeline-okhttp3
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

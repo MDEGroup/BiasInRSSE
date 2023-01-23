@@ -1,0 +1,13 @@
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#commons-logging:commons-logging
+1	#DEP#wonder.businesslogic:ERAttachment
+1	#DEP#wonder.core:ERFoundation
+1	#DEP#com.webobjects:JavaEOAccess
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.webobjects:JavaDirectToWeb
+1	#DEP#joda-time:joda-time
+1	#DEP#wonder.core:ERJavaMail
+1	#DEP#ponder:ERCoreBL
+1	#DEP#wonder.core:JavaWOExtensions
+1	#DEP#wonder.core:ERExtensions
+1	#DEP#wonder.core:ERDirectToWeb

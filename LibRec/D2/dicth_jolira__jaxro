@@ -1,0 +1,10 @@
+1	git://github.com/jolira/jaxro.git
+2	#DEP#com.jolira:jaxro-core
+3	#DEP#com.jolira:jaxro
+4	#DEP#com.jolira:superpom
+5	#DEP#junit:junit
+6	#DEP#com.jolira:jaxro-apt
+7	#DEP#com.jolira:jaxro-test
+8	#DEP#com.jolira:hickory
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.jolira:jaxro-src

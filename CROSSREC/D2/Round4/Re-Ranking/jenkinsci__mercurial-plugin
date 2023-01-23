@@ -1,0 +1,10 @@
+#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps	1.0
+#DEP#org.jenkins-ci.plugins:plugin	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-cps	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api	1.0
+#DEP#org.jenkins-ci.plugins:credentials	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-api	1.0
+#DEP#org.jenkins-ci.plugins:git	1.0
+#DEP#com.vdurmont:semver4j	1.0
+#DEP#org.jenkins-ci.plugins:gitlab-plugin	1.0
+#DEP#org.jenkins-ci.plugins:pipeline-stage-step	1.0

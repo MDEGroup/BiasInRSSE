@@ -1,0 +1,9 @@
+1	git://github.com/milgner/TeamCityGithub.git
+2	#DEP#org.jetbrains.teamcity.idea:util
+3	#DEP#org.codehaus.jackson:jackson-mapper-lgpl
+4	#DEP#org.jetbrains.teamcity.internal:server
+5	#DEP#com.marcusilgner:server-plugin
+6	#DEP#org.codehaus.jackson:jackson-core-lgpl
+7	#DEP#com.marcusilgner:ghcity
+8	#DEP#org.jetbrains.teamcity:server-api
+9	#DEP#org.jetbrains.teamcity:tests-support

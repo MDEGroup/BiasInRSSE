@@ -1,0 +1,10 @@
+1	git://github.com/lukas-krecan/mock-socket.git
+2	#DEP#commons-io:commons-io
+3	#DEP#net.javacrumbs:mock-socket-parent
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#net.javacrumbs:mock-socket-core
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#org.eclipse.jetty:test-jetty-servlet
+10	#DEP#org.hamcrest:hamcrest-core

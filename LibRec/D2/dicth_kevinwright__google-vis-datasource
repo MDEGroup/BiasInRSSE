@@ -1,0 +1,10 @@
+1	git://github.com/kevinwright/google-vis-datasource.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#com.google:google
+4	#DEP#commons-logging:commons-logging
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#org.easymock:easymock
+7	#DEP#com.google.guava:guava
+8	#DEP#junit:junit
+9	#DEP#com.ibm.icu:icu4j
+10	#DEP#commons-lang:commons-lang

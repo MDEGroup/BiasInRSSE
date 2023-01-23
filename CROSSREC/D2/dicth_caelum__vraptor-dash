@@ -1,0 +1,12 @@
+1	git://github.com/caelum/vraptor-dash.git
+2	#DEP#org.hibernate:hibernate-core
+3	#DEP#br.com.caelum:vraptor
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.mockito:mockito-core
+7	#DEP#net.sf.ehcache:ehcache
+8	#DEP#junit:junit
+9	#DEP#org.mortbay.jetty:servlet-api
+10	#DEP#org.hsqldb:hsqldb
+11	#DEP#c3p0:c3p0
+12	#DEP#br.com.caelum.vraptor:vraptor-environment

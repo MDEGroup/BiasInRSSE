@@ -1,0 +1,4 @@
+17	#DEP#com.android.support.constraint:constraint-layout
+18	#DEP#com.squareup.retrofit2:retrofit
+19	#DEP#junit:junit
+20	#DEP#com.squareup.okio:okio

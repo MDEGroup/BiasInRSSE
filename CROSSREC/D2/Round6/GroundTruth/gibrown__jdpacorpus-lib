@@ -1,0 +1,9 @@
+1	#DEP#javax.jms:jms
+1	#DEP#com.sun.jdmk:jmxtools
+1	#DEP#javax.mail:mail
+1	#DEP#log4j:log4j
+1	#DEP#org.slf4j:slf4j-parent
+1	#DEP#org.apache.felix:org.apache.felix.main
+1	#DEP#junit:junit
+1	#DEP#ch.qos.cal10n:cal10n-api
+1	#DEP#org.slf4j:slf4j-jdk14

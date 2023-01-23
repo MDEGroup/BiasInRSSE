@@ -1,0 +1,16 @@
+1	git://github.com/airbnb/okreplay.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.google.auto.value:auto-value
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.jakewharton.espresso:okhttp3-idling-resource
+6	#DEP#com.github.groovy-wslite:groovy-wslite
+7	#DEP#com.ryanharter.auto.value:auto-value-moshi
+8	#DEP#org.codehaus.groovy:groovy-json
+9	#DEP#com.squareup.retrofit2:converter-moshi
+10	#DEP#com.android.support:multidex
+11	#DEP#com.squareup.retrofit2:adapter-rxjava2
+12	#DEP#com.android.support.test:rules
+13	#DEP#junit:junit
+14	#DEP#com.android.support.test:runner
+15	#DEP#com.ryanharter.auto.value:auto-value-moshi-annotations
+16	#DEP#com.squareup.okio:okio

@@ -1,0 +1,8 @@
+1	#DEP#com.github.spullara.redis:redis
+1	#DEP#com.github.spullara.mustache.java:compiler
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.github.spullara.java:concurrent6
+1	#DEP#com.github.spullara.redis:protocol
+1	#DEP#com.google.guava:guava
+1	#DEP#com.github.spullara.redis:netty
+1	#DEP#junit:junit

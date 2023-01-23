@@ -1,0 +1,6 @@
+1	#DEP#io.vavr:vavr
+1	#DEP#com.googlecode.gettext-commons:gettext-commons
+1	#DEP#com.google.guava:guava
+1	#DEP#com.miglayout:miglayout
+1	#DEP#com.apple:AppleJavaExtensions
+1	#DEP#junit:junit

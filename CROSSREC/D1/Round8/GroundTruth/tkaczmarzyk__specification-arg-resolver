@@ -1,0 +1,4 @@
+16	#DEP#javax.servlet:javax.servlet-api
+17	#DEP#com.jayway.jsonpath:json-path
+18	#DEP#junit:junit
+19	#DEP#com.h2database:h2

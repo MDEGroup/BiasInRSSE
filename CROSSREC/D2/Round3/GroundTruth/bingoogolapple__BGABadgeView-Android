@@ -1,0 +1,5 @@
+1	#DEP#cn.bingoogolapple:bga-badgeview-compiler
+1	#DEP#com.squareup:javapoet
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.android.support:design

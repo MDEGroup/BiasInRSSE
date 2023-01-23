@@ -1,0 +1,14 @@
+1	git://github.com/Hitta/simplerialize.git
+2	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-runtime
+3	#DEP#org.codehaus.woodstox:woodstox-core-asl
+4	#DEP#xmlunit:xmlunit
+5	#DEP#se.hitta:simplerialize
+6	#DEP#se.hitta:pom-logging
+7	#DEP#com.thoughtworks.xstream:xstream
+8	#DEP#se.hitta:pom-json
+9	#DEP#org.slf4j:slf4j-simple
+10	#DEP#se.hitta:pom-master
+11	#DEP#org.simpleframework:simple-xml
+12	#DEP#se.hitta:simplerialize-lib
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit

@@ -1,0 +1,7 @@
+30	#DEP#javax.servlet:servlet-api
+31	#DEP#org.glassfish.jersey.media:jersey-media-sse
+32	#DEP#junit:junit
+33	#DEP#com.netflix.archaius:archaius-core
+34	#DEP#io.reactivex:rxjava
+35	#DEP#org.powermock:powermock-easymock-release-full
+36	#DEP#cglib:cglib

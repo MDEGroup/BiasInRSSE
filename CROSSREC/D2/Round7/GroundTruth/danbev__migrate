@@ -1,0 +1,4 @@
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.jboss.netty:netty
+1	#DEP#junit:junit
+1	#DEP#javax:javaee-api

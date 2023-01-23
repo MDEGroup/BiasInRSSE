@@ -1,0 +1,14 @@
+1	git://github.com/jortizcs/StreamFS.git
+2	#DEP#net.sf.jung:jung2
+3	#DEP#net.sf.jung:jung-visualization
+4	#DEP#org.easymock:easymock
+5	#DEP#com.google:google
+6	#DEP#org.easymock:easymockclassextension
+7	#DEP#net.sf.jung:jung-algorithms
+8	#DEP#colt:colt
+9	#DEP#net.sf.jung:jung-io
+10	#DEP#net.sf.jung:jung-graph-impl
+11	#DEP#net.sf.jung:jung-3d
+12	#DEP#junit:junit
+13	#DEP#net.sf.jung:jung-api
+14	#DEP#net.sourceforge.collections:collections-generic

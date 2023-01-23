@@ -1,0 +1,12 @@
+1	#DEP#io.grpc:grpc-all
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#io.grpc:grpc-netty
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#io.zipkin.java:zipkin-server
+1	#DEP#pl.pragmatists:JUnitParams
+1	#DEP#io.zipkin.java:zipkin
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#${project.groupId}:storage
+1	#DEP#io.grpc:grpc-auth
+1	#DEP#${project.groupId}:translation

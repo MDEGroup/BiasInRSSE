@@ -1,0 +1,13 @@
+1	git://github.com/proselytear/SpringSecurityApp.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#org.hibernate:hibernate-entitymanager
+5	#DEP#org.springframework.security:spring-security-web
+6	#DEP#commons-dbcp:commons-dbcp
+7	#DEP#org.springframework:spring-web
+8	#DEP#org.springframework.data:spring-data-jpa
+9	#DEP#org.springframework:spring-webmvc
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#javax.servlet:jstl
+12	#DEP#org.springframework.security:spring-security-config
+13	#DEP#junit:junit

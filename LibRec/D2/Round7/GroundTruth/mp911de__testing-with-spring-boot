@@ -1,0 +1,6 @@
+1	#DEP#org.seleniumhq.selenium:selenium-api
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.seleniumhq.selenium:htmlunit-driver
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc
+1	#DEP#com.h2database:h2

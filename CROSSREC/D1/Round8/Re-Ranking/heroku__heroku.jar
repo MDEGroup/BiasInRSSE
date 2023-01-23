@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#com.jcraft:jsch	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#org.glassfish.jersey.media:jersey-media-jaxb	1.0
+#DEP#org.slf4j:jul-to-slf4j	1.0
+#DEP#com.jaspersoft.jasperserver:jasperserver-dto	1.0

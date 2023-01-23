@@ -1,0 +1,9 @@
+1	#DEP#org.biojava:biojava3-structure
+1	#DEP#org.biojava:biojava3-phylo
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#org.forester:forester-lgpl
+1	#DEP#xerces:xercesImpl
+1	#DEP#com.google.guava:guava
+1	#DEP#org.biojava:biojava
+1	#DEP#org.biojava:biojava3-alignment
+1	#DEP#junit:junit

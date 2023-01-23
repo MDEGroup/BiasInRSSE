@@ -1,0 +1,16 @@
+1	git://github.com/SpartaSystems/holdmail.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.flywaydb:flyway-core
+5	#DEP#commons-io:commons-io
+6	#DEP#io.rest-assured:json-schema-validator
+7	#DEP#org.subethamail:subethasmtp
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#commons-codec:commons-codec
+10	#DEP#io.rest-assured:rest-assured
+11	#DEP#com.github.springtestdbunit:spring-test-dbunit
+12	#DEP#org.powermock:powermock-api-mockito
+13	#DEP#org.apache.james:apache-mime4j
+14	#DEP#nl.jqno.equalsverifier:equalsverifier
+15	#DEP#io.rest-assured:spring-mock-mvc
+16	#DEP#com.h2database:h2

@@ -1,0 +1,9 @@
+1	git://github.com/smuyyh/ImageSelector.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.yuyh.easyadapter:library
+4	#DEP#com.facebook.fresco:fresco
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.yuyh.imgsel:library
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#:library

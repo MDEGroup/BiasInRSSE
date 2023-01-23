@@ -1,0 +1,11 @@
+1	git://github.com/cpjit/swagger.git
+2	#DEP#commons-io:commons-io
+3	#DEP#javax.servlet:javax.servlet-api
+4	#DEP#org.apache.struts:struts2-core
+5	#DEP#org.springframework:spring-webmvc
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.alibaba:fastjson
+9	#DEP#junit:junit
+10	#DEP#org.freemarker:freemarker
+11	#DEP#org.springframework:spring-core

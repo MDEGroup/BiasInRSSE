@@ -1,0 +1,7 @@
+1	#DEP#org.apache.maven.doxia:doxia-module-apt
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#com.jgoodies:forms
+1	#DEP#log4j:log4j
+1	#DEP#org.xhtmlrenderer:core-renderer
+1	#DEP#junit:junit
+1	#DEP#com.ibm.icu:icu4j

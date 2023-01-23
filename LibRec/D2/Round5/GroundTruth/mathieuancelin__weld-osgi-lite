@@ -1,0 +1,9 @@
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.apache.felix:de.kalpatec.pojosr.framework
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jboss.weld:weld-api
+1	#DEP#junit:junit
+1	#DEP#org.jboss.interceptor:jboss-interceptor-spi
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.slf4j:slf4j-jdk14

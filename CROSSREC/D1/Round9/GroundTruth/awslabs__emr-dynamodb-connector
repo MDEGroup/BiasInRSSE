@@ -1,0 +1,5 @@
+21	#DEP#org.apache.hadoop:hadoop-common
+22	#DEP#junit:junit
+23	#DEP#com.amazon.emr:shims-common
+24	#DEP#org.apache.hadoop:hadoop-mapreduce-client-hs
+25	#DEP#com.amazon.emr:shims-loader

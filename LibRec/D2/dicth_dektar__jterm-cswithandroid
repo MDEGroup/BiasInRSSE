@@ -1,0 +1,15 @@
+1	git://github.com/dektar/jterm-cswithandroid.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#com.google.firebase:firebase-config
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.android.support:design
+6	#DEP#com.google.firebase:firebase-messaging
+7	#DEP#com.firebaseui:firebase-ui-database
+8	#DEP#com.google.firebase:firebase-auth
+9	#DEP#org.powermock:powermock
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#org.powermock:powermock-api-mockito
+12	#DEP#com.google.android.gms:play-services-auth
+13	#DEP#com.google.android.gms:play-services-appinvite
+14	#DEP#com.google.firebase:firebase-database
+15	#DEP#junit:junit

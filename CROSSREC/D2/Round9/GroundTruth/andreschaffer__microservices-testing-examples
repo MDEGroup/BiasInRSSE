@@ -1,0 +1,7 @@
+1	#DEP#io.dropwizard:dropwizard-client
+1	#DEP#org.awaitility:awaitility
+1	#DEP#com.github.charithe:kafka-junit
+1	#DEP#javax.mail:mail
+1	#DEP#au.com.dius:pact-jvm-provider-junit_2.11
+1	#DEP#junit:junit
+1	#DEP#io.dropwizard:dropwizard-core

@@ -1,0 +1,7 @@
+1	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.dynamicreg.common
+1	#DEP#org.cache2k:cache2k-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.resourceserver
+1	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.resourceserver-filter
+1	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.authzserver
+1	#DEP#org.cache2k:cache2k-core

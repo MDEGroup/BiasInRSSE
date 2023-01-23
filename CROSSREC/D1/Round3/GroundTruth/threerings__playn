@@ -1,0 +1,7 @@
+32	#DEP#com.googlecode.playn:playn-tests-core
+33	#DEP#org.eclipse.swt:${swt.artifactId}
+34	#DEP#com.googlecode.playn:playn-java
+35	#DEP#com.allen-sauer.gwt.voices:gwt-voices
+36	#DEP#com.xamarin:opentk
+37	#DEP#junit:junit
+38	#DEP#com.google.appengine:appengine-api-labs

@@ -1,0 +1,7 @@
+1	#DEP#com.zchu:zlog
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.jakewharton:disklrucache
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#junit:junit
+1	#DEP#com.squareup.okio:okio

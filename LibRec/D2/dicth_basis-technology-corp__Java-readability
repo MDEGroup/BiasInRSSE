@@ -1,0 +1,9 @@
+1	git://github.com/basis-technology-corp/Java-readability.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#net.sourceforge.nekohtml:nekohtml
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.apache.tika:tika-parsers
+8	#DEP#xerces:xercesImpl
+9	#DEP#org.slf4j:slf4j-api

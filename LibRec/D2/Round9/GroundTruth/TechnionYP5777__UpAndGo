@@ -1,0 +1,13 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.arcbees.gquery:tooltip
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.codehaus.janino:janino
+1	#DEP#com.googlecode.gwtquery:gwtquery
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.google.oauth-client:google-oauth-client-appengine
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.apis:google-api-services-calendar
+1	#DEP#org.gwtbootstrap3:gwtbootstrap3-extras
+1	#DEP#org.gwtbootstrap3:gwtbootstrap3
+1	#DEP#junit:junit

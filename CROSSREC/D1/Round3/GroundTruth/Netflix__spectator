@@ -1,0 +1,2 @@
+11	#DEP#software.amazon.awssdk:cloudwatch
+12	#DEP#org.openjdk.jmh:jmh-core

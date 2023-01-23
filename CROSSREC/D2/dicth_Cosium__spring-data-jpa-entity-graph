@@ -1,0 +1,12 @@
+1	git://github.com/Cosium/spring-data-jpa-entity-graph.git
+2	#DEP#org.springframework.data:spring-data-jpa
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa
+5	#DEP#com.querydsl:querydsl-apt
+6	#DEP#org.hibernate:hibernate-entitymanager
+7	#DEP#org.springframework:spring-test
+8	#DEP#org.dbunit:dbunit
+9	#DEP#com.github.springtestdbunit:spring-test-dbunit
+10	#DEP#junit:junit
+11	#DEP#com.querydsl:querydsl-jpa
+12	#DEP#org.hsqldb:hsqldb

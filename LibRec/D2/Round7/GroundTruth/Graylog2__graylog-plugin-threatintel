@@ -1,0 +1,6 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.graylog.plugins:graylog-plugin-web-parent
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#junit:junit
+1	#DEP#commons-net:commons-net
+1	#DEP#commons-validator:commons-validator

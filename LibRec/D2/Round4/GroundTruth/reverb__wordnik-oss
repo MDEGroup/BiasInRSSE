@@ -1,0 +1,8 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.wordnik:mongo-utils_2.9.1
+1	#DEP#org.slf4j:slf4j-ext
+1	#DEP#org.scalatest:scalatest_2.9.1
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#com.wordnik:wordnik-oss-project_2.9.1
+1	#DEP#org.apache.felix:maven-bundle-plugin
+1	#DEP#junit:junit

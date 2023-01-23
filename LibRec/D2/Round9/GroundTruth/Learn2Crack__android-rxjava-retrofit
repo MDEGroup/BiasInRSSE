@@ -1,0 +1,5 @@
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#junit:junit
+1	#DEP#com.squareup.retrofit2:converter-gson

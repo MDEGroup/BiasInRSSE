@@ -1,0 +1,5 @@
+1	#DEP#org.powermock:powermock-api-mockito2
+1	#DEP#${project.groupId}:mug
+1	#DEP#com.google.caliper:caliper
+1	#DEP#junit:junit
+1	#DEP#com.google.truth:truth

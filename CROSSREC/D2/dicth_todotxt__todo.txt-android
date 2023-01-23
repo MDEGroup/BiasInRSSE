@@ -1,0 +1,15 @@
+1	git://github.com/todotxt/todo.txt-android.git
+2	#DEP#com.actionbarsherlock:actionbarsherlock
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.google.android:android
+6	#DEP#com.actionbarsherlock:parent
+7	#DEP#com.squareup:fest-android
+8	#DEP#com.nineoldandroids:library
+9	#DEP#com.github.rtyley:roboguice-sherlock
+10	#DEP#com.actionbarsherlock:parent-sample
+11	#DEP#org.easytesting:fest-assert-core
+12	#DEP#com.google.android:support-v4
+13	#DEP#${project.groupId}:actionbarsherlock
+14	#DEP#com.android.support:support-v4
+15	#DEP#junit:junit

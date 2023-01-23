@@ -1,0 +1,9 @@
+40	#DEP#org.jruby:jruby-core
+41	#DEP#org.codehaus.groovy:groovy
+42	#DEP#org.webjars:handlebars
+43	#DEP#javax.servlet:servlet-api
+44	#DEP#org.webjars:jquery
+45	#DEP#org.webjars:font-awesome
+46	#DEP#junit:junit
+47	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+48	#DEP#org.apache.maven:maven-artifact

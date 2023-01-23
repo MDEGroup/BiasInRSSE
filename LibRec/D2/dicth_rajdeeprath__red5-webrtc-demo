@@ -1,0 +1,17 @@
+1	git://github.com/rajdeeprath/red5-webrtc-demo.git
+2	#DEP#org.slf4j:jul-to-slf4j
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.slf4j:log4j-over-slf4j
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.springframework:spring-beans
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.springframework:spring-core
+9	#DEP#org.red5:red5-server
+10	#DEP#org.red5:websocket
+11	#DEP#org.slf4j:jcl-over-slf4j
+12	#DEP#ch.qos.logback:logback-core
+13	#DEP#org.springframework:spring-context-support
+14	#DEP#ch.qos.logback:logback-classic
+15	#DEP#org.apache.mina:mina-core
+16	#DEP#net.minidev:json-smart
+17	#DEP#org.apache.mina:mina-parent

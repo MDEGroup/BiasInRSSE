@@ -1,0 +1,14 @@
+1	#DEP#com.netflix.eureka:eureka-client
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#com.github.hippo-band:hippo-serviceGoven
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.netflix.ribbon:ribbon-core
+1	#DEP#junit:junit
+1	#DEP#com.netflix.ribbon:ribbon-loadbalancer
+1	#DEP#com.netflix.archaius:archaius-core

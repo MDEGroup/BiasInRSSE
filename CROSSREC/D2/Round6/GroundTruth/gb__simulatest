@@ -1,0 +1,14 @@
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.jboss.microcontainer:jms-ra
+1	#DEP#org.simulatest:simulatest
+1	#DEP#org.picocontainer:picocontainer
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.simulatest:simulatest-insistencelayer
+1	#DEP#org.easytesting:fest-swing
+1	#DEP#microcontainer:hibernate-all
+1	#DEP#org.simulatest:simulatest-connection
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.commons:commons-digester3
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

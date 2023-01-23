@@ -1,0 +1,12 @@
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.diveintojee.poc.ui.unittesting:ui-unittesting-poc-root
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.jgoodies:looks
+1	#DEP#org.swinglabs:swingx
+1	#DEP#org.springframework:spring-web
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.cxf:cxf-rt-databinding-aegis
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.apache.cxf:cxf-rt-core

@@ -1,0 +1,10 @@
+1	git://github.com/SonarSource/sonar-dev-maven-plugin.git
+2	#DEP#com.github.kevinsawicki:http-request
+3	#DEP#commons-io:commons-io
+4	#DEP#org.codehaus.plexus:plexus-utils
+5	#DEP#org.easytesting:fest-assert
+6	#DEP#org.apache.maven:maven-project
+7	#DEP#junit:junit
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.sonarsource.parent:parent
+10	#DEP#org.apache.maven:maven-core

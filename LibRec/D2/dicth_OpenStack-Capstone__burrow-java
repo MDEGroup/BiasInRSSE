@@ -1,0 +1,9 @@
+1	git://github.com/OpenStack-Capstone/burrow-java.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.apache.httpcomponents:httpasyncclient
+5	#DEP#org.apache.httpcomponents:httpcore
+6	#DEP#org.json:json
+7	#DEP#org.apache.httpcomponents:httpcore-nio
+8	#DEP#junit:junit
+9	#DEP#com.intellij:forms_rt

@@ -1,0 +1,6 @@
+26	#DEP#${project.groupId}:Kayak-ui
+27	#DEP#eu.hansolo:SteelSeries
+28	#DEP#org.netbeans.api:org-openide-util-lookup
+29	#DEP#org.netbeans.api:org-openide-util
+30	#DEP#org.netbeans.api:org-netbeans-modules-settings
+31	#DEP#org.swinglabs:swingx-ws

@@ -1,0 +1,11 @@
+1	git://github.com/frenchmb/Options-Strategy-Calculator.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#com.jgoodies:binding
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.jgoodies:forms
+6	#DEP#org.testng:testng
+7	#DEP#interactivebroker:jtsclient
+8	#DEP#com.google.collections:google-collections
+9	#DEP#aopalliance:aopalliance
+10	#DEP#org.guiceyfruit:guiceyfruit-core
+11	#DEP#com.google.code.guice:guice

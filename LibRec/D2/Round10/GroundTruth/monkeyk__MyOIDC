@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-expression
+1	#DEP#org.springframework:spring-web
+1	#DEP#javax.servlet.jsp:jsp-api
+1	#DEP#com.nimbusds:nimbus-jose-jwt
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-test
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.bitbucket.b_c:jose4j
+1	#DEP#net.sf.ehcache:ehcache-web

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.javassist:javassist	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#as3isolib:as3isolib-fp10	1.0
+#DEP#com.megginson.sax:xml-writer	1.0
+#DEP#com.threerings:naryalib	1.0
+#DEP#com.google.code.flexlib:flexlib	1.0
+#DEP#com.threerings:nenya-tools	1.0

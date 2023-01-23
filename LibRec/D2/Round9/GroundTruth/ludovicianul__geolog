@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#io.projectreactor:reactor-bus

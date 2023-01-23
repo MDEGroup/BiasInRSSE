@@ -1,0 +1,12 @@
+1	git://github.com/tresorit/ZeroKit-Android-SDK.git
+2	#DEP#com.android.support.test:testing-support-lib
+3	#DEP#com.google.dagger:dagger-compiler
+4	#DEP#com.squareup.okhttp3:logging-interceptor
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#javax.annotation:javax.annotation-api
+8	#DEP#org.greenrobot:eventbus
+9	#DEP#junit:junit
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#com.android.support.test.espresso:espresso-idling-resource
+12	#DEP#com.google.dagger:dagger

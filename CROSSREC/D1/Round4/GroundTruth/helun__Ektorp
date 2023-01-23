@@ -1,0 +1,4 @@
+19	#DEP#com.fasterxml.jackson.core:jackson-core
+20	#DEP#org.slf4j:jcl-over-slf4j
+21	#DEP#log4j:log4j
+22	#DEP#junit:junit

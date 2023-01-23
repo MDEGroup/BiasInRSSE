@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#com.google.code.guice:guice

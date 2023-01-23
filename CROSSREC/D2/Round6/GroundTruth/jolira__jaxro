@@ -1,0 +1,5 @@
+1	#DEP#com.jolira:jaxro-apt
+1	#DEP#com.jolira:jaxro-test
+1	#DEP#com.jolira:hickory
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.jolira:jaxro-src

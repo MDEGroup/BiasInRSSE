@@ -1,0 +1,8 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#io.github.jklingsporn:vertx-jooq
+1	#DEP#me.escoffier.vertx:vertx-completable-future
+1	#DEP#io.github.jklingsporn:vertx-jooq-rx
+1	#DEP#io.github.jklingsporn:vertx-jooq-future
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#io.github.jklingsporn:vertx-jooq-classic

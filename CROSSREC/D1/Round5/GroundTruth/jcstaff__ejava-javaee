@@ -1,0 +1,13 @@
+54	#DEP#ejava.coursedocs:jpa-devenv-setup-docbook
+55	#DEP#${project.groupId}:asyncMarketImpl
+56	#DEP#${project.groupId}:asyncMarketWAR
+57	#DEP#org.hornetq:hornetq-core
+58	#DEP#ejava.webejb:webejb-docbook
+59	#DEP#org.jboss.microcontainer:jboss-kernel
+60	#DEP#org.hibernate:hibernate-validator
+61	#DEP#javax.transaction:jta
+62	#DEP#org.slf4j:slf4j-log4j12
+63	#DEP#ejava.jpa:jpa-dao-docbook
+64	#DEP#xerces:xercesImpl
+65	#DEP#javax.servlet:servlet-api
+66	#DEP#org.hornetq:hornetq-bootstrap

@@ -1,0 +1,15 @@
+1	git://github.com/dooApp/FXForm2.git
+2	#DEP#javax.validation:validation-api
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#com.dooapp.fxform2:FXForm2
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.controlsfx:fxsampler
+7	#DEP#javax.el:el-api
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.dooapp.fxform2:extensions
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.controlsfx:controlsfx
+13	#DEP#com.dooapp.fxform2:core
+14	#DEP#org.glassfish.web:el-impl
+15	#DEP#junit:junit

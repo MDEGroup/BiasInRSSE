@@ -1,0 +1,13 @@
+1	#DEP#org.apache.directory.api:api-ldap-codec-standalone
+1	#DEP#org.wildfly.security:wildfly-elytron
+1	#DEP#org.jboss.byteman:byteman
+1	#DEP#org.apache.directory.server:apacheds-server-annotations
+1	#DEP#org.apache.directory.server:apacheds-protocol-ldap
+1	#DEP#org.apache.directory.server:apacheds-interceptor-kerberos
+1	#DEP#org.jboss.logging:jboss-logging-annotations
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.byteman:byteman-install
+1	#DEP#org.apache.directory.server:apacheds-core-jndi
+1	#DEP#junit:junit
+1	#DEP#org.apache.directory.jdbm:apacheds-jdbm1
+1	#DEP#org.jboss.logmanager:jboss-logmanager

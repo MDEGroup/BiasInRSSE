@@ -1,0 +1,9 @@
+1	git://github.com/googlesamples/android-WearVerifyRemoteApp.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.android.support:wear
+4	#DEP#com.android.support:cardview-v7
+5	#DEP#com.google.android.support:wearable
+6	#DEP#com.google.android.wearable:wearable
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.android.gms:play-services-wearable

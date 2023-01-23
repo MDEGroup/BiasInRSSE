@@ -1,0 +1,6 @@
+1	#DEP#org.jetbrains:annotations
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.h2database:h2

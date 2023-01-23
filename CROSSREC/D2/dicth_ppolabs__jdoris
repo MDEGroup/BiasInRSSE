@@ -1,0 +1,16 @@
+1	git://github.com/ppolabs/jdoris.git
+2	#DEP#org:jblas
+3	#DEP#org.esa.nest:nest-reader-dem
+4	#DEP#hirondelle:date4j
+5	#DEP#org.esa.beam:beam-visat-rcp
+6	#DEP#org.esa.beam:beam-gpf
+7	#DEP#org.esa.beam:beam-core
+8	#DEP#org.jdoris:jdoris
+9	#DEP#edu.emory.mathcs:jtransforms
+10	#DEP#org.esa.nest:nest-core
+11	#DEP#org.esa.nest:nest-graph-builder
+12	#DEP#log4j:log4j
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#com.google.guava:guava
+15	#DEP#org.jdoris:jdoris-core
+16	#DEP#junit:junit

@@ -1,0 +1,10 @@
+#DEP#org.exoplatform.jcr:exo.jcr.component.ext	1.0
+#DEP#org.exoplatform.jcr:exo.jcr.component.core	1.0
+#DEP#javax.portlet:portlet-api	1.0
+#DEP#org.exoplatform.kernel:exo.kernel.commons	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.exoplatform.kernel:exo.kernel.container	1.0
+#DEP#org.apache.poi:poi-ooxml	1.0
+#DEP#org.apache.poi:poi	1.0
+#DEP#commons-fileupload:commons-fileupload	1.0
+#DEP#org.exoplatform.portal:exo.portal.component.test.jcr	1.0

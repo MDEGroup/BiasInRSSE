@@ -1,0 +1,10 @@
+#DEP#com.vividsolutions:jts	1.0
+#DEP#javax.media:jai_core	1.0
+#DEP#javax.media:jai_codec	1.0
+#DEP#javax.media:jai_imageio	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.geotools:modules	1.0
+#DEP#org.geotools.schemas:iso-19139-2007	1.0
+#DEP#org.geotools.schemas:xml-1.0	1.0
+#DEP#org.geotools:gt-imagemosaic	1.0
+#DEP#org.geotools.schemas:ows-1.1	1.0

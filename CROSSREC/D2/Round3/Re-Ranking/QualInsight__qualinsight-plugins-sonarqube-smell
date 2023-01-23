@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.sonarsource.javascript:javascript-checks-testkit	1.0
+#DEP#org.sonarsource.javascript:javascript-frontend	1.0
+#DEP#org.sonarsource.php:sonar-php-plugin	1.0
+#DEP#com.sonarsource.rpg:sonar-rpg-plugin	1.0
+#DEP#org.sonarsource.java:sonar-java-plugin	1.0
+#DEP#org.sonarsource.java:java-frontend	1.0
+#DEP#org.sonarsource.sslr-squid-bridge:sslr-squid-bridge	1.0
+#DEP#org.sonarsource.sslr:sslr-testing-harness	1.0
+#DEP#com.sonarsource.cobol:sonar-cobol-plugin	1.0

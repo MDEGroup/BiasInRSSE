@@ -1,0 +1,6 @@
+28	#DEP#cascading:cascading-test
+29	#DEP#xmlenc:xmlenc
+30	#DEP#junit:junit
+31	#DEP#at.sti2.rif4j:rif4j-iris
+32	#DEP#org.apache.hadoop:avro
+33	#DEP#org.codehaus.jackson:jackson-asl

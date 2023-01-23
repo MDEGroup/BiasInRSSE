@@ -1,0 +1,15 @@
+1	#DEP#org.mortbay.jetty:jsp-2.1-glassfish
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.apache.tomcat:jasper
+1	#DEP#${project.groupId}:FestWebDriver
+1	#DEP#commons-pool:commons-pool
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.seleniumhq.selenium:selenium-server
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.easytesting:fest-reflect
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.e-hoffman.testing:parent
+1	#DEP#eu.medsea.mimeutil:mime-util
+1	#DEP#cglib:cglib

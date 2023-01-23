@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.alibaba:druid
+1	#DEP#org.drools:drools-compiler
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat

@@ -1,0 +1,5 @@
+1	#DEP#org.apache.hadoop:hadoop
+1	#DEP#org.clojure:clojure
+1	#DEP#com.google.collections:google-collections
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-lang:commons-lang

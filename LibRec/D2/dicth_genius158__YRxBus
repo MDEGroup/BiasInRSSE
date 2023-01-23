@@ -1,0 +1,9 @@
+1	git://github.com/genius158/YRxBus.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.android.support:design
+8	#DEP#io.reactivex:rxjava
+9	#DEP#io.reactivex:rxandroid

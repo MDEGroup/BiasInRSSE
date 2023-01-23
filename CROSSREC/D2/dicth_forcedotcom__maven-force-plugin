@@ -1,0 +1,9 @@
+1	git://github.com/forcedotcom/maven-force-plugin.git
+2	#DEP#com.force.api:force-partner-api
+3	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+4	#DEP#com.force.sdk:force-connector
+5	#DEP#com.google.collections:google-collections
+6	#DEP#com.force.test:ParentTestPom
+7	#DEP#junit:junit
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#com.force.sdk:force-codegen

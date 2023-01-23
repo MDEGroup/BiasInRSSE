@@ -1,0 +1,8 @@
+1	#DEP#org.sonatype.plexus:plexus-build-api
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#com.github.eirslett:frontend-plugin-core
+1	#DEP#com.github.eirslett:frontend-plugins

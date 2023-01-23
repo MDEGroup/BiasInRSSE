@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.osgi:org.osgi.core	1.0
+#DEP#com.adobe.aem.guides:asset-insights-guide.core	1.0
+#DEP#org.apache.sling:org.apache.sling.models.impl	1.0
+#DEP#com.adobe.aem.guides:wknd-sites-guide	1.0
+#DEP#com.adobe.cq:core.wcm.components.all	1.0
+#DEP#com.adobe.aem.sample:simple.core	1.0
+#DEP#com.adobe.cq:core.wcm.components.core	1.0
+#DEP#com.adobe.aem.sample:simple	1.0

@@ -1,0 +1,9 @@
+1	git://github.com/jamesladd/maven-cuke4duke-jump-start.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.seleniumhq.selenium:selenium-firefox-driver
+4	#DEP#org.seleniumhq.selenium:selenium-java
+5	#DEP#org.seleniumhq.selenium:selenium-server
+6	#DEP#hsqldb:hsqldb
+7	#DEP#junit:junit
+8	#DEP#org.seleniumhq.selenium:selenium-chrome-driver
+9	#DEP#cuke4duke:cuke4duke

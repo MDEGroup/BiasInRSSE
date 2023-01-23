@@ -1,0 +1,9 @@
+1	git://github.com/openzipkin-contrib/brave-opentracing.git
+2	#DEP#io.zipkin.brave:brave-tests
+3	#DEP#org.assertj:assertj-core
+4	#DEP#com.tngtech.java:junit-dataprovider
+5	#DEP#io.opentracing:opentracing-api
+6	#DEP#io.zipkin.java:zipkin
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#io.zipkin.brave:brave

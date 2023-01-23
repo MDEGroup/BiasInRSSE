@@ -1,0 +1,9 @@
+1	git://github.com/jenkinsci/active-directory-plugin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.jvnet.com4j.typelibs:ado20
+4	#DEP#org.jenkins-ci.plugins:mailer
+5	#DEP#org.jenkins-ci.plugins:plugin
+6	#DEP#org.jvnet.com4j:com4j
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#org.jenkins-ci.test:docker-fixtures
+9	#DEP#org.jvnet.com4j.typelibs:active-directory

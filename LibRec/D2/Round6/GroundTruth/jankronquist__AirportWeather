@@ -1,0 +1,4 @@
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#org.apache.camel:camel-velocity
+1	#DEP#junit:junit
+1	#DEP#org.apache.camel:camel-test

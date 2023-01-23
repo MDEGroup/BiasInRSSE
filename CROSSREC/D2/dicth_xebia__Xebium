@@ -1,0 +1,17 @@
+1	git://github.com/xebia/Xebium.git
+2	#DEP#com.codeborne:phantomjsdriver
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.mockito:mockito-all
+6	#DEP#org.seleniumhq.selenium:selenium-api
+7	#DEP#commons-lang:commons-lang
+8	#DEP#rhino:js
+9	#DEP#org.seleniumhq.selenium:selenium-java
+10	#DEP#org.seleniumhq.selenium:selenium-server
+11	#DEP#com.opera:operadriver
+12	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#com.google.guava:guava
+15	#DEP#org.json:json
+16	#DEP#junit:junit
+17	#DEP#org.fitnesse:fitnesse

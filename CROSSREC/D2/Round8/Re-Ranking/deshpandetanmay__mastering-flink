@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.flink:flink-streaming-java_2.10	1.0
+#DEP#org.apache.flink:flink-streaming-scala_2.11	1.0
+#DEP#org.apache.flink:flink-table_2.11	1.0
+#DEP#org.apache.flink:flink-connector-kafka-0.9_2.11	1.0
+#DEP#org.apache.flink:flink-streaming-java_2.11	1.0
+#DEP#org.apache.flink:flink-connector-kafka-0.9_2.10	1.0
+#DEP#org.scalatest:scalatest_${scala.compat.version}	1.0
+#DEP#org.opentsdb:java-client	1.0

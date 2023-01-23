@@ -1,0 +1,6 @@
+1	#DEP#org.objenesis:objenesis
+1	#DEP#com.google.android:android-test
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.admob.android.ads:android
+1	#DEP#net.starlab.retsat1.android:android-number-picker
+1	#DEP#org.powermock.api:powermock-api-mockito

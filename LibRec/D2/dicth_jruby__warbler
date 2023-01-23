@@ -1,0 +1,16 @@
+1	git://github.com/jruby/warbler.git
+2	#DEP#org.jruby:jruby
+3	#DEP#rubygems:bundler
+4	#DEP#rubygems:warbler
+5	#DEP#rubygems:jruby-rack
+6	#DEP#rubygems:jbundler
+7	#DEP#rubygems:rake
+8	#DEP#rubygems:rubyzip
+9	#DEP#rubygems:jruby-jars
+10	#DEP#rubygems:rdoc
+11	#DEP#org.jruby.warbler:integration-tests
+12	#DEP#rubygems:ruby-maven
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#org.eclipse.jetty:jetty-webapp
+15	#DEP#junit:junit
+16	#DEP#rubygems:rspec

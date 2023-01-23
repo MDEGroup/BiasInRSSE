@@ -1,0 +1,4 @@
+1	#DEP#org.mule.tools:mule-cloud-connector-annotations
+1	#DEP#org.mule.tools:mule-cloud-connector-ibeans
+1	#DEP#org.mule.modules:mule-module-ibeans
+1	#DEP#org.ibeans:ibeans-support

@@ -1,0 +1,3 @@
+13	#DEP#com.android.support.test.espresso:espresso-intents
+14	#DEP#com.jayway.awaitility:awaitility
+15	#DEP#com.auth0.android:auth0

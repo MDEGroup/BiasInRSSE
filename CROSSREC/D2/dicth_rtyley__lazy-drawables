@@ -1,0 +1,9 @@
+1	git://github.com/rtyley/lazy-drawables.git
+2	#DEP#com.madgag:lazy-drawables-parent
+3	#DEP#commons-io:commons-io
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.google.android:android
+6	#DEP#com.madgag:lazy-drawables
+7	#DEP#com.google.android:android-test
+8	#DEP#com.google.guava:guava
+9	#DEP#org.hamcrest:hamcrest-core

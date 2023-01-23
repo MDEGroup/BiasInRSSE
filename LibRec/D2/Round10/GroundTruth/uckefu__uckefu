@@ -1,0 +1,11 @@
+1	#DEP#com.ukefu:UCKeFu-Core
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#commons-lang:commons-lang
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.sun.jna:jna
+1	#DEP#com.alibaba:druid
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-xml
+1	#DEP#org.springframework.data:spring-data-elasticsearch

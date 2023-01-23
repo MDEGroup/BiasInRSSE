@@ -1,0 +1,15 @@
+1	#DEP#org.apache.kafka:kafka-clients
+1	#DEP#io.plumery:services-infrastructure-eventstore-kafka
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#io.plumery:services-infrastructure-eventstore
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#io.plumery:cqrs-eventsourcing-kafka
+1	#DEP#io.plumery:services-infrastructure-eventstore-local
+1	#DEP#io.dropwizard:dropwizard-migrations
+1	#DEP#org.fusesource.jdbm:jdbm
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.glassfish.jersey.media:jersey-media-sse
+1	#DEP#io.plumery:services-infrastructure-messaging
+1	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+1	#DEP#junit:junit
+1	#DEP#io.dropwizard:dropwizard-core

@@ -1,0 +1,3 @@
+16	#DEP#org.apache.httpcomponents:httpmime
+17	#DEP#junit:junit
+18	#DEP#com.socrata:ssync

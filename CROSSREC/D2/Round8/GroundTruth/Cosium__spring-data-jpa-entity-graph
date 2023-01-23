@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.dbunit:dbunit
+1	#DEP#com.github.springtestdbunit:spring-test-dbunit
+1	#DEP#junit:junit
+1	#DEP#com.querydsl:querydsl-jpa
+1	#DEP#org.hsqldb:hsqldb

@@ -1,0 +1,16 @@
+1	git://github.com/jenkinsci/pipeline-aws-plugin.git
+2	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+3	#DEP#org.jenkins-ci.plugins:structs
+4	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+5	#DEP#org.yaml:snakeyaml
+6	#DEP#org.jenkins-ci.plugins.workflow:workflow-api
+7	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+8	#DEP#org.jenkins-ci.plugins:plain-credentials
+9	#DEP#org.jenkins-ci.plugins:aws-java-sdk
+10	#DEP#org.jenkins-ci.plugins:script-security
+11	#DEP#org.jenkins-ci.plugins:plugin
+12	#DEP#org.jenkins-ci.plugins:credentials
+13	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+14	#DEP#org.jenkins-ci.plugins:cloudbees-folder
+15	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+16	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

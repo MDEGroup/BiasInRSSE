@@ -1,0 +1,11 @@
+1	#DEP#com.squareup.wire:wire
+1	#DEP#com.squareup.wire:wire-testing
+1	#DEP#com.squareup:javapoet
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#com.squareup.wire:wire-compiler
+1	#DEP#${project.groupId}:wire-schema
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.squareup.okio:okio

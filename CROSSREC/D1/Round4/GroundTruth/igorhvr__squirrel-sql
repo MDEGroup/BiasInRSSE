@@ -1,0 +1,17 @@
+69	#DEP#org.springframework:spring-beans
+70	#DEP#net.sf.squirrel-sql.plugins:mysql
+71	#DEP#${project.groupId}:squirrelsql-installer-deps
+72	#DEP#net.sf.squirrel-sql.plugins:h2
+73	#DEP#org.mod4j.org.eclipse.compare:core
+74	#DEP#net.sf.squirrel-sql.plugins:mssql
+75	#DEP#org.mockito:mockito-all
+76	#DEP#net.sf.squirrel-sql.plugins:editextras
+77	#DEP#net.sf.squirrel-sql.plugins:wikiTableConfigurations
+78	#DEP#${project.groupId}:squirrelsql-java-version-checker
+79	#DEP#org.apache.derby:derby
+80	#DEP#net.sf.squirrel-sql.plugins:dbdiff
+81	#DEP#net.sf.squirrel-sql.translations:squirrelsql-translations
+82	#DEP#net.sf.squirrel-sql.thirdparty-non-maven:jaybird
+83	#DEP#net.sf.squirrel-sql.plugins:dataimport
+84	#DEP#net.sf.squirrel-sql.plugins:smarttools
+85	#DEP#gsbase:gsbase

@@ -1,0 +1,4 @@
+1	#DEP#org.zeromq:jzmq-core
+1	#DEP#junit:junit
+1	#DEP#org.powermock:powermock-easymock-release-full
+1	#DEP#org.zeromq:jzmq-devices

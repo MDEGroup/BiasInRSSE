@@ -1,0 +1,15 @@
+1	git://github.com/edgaragr/Prestamos.git
+2	#DEP#org.hibernate:hibernate-entitymanager
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#jasperreports:jasperreports
+7	#DEP#org.eclipse.persistence:eclipselink
+8	#DEP#javax.transaction:jta
+9	#DEP#hsqldb:hsqldb
+10	#DEP#org.swinglabs:swingx
+11	#DEP#org.swinglabs:swing-layout
+12	#DEP#commons-collections:commons-collections
+13	#DEP#org.apache.derby:derby
+14	#DEP#commons-digester:commons-digester
+15	#DEP#junit:junit

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-net:commons-net	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#net.sf.json-lib:json-lib	1.0
+#DEP#c3p0:c3p0	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#net.java.dev.fuse:fuse-core	1.0
+#DEP#prefuse:prefuse	1.0
+#DEP#org.profusians:profusians	1.0

@@ -1,0 +1,6 @@
+1	#DEP#frascati:frascati-util
+1	#DEP#junit:junit
+1	#DEP#aopalliance:aopalliance
+1	#DEP#ws.rs:jsr311-api
+1	#DEP#org.glassfish.grizzly:grizzly-framework
+1	#DEP#frascati:frascati-fscript-core

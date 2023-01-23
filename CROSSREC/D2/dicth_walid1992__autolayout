@@ -1,0 +1,15 @@
+1	git://github.com/walid1992/autolayout.git
+2	#DEP#com.jude:easyrecyclerview
+3	#DEP#com.jakewharton.rxbinding:rxbinding-appcompat-v7
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#de.hdodenhof:circleimageview
+7	#DEP#com.roughike:bottom-bar
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.jakewharton.rxbinding:rxbinding-design
+11	#DEP#com.jakewharton.rxbinding:rxbinding
+12	#DEP#com.jakewharton.rxbinding:rxbinding-support-v4
+13	#DEP#com.jakewharton.rxbinding:rxbinding-recyclerview-v7
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

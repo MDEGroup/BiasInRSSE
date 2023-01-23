@@ -1,0 +1,6 @@
+1	#DEP#com.sleepycat:je
+1	#DEP#org.spockframework:spock-core
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit

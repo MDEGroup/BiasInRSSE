@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-nop	1.0
+#DEP#com.carrotsearch:junit-benchmarks	1.0
+#DEP#net.sf.supercsv:super-csv-joda	1.0
+#DEP#net.sf.dozer:dozer	1.0
+#DEP#net.sf.supercsv:super-csv-dozer	1.0

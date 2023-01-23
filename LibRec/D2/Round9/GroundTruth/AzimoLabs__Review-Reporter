@@ -1,0 +1,8 @@
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.google.apis:google-api-services-androidpublisher
+1	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava

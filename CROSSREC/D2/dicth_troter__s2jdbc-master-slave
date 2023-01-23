@@ -1,0 +1,10 @@
+1	git://github.com/troter/s2jdbc-master-slave.git
+2	#DEP#org.easymock:easymockclassextension
+3	#DEP#org.seasar.container:s2-tiger
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.seasar.container:s2-extension
+6	#DEP#org.seasar.container:s2-framework
+7	#DEP#org.easymock:easymock
+8	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+9	#DEP#junit:junit
+10	#DEP#org.apache.geronimo.specs:geronimo-jpa_3.0_spec

@@ -1,0 +1,5 @@
+1	#DEP#com.amazonaws.eclipse:com.amazonaws.eclipse.bundles
+1	#DEP#com.amazonaws:aws-java-sdk-s3
+1	#DEP#com.amazonaws:aws-java-sdk-bom
+1	#DEP#com.amazonaws:aws-java-sdk-ec2
+1	#DEP#javax:javaee-api

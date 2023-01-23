@@ -1,0 +1,9 @@
+1	git://github.com/woxingxiao/GracefulMovies.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.xw.repo:bubbleseekbar
+4	#DEP#com.github.woxingxiao:VectorCompatTextView
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#junit:junit
+7	#DEP#com.flaviofaria:kenburnsview
+8	#DEP#io.reactivex:rxjava
+9	#DEP#io.reactivex:rxandroid

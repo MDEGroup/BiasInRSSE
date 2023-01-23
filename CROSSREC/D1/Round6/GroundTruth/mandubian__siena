@@ -1,0 +1,4 @@
+17	#DEP#dbunit:dbunit
+18	#DEP#com.google.appengine:appengine-api-labs
+19	#DEP#com.google.appengine:appengine-testing
+20	#DEP#com.h2database:h2

@@ -1,0 +1,10 @@
+1	#DEP#org.robovm:robovm-libimobiledevice
+1	#DEP#org.simpleframework:simple-xml
+1	#DEP#org.robovm:robovm-cocoatouch
+1	#DEP#com.googlecode.plist:dd-plist
+1	#DEP#org.robovm:robovm-llvm
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#org.ow2.asm:asm-debug-all
+1	#DEP#org.robovm:robovm-soot
+1	#DEP#junit:junit
+1	#DEP#org.robovm:robovm-parent

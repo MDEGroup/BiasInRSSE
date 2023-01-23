@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#io.vertx:vertx-unit	1.0
+#DEP#io.vertx:vertx-dependencies	1.0
+#DEP#io.vertx:vertx-lang-groovy	1.0
+#DEP#io.vertx:vertx-rx-java	1.0
+#DEP#io.vertx:vertx-rx-java2	1.0
+#DEP#io.slime.workshop:slime-common	1.0
+#DEP#com.pszymczyk.consul:embedded-consul	1.0
+#DEP#io.vertx:vertx-service-factory	1.0
+#DEP#io.vertx:vertx-sockjs-service-proxy	1.0

@@ -1,0 +1,10 @@
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#junit:junit-dep	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.stanbol:org.apache.stanbol.commons.jsonld	1.0
+#DEP#de.escalon.rest:rest-service	1.0
+#DEP#org.springframework.hateoas:spring-hateoas-client	1.0

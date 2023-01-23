@@ -1,0 +1,6 @@
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#com.google.appengine:appengine-remote-api
+1	#DEP#junit:junit
+1	#DEP#br.octahedron.cotopaxi:core
+1	#DEP#org.seleniumhq.selenium:selenium
+1	#DEP#com.google.appengine:appengine-testing

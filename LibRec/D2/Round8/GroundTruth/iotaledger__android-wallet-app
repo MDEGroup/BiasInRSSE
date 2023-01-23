@@ -1,0 +1,11 @@
+1	#DEP#org.knowm.xchange:xchange-core
+1	#DEP#de.psdev.licensesdialog:licensesdialog
+1	#DEP#com.github.kenglxn.QRGen:android
+1	#DEP#com.github.aakira:expandable-layout
+1	#DEP#com.github.gabrielemariotti.changeloglib:changelog
+1	#DEP#com.heinrichreimersoftware:android-issue-reporter
+1	#DEP#org.knowm.xchange:xchange-bitfinex
+1	#DEP#com.android.support:multidex
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.github.iotaledger:iota~lib~java
+1	#DEP#org.knowm.xchange:xchange-okcoin

@@ -1,0 +1,7 @@
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.apache.maven.plugins:maven-checkstyle-plugin
+1	#DEP#org.codehaus.sonar:sonar-plugin-api
+1	#DEP#com.puppycrawl.tools:checkstyle
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#net.sf.eclipsecs:net.sf.eclipsecs.core

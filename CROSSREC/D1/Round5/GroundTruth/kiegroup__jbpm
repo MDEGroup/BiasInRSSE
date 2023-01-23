@@ -1,0 +1,16 @@
+65	#DEP#org.jboss.xnio:xnio-nio
+66	#DEP#org.jbpm:jbpm-remote-ejb-test-domain
+67	#DEP#org.hibernate:hibernate-core
+68	#DEP#org.kie:kie-internal
+69	#DEP#org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec
+70	#DEP#org.jbpm:jbpm-test
+71	#DEP#org.hibernate:hibernate-validator
+72	#DEP#org.jbpm:jbpm-container-test-suite
+73	#DEP#org.jbpm:jbpm-case-mgmt-api
+74	#DEP#dom4j:dom4j
+75	#DEP#org.jbpm:idep-rest
+76	#DEP#org.kie:kie-ci
+77	#DEP#org.jboss.narayana.jta:narayana-jta
+78	#DEP#org.jbpm:jbpm-container-integration-deps
+79	#DEP#org.jbpm:jbpm-audit
+80	#DEP#org.sonatype.sisu.inject:guice-servlet

@@ -1,0 +1,4 @@
+20	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+21	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+22	#DEP#com.gitblit.iciql:iciql
+23	#DEP#com.h2database:h2

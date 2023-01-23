@@ -1,0 +1,16 @@
+1	git://github.com/Alfresco/activiti-spring-boot-samples.git
+2	#DEP#com.activiti:activiti-spring-boot
+3	#DEP#com.activiti:activiti-spring-boot-samples
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#com.activiti:activiti-spring-boot-starter-basic
+6	#DEP#com.activiti:activiti-spring-boot-starter-rest-api
+7	#DEP#com.activiti:activiti-spring-boot-starter-security
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.activiti:activiti-spring-boot-starter-integration
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.codehaus.groovy:groovy
+12	#DEP#com.activiti:activiti-spring-boot-starter-jpa
+13	#DEP#com.activiti:activiti-spring-boot-starter-actuator
+14	#DEP#org.subethamail:subethasmtp-wiser
+15	#DEP#junit:junit
+16	#DEP#com.h2database:h2

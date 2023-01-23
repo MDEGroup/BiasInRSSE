@@ -1,0 +1,11 @@
+1	git://github.com/SergiyKorotun/android-things-remote-barometer.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+4	#DEP#io.reactivex.rxjava2:rxandroid
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#net.danlew:android.joda
+7	#DEP#com.google.firebase:firebase-database
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.google.android.things:androidthings

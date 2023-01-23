@@ -1,0 +1,6 @@
+1	#DEP#com.oracle.xdb:oracle.xdb
+1	#DEP#org.easymock:easymock
+1	#DEP#commons-dbcp:commons-dbcp
+1	#DEP#com.oracle.xml:oracle.xml
+1	#DEP#javax.jms:jms-api
+1	#DEP#org.hsqldb:hsqldb

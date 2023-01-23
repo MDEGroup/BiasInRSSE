@@ -1,0 +1,12 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#com.github.javaparser:javaparser-core
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.mybatis.dynamic-sql:mybatis-dynamic-sql
+1	#DEP#org.mybatis.generator:mybatis-generator-core
+1	#DEP#org.reflections:reflections
+1	#DEP#log4j:log4j
+1	#DEP#org.mybatis:mybatis2
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.mybatis.generator:mybatis-generator-systests-common
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.hsqldb:hsqldb

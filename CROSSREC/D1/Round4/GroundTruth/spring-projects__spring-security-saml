@@ -1,0 +1,4 @@
+20	#DEP#org.springframework:spring-web
+21	#DEP#javax.servlet:servlet-api
+22	#DEP#javax.servlet:jstl
+23	#DEP#junit:junit

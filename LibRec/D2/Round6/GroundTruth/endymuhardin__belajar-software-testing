@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+1	#DEP#junit:junit

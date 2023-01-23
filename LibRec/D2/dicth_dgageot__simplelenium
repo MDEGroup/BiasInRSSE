@@ -1,0 +1,12 @@
+1	git://github.com/dgageot/simplelenium.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.seleniumhq.selenium:selenium-firefox-driver
+5	#DEP#org.webjars:angularjs
+6	#DEP#com.github.stefanbirkner:system-rules
+7	#DEP#org.seleniumhq.selenium:selenium-support
+8	#DEP#org.mockito:mockito-core
+9	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+10	#DEP#net.code-story:http
+11	#DEP#org.seleniumhq.selenium:selenium-chrome-driver
+12	#DEP#junit:junit

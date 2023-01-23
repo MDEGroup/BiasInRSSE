@@ -1,0 +1,6 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#org.brunocvcunha.ghostme4j:ghostme4j
+1	#DEP#org.bytedeco:javacv-platform
+1	#DEP#org.brunocvcunha.inutils4j:inutils4j
+1	#DEP#com.eaio.uuid:uuid

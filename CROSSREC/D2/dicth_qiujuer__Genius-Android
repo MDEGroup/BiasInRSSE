@@ -1,0 +1,9 @@
+1	git://github.com/qiujuer/Genius-Android.git
+2	#DEP#net.qiujuer.genius:graphics
+3	#DEP#net.qiujuer.genius:kit-cmd
+4	#DEP#net.qiujuer.genius:ui
+5	#DEP#net.qiujuer.genius:kit-reflect
+6	#DEP#net.qiujuer.genius:res
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#net.qiujuer.genius:kit-handler

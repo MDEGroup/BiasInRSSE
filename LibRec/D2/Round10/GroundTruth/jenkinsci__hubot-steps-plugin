@@ -1,0 +1,7 @@
+1	#DEP#com.squareup.retrofit2:converter-jackson
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

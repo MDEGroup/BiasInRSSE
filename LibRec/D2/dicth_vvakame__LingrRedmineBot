@@ -1,0 +1,15 @@
+1	git://github.com/vvakame/LingrRedmineBot.git
+2	#DEP#org.slim3:slim3-gen
+3	#DEP#commons-io:commons-io
+4	#DEP#net.vvakame:jsonpullparser-core
+5	#DEP#com.google.collections:google-collections
+6	#DEP#com.google.appengine:appengine-local-runtime
+7	#DEP#net.vvakame:jsonpullparser-apt
+8	#DEP#commons-lang:commons-lang
+9	#DEP#com.google.appengine:appengine-api-stubs
+10	#DEP#com.google.appengine:appengine-api-1.0-sdk
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#commons-collections:commons-collections
+13	#DEP#org.slim3:slim3
+14	#DEP#junit:junit
+15	#DEP#com.google.appengine:appengine-api-labs

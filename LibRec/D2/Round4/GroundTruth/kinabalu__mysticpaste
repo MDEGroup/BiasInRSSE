@@ -1,0 +1,17 @@
+1	#DEP#com.google.code.morphia:morphia
+1	#DEP#de.agilecoders.wicket:wicket-bootstrap-themes
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.thoughtworks.proxytoys:proxytoys
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#org.apache.wicket:wicket-devutils
+1	#DEP#org.dbunit:dbunit
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#log4j:log4j
+1	#DEP#org.unitils:unitils
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#junit:junit
+1	#DEP#com.mysticcoders:wicket-mousetrap

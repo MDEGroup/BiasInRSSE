@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.forge.roaster:roaster-jdt
+1	#DEP#org.jboss.logging:jboss-logging-tools-parent
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#junit:junit
+1	#DEP#org.jboss.logmanager:jboss-logmanager

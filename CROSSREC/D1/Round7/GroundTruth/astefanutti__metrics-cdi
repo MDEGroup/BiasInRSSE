@@ -1,0 +1,7 @@
+30	#DEP#org.jboss.arquillian:arquillian-bom
+31	#DEP#org.jboss.arquillian.container:arquillian-weld-embedded
+32	#DEP#org.wildfly.arquillian:wildfly-arquillian-container-managed
+33	#DEP#org.eclipse.jetty:jetty-webapp
+34	#DEP#junit:junit
+35	#DEP#org.jboss.weld.servlet:weld-servlet
+36	#DEP#org.apache.openwebbeans:openwebbeans-impl

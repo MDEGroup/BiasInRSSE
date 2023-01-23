@@ -1,0 +1,10 @@
+1	git://github.com/torito/Syncpix.git
+2	#DEP#org.torito.social.syncpix:facebook-service
+3	#DEP#com.google.code.facebookapi:facebook-java-api
+4	#DEP#org.twitter4j:twitter4j-core
+5	#DEP#com.restfb:restfb
+6	#DEP#fr.liglab.adele.cilia:cilia-ipojo-runtime
+7	#DEP#fr.liglab.adele.cilia:cilia-core
+8	#DEP#org.apache.felix:org.apache.felix.ipojo
+9	#DEP#org.torito.social.syncpix:twitpic-service
+10	#DEP#fr.liglab.adele.cilia:cilia-ipojo-compendium

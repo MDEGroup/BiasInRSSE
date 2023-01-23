@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.infinispan:infinispan-spring-boot-starter-embedded
+1	#DEP#org.infinispan:infinispan-spring4-embedded
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.infinispan:infinispan-spring-boot-starter-remote
+1	#DEP#org.infinispan:infinispan-bom

@@ -1,0 +1,9 @@
+1	#DEP#ca.uhn.hapi:hapi-base
+1	#DEP#log4j:log4j
+1	#DEP#org.jboss.netty:netty
+1	#DEP#ca.uhn.hapi:hapi-structures-v25
+1	#DEP#junit:junit
+1	#DEP#ca.uhn.hapi:hapi-structures-v26
+1	#DEP#ca.uhn.hapi:hapi-structures-v23
+1	#DEP#ca.uhn.hapi:hapi-structures-v251
+1	#DEP#ca.uhn.hapi:hapi-structures-v24

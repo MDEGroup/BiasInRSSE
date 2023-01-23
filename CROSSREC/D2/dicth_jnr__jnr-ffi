@@ -1,0 +1,10 @@
+1	git://github.com/jnr/jnr-ffi.git
+2	#DEP#org.ow2.asm:asm-tree
+3	#DEP#com.github.jnr:jnr-x86asm
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.github.jnr:jffi
+6	#DEP#org.ow2.asm:asm-analysis
+7	#DEP#org.ow2.asm:asm-commons
+8	#DEP#junit:junit
+9	#DEP#org.ow2.asm:asm
+10	#DEP#org.ow2.asm:asm-util

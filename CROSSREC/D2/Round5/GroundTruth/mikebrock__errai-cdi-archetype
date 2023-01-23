@@ -1,0 +1,10 @@
+1	#DEP#org.mvel:mvel2
+1	#DEP#org.jboss.errai:errai-cdi-jetty
+1	#DEP#org.mortbay.jetty:jetty-plus
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.jboss.errai:errai-ioc
+1	#DEP#org.glassfish.web:el-impl
+1	#DEP#junit:junit
+1	#DEP#org.jboss.weld.servlet:weld-servlet

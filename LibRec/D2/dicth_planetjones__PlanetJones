@@ -1,0 +1,11 @@
+1	git://github.com/planetjones/PlanetJones.git
+2	#DEP#com.google.appengine:appengine-api-stubs
+3	#DEP#com.google.appengine:appengine-api-1.0-sdk
+4	#DEP#jstl:jstl
+5	#DEP#com.google.appengine:appengine-endpoints
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#javax:javaee-web-api
+8	#DEP#javax.batch:javax.batch-api
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#com.google.appengine:appengine-testing

@@ -1,0 +1,14 @@
+1	git://github.com/leoChaoGlut/spring-cloud-demo.git
+2	#DEP#org.springframework.cloud:spring-cloud-starter-feign
+3	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+4	#DEP#demo:spring-cloud-demo
+5	#DEP#org.springframework.cloud:spring-cloud-dependencies
+6	#DEP#com.alibaba:fastjson
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+9	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+10	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+11	#DEP#org.springframework.cloud:spring-cloud-starter-config
+12	#DEP#org.springframework.cloud:spring-cloud-config-server
+13	#DEP#org.springframework.boot:spring-boot-devtools
+14	#DEP#org.springframework.boot:spring-boot-starter-actuator

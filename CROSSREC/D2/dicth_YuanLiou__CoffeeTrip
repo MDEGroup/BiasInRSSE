@@ -1,0 +1,11 @@
+1	git://github.com/YuanLiou/CoffeeTrip.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.google.dagger:dagger-compiler
+4	#DEP#com.squareup.okhttp3:logging-interceptor
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.google.dagger:dagger

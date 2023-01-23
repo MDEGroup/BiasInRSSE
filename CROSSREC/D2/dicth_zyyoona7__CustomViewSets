@@ -1,0 +1,12 @@
+1	git://github.com/zyyoona7/CustomViewSets.git
+2	#DEP#de.greenrobot:androidsvg
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.daasuu:BubbleLayout
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.nineoldandroids:library
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.jakewharton:butterknife
+12	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

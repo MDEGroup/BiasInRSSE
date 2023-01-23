@@ -1,0 +1,11 @@
+1	#DEP#com.galeoconsulting.leonardinius:rest-cli-runner
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.sun.jersey:jersey-json
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#com.atlassian.sal:sal-api
+1	#DEP#com.atlassian.plugins:atlassian-plugins-core
+1	#DEP#com.atlassian.plugins.rest:atlassian-rest-common
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.atlassian.templaterenderer:atlassian-template-renderer-api
+1	#DEP#junit:junit
+1	#DEP#com.atlassian.bundles:jsr305

@@ -1,0 +1,9 @@
+1	git://github.com/vbehar/nexus-webhook-plugin.git
+2	#DEP#org.sonatype.nexus:nexus-plugin-api
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.apache.httpcomponents:httpmime
+5	#DEP#org.sonatype.nexus:nexus-rest-api
+6	#DEP#junit:junit
+7	#DEP#com.jayway.awaitility:awaitility
+8	#DEP#org.sonatype.nexus:nexus-proxy
+9	#DEP#org.sonatype.nexus.plugins:nexus-plugins-parent

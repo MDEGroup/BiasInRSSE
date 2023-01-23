@@ -1,0 +1,15 @@
+1	#DEP#io.requery:requery-processor
+1	#DEP#com.squareup:javapoet
+1	#DEP#javax.cache:cache-api
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#io.requery:sqlite-android
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#net.zetetic:android-database-sqlcipher
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#io.requery:requery-android
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.ehcache:ehcache
+1	#DEP#com.h2database:h2

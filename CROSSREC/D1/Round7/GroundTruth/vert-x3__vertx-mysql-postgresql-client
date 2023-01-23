@@ -1,0 +1,4 @@
+17	#DEP#junit:junit
+18	#DEP#io.vertx:vertx-unit
+19	#DEP#io.vertx:vertx-lang-groovy
+20	#DEP#com.jayway.awaitility:awaitility

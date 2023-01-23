@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.poi:poi	1.0
+#DEP#org.apache.poi:poi-ooxml	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.bouncycastle:bcprov-jdk15on	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#com.carrotsearch:java-sizeof	1.0
+#DEP#com.itextpdf:itext-parent	1.0
+#DEP#org.apache.commons:commons-imaging	1.0

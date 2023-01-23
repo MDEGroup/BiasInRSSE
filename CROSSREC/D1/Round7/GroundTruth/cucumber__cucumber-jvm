@@ -1,0 +1,15 @@
+62	#DEP#org.springframework.data:spring-data-jpa
+63	#DEP#io.cucumber:cucumber-jvm-deps
+64	#DEP#org.seleniumhq.selenium:selenium-java
+65	#DEP#org.ops4j.pax.exam:pax-exam-container-native
+66	#DEP#org.eclipse.jetty:jetty-servlet
+67	#DEP#io.cucumber:cucumber-osgi
+68	#DEP#org.powermock:powermock-mockito-release-full
+69	#DEP#com.google.android:android-test
+70	#DEP#org.springframework:spring-orm
+71	#DEP#io.cucumber:pax-exam-calculator-api
+72	#DEP#io.cucumber:gherkin
+73	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+74	#DEP#org.mockito:mockito-core
+75	#DEP#org.springframework:spring-context-support
+76	#DEP#io.cucumber:cucumber-junit

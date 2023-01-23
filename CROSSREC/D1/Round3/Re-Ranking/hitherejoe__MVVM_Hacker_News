@@ -1,0 +1,10 @@
+#DEP#io.reactivex:rxandroid	1.0
+#DEP#com.squareup.okhttp:okhttp-urlconnection	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.github.bumptech.glide:glide	1.0
+#DEP#junit:junit	1.0
+#DEP#com.squareup:otto	1.0
+#DEP#com.jakewharton.madge:madge	1.0
+#DEP#com.squareup.retrofit:retrofit-mock	1.0
+#DEP#uk.co.ribot:easyadapter	1.0
+#DEP#com.jakewharton.scalpel:scalpel	1.0

@@ -1,0 +1,2 @@
+10	#DEP#org.ow2.asm:asm
+11	#DEP#com.tngtech.junit.dataprovider:junit4-dataprovider

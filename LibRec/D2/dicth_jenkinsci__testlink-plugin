@@ -1,0 +1,13 @@
+1	git://github.com/jenkinsci/testlink-plugin.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#br.eti.kinoshita:testlink-java-api
+4	#DEP#commons-io:commons-io
+5	#DEP#org.jenkins-ci.plugins:junit
+6	#DEP#org.tap4j:tap4j
+7	#DEP#org.hamcrest:hamcrest-library
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.mockito:mockito-all
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#commons-codec:commons-codec
+12	#DEP#org.jenkins-ci.plugins:plugin
+13	#DEP#com.tupilabs:testng-parser

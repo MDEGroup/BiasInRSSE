@@ -1,0 +1,12 @@
+1	git://github.com/tony19/logback-android.git
+2	#DEP#org.hamcrest:hamcrest-junit
+3	#DEP#org.easytesting:fest-assert
+4	#DEP#org.robolectric:robolectric
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.robolectric:android-all
+7	#DEP#dom4j:dom4j
+8	#DEP#com.icegreen:greenmail
+9	#DEP#com.github.tony19:apktool-lib
+10	#DEP#com.sun.mail:android-mail
+11	#DEP#com.sun.mail:android-activation
+12	#DEP#ch.qos.cal10n:cal10n-api

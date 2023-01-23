@@ -1,0 +1,8 @@
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.json:org.json
+1	#DEP#org.apache.opennlp:opennlp-uima
+1	#DEP#org.slf4j:slf4j-parent
+1	#DEP#net.sf.jwordnet:jwnl
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#com.cybozu.labs:langdetect

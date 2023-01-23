@@ -1,0 +1,15 @@
+1	git://github.com/ScaleUnlimited/cascading.solr.git
+2	#DEP#org.apache.solr:solr-core
+3	#DEP#cascading:cascading-core
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#cascading:cascading-local
+9	#DEP#ant-eclipse:ant-eclipse-jvm1.2
+10	#DEP#cascading:cascading-hadoop
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.apache.hadoop:hadoop-client
+13	#DEP#com.scaleunlimited:cascading.utils
+14	#DEP#junit:junit
+15	#DEP#commons-httpclient:commons-httpclient

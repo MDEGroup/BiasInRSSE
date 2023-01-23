@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#mawazo:agiato
+1	#DEP#org.testng:testng
+1	#DEP#org.codehaus.jackson:jackson-core-lgpl
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.apache.solr:solr-solrj

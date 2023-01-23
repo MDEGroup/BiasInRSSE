@@ -1,0 +1,13 @@
+1	git://github.com/logzio/elasticsearch-benchmark-tool.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#com.typesafe:config
+4	#DEP#com.udojava:JMXWrapper
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#io.searchbox:jest
+8	#DEP#org.elasticsearch:elasticsearch
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.reflections:reflections
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.google.guava:guava

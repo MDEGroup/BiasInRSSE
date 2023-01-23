@@ -1,0 +1,17 @@
+1	git://github.com/m-reza-rahman/pragmatic-microservices-lab.git
+2	#DEP#org.glassfish.jersey.media:jersey-media-moxy
+3	#DEP#org.wildfly.swarm:jaxrs-cdi
+4	#DEP#org.wildfly.swarm:topology-consul
+5	#DEP#org.primefaces:primefaces
+6	#DEP#org.glassfish.jersey.containers:jersey-container-servlet-core
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.wildfly.swarm:monitor
+9	#DEP#org.wildfly.swarm:ejb
+10	#DEP#javax:javaee-api
+11	#DEP#org.wildfly.swarm:bean-validation
+12	#DEP#org.wildfly.swarm:cdi
+13	#DEP#org.wildfly.swarm:bom-all
+14	#DEP#org.wildfly.swarm:jaxrs-validator
+15	#DEP#org.wildfly.swarm:jaxrs
+16	#DEP#org.primefaces.themes:all-themes
+17	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson

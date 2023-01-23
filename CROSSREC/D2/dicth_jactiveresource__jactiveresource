@@ -1,0 +1,12 @@
+1	git://github.com/jactiveresource/jactiveresource.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#log4j:log4j
+6	#DEP#xpp3:xpp3_min
+7	#DEP#commons-logging:commons-logging
+8	#DEP#org.apache.james:apache-mime4j
+9	#DEP#org.apache.httpcomponents:httpcore
+10	#DEP#org.codehaus.jettison:jettison
+11	#DEP#junit:junit
+12	#DEP#joda-time:joda-time

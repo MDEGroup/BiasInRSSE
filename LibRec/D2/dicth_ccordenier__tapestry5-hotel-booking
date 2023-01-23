@@ -1,0 +1,16 @@
+1	git://github.com/ccordenier/tapestry5-hotel-booking.git
+2	#DEP#org.hibernate:hibernate-validator
+3	#DEP#org.apache.tapestry:tapestry-beanvalidator
+4	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api
+5	#DEP#org.testng:testng
+6	#DEP#org.easymock:easymock
+7	#DEP#org.apache.tapestry:tapestry-hibernate
+8	#DEP#org.apache.tapestry:tapestry-kaptcha
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#com.google.code:kaptcha
+11	#DEP#org.apache.tapestry:tapestry-core
+12	#DEP#org.seleniumhq.selenium:selenium-java
+13	#DEP#org.seleniumhq.selenium:selenium-server
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#com.h2database:h2
+16	#DEP#org.apache.tapestry:tapestry-test

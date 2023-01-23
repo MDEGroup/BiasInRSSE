@@ -1,0 +1,5 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jmock:jmock-junit4
+1	#DEP#com.googlecode.lambdaj:lambdaj
+1	#DEP#org.hamcrest:hamcrest-core

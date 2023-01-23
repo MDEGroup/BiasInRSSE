@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#commons-beanutils:commons-beanutils	1.0
+#DEP#net.sf.ezmorph:ezmorph	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.restlet	1.0

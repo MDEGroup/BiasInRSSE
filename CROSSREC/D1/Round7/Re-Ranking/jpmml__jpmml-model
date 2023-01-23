@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#as3isolib:as3isolib-fp10	1.0
+#DEP#org.apache.ant:ant	1.0
+#DEP#org.jcraft:jorbis	1.0
+#DEP#com.threerings:naryalib	1.0
+#DEP#com.samskivert:samskivert	1.0

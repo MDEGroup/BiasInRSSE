@@ -1,0 +1,7 @@
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#org.mule.transports:mule-transport-vm
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#org.mule.tools.devkit:mule-devkit-parent
+1	#DEP#org.mule.transports:mule-transport-axis
+1	#DEP#org.mule.modules:mule-module-ognl

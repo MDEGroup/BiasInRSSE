@@ -1,0 +1,10 @@
+1	git://github.com/andynicholson/Vidiom.git
+2	#DEP#org.springframework:spring
+3	#DEP#commons-logging:commons-logging-api
+4	#DEP#org.apache.commons:commons-parent
+5	#DEP#org.twitter4j:twitter4j
+6	#DEP#log4j:log4j
+7	#DEP#org.twitter4j:twitter4j-media-support
+8	#DEP#org.twitter4j:twitter4j-core
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit

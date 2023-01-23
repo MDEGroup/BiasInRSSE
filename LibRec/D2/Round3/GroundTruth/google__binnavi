@@ -1,0 +1,8 @@
+1	#DEP#com.google.security.zynamics.binnavi:yfileswrap-obfuscated
+1	#DEP#com.jidesoft:jide-oss
+1	#DEP#org.w3c.css:sac
+1	#DEP#org.apache.xmlgraphics:batik-awt-util
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr
+1	#DEP#net.sf.proguard:proguard-anttask

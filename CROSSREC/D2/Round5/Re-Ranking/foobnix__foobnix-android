@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.openid4java:openid4java-nodeps	1.0
+#DEP#htmlparser:htmlparser	1.0

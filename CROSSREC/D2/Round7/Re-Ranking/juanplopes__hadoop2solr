@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.apache.hadoop:hadoop-core	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.scaleunlimited:cascading.utils	1.0
+#DEP#cascading:cascading-hadoop2-mr1	1.0

@@ -1,0 +1,8 @@
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#com.ning:async-http-client
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#xpp3:xpp3
+1	#DEP#pl.project13.janbanery:janbanery-core
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

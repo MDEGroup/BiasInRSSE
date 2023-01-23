@@ -1,0 +1,10 @@
+#DEP#org.springframework.boot:spring-boot-starter-actuator	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.springframework.cloud:spring-cloud-starter-eureka	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#org.springframework.cloud:spring-cloud-starter-hystrix	1.0
+#DEP#org.springframework.cloud:spring-cloud-config-server	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard	1.0
+#DEP#org.springframework.cloud:spring-cloud-starter-config	1.0
+#DEP#com.itmuch.cloud:spring-cloud-microservice-study	1.0

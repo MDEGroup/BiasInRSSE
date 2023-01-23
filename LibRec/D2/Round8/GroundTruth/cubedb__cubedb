@@ -1,0 +1,7 @@
+1	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2
+1	#DEP#org.glassfish.jersey.core:jersey-server
+1	#DEP#net.sf.trove4j:trove4j
+1	#DEP#log4j:log4j
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http

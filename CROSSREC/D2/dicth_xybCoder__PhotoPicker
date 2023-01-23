@@ -1,0 +1,9 @@
+1	git://github.com/xybCoder/PhotoPicker.git
+2	#DEP#me.iwf.photopicker:PhotoPicker
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.nineoldandroids:library
+6	#DEP#junit:junit
+7	#DEP#com.android.support:design
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.github.chrisbanes:PhotoView

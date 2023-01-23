@@ -1,0 +1,4 @@
+1	#DEP#com.mindorks:placeholderview
+1	#DEP#junit:junit
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.google.dagger:dagger

@@ -1,0 +1,10 @@
+1	#DEP#com.android.support:support-fragment
+1	#DEP#com.android.support:design
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.google.dexmaker:dexmaker-mockito
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.nononsenseapps:filepicker

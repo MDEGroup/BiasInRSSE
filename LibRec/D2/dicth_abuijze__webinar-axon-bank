@@ -1,0 +1,12 @@
+1	git://github.com/abuijze/webinar-axon-bank.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#javax.inject:javax.inject
+4	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+5	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+6	#DEP#org.springframework.boot:spring-boot-starter-test
+7	#DEP#org.axonframework:axon-spring-boot-starter
+8	#DEP#org.jetbrains.kotlin:kotlin-test-junit
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.projectlombok:lombok
+11	#DEP#org.axonframework:axon-test
+12	#DEP#org.springframework.boot:spring-boot-starter-web

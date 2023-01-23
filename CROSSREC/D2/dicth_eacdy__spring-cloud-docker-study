@@ -1,0 +1,15 @@
+1	git://github.com/eacdy/spring-cloud-docker-study.git
+2	#DEP#org.springframework.cloud:spring-cloud-netflix-turbine
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+5	#DEP#org.springframework.cloud:spring-cloud-dependencies
+6	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+9	#DEP#org.springframework.cloud:spring-cloud-starter-ribbon
+10	#DEP#org.springframework.cloud:spring-cloud-starter-turbine
+11	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+12	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard
+13	#DEP#com.itmuch.cloud:spring-cloud-microservice-study
+14	#DEP#org.springframework.boot:spring-boot-starter-actuator
+15	#DEP#com.h2database:h2

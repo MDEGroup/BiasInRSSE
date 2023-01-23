@@ -1,0 +1,3 @@
+14	#DEP#edu.ucar:jj2000
+15	#DEP#junit:junit
+16	#DEP#org.eclipse.jetty:jetty-proxy

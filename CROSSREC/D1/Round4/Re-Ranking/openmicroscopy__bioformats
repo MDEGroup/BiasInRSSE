@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#xerces:xercesImpl	1.0
+#DEP#com.kohlschutter.junixsocket:junixsocket-rmi	1.0
+#DEP#com.kohlschutter.junixsocket:junixsocket-native	1.0
+#DEP#com.kohlschutter.junixsocket:junixsocket-mysql	1.0
+#DEP#eu.eu-emi.security:canl	1.0

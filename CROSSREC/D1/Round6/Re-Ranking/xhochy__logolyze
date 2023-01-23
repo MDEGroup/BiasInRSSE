@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#com.netflix.netflix-commons:netflix-statistics	1.0
+#DEP#com.jogamp:gluegen-rt-natives-linux-i586	1.0
+#DEP#com.jogamp:joal	1.0
+#DEP#kokos:exmoplay-engine	1.0

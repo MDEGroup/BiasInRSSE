@@ -1,0 +1,10 @@
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#de.greenrobot:eventbus	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.squareup.dagger:dagger-compiler	1.0
+#DEP#io.reactivex:rxjava	1.0
+#DEP#com.squareup.retrofit:retrofit	1.0
+#DEP#org.osmdroid:osmdroid-android	1.0
+#DEP#com.github.japgolly.android:svg-android	1.0
+#DEP#com.path:android-priority-jobqueue	1.0

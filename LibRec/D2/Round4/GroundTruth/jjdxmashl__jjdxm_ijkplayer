@@ -1,0 +1,7 @@
+1	#DEP#com.dou361.ijkplayer-arm64:jjdxm-ijkplayer-arm64
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+1	#DEP#com.dou361.ijkplayer-armv7a:jjdxm-ijkplayer-armv7a
+1	#DEP#com.dou361.ijkplayer-x86_64:jjdxm-ijkplayer-x86_64
+1	#DEP#junit:junit

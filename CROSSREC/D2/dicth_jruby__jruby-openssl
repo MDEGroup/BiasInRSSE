@@ -1,0 +1,10 @@
+1	git://github.com/jruby/jruby-openssl.git
+2	#DEP#none:base
+3	#DEP#org.jruby:jruby-core
+4	#DEP#rubygems:ruby-maven
+5	#DEP#org.bouncycastle:bcprov-jdk15on
+6	#DEP#org.bouncycastle:bcpkix-jdk15on
+7	#DEP#rubygems:mocha
+8	#DEP#rubygems:jar-dependencies
+9	#DEP#org.bouncycastle:bctls-jdk15on
+10	#DEP#junit:junit

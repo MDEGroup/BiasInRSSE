@@ -1,0 +1,13 @@
+1	git://github.com/evant/loadie.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#org.robolectric:robolectric
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.android.support:support-fragment
+6	#DEP#com.android.support:support-compat
+7	#DEP#org.mockito:mockito-core
+8	#DEP#com.android.support.test:rules
+9	#DEP#junit:junit
+10	#DEP#com.android.support.test:runner
+11	#DEP#com.bluelinelabs:conductor
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

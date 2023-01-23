@@ -1,0 +1,9 @@
+1	#DEP#com.nineoldandroids:library
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:design
+1	#DEP#com.melnykov:floatingactionbutton
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.github.gabrielemariotti.changeloglib:changelog
+1	#DEP#org.aisen.android:searchview
+1	#DEP#com.tencent.bugly:crashreport
+1	#DEP#com.google.guava:guava

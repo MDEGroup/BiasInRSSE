@@ -1,0 +1,16 @@
+1	git://github.com/alexruiz/fest-swing-1.x.git
+2	#DEP#org.easytesting:fest-swing-junit
+3	#DEP#org.easytesting:fest-mocks
+4	#DEP#org.easytesting:fest-test
+5	#DEP#org.testng:testng
+6	#DEP#org.easytesting:fest-swing
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.mockito:mockito-all
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.easytesting:fest-assert
+11	#DEP#org.apache.ant:ant-junit
+12	#DEP#org.easytesting:fest-reflect
+13	#DEP#org.easytesting:fest-util
+14	#DEP#junit:junit
+15	#DEP#com.googlecode.multithreadedtc:multithreadedtc
+16	#DEP#org.easytesting:fest

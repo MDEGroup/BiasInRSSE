@@ -1,0 +1,14 @@
+1	git://github.com/spring-cloud/spring-cloud-deployer-local.git
+2	#DEP#org.springframework.cloud:spring-cloud-deployer-resource-maven
+3	#DEP#org.springframework.boot:spring-boot-starter
+4	#DEP#org.springframework.cloud:spring-cloud-deployer-spi-test
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.springframework.cloud:spring-cloud-deployer-spi
+7	#DEP#org.springframework.cloud:spring-cloud-deployer-local-parent
+8	#DEP#org.springframework.boot:spring-boot-configuration-processor
+9	#DEP#org.springframework.boot:spring-boot-starter-validation
+10	#DEP#org.springframework:spring-web
+11	#DEP#org.springframework.cloud:spring-cloud-deployer-local
+12	#DEP#org.springframework.cloud:spring-cloud-deployer-resource-support
+13	#DEP#org.springframework.cloud:spring-cloud-deployer-resource-docker
+14	#DEP#org.springframework.cloud:spring-cloud-deployer-parent

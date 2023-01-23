@@ -1,0 +1,12 @@
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.gridkit.3rd.btrace:btrace-agent
+1	#DEP#org.gridkit.jvmtool:mxdump
+1	#DEP#org.gridkit.jvmtool:sjk-jfr
+1	#DEP#org.gridkit.jvmtool:sjk-core
+1	#DEP#org.gridkit.jvmtool:sjk-stacktrace
+1	#DEP#org.gridkit.jvmtool:ygc-bench
+1	#DEP#org.gridkit.jvmtool:sjk-nps
+1	#DEP#org.gridkit.3rd.btrace:btrace-boot
+1	#DEP#org.gridkit.lab:jvm-attach-api
+1	#DEP#org.gridkit.jvmtool:jvmtool-umbrella-pom
+1	#DEP#junit:junit

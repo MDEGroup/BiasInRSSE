@@ -1,0 +1,10 @@
+41	#DEP#javax.transaction:jta
+42	#DEP#org.springframework:spring-orm
+43	#DEP#org.slf4j:slf4j-log4j12
+44	#DEP#postgresql:postgresql
+45	#DEP#org.springframework:spring-web
+46	#DEP#log4j:log4j
+47	#DEP#org.zkoss.zk:zkmax
+48	#DEP#org.springframework.security:spring-security-acl
+49	#DEP#javax.servlet:servlet-api
+50	#DEP#commons-fileupload:commons-fileupload

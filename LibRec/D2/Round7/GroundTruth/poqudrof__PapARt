@@ -1,0 +1,12 @@
+1	#DEP#org.bytedeco.javacpp-presets:opencv
+1	#DEP#org.jogamp.jogl:nativewindow-main
+1	#DEP#org.clojars.frederikdb:oscp5
+1	#DEP#org.bytedeco.javacpp-presets:libfreenect2
+1	#DEP#org.bytedeco:javacv
+1	#DEP#org.bytedeco.javacpp-presets:librealsense
+1	#DEP#fr.inria.potioc:ProcessingTUIO
+1	#DEP#tech.lity.rea:SVGExtended
+1	#DEP#com.googlecode.gstreamer-java:gstreamer-java
+1	#DEP#org.jogamp.jogl:jogl-all
+1	#DEP#org.bytedeco:javacpp
+1	#DEP#junit:junit

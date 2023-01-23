@@ -1,0 +1,14 @@
+1	#DEP#com.talent-aio:talent-aio-examples-im-common
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.talent-aio:talent-aio-parent
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.talent-aio:talent-aio-common
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#com.googlecode.protobuf-java-format:protobuf-java-format

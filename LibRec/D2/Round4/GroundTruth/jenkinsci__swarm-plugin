@@ -1,0 +1,6 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#org.jenkins-ci.main:remoting
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.jenkins-ci.plugins:swarm-plugin
+1	#DEP#commons-lang:commons-lang

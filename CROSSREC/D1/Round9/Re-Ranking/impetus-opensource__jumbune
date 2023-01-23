@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#io.netty:netty-handler	1.0
+#DEP#io.netty:netty-codec	1.0
+#DEP#io.netty:netty-buffer	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#${project.groupId}:tomp2p-core	1.0

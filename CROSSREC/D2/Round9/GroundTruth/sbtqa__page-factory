@@ -1,0 +1,10 @@
+1	#DEP#org.seleniumhq.selenium:selenium-ie-driver
+1	#DEP#org.reflections:reflections
+1	#DEP#org.seleniumhq.selenium:selenium-support
+1	#DEP#ru.sbtqa.tag:qa-utils
+1	#DEP#ru.sbtqa:webdrivermanager
+1	#DEP#com.google.guava:guava
+1	#DEP#ru.sbtqa.tag:allure-helper
+1	#DEP#ru.sbtqa.tag:video-recorder
+1	#DEP#junit:junit
+1	#DEP#org.seleniumhq.selenium:selenium-safari-driver

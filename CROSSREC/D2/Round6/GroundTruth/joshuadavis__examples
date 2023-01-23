@@ -1,0 +1,16 @@
+1	#DEP#org.jboss.naming:jnp-client
+1	#DEP#org.hornetq:hornetq-commons
+1	#DEP#org.hornetq:hornetq-core-client
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#org.picocontainer:picocontainer
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.jboss.errai:errai-common
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.jboss.errai:errai-tools
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#com.google.inject:guice
+1	#DEP#org.jboss.errai.bom:errai-bom
+1	#DEP#org.yajul:errai-eg
+1	#DEP#aopalliance:aopalliance
+1	#DEP#junit:junit

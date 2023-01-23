@@ -1,0 +1,14 @@
+1	git://github.com/fergarrui/custom-bytecode-analyzer.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.bitbucket.mstrobel:procyon-compilertools
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.google.collections:google-collections
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.ow2.asm:asm
+9	#DEP#commons-lang:commons-lang
+10	#DEP#org.apache.velocity:velocity
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.ow2.asm:asm-debug-all
+13	#DEP#junit:junit
+14	#DEP#org.jgrapht:jgrapht-core

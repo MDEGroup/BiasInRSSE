@@ -1,0 +1,15 @@
+1	git://github.com/GongDexing/elasticsearch-mysql.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.springframework:spring-beans
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.logging.log4j:log4j-to-slf4j
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#org.springframework:spring-core
+10	#DEP#org.elasticsearch:elasticsearch
+11	#DEP#com.alibaba:druid
+12	#DEP#org.quartz-scheduler:quartz
+13	#DEP#log4j:log4j
+14	#DEP#junit:junit
+15	#DEP#org.elasticsearch.client:transport

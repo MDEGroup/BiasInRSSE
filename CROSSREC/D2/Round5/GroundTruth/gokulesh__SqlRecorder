@@ -1,0 +1,5 @@
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#commons-lang:commons-lang
+1	#DEP#net.sourceforge.jtds:jtds

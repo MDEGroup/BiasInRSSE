@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.twitter4j:twitter4j-core	1.0
+#DEP#org.nakedobjects.core:bytecode-javassist	1.0

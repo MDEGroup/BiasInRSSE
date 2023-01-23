@@ -1,0 +1,10 @@
+1	git://github.com/jcheype/GitBox.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#net.contentobjects:jnotify
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.google.guava:guava
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#junit:junit
+10	#DEP#org.eclipse.jgit:org.eclipse.jgit

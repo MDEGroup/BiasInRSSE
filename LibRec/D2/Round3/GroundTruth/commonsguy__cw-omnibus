@@ -1,0 +1,12 @@
+1	#DEP#com.android.support.test.uiautomator:uiautomator-v18
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.google.android:support-v4
+1	#DEP#com.commonsware.cwac:pager
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.commonsware.cwac:security
+1	#DEP#com.google.guava:guava
+1	#DEP#com.viewpagerindicator:parent
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.nineoldandroids:parent
+1	#DEP#com.android.tools.build:gradle

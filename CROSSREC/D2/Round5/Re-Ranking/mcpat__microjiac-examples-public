@@ -1,0 +1,10 @@
+#DEP#de.jiac.micro.tools:microjiac-test-scope	1.0
+#DEP#com.github.mcpat.libxjava:libxjava-jse5	1.0
+#DEP#sunspot:squawk_device.jar	1.0
+#DEP#de.jiac.micro.platforms:microjiac-cdc-impls	1.0
+#DEP#de.jiac.micro.extensions:microjiac-interaction	1.0
+#DEP#de.jiac.micro:microjiac-extensions	1.0
+#DEP#de.jiac.micro.platforms.cldc:microjiac-midlet-launcher	1.0
+#DEP#sunspot:transducer_device.jar	1.0
+#DEP#de.jiac.micro.platforms.cdc:microjiac-cdc-common	1.0
+#DEP#de.dailab.keks:keks-core	1.0

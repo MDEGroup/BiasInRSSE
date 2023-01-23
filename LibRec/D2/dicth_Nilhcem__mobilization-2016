@@ -1,0 +1,21 @@
+1	git://github.com/Nilhcem/mobilization-2016.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#com.squareup.sqlbrite:sqlbrite
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.squareup.moshi:moshi
+7	#DEP#com.jakewharton.picasso:picasso2-okhttp3-downloader
+8	#DEP#com.jakewharton.threetenabp:threetenabp
+9	#DEP#com.jakewharton:process-phoenix
+10	#DEP#com.google.truth:truth
+11	#DEP#org.jsoup:jsoup
+12	#DEP#com.squareup.picasso:picasso
+13	#DEP#org.mockito:mockito-core
+14	#DEP#jp.wasabeef:takt
+15	#DEP#yyyy-MM-dd HH:mm
+16	#DEP#org.projectlombok:lombok
+17	#DEP#junit:junit
+18	#DEP#net.sourceforge.streamsupport:streamsupport
+19	#DEP#io.reactivex:rxjava
+20	#DEP#com.github.chrisbanes:PhotoView
+21	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,6 @@
+1	#DEP#org.apache.maven.reporting:maven-reporting-impl
+1	#DEP#com.lowagie:itext
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#args4j:args4j
+1	#DEP#org.xhtmlrenderer:core-renderer
+1	#DEP#org.teleal.lemma:root

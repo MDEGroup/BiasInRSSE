@@ -1,0 +1,15 @@
+1	git://github.com/spring-projects/spring-tenancy.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#commons-dbcp:commons-dbcp
+4	#DEP#org.springframework:spring-orm
+5	#DEP#org.springframework:spring-core
+6	#DEP#org.springframework:spring-tx
+7	#DEP#org.springframework:spring-web
+8	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa
+9	#DEP#org.eclipse.persistence:javax.persistence
+10	#DEP#org.springframework:spring-test
+11	#DEP#log4j:log4j
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#junit:junit
+14	#DEP#org.eclipse.persistence:org.eclipse.persistence.core
+15	#DEP#org.hsqldb:hsqldb

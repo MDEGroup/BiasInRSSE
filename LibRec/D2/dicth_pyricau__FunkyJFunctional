@@ -1,0 +1,17 @@
+1	git://github.com/pyricau/FunkyJFunctional.git
+2	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-core
+3	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-java
+4	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-guava
+5	#DEP#org.mockito:mockito-all
+6	#DEP#org.apache.wicket:wicket
+7	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-functionaljava
+8	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-core-test
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.easytesting:fest-assert-core
+11	#DEP#log4j:log4j
+12	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-parent
+13	#DEP#com.google.guava:guava
+14	#DEP#org.functionaljava:fj
+15	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-wicket
+16	#DEP#junit:junit
+17	#DEP#info.piwai.funkyjfunctional:funkyjfunctional-fest-assert

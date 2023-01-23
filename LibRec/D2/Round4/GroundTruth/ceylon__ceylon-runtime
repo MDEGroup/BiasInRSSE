@@ -1,0 +1,9 @@
+1	#DEP#ceylon:modules-spi
+1	#DEP#com.redhat.ceylon.cmr:cmr-maven
+1	#DEP#org.jboss.modules:jboss-modules
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-spi
+1	#DEP#ceylon:modules
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+1	#DEP#junit:junit
+1	#DEP#ceylon.language:ceylon-language

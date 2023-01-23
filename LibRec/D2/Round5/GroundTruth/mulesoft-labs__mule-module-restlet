@@ -1,0 +1,5 @@
+1	#DEP#org.mule:mule-core
+1	#DEP#org.restlet.jee:org.restlet.ext.json
+1	#DEP#org.mule.transports:mule-transport-http
+1	#DEP#org.mule.modules:mule-module-client
+1	#DEP#org.mule.transports:mule-transport-vm

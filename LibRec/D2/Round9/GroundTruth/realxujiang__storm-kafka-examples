@@ -1,0 +1,4 @@
+1	#DEP#org.apache.zookeeper:zookeeper
+1	#DEP#org.apache.storm:storm-core
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.apache.storm:storm-kafka

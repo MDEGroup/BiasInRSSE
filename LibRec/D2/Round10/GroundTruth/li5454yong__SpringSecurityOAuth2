@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#org.springframework.security.oauth:spring-security-oauth2
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework:spring-core

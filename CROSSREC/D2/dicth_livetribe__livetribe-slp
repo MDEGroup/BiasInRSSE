@@ -1,0 +1,17 @@
+1	git://github.com/livetribe/livetribe-slp.git
+2	#DEP#org.livetribe.slp:livetribe-slp-osgi
+3	#DEP#org.slf4j:slf4j-simple
+4	#DEP#org.testng:testng
+5	#DEP#org.livetribe.slp:livetribe-slp
+6	#DEP#org.papoose.osgi:OSGi_R4_v4.2_cmpn_spec
+7	#DEP#org.ops4j.pax.runner:pax-runner-no-jcl
+8	#DEP#org.papoose.osgi:OSGi_R4_v4.2_core_spec
+9	#DEP#org.livetribe.slp:livetribe-slp-osgi-project
+10	#DEP#org.ops4j.pax.exam:pax-exam-link-assembly
+11	#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+12	#DEP#org.livetribe:livetribe
+13	#DEP#org.ops4j.pax.exam:pax-exam-container-paxrunner
+14	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+15	#DEP#org.ops4j.pax.exam:pax-exam-testforge
+16	#DEP#junit:junit
+17	#DEP#org.livetribe.slp:livetribe-slp-project

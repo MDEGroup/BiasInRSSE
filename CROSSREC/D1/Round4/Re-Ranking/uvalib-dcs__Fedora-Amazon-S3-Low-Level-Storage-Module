@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#org.slf4j:log4j-over-slf4j	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.openrdf.sesame:sesame-rio-languages	1.0

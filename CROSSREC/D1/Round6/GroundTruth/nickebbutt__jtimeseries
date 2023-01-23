@@ -1,0 +1,4 @@
+17	#DEP#log4j:log4j
+18	#DEP#javax.servlet:servlet-api
+19	#DEP#com.jidesoft:jide-common
+20	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	git://github.com/danbev/migrate.git
+2	#DEP#org.hornetq:hornetq-core-client
+3	#DEP#org.osgi:osgi_R4_core
+4	#DEP#org.jboss.msc:jboss-msc
+5	#DEP#log4j:log4j
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#org.jboss.netty:netty
+8	#DEP#junit:junit
+9	#DEP#javax:javaee-api

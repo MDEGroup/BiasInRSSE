@@ -1,0 +1,17 @@
+1	git://github.com/perwendel/spark.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.eclipse.jetty.websocket:websocket-client
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.freemarker:freemarker
+10	#DEP#org.eclipse.jetty.websocket:websocket-server
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.powermock:powermock-api-mockito
+13	#DEP#org.eclipse.jetty:jetty-server
+14	#DEP#org.eclipse.jetty.websocket:websocket-servlet
+15	#DEP#org.eclipse.jetty:jetty-webapp
+16	#DEP#junit:junit
+17	#DEP#org.powermock.tests:powermock-tests-utils

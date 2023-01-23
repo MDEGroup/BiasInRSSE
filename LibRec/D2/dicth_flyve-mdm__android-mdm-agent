@@ -1,0 +1,16 @@
+1	git://github.com/flyve-mdm/android-mdm-agent.git
+2	#DEP#com.bugsnag:bugsnag-android
+3	#DEP#com.madgag.spongycastle:core
+4	#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3
+5	#DEP#com.orhanobut:logger
+6	#DEP#org.mockito:mockito-android
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.android.support:design
+10	#DEP#com.madgag.spongycastle:pkix
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.madgag.spongycastle:prov
+13	#DEP#com.android.support:multidex
+14	#DEP#com.android.support:support-v4
+15	#DEP#org.flyve:inventory
+16	#DEP#junit:junit

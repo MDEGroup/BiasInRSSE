@@ -1,0 +1,14 @@
+1	git://github.com/FuZhucheng/SpringMVC-Hibernate.git
+2	#DEP#org.hibernate:hibernate-c3p0
+3	#DEP#com.mchange:c3p0
+4	#DEP#mysql:mysql-connector-java
+5	#DEP#org.hibernate:hibernate-entitymanager
+6	#DEP#org.jboss.resteasy:tjws
+7	#DEP#org.springframework.data:spring-data-jpa
+8	#DEP#javax.servlet.jsp:jsp-api
+9	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec
+10	#DEP#org.mockito:mockito-core
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#javax.servlet:jstl
+13	#DEP#org.projectlombok:lombok
+14	#DEP#junit:junit

@@ -1,0 +1,5 @@
+1	#DEP#:new-cdc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.github.shyiko:mysql-binlog-connector-java
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

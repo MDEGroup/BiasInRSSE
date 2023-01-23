@@ -1,0 +1,3 @@
+14	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+15	#DEP#com.ning:async-http-client
+16	#DEP#com.google.guava:guava

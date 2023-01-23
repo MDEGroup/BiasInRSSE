@@ -1,0 +1,15 @@
+1	git://github.com/Multiverse/Multiverse-Core.git
+2	#DEP#org.mcstats.bukkit:metrics
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#commons-io:commons-io
+5	#DEP#org.spigotmc:spigot-api
+6	#DEP#com.dumptruckman.minecraft:buscript
+7	#DEP#org.easymock:easymock
+8	#DEP#org.codehaus.jettison:jettison
+9	#DEP#com.dumptruckman.minecraft:Logging
+10	#DEP#me.main__.util:SerializationConfig
+11	#DEP#com.pneumaticraft.commandhandler:CommandHandler
+12	#DEP#org.powermock:powermock-api-mockito
+13	#DEP#org.powermock:powermock-api-easymock
+14	#DEP#junit:junit
+15	#DEP#net.milkbowl.vault:VaultAPI

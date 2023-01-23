@@ -1,0 +1,16 @@
+1	#DEP#org.drools:drools-compiler
+1	#DEP#org.hornetq:hornetq-core
+1	#DEP#org.jbpm:jbpm-flow-builder
+1	#DEP#org.jboss.netty:netty
+1	#DEP#org.drools:drools-core
+1	#DEP#org.jbpm:jbpm-flow
+1	#DEP#org.drools:drools-spring
+1	#DEP#org.subethamail:subethasmtp
+1	#DEP#org.jbpm:jbpm-persistence-jpa
+1	#DEP#org.codehaus.btm:btm
+1	#DEP#net.java.dev.appframework:appframework
+1	#DEP#org.jboss.naming:jnpserver
+1	#DEP#org.jbpm:jbpm-bam
+1	#DEP#junit:junit
+1	#DEP#org.swinglabs:swing-worker
+1	#DEP#com.h2database:h2

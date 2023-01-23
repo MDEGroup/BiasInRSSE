@@ -1,0 +1,4 @@
+17	#DEP#org.projectlombok:lombok
+18	#DEP#com.sun.jersey.contribs:jersey-guice
+19	#DEP#junit:junit
+20	#DEP#com.google.appengine:appengine-testing

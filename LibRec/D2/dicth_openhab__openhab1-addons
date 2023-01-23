@@ -1,0 +1,9 @@
+1	git://github.com/openhab/openhab1-addons.git
+2	#DEP#org.glassfish:javax.json
+3	#DEP#${project.parent.groupId}:provision
+4	#DEP#org.osgi:osgi_R4_core
+5	#DEP#org.openhab.bundles:binding
+6	#DEP#org.osgi:osgi_R4_compendium
+7	#DEP#org.openhab.bundles:action
+8	#DEP#javax.json:javax.json-api
+9	#DEP#org.openhab.runtime.build:compiled-bundle-settings

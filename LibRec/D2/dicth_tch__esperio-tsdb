@@ -1,0 +1,13 @@
+1	git://github.com/tch/esperio-tsdb.git
+2	#DEP#org.hbase.async:hbaseasync
+3	#DEP#net.opentsdb:tsdb
+4	#DEP#org.apache.zookeeper:zookeeper
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.espertech:esper
+8	#DEP#org.apache.hbase:hbase
+9	#DEP#com.espertech:esperio-csv
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.jboss.netty:netty
+12	#DEP#junit:junit
+13	#DEP#com.stumbleupon.async:async

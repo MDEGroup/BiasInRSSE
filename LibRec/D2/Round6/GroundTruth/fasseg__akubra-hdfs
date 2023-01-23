@@ -1,0 +1,4 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.easymock:easymock
+1	#DEP#junit:junit

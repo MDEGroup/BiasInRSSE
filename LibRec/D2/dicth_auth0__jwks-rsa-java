@@ -1,0 +1,9 @@
+1	git://github.com/auth0/jwks-rsa-java.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#commons-io:commons-io
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.mockito:mockito-core
+7	#DEP#com.google.guava:guava
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit

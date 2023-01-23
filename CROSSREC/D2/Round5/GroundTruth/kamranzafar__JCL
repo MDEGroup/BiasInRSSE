@@ -1,0 +1,7 @@
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.xeustechnologies:jcl-spring
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.kamranzafar.commons:object-cloner
+1	#DEP#junit:junit
+1	#DEP#org.xeustechnologies:test-jcl

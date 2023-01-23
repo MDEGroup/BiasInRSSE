@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.google.j2objc:j2objc-annotations	1.0
+#DEP#com.google.guava:guava-tests	1.0
+#DEP#com.google.errorprone:error_prone_annotations	1.0
+#DEP#com.google.guava:guava-testlib	1.0
+#DEP#com.google.truth:truth	1.0
+#DEP#org.checkerframework:checker-compat-qual	1.0

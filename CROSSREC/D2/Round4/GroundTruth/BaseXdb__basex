@@ -1,0 +1,10 @@
+1	#DEP#com.ettrema:milton-api
+1	#DEP#org.basex:basex-parent
+1	#DEP#jline:jline
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#org.basex:basex
+1	#DEP#org.eclipse.jetty:jetty-servlet

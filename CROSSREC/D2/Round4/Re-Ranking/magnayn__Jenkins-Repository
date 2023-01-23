@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#com.cloudbees:cloudbees-api-client-nodeps	1.0
+#DEP#org.jenkins-ci.plugins:javadoc	1.0
+#DEP#org.jenkins-ci.plugins:deployer-framework	1.0
+#DEP#org.jenkins-ci.plugins:deployed-on-column	1.0
+#DEP#com.cloudbees.jenkins.plugins:cloudbees-registration	1.0
+#DEP#com.cloudbees.jenkins.plugins:cloudbees-credentials	1.0

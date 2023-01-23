@@ -1,0 +1,14 @@
+1	git://github.com/lurbas/MaterialMasterDetail.git
+2	#DEP#com.lucasurbas:guidelinescompattoolbar
+3	#DEP#org.glassfish:javax.annotation
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.actinarium.aligned:aligned
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.google.dagger:dagger
+11	#DEP#com.android.support:cardview-v7
+12	#DEP#com.google.dagger:dagger-compiler
+13	#DEP#com.android.support:support-v4
+14	#DEP#junit:junit

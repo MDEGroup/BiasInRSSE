@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#io.grpc:grpc-stub
+1	#DEP#com.github.saturnism.spring-boot-starter-grpc:grpc-client-starter
+1	#DEP#com.github.saturnism.spring-boot-starter-grpc:grpc-server-parent
+1	#DEP#com.github.saturnism.spring-boot-starter-grpc:grpc-client-autoconfigurer
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#com.github.saturnism.spring-boot-starter-grpc:grpc-server-autoconfigurer
+1	#DEP#com.github.saturnism.spring-boot-starter-grpc:grpc-server-starter

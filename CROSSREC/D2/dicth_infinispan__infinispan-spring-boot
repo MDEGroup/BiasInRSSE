@@ -1,0 +1,15 @@
+1	git://github.com/infinispan/infinispan-spring-boot.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.infinispan:infinispan-client-hotrod
+4	#DEP#org.springframework.boot:spring-boot-starter
+5	#DEP#org.springframework.boot:spring-boot-dependencies
+6	#DEP#org.infinispan:infinispan-core
+7	#DEP#org.infinispan:infinispan-spring4-remote
+8	#DEP#org.infinispan:infinispan-spring-boot-starter-parent
+9	#DEP#org.springframework.boot:spring-boot-configuration-processor
+10	#DEP#org.infinispan:infinispan-spring-boot-starter-embedded
+11	#DEP#org.infinispan:infinispan-spring4-embedded
+12	#DEP#org.jboss:jboss-parent
+13	#DEP#org.springframework.boot:spring-boot-starter-test
+14	#DEP#org.infinispan:infinispan-spring-boot-starter-remote
+15	#DEP#org.infinispan:infinispan-bom

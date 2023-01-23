@@ -1,0 +1,11 @@
+1	git://github.com/mbaechler/proxy-servlet.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.slf4j:slf4j-nop
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.easymock:easymock
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#commons-fileupload:commons-fileupload
+9	#DEP#org.apache.httpcomponents:httpmime
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#junit:junit

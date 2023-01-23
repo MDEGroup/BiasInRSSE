@@ -1,0 +1,4 @@
+19	#DEP#org.neo4j:neo4j-commons
+20	#DEP#org.neo4j:neo4j-graph-algo
+21	#DEP#org.neo4j:shell
+22	#DEP#org.neo4j:neo4j-index

@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.squareup.picasso:picasso	1.0
+#DEP#io.magicthegathering:javasdk	1.0
+#DEP#com.github.promeg:tinypinyin-lexicons-android-cncity	1.0
+#DEP#com.thebluealliance:spectrum	1.0

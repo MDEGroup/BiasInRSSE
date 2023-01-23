@@ -1,0 +1,15 @@
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#io.undertow:undertow-parent
+1	#DEP#io.undertow:undertow-core
+1	#DEP#org.jboss.classfilewriter:jboss-classfilewriter
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#io.undertow:undertow-examples
+1	#DEP#org.wildfly.openssl:wildfly-openssl
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_4.0_spec
+1	#DEP#org.jboss.spec.javax.websocket:jboss-websocket-api_1.1_spec
+1	#DEP#io.undertow:undertow-websockets-jsr
+1	#DEP#junit:junit
+1	#DEP#org.jboss.logmanager:jboss-logmanager
+1	#DEP#com.h2database:h2

@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#org.osgi:org.osgi.core	1.0
+#DEP#javax.persistence:persistence-api	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-junit4	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-container-native	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-link-mvn	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.fasterxml.util:java-merge-sort	1.0

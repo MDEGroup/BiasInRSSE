@@ -1,0 +1,14 @@
+1	#DEP#de.grundid.osmtools:osm-tools-parent
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.apache.cxf:cxf-rt-frontend-jaxrs
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#oauth.signpost:signpost-commonshttp4
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#oauth.signpost:signpost-core
+1	#DEP#junit:junit
+1	#DEP#org.apache.cxf:cxf-rt-rs-security-oauth2
+1	#DEP#cglib:cglib

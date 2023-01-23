@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.bukkit:craftbukkit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.nijikokun.bukkit.Permissions:Permissions	1.0
+#DEP#cosine.boseconomy:BOSEconomy	1.0
+#DEP#org.anjocaido.groupmanager:GroupManager	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#us.dynmap:dynmap-api	1.0
+#DEP#org.spoutcraft:spoutcraftplugin	1.0
+#DEP#org.bukkit:minecraft-server	1.0

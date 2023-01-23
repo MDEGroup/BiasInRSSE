@@ -1,0 +1,9 @@
+1	git://github.com/sue445/s3tiger.git
+2	#DEP#org.slim3:slim3-gen
+3	#DEP#com.google.appengine:appengine-api-stubs
+4	#DEP#com.google.appengine:appengine-api-1.0-sdk
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#org.slim3:slim3
+7	#DEP#junit:junit
+8	#DEP#com.google.appengine:appengine-local-runtime
+9	#DEP#com.google.appengine:appengine-api-labs

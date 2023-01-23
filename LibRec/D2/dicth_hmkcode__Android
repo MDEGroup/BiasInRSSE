@@ -1,0 +1,11 @@
+1	git://github.com/hmkcode/Android.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#com.android.support:support-v4
+4	#DEP#com.android.support.constraint:constraint-layout
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.android.support.test:runner
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations
+11	#DEP#com.android.support.test.espresso:espresso-core

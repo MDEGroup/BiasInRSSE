@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.social:spring-social-facebook
+1	#DEP#org.simpleframework:simple-xml
+1	#DEP#org.springframework.social:spring-social-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework.android:spring-android-rest-template
+1	#DEP#org.springframework.social:spring-social-twitter

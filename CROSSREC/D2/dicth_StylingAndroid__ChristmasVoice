@@ -1,0 +1,10 @@
+1	git://github.com/StylingAndroid/ChristmasVoice.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.google.dagger:dagger

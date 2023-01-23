@@ -1,0 +1,7 @@
+1	#DEP#dom4j:dom4j
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.jbpm:jbpm-bom
+1	#DEP#log4j:log4j
+1	#DEP#xerces:xercesImpl
+1	#DEP#junit:junit
+1	#DEP#org.jbpm:jbpm-test

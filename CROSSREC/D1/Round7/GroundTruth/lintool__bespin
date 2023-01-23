@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#net.sf.jung:jung-api
+15	#DEP#org.rogach:scallop_2.11

@@ -1,0 +1,4 @@
+1	#DEP#org.testng:testng
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.atlassian.testtools:atlassian-testtools
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit

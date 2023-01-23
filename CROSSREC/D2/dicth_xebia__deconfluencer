@@ -1,0 +1,15 @@
+1	git://github.com/xebia/deconfluencer.git
+2	#DEP#xalan:xalan
+3	#DEP#net.sourceforge.nekohtml:nekohtml
+4	#DEP#org.slf4j:slf4j-nop
+5	#DEP#com.google.guava:guava-io
+6	#DEP#com.thoughtworks.xstream:xstream
+7	#DEP#org.mockito:mockito-all
+8	#DEP#joda-time:joda-time
+9	#DEP#commons-codec:commons-codec
+10	#DEP#jnotify:jnotify
+11	#DEP#junit:junit-dep
+12	#DEP#com.ning:async-http-client
+13	#DEP#args4j:args4j
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#org.eclipse.jetty:jetty-server

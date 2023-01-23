@@ -1,0 +1,13 @@
+1	git://github.com/JosephZhu1983/Java8InAction.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.spotify:completable-futures
+4	#DEP#com.squareup.retrofit2:converter-gson
+5	#DEP#org.jooq:jool
+6	#DEP#com.speedment:runtime
+7	#DEP#org.checkerframework:jdk8
+8	#DEP#log4j:log4j
+9	#DEP#com.squareup.retrofit2:retrofit
+10	#DEP#org.ow2.asm:asm-debug-all
+11	#DEP#org.projectlombok:lombok
+12	#DEP#me.qmx.jitescript:jitescript
+13	#DEP#junit:junit

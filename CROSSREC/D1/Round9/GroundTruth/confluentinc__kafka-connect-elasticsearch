@@ -1,0 +1,2 @@
+9	#DEP#org.apache.lucene:lucene-test-framework
+10	#DEP#org.elasticsearch:elasticsearch

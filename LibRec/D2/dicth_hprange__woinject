@@ -1,0 +1,10 @@
+1	git://github.com/hprange/woinject.git
+2	#DEP#org.javassist:javassist
+3	#DEP#com.google.inject:guice
+4	#DEP#com.webobjects:JavaWebObjects
+5	#DEP#org.mockito:mockito-core
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#wonder.core:ERExtensions
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit

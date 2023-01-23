@@ -1,0 +1,4 @@
+1	#DEP#com.ryanharter.auto.value:auto-value-parcel
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-core

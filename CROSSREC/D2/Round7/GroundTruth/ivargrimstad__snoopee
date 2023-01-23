@@ -1,0 +1,6 @@
+1	#DEP#eu.agilejava:snoopee-discovery
+1	#DEP#eu.agilejava:snoopee-config
+1	#DEP#eu.agilejava:snoopee
+1	#DEP#javax:javaee-web-api
+1	#DEP#eu.agilejava:snoopee-config-client
+1	#DEP#org.wildfly.swarm:ejb

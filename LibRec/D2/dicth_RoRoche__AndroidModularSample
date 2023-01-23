@@ -1,0 +1,9 @@
+1	git://github.com/RoRoche/AndroidModularSample.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#junit:junit
+6	#DEP#com.android.support:design
+7	#DEP#au.com.datasymphony:EasyFlow
+8	#DEP#com.bluelinelabs:conductor
+9	#DEP#com.google.dagger:dagger

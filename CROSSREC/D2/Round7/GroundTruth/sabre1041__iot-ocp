@@ -1,0 +1,14 @@
+1	#DEP#org.apache.camel:camel-test
+1	#DEP#org.apache.camel.karaf:apache-camel
+1	#DEP#org.apache.camel:camel-bindy
+1	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.commons-dbcp
+1	#DEP#io.fabric8:fabric8-project-bom-fuse-karaf
+1	#DEP#org.drools:drools-decisiontables
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.karaf.assemblies.features:enterprise
+1	#DEP#org.apache.camel:camel-spring
+1	#DEP#org.apache.camel:camel-jdbc
+1	#DEP#junit:junit
+1	#DEP#org.drools:drools-karaf-features
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.apache.karaf.features:spring

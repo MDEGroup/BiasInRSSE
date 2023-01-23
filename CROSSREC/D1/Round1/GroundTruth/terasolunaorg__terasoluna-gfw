@@ -1,0 +1,17 @@
+69	#DEP#${project.groupId}:terasoluna-gfw-web
+70	#DEP#com.fasterxml.jackson.core:jackson-databind
+71	#DEP#org.springframework:spring-orm
+72	#DEP#org.terasoluna.gfw:terasoluna-gfw-parent
+73	#DEP#org.jadira.usertype:usertype.core
+74	#DEP#org.mockito:mockito-core
+75	#DEP#org.springframework:spring-context-support
+76	#DEP#javax.servlet:javax.servlet-api
+77	#DEP#ch.qos.logback:logback-classic
+78	#DEP#joda-time:joda-time-jsptags
+79	#DEP#org.terasoluna.gfw:terasoluna-gfw-string
+80	#DEP#org.terasoluna.gfw.codepoints:terasoluna-gfw-codepoints-jisx0208kanji
+81	#DEP#org.terasoluna.gfw:terasoluna-gfw-dependencies
+82	#DEP#${project.groupId}:terasoluna-gfw-web-jsp
+83	#DEP#org.terasoluna.gfw:terasoluna-gfw-codepoints
+84	#DEP#org.lazyluke:log4jdbc-remix
+85	#DEP#org.terasoluna.gfw:terasoluna-gfw-mybatis3-dependencies

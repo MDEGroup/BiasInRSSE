@@ -1,0 +1,9 @@
+1	#DEP#com.distelli.graphql:graphql-apigen-deps
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#com.graphql-java:graphql-java
+1	#DEP#com.google.inject:guice
+1	#DEP#com.distelli.graphql:graphql-apigen-pom
+1	#DEP#test:test-pom
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#junit:junit
+1	#DEP#com.google.inject.extensions:guice-multibindings

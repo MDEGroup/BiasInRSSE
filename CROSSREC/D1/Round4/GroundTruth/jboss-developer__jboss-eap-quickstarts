@@ -1,0 +1,8 @@
+34	#DEP#org.jboss.resteasy:resteasy-client
+35	#DEP#org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec
+36	#DEP#commons-io:commons-io
+37	#DEP#org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.2_spec
+38	#DEP#org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec
+39	#DEP#org.hibernate:hibernate-validator
+40	#DEP#org.jboss.eap.quickstarts:ejb-in-ear-web
+41	#DEP#org.jboss.spec.javax.batch:jboss-batch-api_1.0_spec

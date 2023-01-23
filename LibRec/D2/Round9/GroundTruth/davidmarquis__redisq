@@ -1,0 +1,7 @@
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.springframework:spring-test
+1	#DEP#info.cukes:cucumber-spring
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#info.cukes:cucumber-java
+1	#DEP#junit:junit

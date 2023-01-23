@@ -1,0 +1,16 @@
+1	git://github.com/marvin-we/steem-java-api-wrapper.git
+2	#DEP#org.glassfish.tyrus.bundles:tyrus-standalone-client
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#eu.bittrade.libs:crypto-core
+9	#DEP#org.jooq:joou
+10	#DEP#eu.bittrade.libs:steemj-core
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#eu.bittrade.libs:steemj-parent
+13	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+14	#DEP#org.exparity:hamcrest-date
+15	#DEP#junit:junit
+16	#DEP#com.google.http-client:google-http-client

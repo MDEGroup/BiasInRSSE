@@ -1,0 +1,12 @@
+1	#DEP#org.springframework.security:spring-security-taglibs
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#org.springframework:spring-orm
+1	#DEP#taglibs:standard
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

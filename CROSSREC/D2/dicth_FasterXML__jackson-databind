@@ -1,0 +1,9 @@
+1	git://github.com/FasterXML/jackson-databind.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.powermock:powermock-core
+4	#DEP#javax.measure:jsr-275
+5	#DEP#org.powermock:powermock-module-junit4
+6	#DEP#org.assertj:assertj-core
+7	#DEP#com.fasterxml.jackson:jackson-base
+8	#DEP#org.powermock:powermock-api-mockito2
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations

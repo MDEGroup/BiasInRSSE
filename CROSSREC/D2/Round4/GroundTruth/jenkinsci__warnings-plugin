@@ -1,0 +1,6 @@
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-multibranch
+1	#DEP#org.jenkins-ci.plugins:violations
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+1	#DEP#org.jenkins-ci.modules:sshd
+1	#DEP#org.jvnet.hudson.plugins:analysis-core
+1	#DEP#org.jenkins-ci.plugins:parameterized-trigger

@@ -1,0 +1,10 @@
+1	git://github.com/Wnt/vaadin-fiddle.git
+2	#DEP#com.github.docker-java:docker-java
+3	#DEP#commons-io:commons-io
+4	#DEP#com.vaadin:vaadin-server
+5	#DEP#com.vaadin:vaadin-themes
+6	#DEP#javax.servlet:javax.servlet-api
+7	#DEP#com.vaadin:vaadin-push
+8	#DEP#org.vaadin.addon:v-codemirror
+9	#DEP#com.vaadin:vaadin-bom
+10	#DEP#com.vaadin:vaadin-context-menu

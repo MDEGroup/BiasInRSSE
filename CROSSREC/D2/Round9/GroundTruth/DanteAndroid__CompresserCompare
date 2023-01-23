@@ -1,0 +1,8 @@
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.github.ParkSangGwon:TedPermission
+1	#DEP#com.google.guava:guava
+1	#DEP#com.thefinestartist:compilers
+1	#DEP#junit:junit
+1	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+1	#DEP#io.reactivex:rxandroid

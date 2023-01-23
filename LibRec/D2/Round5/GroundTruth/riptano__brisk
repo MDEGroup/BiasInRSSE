@@ -1,0 +1,12 @@
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#org.apache.commons:commons-math
+1	#DEP#org.apache.ftpserver:ftpserver-core
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.apache.ftpserver:ftpserver-deprecated
+1	#DEP#commons-net:commons-net
+1	#DEP#tomcat:jasper-runtime
+1	#DEP#net.java.dev.jets3t:jets3t
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#xmlenc:xmlenc
+1	#DEP#org.mortbay.jetty:jsp-2.1

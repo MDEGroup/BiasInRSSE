@@ -1,0 +1,16 @@
+1	git://github.com/waterguo/antsdb.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#io.netty:netty-all
+4	#DEP#commons-cli:commons-cli
+5	#DEP#commons-io:commons-io
+6	#DEP#org.apache.lucene:lucene-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.codehaus.groovy:groovy-all
+9	#DEP#com.zendesk:open-replicator
+10	#DEP#com.google.code.gson:gson
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.apache.hbase:hbase-client
+13	#DEP#commons-lang:commons-lang
+14	#DEP#junit:junit
+15	#DEP#com.antsdb:fish-root
+16	#DEP#org.antlr:antlr4-runtime

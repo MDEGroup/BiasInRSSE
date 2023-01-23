@@ -1,0 +1,5 @@
+1	#DEP#com.yanzhenjie.nohttp:nohttp
+1	#DEP#com.alibaba:fastjson
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:design
+1	#DEP#com.yanzhenjie.nohttp:okhttp

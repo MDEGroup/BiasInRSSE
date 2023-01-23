@@ -1,0 +1,4 @@
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.spoutcraft:spoutcraftplugin
+1	#DEP#org.freemarker:freemarker

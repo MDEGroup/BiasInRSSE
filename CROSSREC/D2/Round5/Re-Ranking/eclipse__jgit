@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.commons:commons-compress	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.jcraft:jsch	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#org.eclipse.jgit:org.eclipse.jgit.ant	1.0
+#DEP#org.eclipse.jgit:org.eclipse.jgit.lfs.test	1.0

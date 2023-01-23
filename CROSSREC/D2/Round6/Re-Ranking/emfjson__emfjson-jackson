@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.eclipselabs:org.eclipselabs.emftriple.jena	1.0
+#DEP#org.eclipselabs:org.eclipselabs.emftriple.sesame	1.0
+#DEP#org.eclipselabs:org.eclipselabs.emftriple.junit	1.0
+#DEP#org.eclipselabs:emftriple	1.0

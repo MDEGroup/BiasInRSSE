@@ -1,0 +1,13 @@
+1	git://github.com/gitchennan/elasticsearch-query-toolkit.git
+2	#DEP#org.apache.logging.log4j:log4j-core
+3	#DEP#org.springframework:spring-orm
+4	#DEP#com.google.code.gson:gson
+5	#DEP#joda-time:joda-time
+6	#DEP#commons-lang:commons-lang
+7	#DEP#org.apache.ibatis:ibatis-sqlmap
+8	#DEP#com.alibaba:druid
+9	#DEP#commons-collections:commons-collections
+10	#DEP#com.google.guava:guava
+11	#DEP#org.elasticsearch.client:transport
+12	#DEP#junit:junit
+13	#DEP#org.apache.logging.log4j:log4j-api

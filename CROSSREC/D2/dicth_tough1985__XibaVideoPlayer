@@ -1,0 +1,9 @@
+1	git://github.com/tough1985/XibaVideoPlayer.git
+2	#DEP#tv.danmaku.ijk.media:ijkplayer-arm64
+3	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-x86_64
+5	#DEP#tv.danmaku.ijk.media:ijkplayer-x86
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit

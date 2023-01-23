@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#aspectj:aspectjweaver
+1	#DEP#junit:junit

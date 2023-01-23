@@ -1,0 +1,17 @@
+1	git://github.com/cwjfeifei/AndroidFileManage.git
+2	#DEP#com.github.hotchemi:permissionsdispatcher
+3	#DEP#com.tapadoo.android:alerter
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#org.greenrobot:eventbus
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.readystatesoftware.systembartint:systembartint
+10	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+11	#DEP#com.github.bumptech.glide:glide
+12	#DEP#org.greenrobot:greendao
+13	#DEP#com.android.support:support-v4
+14	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+15	#DEP#io.reactivex:rxjava
+16	#DEP#com.github.chrisbanes:PhotoView
+17	#DEP#io.reactivex:rxandroid

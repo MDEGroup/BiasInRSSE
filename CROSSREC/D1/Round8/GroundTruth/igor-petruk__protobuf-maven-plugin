@@ -1,0 +1,2 @@
+11	#DEP#org.apache.maven:maven-core
+12	#DEP#org.apache.maven.shared:maven-dependency-tree

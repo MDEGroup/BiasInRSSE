@@ -1,0 +1,6 @@
+25	#DEP#commons-logging:commons-logging-api
+26	#DEP#net.liftweb:lift-json_${scala.base-version}
+27	#DEP#javax.servlet:javax.servlet-api
+28	#DEP#log4j:log4j
+29	#DEP#org.scala-lang:scala-library
+30	#DEP#junit:junit

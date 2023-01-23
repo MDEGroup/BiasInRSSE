@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.seam.config:seam-config-xml
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#org.apache.wicket:wicket
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit

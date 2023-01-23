@@ -1,0 +1,10 @@
+1	#DEP#org.alfresco:alfresco-core
+1	#DEP#org.alfresco:alfresco-repository
+1	#DEP#acegisecurity:acegi-security
+1	#DEP#org.alfresco:alfresco-mbeans
+1	#DEP#org.alfresco:alfresco-web-client
+1	#DEP#javaee:javaee-api
+1	#DEP#junit:junit
+1	#DEP#org.mortbay.jetty:jetty-servlet-tester
+1	#DEP#org.alfresco:alfresco-web-framework
+1	#DEP#org.alfresco:alfresco-webscript-framework

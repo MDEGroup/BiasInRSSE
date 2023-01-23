@@ -1,0 +1,4 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.cloud:spring-cloud-stream-test-support-internal
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

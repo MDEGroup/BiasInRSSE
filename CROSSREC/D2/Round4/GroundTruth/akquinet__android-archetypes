@@ -1,0 +1,5 @@
+1	#DEP#com.google.android:android-test
+1	#DEP#${groupId}:${rootArtifactId}
+1	#DEP#de.akquinet.android.archetypes:android-archetype-project
+1	#DEP#net.jarlehansen.android.gcm:gcm-client-utils
+1	#DEP#junit:junit

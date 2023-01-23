@@ -1,0 +1,12 @@
+1	git://github.com/emfjson/emfjson-jackson.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.eclipse.emf:org.eclipse.emf.common
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.eclipse.emf:org.eclipse.emf.ecore
+7	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+8	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xcore.lib
+9	#DEP#org.eclipse.xtext:org.eclipse.xtext.xbase.lib
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#junit:junit
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

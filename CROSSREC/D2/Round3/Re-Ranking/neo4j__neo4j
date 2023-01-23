@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.sun.jersey:jersey-client	1.0
+#DEP#org.neo4j:server-api	1.0
+#DEP#org.neo4j:neo4j-shell	1.0
+#DEP#com.sun.jersey:jersey-server	1.0
+#DEP#org.neo4j:neo4j-graph-algo	1.0
+#DEP#org.neo4j:neo4j-common	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.neo4j:neo4j-jmx	1.0
+#DEP#org.neo4j:neo4j-backup	1.0

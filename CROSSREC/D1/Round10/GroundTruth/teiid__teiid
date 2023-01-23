@@ -1,0 +1,12 @@
+52	#DEP#com.amazonaws:aws-java-sdk-simpledb
+53	#DEP#org.teiid.connectors:translator-excel
+54	#DEP#com.fasterxml.jackson.core:jackson-databind
+55	#DEP#org.fusesource.jansi:jansi
+56	#DEP#org.apache.accumulo:accumulo-core
+57	#DEP#org.teiid:teiid-common-core
+58	#DEP#org.teiid.connectors.sandbox:connector-coherence
+59	#DEP#com.fasterxml.jackson.core:jackson-core
+60	#DEP#org.teiid:teiid-jboss-admin
+61	#DEP#org.teiid:teiid-metadata
+62	#DEP#com.amazonaws:aws-java-sdk-core
+63	#DEP#com.couchbase.client:java-client

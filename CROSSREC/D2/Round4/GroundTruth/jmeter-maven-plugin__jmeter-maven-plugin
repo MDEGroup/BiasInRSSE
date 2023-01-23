@@ -1,0 +1,10 @@
+1	#DEP#net.bytebuddy:byte-buddy
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.apache.jmeter:ApacheJMeter_java
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.jmeter:ApacheJMeter_core
+1	#DEP#junit:junit
+1	#DEP#org.hamcrest:java-hamcrest
+1	#DEP#org.eclipse.aether:aether-api

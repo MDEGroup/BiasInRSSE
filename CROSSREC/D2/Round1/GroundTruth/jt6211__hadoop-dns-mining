@@ -1,0 +1,6 @@
+1	#DEP#com.maxmind:geo-ip
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.accumulo:accumulo-core
+1	#DEP#dnsjava:dnsjava
+1	#DEP#junit:junit
+1	#DEP#org.apache.thrift:libthrift

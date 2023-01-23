@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#xerces:xercesImpl	1.0
+#DEP#apache-oro:jakarta-oro	1.0
+#DEP#com.hp.hpl.jena:tdb	1.0
+#DEP#com.hp.hpl.jena:sdb	1.0
+#DEP#org.joseki:joseki	1.0

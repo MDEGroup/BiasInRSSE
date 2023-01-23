@@ -1,0 +1,10 @@
+#DEP#org.jboss.forge:forge-test-harness	1.0
+#DEP#org.jboss.forge:forge-javaee-api	1.0
+#DEP#org.jboss.forge:forge-javaee-impl	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#junit:junit	1.0
+#DEP#com.pokebattler:pogoprotos	1.0
+#DEP#com.ocpsoft:ocpsoft-parent	1.0
+#DEP#com.mite8:mite-bigdata	1.0
+#DEP#org.webjars:d3-plugins	1.0
+#DEP#org.jboss.forge:forge-scaffold-api	1.0

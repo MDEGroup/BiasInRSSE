@@ -1,0 +1,6 @@
+1	#DEP#org.jgroups:jgroups
+1	#DEP#org.slf4j:slf4j-ext
+1	#DEP#com.google.guava:guava
+1	#DEP#org.projectlombok:lombok
+1	#DEP#io.swagger:swagger-annotations
+1	#DEP#junit:junit

@@ -1,0 +1,4 @@
+17	#DEP#org.italiangrid:voms-api-java
+18	#DEP#eu.eu-emi.security:canl
+19	#DEP#axis:axis
+20	#DEP#axis:axis-jaxrpc

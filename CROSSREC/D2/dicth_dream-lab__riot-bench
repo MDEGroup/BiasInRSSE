@@ -1,0 +1,16 @@
+1	git://github.com/dream-lab/riot-bench.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#com.opencsv:opencsv
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#org.apache.storm:storm-core
+6	#DEP#in.dream_lab.bm.stream_iot:iot-bm-tasks
+7	#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3
+8	#DEP#joda-time:joda-time
+9	#DEP#nz.ac.waikato.cms.weka:weka-stable
+10	#DEP#org.knowm.xchart:xchart-demo
+11	#DEP#in.dream_lab.bm.stream_iot:iot-bm
+12	#DEP#in.dream_lab.bm.stream_iot:iot-bm-storm
+13	#DEP#com.google.guava:guava
+14	#DEP#org.knowm.xchart:xchart
+15	#DEP#junit:junit
+16	#DEP#com.microsoft.azure:azure-storage

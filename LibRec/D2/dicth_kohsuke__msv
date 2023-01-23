@@ -1,0 +1,14 @@
+1	git://github.com/kohsuke/msv.git
+2	#DEP#isorelax:isorelax
+3	#DEP#com.sun.msv.datatype.xsd:xsdlib
+4	#DEP#net.java.dev.msv:msv-core
+5	#DEP#xml-resolver:xml-resolver
+6	#DEP#org.apache.ant:ant
+7	#DEP#org.jdom:jdom2
+8	#DEP#org.sonatype.oss:oss-parent
+9	#DEP#net.java.dev.msv:msv-testharness
+10	#DEP#relaxngDatatype:relaxngDatatype
+11	#DEP#crimson:crimson
+12	#DEP#xerces:xercesImpl
+13	#DEP#net.java.dev.msv:msv
+14	#DEP#junit:junit

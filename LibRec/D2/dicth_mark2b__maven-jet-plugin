@@ -1,0 +1,14 @@
+1	git://github.com/mark2b/maven-jet-plugin.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+5	#DEP#org.codehaus.plexus:plexus-compiler-api
+6	#DEP#org.apache.maven:maven-project
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.codehaus.plexus:plexus-utils
+10	#DEP#com.tikal:tikal-suites-parent
+11	#DEP#org.codehaus.groovy:groovy
+12	#DEP#org.antlr:antlr-runtime
+13	#DEP#junit:junit
+14	#DEP#org.antlr:antlr

@@ -1,0 +1,16 @@
+1	git://github.com/jenkinsci/cloudbees-deployer-plugin.git
+2	#DEP#com.cloudbees:cloudbees-api-client-nodeps
+3	#DEP#org.jenkins-ci.plugins:promoted-builds
+4	#DEP#com.cloudbees.jenkins.plugins:cloudbees-credentials
+5	#DEP#commons-lang:commons-lang
+6	#DEP#commons-codec:commons-codec
+7	#DEP#org.jenkins-ci.plugins:javadoc
+8	#DEP#org.jenkins-ci.plugins:deployer-framework
+9	#DEP#org.jenkins-ci.plugins:token-macro
+10	#DEP#org.jvnet.hudson:xstream
+11	#DEP#org.jenkins-ci.plugins:plugin
+12	#DEP#org.jenkins-ci.plugins:deployed-on-column
+13	#DEP#com.cloudbees.jenkins.plugins:cloudbees-registration
+14	#DEP#org.jenkins-ci.main:maven-plugin
+15	#DEP#junit:junit
+16	#DEP#com.ibm.icu:icu4j

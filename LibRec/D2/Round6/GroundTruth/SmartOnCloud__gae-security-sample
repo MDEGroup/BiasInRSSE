@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#com.google.appengine:appengine-testing
+1	#DEP#cglib:cglib
+1	#DEP#org.slf4j:slf4j-jdk14

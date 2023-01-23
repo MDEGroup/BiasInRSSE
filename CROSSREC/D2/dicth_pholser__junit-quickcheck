@@ -1,0 +1,16 @@
+1	git://github.com/pholser/junit-quickcheck.git
+2	#DEP#ru.vyarus:generics-resolver
+3	#DEP#com.pholser:junit-quickcheck-generators
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#com.google.guava:guava-testlib
+10	#DEP#org.javaruntype:javaruntype
+11	#DEP#com.pholser:junit-quickcheck
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#ognl:ognl
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit
+16	#DEP#com.pholser:junit-quickcheck-core

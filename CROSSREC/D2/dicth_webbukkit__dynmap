@@ -1,0 +1,10 @@
+1	git://github.com/webbukkit/dynmap.git
+2	#DEP#com.nijikokun.bukkit:Permissions
+3	#DEP#org.bukkit:bukkit
+4	#DEP#com.platymuus.bukkit.permissions:PermissionsBukkit
+5	#DEP#us.dynmap:DynmapCore
+6	#DEP#us.dynmap:dynmap-api
+7	#DEP#de.bananaco:bPermissions
+8	#DEP#ru.tehkode:PermissionsEx
+9	#DEP#org.bstats:bstats-bukkit
+10	#DEP#org.anjocaido:EssentialsGroupManager

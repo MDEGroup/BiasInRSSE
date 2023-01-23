@@ -1,0 +1,4 @@
+18	#DEP#junit:junit
+19	#DEP#org.matheclipse:matheclipse
+20	#DEP#org.hipparchus:hipparchus-stat
+21	#DEP#org.antlr:antlr4-runtime

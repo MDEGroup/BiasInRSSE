@@ -1,0 +1,4 @@
+17	#DEP#org.antlr:antlr
+18	#DEP#org.antlr:antlr4-maven-plugin
+19	#DEP#org.btrplace:btrpsl
+20	#DEP#org.antlr:antlr4-runtime

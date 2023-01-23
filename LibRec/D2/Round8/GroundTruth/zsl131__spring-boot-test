@@ -1,0 +1,6 @@
+1	#DEP#org.apache.poi:poi-scratchpad
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.apache.poi:poi
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.springframework.boot:spring-boot-starter-web

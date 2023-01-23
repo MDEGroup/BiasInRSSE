@@ -1,0 +1,6 @@
+26	#DEP#com.rometools:rome-opml
+27	#DEP#com.rometools:rome-utils
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#javax.servlet:servlet-api
+30	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+31	#DEP#junit:junit

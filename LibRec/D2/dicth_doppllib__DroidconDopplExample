@@ -1,0 +1,9 @@
+1	git://github.com/doppllib/DroidconDopplExample.git
+2	#DEP#com.squareup.picasso:picasso
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#org.robolectric:robolectric
+5	#DEP#de.hdodenhof:circleimageview
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#com.viewpagerindicator:library
+8	#DEP#com.google.firebase:firebase-messaging
+9	#DEP#com.squareup.okhttp:okhttp-urlconnection

@@ -1,0 +1,16 @@
+1	#DEP#com.threerings:narya
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#com.samskivert:samskivert
+1	#DEP#com.threerings:nenya
+1	#DEP#${project.groupId}:gardens-api
+1	#DEP#com.samskivert:depot
+1	#DEP#com.google.inject:guice
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#com.threerings:vilya
+1	#DEP#com.threerings:getdown
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.apache.velocity:velocity-ooo
+1	#DEP#commons-digester:commons-digester
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#${project.groupId}:gardens-core

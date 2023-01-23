@@ -1,0 +1,12 @@
+1	git://github.com/nschlimm/spring-interceptor.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework:spring-aop
+5	#DEP#org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec
+6	#DEP#org.springframework:spring-test
+7	#DEP#org.springframework:spring-webmvc
+8	#DEP#org.easymock:easymock
+9	#DEP#javax.servlet:servlet-api
+10	#DEP#junit:junit
+11	#DEP#org.aspectj:aspectjtools
+12	#DEP#cglib:cglib

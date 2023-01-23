@@ -1,0 +1,6 @@
+1	#DEP#com.github.campusappcn.AndRouter:router
+1	#DEP#com.snail:compiler
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

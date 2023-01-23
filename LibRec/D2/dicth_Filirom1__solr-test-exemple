@@ -1,0 +1,9 @@
+1	git://github.com/Filirom1/solr-test-exemple.git
+2	#DEP#org.apache.solr:solr-core
+3	#DEP#org.apache.solr:solr-cell
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.codehaus.groovy:groovy-all
+8	#DEP#junit:junit
+9	#DEP#org.apache.solr:solr-solrj

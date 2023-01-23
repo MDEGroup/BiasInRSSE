@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.android.support.constraint:constraint-layout	1.0
+#DEP#com.squareup.picasso:picasso	1.0
+#DEP#com.android.support.test.espresso:espresso-core	1.0
+#DEP#com.bartoszlipinski:viewpropertyobjectanimator	1.0
+#DEP#com.github.fabioCollini:twowaydatabinding	1.0

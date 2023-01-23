@@ -1,0 +1,4 @@
+19	#DEP#log4j:log4j
+20	#DEP#com.force.api:force-wsc
+21	#DEP#junit:junit
+22	#DEP#com.h2database:h2

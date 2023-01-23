@@ -1,0 +1,13 @@
+1	git://github.com/chi6rag/Bolt.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.google.android.gms:play-services-location
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.jakewharton:butterknife-compiler
+8	#DEP#com.google.android.gms:play-services-maps
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design
+11	#DEP#com.google.firebase:firebase-core
+12	#DEP#com.google.dagger:dagger
+13	#DEP#com.google.dagger:dagger-compiler

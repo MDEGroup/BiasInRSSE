@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design
+1	#DEP#com.google.zxing:core
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader

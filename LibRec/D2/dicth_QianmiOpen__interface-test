@@ -1,0 +1,12 @@
+1	git://github.com/QianmiOpen/interface-test.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#org.springframework.boot:spring-boot-starter-test
+4	#DEP#org.springframework:spring-context-support
+5	#DEP#org.apache.httpcomponents:httpclient-cache
+6	#DEP#com.jayway.jsonpath:json-path
+7	#DEP#org.springframework.boot:spring-boot-starter
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.projectlombok:lombok
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#org.freemarker:freemarker
+12	#DEP#org.springframework.boot:spring-boot-configuration-processor

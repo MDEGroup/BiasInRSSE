@@ -1,0 +1,10 @@
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-settings
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.sonatype.aether:aether-util
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.aether:aether-api
+1	#DEP#org.apache.maven:maven-settings-builder

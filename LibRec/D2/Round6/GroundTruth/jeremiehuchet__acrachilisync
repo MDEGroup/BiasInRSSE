@@ -1,0 +1,7 @@
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#javax.mail:mail
+1	#DEP#commons-collections:commons-collections
+1	#DEP#fr.dudie:dudie-parent
+1	#DEP#junit:junit
+1	#DEP#com.google.gdata:gdata-docs-3.0
+1	#DEP#fr.dudie:acrachilisync

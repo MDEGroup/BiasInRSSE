@@ -1,0 +1,6 @@
+1	#DEP#com.google.collections:google-collections
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

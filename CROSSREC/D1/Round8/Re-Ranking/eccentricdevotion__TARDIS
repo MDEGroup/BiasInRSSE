@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-all	1.0
+#DEP#net.milkbowl.vault:VaultAPI	1.0
+#DEP#be.maximvdw:MVdWPlaceholderAPI	1.0
+#DEP#com.github.rlf:uSkyBlock-API	1.0
+#DEP#com.boydti:fawe-api	1.0
+#DEP#uSkyBlock:uSkyBlock-AWE211	1.0
+#DEP#uSkyBlock:uSkyBlock-AWE311	1.0
+#DEP#uSkyBlock:uSkyBlock-AWE330	1.0
+#DEP#com.connorlinfoot.actionbarapi:ActionBarAPI	1.0
+#DEP#uSkyBlock:uSkyBlock-FAWE	1.0

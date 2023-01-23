@@ -1,0 +1,3 @@
+13	#DEP#com.zaxxer:HikariCP
+14	#DEP#org.projectlombok:lombok
+15	#DEP#junit:junit

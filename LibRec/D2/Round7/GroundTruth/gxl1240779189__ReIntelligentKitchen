@@ -1,0 +1,7 @@
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.michaelpardo:activeandroid
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

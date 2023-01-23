@@ -1,0 +1,9 @@
+1	git://github.com/ktoso/jgoogl.git
+2	#DEP#org.easytesting:fest-assert
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.ning:async-http-client
+5	#DEP#com.google.guava:guava
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#joda-time:joda-time

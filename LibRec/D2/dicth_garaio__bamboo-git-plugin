@@ -1,0 +1,9 @@
+1	git://github.com/garaio/bamboo-git-plugin.git
+2	#DEP#com.atlassian.bamboo:atlassian-bamboo-core
+3	#DEP#com.atlassian.bamboo:atlassian-bamboo-api
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.atlassian.bamboo:atlassian-bamboo-web
+6	#DEP#org.testng:testng
+7	#DEP#org.eclipse.jetty:jetty-server
+8	#DEP#com.atlassian.testtools:atlassian-testtools
+9	#DEP#org.eclipse.jgit:org.eclipse.jgit

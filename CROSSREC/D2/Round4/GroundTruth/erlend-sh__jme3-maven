@@ -1,0 +1,8 @@
+1	#DEP#com.jme3:oggd
+1	#DEP#com.jme3:stack-alloc
+1	#DEP#com.jme3:vecmath
+1	#DEP#com.jme3:jmonkeyengine3
+1	#DEP#com.jme3:lwjgl-natives
+1	#DEP#com.jme3:jbullet
+1	#DEP#com.jme3:lwjgl
+1	#DEP#junit:junit

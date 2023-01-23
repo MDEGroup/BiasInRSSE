@@ -1,0 +1,16 @@
+1	git://github.com/oidwuhaihua/reb-rpc.git
+2	#DEP#org.springframework:org.springframework.web.servlet
+3	#DEP#org.springframework:org.springframework.asm
+4	#DEP#org.springframework:org.springframework.expression
+5	#DEP#local.libs:com.springsource.org.apache.log4j
+6	#DEP#io.netty:netty
+7	#DEP#dom4j:dom4j
+8	#DEP#org.springframework:org.springframework.web.portlet
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.springframework:org.springframework.beans
+11	#DEP#org.springframework:org.springframework.core
+12	#DEP#org.slf4j:jcl-over-slf4j
+13	#DEP#org.springframework:org.springframework.context.support
+14	#DEP#ch.qos.logback:logback-core
+15	#DEP#ch.qos.logback:logback-classic
+16	#DEP#org.springframework:org.springframework.context

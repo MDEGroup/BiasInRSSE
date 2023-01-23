@@ -1,0 +1,16 @@
+68	#DEP#org.jboss.solder:solder-impl
+69	#DEP#org.jboss.ejb3:jboss-ejb3-ext-api
+70	#DEP#org.reflections:reflections
+71	#DEP#org.hibernate:hibernate-core
+72	#DEP#javax.mail:mail
+73	#DEP#com.amazonaws:aws-java-sdk
+74	#DEP#org.eclipse.jetty:jetty-server
+75	#DEP#com.google.code.typica:typica
+76	#DEP#org.hibernate:hibernate-validator
+77	#DEP#com.softwaremill.common:softwaremill-test-arquillian
+78	#DEP#org.codehaus.jackson:jackson-core-asl
+79	#DEP#org.hibernate:hibernate-testing
+80	#DEP#org.slf4j:slf4j-log4j12
+81	#DEP#net.java.dev.jets3t:jets3t
+82	#DEP#org.mockito:mockito-core
+83	#DEP#org.eclipse.jetty:jetty-util

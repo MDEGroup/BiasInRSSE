@@ -1,0 +1,10 @@
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#junit:junit	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#oauth.signpost:signpost-commonshttp4	1.0
+#DEP#eu.codearte.catch-exception:catch-exception	1.0

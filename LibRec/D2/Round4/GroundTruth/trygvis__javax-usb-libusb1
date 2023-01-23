@@ -1,0 +1,4 @@
+1	#DEP#io.trygvis.usb:javax-usb-libusb1
+1	#DEP#junit:junit
+1	#DEP#io.trygvis.usb:javax.usb-extra
+1	#DEP#io.trygvis.usb:libusb

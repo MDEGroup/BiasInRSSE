@@ -1,0 +1,12 @@
+1	git://github.com/tisoft/xmlvm-maven-plugin.git
+2	#DEP#org.xmlvm.dep:xmlvm-onejar
+3	#DEP#org.xmlvm.dep:saxon-jdom
+4	#DEP#org.xmlvm.dep:saxon
+5	#DEP#org.apache.maven.shared:maven-verifier
+6	#DEP#com.google.android:android
+7	#DEP#jdom:jdom
+8	#DEP#xerces:xercesImpl
+9	#DEP#org.xmlvm:xmlvm-main
+10	#DEP#junit:junit
+11	#DEP#org.xmlvm.dep:android-dx
+12	#DEP#org.apache.maven:maven-plugin-api

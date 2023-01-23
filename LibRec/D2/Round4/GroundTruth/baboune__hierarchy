@@ -1,0 +1,4 @@
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.apache.openjpa:openjpa-persistence
+1	#DEP#junit:junit
+1	#DEP#javax.ejb:ejb-api

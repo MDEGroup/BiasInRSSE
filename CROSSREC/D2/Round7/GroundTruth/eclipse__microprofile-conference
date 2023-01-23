@@ -1,0 +1,16 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.wildfly.swarm:microprofile
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#javax.annotation:javax.annotation-api
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.codehaus.swizzle:swizzle-stream
+1	#DEP#com.google.code.bean-matchers:bean-matchers
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.arquillian.container:arquillian-glassfish-embedded-3.1
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.jboss.resteasy:resteasy-client
+1	#DEP#org.apache.tomee:tomee-jaxrs
+1	#DEP#org.apache.tomee:arquillian-tomee-embedded
+1	#DEP#junit:junit

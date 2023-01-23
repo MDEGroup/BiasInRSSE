@@ -1,0 +1,10 @@
+1	git://github.com/Jerady/fontawesomefx-examples.git
+2	#DEP#de.jensd:fontawesomefx-fontawesome
+3	#DEP#org.controlsfx:controlsfx
+4	#DEP#de.jensd:fontawesomefx-emojione
+5	#DEP#de.jensd:fontawesomefx-materialicons
+6	#DEP#de.jensd:fontawesomefx-controls
+7	#DEP#de.jensd:fontawesomefx-octicons
+8	#DEP#de.jensd:fontawesomefx-weathericons
+9	#DEP#de.jensd:fontawesomefx-icons525
+10	#DEP#de.jensd:fontawesomefx-materialdesignfont

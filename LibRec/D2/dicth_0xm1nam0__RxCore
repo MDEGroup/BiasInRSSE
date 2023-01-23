@@ -1,0 +1,12 @@
+1	git://github.com/0xm1nam0/RxCore.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.squareup.okhttp3:logging-interceptor
+6	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+7	#DEP#me.drakeet.multitype:multitype
+8	#DEP#in.srain.cube:ultra-ptr
+9	#DEP#com.tencent.bugly:crashreport
+10	#DEP#com.github.chrisbanes.photoview:library
+11	#DEP#com.android.support.constraint:constraint-layout
+12	#DEP#junit:junit

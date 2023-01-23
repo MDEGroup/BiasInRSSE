@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.mule:assembly-with-mule-app	1.0
+#DEP#org.kohsuke.stapler:maven-stapler-plugin	1.0
+#DEP#org.mule:mule-app	1.0
+#DEP#org.mod4j.org.eclipse.xtext:log4j	1.0

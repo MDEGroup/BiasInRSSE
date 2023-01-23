@@ -1,0 +1,2 @@
+10	#DEP#org.bouncycastle:bcprov-jdk15on
+11	#DEP#org.slf4j:slf4j-api

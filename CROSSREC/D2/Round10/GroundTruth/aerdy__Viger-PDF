@@ -1,0 +1,6 @@
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.eftimoff:android-viewpager-transformers
+1	#DEP#junit:junit
+1	#DEP#com.nbsp:library
+1	#DEP#com.squareup.retrofit2:converter-gson

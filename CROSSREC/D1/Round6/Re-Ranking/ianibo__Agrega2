@@ -1,0 +1,10 @@
+#DEP#commons-logging:commons-logging	1.0
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#struts:struts	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#hsqldb:hsqldb	1.0
+#DEP#org.roller:rollerweb	1.0
+#DEP#com.octo.captcha:jcaptcha-common-test	1.0
+#DEP#net.sourceforge:groboutils	1.0
+#DEP#com.octo.captcha:jcaptcha-integration-struts	1.0

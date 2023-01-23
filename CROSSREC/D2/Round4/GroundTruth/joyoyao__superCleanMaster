@@ -1,0 +1,5 @@
+1	#DEP#com.github.gabrielemariotti.changeloglib:library
+1	#DEP#com.github.castorflex.smoothprogressbar:library-circular
+1	#DEP#com.nhaarman.listviewanimations:lib-manipulation
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.jakewharton:butterknife

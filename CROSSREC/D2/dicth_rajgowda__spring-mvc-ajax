@@ -1,0 +1,16 @@
+1	git://github.com/rajgowda/spring-mvc-ajax.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#javax.validation:validation-api
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.codehaus.jackson:jackson-mapper-asl
+7	#DEP#joda-time:joda-time
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#javax.servlet.jsp:jsp-api
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.springframework:spring-test
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#log4j:log4j
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#javax.servlet:jstl
+16	#DEP#junit:junit

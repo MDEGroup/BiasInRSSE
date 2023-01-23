@@ -1,0 +1,4 @@
+1	#DEP#info.somethingodd.bukkit:OddItem
+1	#DEP#com.sk89q:worldguard
+1	#DEP#net.milkbowl:vault
+1	#DEP#com.nijikokun.bukkit:permissions

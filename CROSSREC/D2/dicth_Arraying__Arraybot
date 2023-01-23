@@ -1,0 +1,9 @@
+1	git://github.com/Arraying/Arraybot.git
+2	#DEP#net.dv8tion:JDA
+3	#DEP#commons-io:commons-io
+4	#DEP#org.jetbrains.kotlinx:kotlinx-coroutines-core
+5	#DEP#com.github.Arraying:Kotys
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#biz.paluch.redis:lettuce
+8	#DEP#com.github.Arraying:Zeus
+9	#DEP#commons-lang:commons-lang

@@ -1,0 +1,11 @@
+1	git://github.com/superfell/JenkinsChatterPlugin.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.sun.jersey:jersey-json
+4	#DEP#commons-io:commons-io
+5	#DEP#org.jenkins-ci.plugins:junit
+6	#DEP#org.jenkins-ci.plugins:plugin
+7	#DEP#com.sun.jersey:jersey-core
+8	#DEP#org.jenkins-ci.plugins:credentials
+9	#DEP#com.sun.jersey:jersey-client
+10	#DEP#commons-httpclient:commons-httpclient
+11	#DEP#org.codehaus.jackson:jackson-mapper-asl

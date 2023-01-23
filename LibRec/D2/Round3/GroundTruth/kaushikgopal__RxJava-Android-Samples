@@ -1,0 +1,7 @@
+1	#DEP#com.mcxiaoke.volley:library
+1	#DEP#com.jakewharton.rx:replaying-share-kotlin
+1	#DEP#com.jakewharton.rxrelay2:rxrelay
+1	#DEP#com.android.support:multidex
+1	#DEP#com.jakewharton.rxbinding2:rxbinding
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#com.github.kaushikgopal:CoreTextUtils

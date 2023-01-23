@@ -1,0 +1,5 @@
+22	#DEP#org.apache.cassandra:cassandra-all
+23	#DEP#org.mockito:mockito-core
+24	#DEP#org.apache.cassandra.deps:avro
+25	#DEP#commons-collections:commons-collections
+26	#DEP#junit:junit

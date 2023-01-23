@@ -1,0 +1,11 @@
+1	git://github.com/Faceunity/FUQiniuDemoDroid.git
+2	#DEP#org.adw.library:discrete-seekbar
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.faceunity:nama
+7	#DEP#com.github.angads25:filepicker
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.journeyapps:zxing-android-embedded
+10	#DEP#com.google.zxing:core
+11	#DEP#com.qiniu:happy-dns

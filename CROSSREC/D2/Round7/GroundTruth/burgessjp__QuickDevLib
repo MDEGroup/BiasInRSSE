@@ -1,0 +1,9 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.jakewharton.rxbinding:rxbinding
+1	#DEP#me.drakeet.multitype:multitype
+1	#DEP#com.pnikosis:materialish-progress
+1	#DEP#com.github.Todd-Davies:ProgressWheel
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

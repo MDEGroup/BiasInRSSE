@@ -1,0 +1,14 @@
+1	git://github.com/magnusstahre/jsptf.git
+2	#DEP#com.pillartechnology:jsptf
+3	#DEP#org.apache.tiles:tiles-jsp
+4	#DEP#net.sourceforge.htmlunit:htmlunit
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.hamcrest:hamcrest-core
+8	#DEP#org.springframework:spring-web
+9	#DEP#com.pillartechnology:jsptf-parent
+10	#DEP#junit:junit-dep
+11	#DEP#org.springframework:spring-test
+12	#DEP#org.mockito:mockito-core
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#com.google.guava:guava

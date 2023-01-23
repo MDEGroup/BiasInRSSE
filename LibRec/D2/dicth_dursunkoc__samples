@@ -1,0 +1,16 @@
+1	git://github.com/dursunkoc/samples.git
+2	#DEP#org.javassist:javassist
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#org.apache.cxf:cxf-rt-frontend-jaxws
+5	#DEP#commons-logging:commons-logging
+6	#DEP#commons-dbcp:commons-dbcp
+7	#DEP#org.springframework:spring-orm
+8	#DEP#org.apache.cxf:cxf-rt-transports-http
+9	#DEP#org.springframework:spring-core
+10	#DEP#org.springframework:spring-web
+11	#DEP#org.springframework:spring-mock
+12	#DEP#org.hibernate:hibernate-core
+13	#DEP#com.aric.samples:samples
+14	#DEP#org.springframework:spring-test
+15	#DEP#junit:junit
+16	#DEP#cglib:cglib

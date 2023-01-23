@@ -1,0 +1,11 @@
+1	#DEP#com.github.ben-manes.caffeine:caffeine
+1	#DEP#ninja.leaping.configurate:configurate-yaml
+1	#DEP#ninja.leaping.configurate:configurate-hocon
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.gnu.gettext:libintl
+1	#DEP#junit:junit
+1	#DEP#net.milkbowl.vault:VaultAPI
+1	#DEP#com.h2database:h2
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#org.antlr:antlr4-runtime

@@ -1,0 +1,15 @@
+1	git://github.com/jjdxmashl/jjdxm_ijkplayer.git
+2	#DEP#com.squareup.retrofit2:converter-scalars
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.dou361.ijkplayer-armv5:jjdxm-ijkplayer-armv5
+5	#DEP#com.alibaba:fastjson
+6	#DEP#com.dou361.ijkplayer-x86:jjdxm-ijkplayer-x86
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.dou361.ijkplayer-arm64:jjdxm-ijkplayer-arm64
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+13	#DEP#com.dou361.ijkplayer-armv7a:jjdxm-ijkplayer-armv7a
+14	#DEP#com.dou361.ijkplayer-x86_64:jjdxm-ijkplayer-x86_64
+15	#DEP#junit:junit

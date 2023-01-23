@@ -1,0 +1,9 @@
+1	git://github.com/fozziethebeat/S-Space.git
+2	#DEP#org.apache.lucene:lucene-core
+3	#DEP#${project.groupId}:sspace
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#edu.ucla.sspace:sspace
+6	#DEP#org.apache.hadoop:hadoop-core
+7	#DEP#net.sf.trove4j:trove4j
+8	#DEP#jaws:jaws
+9	#DEP#junit:junit

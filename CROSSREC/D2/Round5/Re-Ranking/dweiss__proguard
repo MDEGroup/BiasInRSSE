@@ -1,0 +1,10 @@
+#DEP#org.gradle:gradle-core	1.0
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.groovy:groovy-all	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.infinitest:continuous-testing-toolkit	1.0
+#DEP#com.google.protobuf.compatibility:compatibility-test-suite	1.0
+#DEP#com.google.protobuf.compatibility:compatibility-more-protos	1.0
+#DEP#${project.groupId}:protobuf-java	1.0
+#DEP#com.google.protobuf:protobuf-parent	1.0
+#DEP#com.google.protobuf.compatibility:compatibility-protos	1.0

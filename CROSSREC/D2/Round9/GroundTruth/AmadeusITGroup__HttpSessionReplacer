@@ -1,0 +1,13 @@
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#com.amadeus:session
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-bom
+1	#DEP#org.jacoco:org.jacoco.core
+1	#DEP#org.jacoco:org.jacoco.agent
+1	#DEP#org.jboss.arquillian.extension:arquillian-jacoco
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.amadeus:session-replacement
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#log4j:log4j
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#junit:junit
+1	#DEP#com.amadeus:session-agent

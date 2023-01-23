@@ -1,0 +1,4 @@
+17	#DEP#org.apache.xmlgraphics:fop
+18	#DEP#com.sun.xml.bind:jaxb-impl
+19	#DEP#org.apache.tomcat:servlet-api
+20	#DEP#junit:junit

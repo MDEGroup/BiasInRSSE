@@ -1,0 +1,7 @@
+30	#DEP#org.eclipse.jetty:jetty-servlets
+31	#DEP#log4j:log4j
+32	#DEP#com.graphhopper:graphhopper-core
+33	#DEP#org.mapsforge:vtm-android
+34	#DEP#com.graphhopper:graphhopper-reader-osm
+35	#DEP#org.apache.xmlgraphics:xmlgraphics-commons
+36	#DEP#junit:junit

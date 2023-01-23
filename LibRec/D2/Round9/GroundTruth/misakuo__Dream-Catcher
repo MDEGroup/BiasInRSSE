@@ -1,0 +1,11 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.android.support:design
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#dnsjava:dnsjava
+1	#DEP#com.android.support:multidex
+1	#DEP#com.google.guava:guava
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#com.github.dmytrodanylyk:android-morphing-button
+1	#DEP#junit:junit

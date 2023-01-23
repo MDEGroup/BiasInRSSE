@@ -1,0 +1,4 @@
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.jboss.test:jboss-test
+1	#DEP#org.jboss.vfs:web_pkg_scope_web
+1	#DEP#junit:junit

@@ -1,0 +1,10 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.neo4j:neo4j-ogm-bolt-driver
+1	#DEP#org.mapstruct:mapstruct-jdk8
+1	#DEP#org.webjars:sockjs-client
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.webjars:jquery
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

@@ -1,0 +1,5 @@
+20	#DEP#com.google.guava:guava
+21	#DEP#org.jmock:jmock-legacy
+22	#DEP#junit:junit
+23	#DEP#org.jetlang:jetlang
+24	#DEP#c5db:c5-replicator-api

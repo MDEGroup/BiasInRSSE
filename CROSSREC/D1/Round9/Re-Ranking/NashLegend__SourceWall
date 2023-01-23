@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support.test:rules	1.0
+#DEP#com.android.support.test:runner	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:support-annotations	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.robolectric:shadows-httpclient	1.0
+#DEP#com.bugsnag:bugsnag-android	1.0
+#DEP#com.azimolabs.conditionwatcher:conditionwatcher	1.0

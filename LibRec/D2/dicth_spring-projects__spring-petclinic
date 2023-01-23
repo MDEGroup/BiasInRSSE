@@ -1,0 +1,17 @@
+1	git://github.com/spring-projects/spring-petclinic.git
+2	#DEP#org.springframework.boot:spring-boot-starter-cache
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#org.webjars:jquery-ui
+5	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#javax.cache:cache-api
+8	#DEP#org.webjars:webjars-locator
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.webjars:bootstrap
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+13	#DEP#org.webjars:jquery
+14	#DEP#org.springframework.boot:spring-boot-devtools
+15	#DEP#org.springframework.boot:spring-boot-starter-actuator
+16	#DEP#org.hsqldb:hsqldb
+17	#DEP#org.ehcache:ehcache

@@ -1,0 +1,9 @@
+1	#DEP#org.apache.flink:flink-hbase_2.11
+1	#DEP#org.apache.tinkerpop:gremlin-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.giraph:giraph-core
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#com.google.cloud.bigtable:bigtable-hbase-1.2
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

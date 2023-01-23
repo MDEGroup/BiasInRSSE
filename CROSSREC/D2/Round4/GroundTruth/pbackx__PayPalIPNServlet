@@ -1,0 +1,6 @@
+1	#DEP#com.vaadin:vaadin-themes
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.transaction:jta
+1	#DEP#com.pow.paypal:pow-paypal-core
+1	#DEP#com.vaadin:vaadin-client-compiled
+1	#DEP#junit:junit

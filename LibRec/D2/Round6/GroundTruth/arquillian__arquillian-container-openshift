@@ -1,0 +1,13 @@
+1	#DEP#org.jboss.arquillian.testenricher:arquillian-testenricher-cdi
+1	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec
+1	#DEP#org.jboss.arquillian.testenricher:arquillian-testenricher-ejb
+1	#DEP#org.jboss.arquillian.container:arquillian-container-test-api
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#com.jcraft:jsch
+1	#DEP#org.jboss.arquillian.container:arquillian-parent-openshift
+1	#DEP#org.jboss.as:jboss-as-server
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#junit:junit

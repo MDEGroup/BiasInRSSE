@@ -1,0 +1,4 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit

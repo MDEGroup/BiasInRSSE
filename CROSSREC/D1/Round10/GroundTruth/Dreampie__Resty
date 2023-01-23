@@ -1,0 +1,6 @@
+26	#DEP#javax.servlet:servlet-api
+27	#DEP#org.webjars:jquery
+28	#DEP#org.eclipse.jetty:jetty-webapp
+29	#DEP#org.apache.commons:commons-email
+30	#DEP#cn.dreampie:resty-security
+31	#DEP#junit:junit

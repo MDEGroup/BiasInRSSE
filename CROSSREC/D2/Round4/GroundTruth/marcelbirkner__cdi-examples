@@ -1,0 +1,9 @@
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.jboss.arquillian.container:arquillian-weld-embedded
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+1	#DEP#org.jboss.arquillian:arquillian-testng
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian:arquillian-api
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.jboss.weld.servlet:weld-servlet

@@ -1,0 +1,11 @@
+1	#DEP#commons-vfs:commons-vfs
+1	#DEP#com.github.stephenc.java-iso-tools:sabre
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#com.github.stephenc.java-iso-tools:loop-fs-iso-impl
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit
+1	#DEP#org.apache.hadoop:hadoop-hdfs
+1	#DEP#com.github.stephenc.java-iso-tools:loop-fs-api
+1	#DEP#com.github.stephenc.java-iso-tools:iso9660-writer
+1	#DEP#com.github.stephenc.java-iso-tools:java-iso-tools-parent

@@ -1,0 +1,14 @@
+1	#DEP#org.jboss.test-audit:jboss-test-audit-impl
+1	#DEP#org.jboss.cdi.tck:cdi-tck-api
+1	#DEP#javax.transaction:jta
+1	#DEP#javax.annotation:javax.annotation-api
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.jboss.test-audit:jboss-test-audit-api
+1	#DEP#org.jboss.spec.javax.resource:jboss-connector-api_1.6_spec
+1	#DEP#org.jboss.arquillian.testng:arquillian-testng-container
+1	#DEP#org.jboss.resteasy:jaxrs-api
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#javax.xml.ws:jaxws-api
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.jboss.arquillian.container:container-se-api
+1	#DEP#org.jboss.arquillian:arquillian-bom

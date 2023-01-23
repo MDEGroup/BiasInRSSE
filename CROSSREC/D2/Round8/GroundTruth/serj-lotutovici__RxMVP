@@ -1,0 +1,8 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.serjltt.moshi:moshi-lazy-adapters
+1	#DEP#net.orfjackal.retrolambda:retrolambda
+1	#DEP#com.f2prateek.rx.preferences:rx-preferences
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#junit:junit
+1	#DEP#com.github.akarnokd:rxjava2-interop
+1	#DEP#com.squareup.okio:okio

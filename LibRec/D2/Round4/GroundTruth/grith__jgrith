@@ -1,0 +1,10 @@
+1	#DEP#external.jglobus:puretls
+1	#DEP#external.jglobus:cog-url
+1	#DEP#grisu:grid-jcommons
+1	#DEP#com.jgoodies:jgoodies-common
+1	#DEP#org.gmock:gmock
+1	#DEP#nz.org.nesi:nesi
+1	#DEP#external.jglobus:cog-jglobus
+1	#DEP#junit:junit
+1	#DEP#grith:gsindl
+1	#DEP#com.beust:jcommander

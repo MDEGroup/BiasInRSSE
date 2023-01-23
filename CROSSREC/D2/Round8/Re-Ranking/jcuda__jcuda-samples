@@ -1,0 +1,13 @@
+#DEP#com.github.nifty-gui:nifty-default-controls	1.0
+#DEP#de.javagl:jgltf-viewer-lwjgl	1.0
+#DEP#de.javagl:common-ui	1.0
+#DEP#de.jarnbjo:j-ogg-all	1.0
+#DEP#de.javagl:jgltf-validator	1.0
+#DEP#org.ejml:dense64	1.0
+#DEP#com.github.nifty-gui:nifty	1.0
+#DEP#com.github.nifty-gui:nifty-style-black	1.0
+#DEP#de.javagl:swing-tasks	1.0
+#DEP#org.ejml:core	1.0
+#DEP#com.nativelibs4java:jnaerator-runtime	1.0
+#DEP#lessvoid:nifty-examples	1.0
+#DEP#de.javagl:jgltf-obj	1.0

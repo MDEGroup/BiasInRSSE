@@ -1,0 +1,9 @@
+1	git://github.com/kohsuke/pgp-maven-plugin.git
+2	#DEP#org.codehaus.plexus:plexus-component-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#net.java.dev.jna:jna
+7	#DEP#junit:junit
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.bouncycastle:bcpg-jdk15

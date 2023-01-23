@@ -1,0 +1,3 @@
+13	#DEP#org.json:json
+14	#DEP#org.jacoco:org.jacoco.ant
+15	#DEP#commons-httpclient:commons-httpclient

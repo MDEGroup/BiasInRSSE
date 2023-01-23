@@ -1,0 +1,7 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.github.andimiller.higgs:transformer-defaults
+1	#DEP#joda-time:joda-time
+1	#DEP#com.github.andimiller.higgs:http-s3
+1	#DEP#com.github.andimiller.higgs:http-client
+1	#DEP#info.cukes:cucumber-java
+1	#DEP#junit:junit

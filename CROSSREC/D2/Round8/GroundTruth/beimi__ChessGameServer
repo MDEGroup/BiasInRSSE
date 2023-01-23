@@ -1,0 +1,12 @@
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#dom4j:dom4j
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.alibaba:druid
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#info.xiaomo:GameServer

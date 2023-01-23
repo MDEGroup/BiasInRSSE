@@ -1,0 +1,12 @@
+1	git://github.com/Emergya/opensc-testing.git
+2	#DEP#com.emergya.testing:selenium-test-core
+3	#DEP#log4j:log4j
+4	#DEP#org.testng:testng
+5	#DEP#net.jsunit:jsunit-testRunner
+6	#DEP#org.bouncycastle:bcprov-jdk16
+7	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+8	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-testng-helper
+9	#DEP#junit:junit
+10	#DEP#net.disy.htmlunit:htmlunit
+11	#DEP#commons-httpclient:commons-httpclient
+12	#DEP#net.sourceforge.collections:collections-generic

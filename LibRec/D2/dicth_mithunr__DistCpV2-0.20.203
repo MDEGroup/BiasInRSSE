@@ -1,0 +1,11 @@
+1	git://github.com/mithunr/DistCpV2-0.20.203.git
+2	#DEP#commons-configuration:commons-configuration
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#org.codehaus.jackson:jackson-core-asl
+6	#DEP#commons-logging:commons-logging
+7	#DEP#junit:junit
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#org.apache.hadoop:hadoop-test
+10	#DEP#org.aspectj:aspectjrt
+11	#DEP#org.aspectj:aspectjweaver

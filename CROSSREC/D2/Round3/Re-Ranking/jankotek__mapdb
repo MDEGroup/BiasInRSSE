@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jetbrains.kotlin:kotlin-test	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.junit.jupiter:junit-jupiter-engine	1.0
+#DEP#org.assertj:assertj-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.squareup.moshi:moshi-adapters	1.0

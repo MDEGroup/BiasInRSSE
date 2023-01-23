@@ -1,0 +1,13 @@
+1	git://github.com/junkdog/constexpr-java.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#org.ow2.asm:asm-tree
+4	#DEP#net.onedaybeard.constexpr:constexpr-api
+5	#DEP#net.onedaybeard.constexpr:constexpr-parent
+6	#DEP#org.sonatype.plexus:plexus-build-api
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#org.ow2.asm:asm
+9	#DEP#org.apache.maven:maven-core
+10	#DEP#org.ow2.asm:asm-analysis
+11	#DEP#junit:junit
+12	#DEP#${project.groupId}:constexpr-core
+13	#DEP#org.ow2.asm:asm-util

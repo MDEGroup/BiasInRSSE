@@ -1,0 +1,13 @@
+1	git://github.com/svlada/springboot-security-jwt.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.apache.commons:commons-lang3
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.springframework.boot:spring-boot-configuration-processor
+7	#DEP#org.springframework.boot:spring-boot-starter-security
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#io.jsonwebtoken:jjwt
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations
+11	#DEP#com.fasterxml.jackson.core:jackson-core
+12	#DEP#org.springframework.boot:spring-boot-starter-test
+13	#DEP#com.h2database:h2

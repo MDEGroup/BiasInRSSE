@@ -1,0 +1,12 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#skin.support:skin-support
+1	#DEP#org.robolectric:shadows-support-v4
+1	#DEP#com.github.traex.rippleeffect:library
+1	#DEP#com.github.bumptech.glide:compiler
+1	#DEP#com.airbnb.android:lottie
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.github.zyl409214686:CustomRangeSeekBar
+1	#DEP#junit:junit

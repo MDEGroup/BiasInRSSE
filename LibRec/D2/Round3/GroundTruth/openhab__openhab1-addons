@@ -1,0 +1,4 @@
+1	#DEP#org.osgi:osgi_R4_compendium
+1	#DEP#org.openhab.bundles:action
+1	#DEP#javax.json:javax.json-api
+1	#DEP#org.openhab.runtime.build:compiled-bundle-settings

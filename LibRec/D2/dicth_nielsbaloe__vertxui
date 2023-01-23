@@ -1,0 +1,11 @@
+1	git://github.com/nielsbaloe/vertxui.git
+2	#DEP#io.vertx:vertx-web
+3	#DEP#com.github.nmorel.gwtjackson:gwt-jackson
+4	#DEP#live.connector:vertxui-core
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.google.gwt:gwt-dev
+7	#DEP#com.machinepublishers:jbrowserdriver
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#io.vertx:vertx-unit
+11	#DEP#com.google.gwt:gwt-elemental

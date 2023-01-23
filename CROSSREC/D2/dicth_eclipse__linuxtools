@@ -1,0 +1,9 @@
+1	git://github.com/eclipse/linuxtools.git
+2	#DEP#org.eclipse.linuxtools.valgrind:linuxtools-valgrind-parent
+3	#DEP#org.eclipse.linuxtools.gcov:linuxtools-gcov-parent
+4	#DEP#org.eclipse.linuxtools:linuxtools-parent
+5	#DEP#org.eclipse.linuxtools.changelog:linuxtools-changelog-parent
+6	#DEP#org.eclipse.linuxtools.cdt.libhover:linuxtools-libhover-parent
+7	#DEP#org.eclipse.linuxtools.releng:linuxtools-releng-parent
+8	#DEP#org.eclipse.linuxtools.gprof:linuxtools-gprof-parent
+9	#DEP#org.eclipse.linuxtools.javadocs:linuxtools-javadocs-parent

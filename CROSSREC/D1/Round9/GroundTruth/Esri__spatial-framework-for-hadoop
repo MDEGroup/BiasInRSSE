@@ -1,0 +1,2 @@
+10	#DEP#junit:junit
+11	#DEP#com.esri.hadoop:spatial-sdk-json

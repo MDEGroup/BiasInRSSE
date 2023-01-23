@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.facebook.fresco:fresco	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#jp.wasabeef:fresco-processors	1.0

@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#org.dspace.dependencies:dspace-geoip
+1	#DEP#javax:javaee-web-api
+1	#DEP#junit:junit

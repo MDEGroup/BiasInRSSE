@@ -1,0 +1,7 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#collections.compare:demo
+1	#DEP#com.google.guava:guava
+1	#DEP#org.joda:joda-beans
+1	#DEP#org.eclipse.collections:eclipse-collections-api
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core

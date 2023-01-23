@@ -1,0 +1,7 @@
+1	#DEP#org.apache.maven:maven-model
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.mysema.querydsl:querydsl-collections
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#com.google.guava:guava
+1	#DEP#com.mysema.querydsl:querydsl-apt
+1	#DEP#junit:junit

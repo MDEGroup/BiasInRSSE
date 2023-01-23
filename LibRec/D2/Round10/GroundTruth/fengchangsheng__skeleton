@@ -1,0 +1,9 @@
+1	#DEP#com.github.theborakompanioni:thymeleaf-extras-shiro
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.apache.shiro:shiro-spring
+1	#DEP#com.google.guava:guava
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#junit:junit
+1	#DEP#com.baomidou:mybatis-plus

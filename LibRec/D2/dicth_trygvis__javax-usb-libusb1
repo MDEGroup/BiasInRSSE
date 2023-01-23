@@ -1,0 +1,9 @@
+1	git://github.com/trygvis/javax-usb-libusb1.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#io.trygvis.usb:javalibusb1
+5	#DEP#io.trygvis.usb:javax.usb
+6	#DEP#io.trygvis.usb:javax-usb-libusb1
+7	#DEP#junit:junit
+8	#DEP#io.trygvis.usb:javax.usb-extra
+9	#DEP#io.trygvis.usb:libusb

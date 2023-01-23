@@ -1,0 +1,13 @@
+1	#DEP#com.github.stephenc.findbugs:findbugs-annotations
+1	#DEP#com.saucelabs:saucerest
+1	#DEP#com.auth0:java-jwt
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#org.jenkins-ci.plugins:run-condition
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.json:json
+1	#DEP#org.jenkins-ci:symbol-annotation
+1	#DEP#junit:junit
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

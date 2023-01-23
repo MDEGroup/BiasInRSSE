@@ -1,0 +1,2 @@
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#org.slf4j:slf4j-jdk14

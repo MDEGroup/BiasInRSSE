@@ -1,0 +1,7 @@
+1	#DEP#ai.api.libai.web:libai-web-servlet
+1	#DEP#org.springframework:spring-test
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#com.restfb:restfb
+1	#DEP#junit:junit
+1	#DEP#com.github.pengrad:java-telegram-bot-api

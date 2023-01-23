@@ -1,0 +1,11 @@
+1	git://github.com/desht/ScrollingMenuSign.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.mcstats.bukkit:metrics
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#me.desht:dhutils-lib
+6	#DEP#com.comphenix.protocol:ProtocolLib
+7	#DEP#org.mockito:mockito-all
+8	#DEP#junit:junit
+9	#DEP#org.spoutcraft:spoutcraftplugin
+10	#DEP#net.milkbowl.vault:VaultAPI
+11	#DEP#com.dsh105:HoloAPI

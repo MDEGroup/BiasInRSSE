@@ -1,0 +1,8 @@
+1	#DEP#me.confuser:BanManager
+1	#DEP#com.alessiodp.partiesapi:parties-api
+1	#DEP#us.dynmap:dynmap-api
+1	#DEP#me.clip:placeholderapi
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#net.milkbowl.vault:VaultAPI
+1	#DEP#com.github.TechFortress:GriefPrevention
+1	#DEP#org.apache.logging.log4j:log4j-api

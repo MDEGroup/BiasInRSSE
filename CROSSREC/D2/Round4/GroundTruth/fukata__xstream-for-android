@@ -1,0 +1,8 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-lang:commons-lang
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.jdom:jdom
+1	#DEP#stax:stax
+1	#DEP#xpp3:xpp3_min
+1	#DEP#jmock:jmock
+1	#DEP#junit:junit

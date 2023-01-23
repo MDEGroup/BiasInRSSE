@@ -1,0 +1,12 @@
+50	#DEP#org.testng:testng
+51	#DEP#commons-dbcp:commons-dbcp
+52	#DEP#org.hibernate:hibernate-core
+53	#DEP#joda-time:joda-time-hibernate
+54	#DEP#com.thapar.gwt:simpledatepicker
+55	#DEP#edu.mayo.mprc:params
+56	#DEP#org.slf4j:slf4j-log4j12
+57	#DEP#edu.mayo.mprc:fasta
+58	#DEP#edu.mayo.mprc.mzml:mzml-data
+59	#DEP#xerces:xercesImpl
+60	#DEP#commons-fileupload:commons-fileupload
+61	#DEP#org.apache.activemq:activemq-core

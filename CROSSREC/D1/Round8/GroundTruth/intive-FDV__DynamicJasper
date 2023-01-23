@@ -1,0 +1,4 @@
+20	#DEP#org.apache.poi:poi-ooxml
+21	#DEP#junit:junit
+22	#DEP#opensymphony:xwork
+23	#DEP#net.sourceforge.jexcelapi:jxl

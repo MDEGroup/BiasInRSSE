@@ -1,0 +1,11 @@
+1	git://github.com/andresth/Kandroid.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#commons-io:commons-io
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.faendir:acra
+11	#DEP#com.thebluealliance:spectrum

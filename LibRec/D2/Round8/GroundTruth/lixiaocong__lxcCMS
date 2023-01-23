@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#com.github.lixiaocong:transmission4j
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

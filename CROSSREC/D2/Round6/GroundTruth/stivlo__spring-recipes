@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:org.springframework.context.support
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.springframework:org.springframework.web
+1	#DEP#junit:junit
+1	#DEP#org.springframework:org.springframework.context
+1	#DEP#org.obliquid:obliquid-lib

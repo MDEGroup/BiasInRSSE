@@ -1,0 +1,7 @@
+1	#DEP#org.jboss.resteasy:resteasy-client
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit
+1	#DEP#org.apache.solr:solr-solrj

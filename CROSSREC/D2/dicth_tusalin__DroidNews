@@ -1,0 +1,11 @@
+1	git://github.com/tusalin/DroidNews.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.volley:volley
+7	#DEP#com.squareup.retrofit2:retrofit
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.squareup.retrofit2:converter-gson

@@ -1,0 +1,8 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.github.Zhuinden:simple-stack
+1	#DEP#com.github.fabioCollini:DaggerMock
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#org.droidparts.dexmaker:dexmaker-parent
+1	#DEP#com.bluelinelabs:conductor
+1	#DEP#org.droidparts.dexmaker:dexmaker

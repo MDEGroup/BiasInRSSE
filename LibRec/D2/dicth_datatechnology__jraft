@@ -1,0 +1,10 @@
+1	git://github.com/datatechnology/jraft.git
+2	#DEP#net.data-technology.jraft:jraft-core
+3	#DEP#net.data-technology.jraft:jraft-exts
+4	#DEP#net.data-technology.jraft:jraft-root
+5	#DEP#log4j:log4j
+6	#DEP#javax.servlet:javax.servlet-api
+7	#DEP#org.apache.httpcomponents:httpasyncclient
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.h2database:h2

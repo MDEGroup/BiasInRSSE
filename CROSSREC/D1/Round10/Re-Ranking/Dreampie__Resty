@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.alibaba:fastjson	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.fusesource.jansi:jansi	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.eclipse.jetty:jetty-io	1.0
+#DEP#com.cybermkd:MongodbPlugin	1.0
+#DEP#org.eclipse.jetty:jetty-webapp	1.0
+#DEP#jdk.tools:jdk.tools	1.0

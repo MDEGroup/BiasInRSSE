@@ -1,0 +1,14 @@
+58	#DEP#org.allbinary.data.tree.dom:DocumentObjectModelJavaLibrary
+59	#DEP#org.allbinary:AllBinaryJ2MELibrary
+60	#DEP#org.allbinary:FileLicenseInitInfoJavaLibrary
+61	#DEP#org.allbinary:PreLoaderFileJavaLibrary
+62	#DEP#org.allbinary:TagsBaseJavaLibrary
+63	#DEP#org.allbinary:BlisketTagHelpersJavaLibrary
+64	#DEP#org.allbinary.business.category:CategoryJavaLibrary
+65	#DEP#org.allbinary.data.tables:EntitiesBlisketBaseJavaLibrary
+66	#DEP#org.osgi:OSGIComponentLibrary
+67	#DEP#javax.servlet:servlet-api
+68	#DEP#commons-fileupload:commons-fileupload
+69	#DEP#org.allbinary.business:BlisketVOJavaLibrary
+70	#DEP#org.allbinary:BlisketTagHelperFactoriesJavaLibrary
+71	#DEP#org.allbinary.data:DataJavaLibrary

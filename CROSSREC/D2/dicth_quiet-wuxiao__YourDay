@@ -1,0 +1,12 @@
+1	git://github.com/quiet-wuxiao/YourDay.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.rengwuxian.materialedittext:library
+4	#DEP#com.facebook.fresco:drawee
+5	#DEP#org.greenrobot:greendao
+6	#DEP#com.facebook.fresco:fresco
+7	#DEP#com.android.support:recyclerview-v7
+8	#DEP#com.android.support:support-v4
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

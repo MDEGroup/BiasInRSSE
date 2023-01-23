@@ -1,0 +1,12 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.github.Kaaz:ConfigurationBuilder
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.graylog2:gelfclient
+1	#DEP#net.dv8tion:JDA
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.json:json
+1	#DEP#org.knowm.xchart:xchart
+1	#DEP#com.sedmelluq:lavaplayer
+1	#DEP#com.github.rithms:riot-api-java

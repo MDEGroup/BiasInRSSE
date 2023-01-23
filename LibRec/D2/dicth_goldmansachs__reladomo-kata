@@ -1,0 +1,15 @@
+1	git://github.com/goldmansachs/reladomo-kata.git
+2	#DEP#com.goldmansachs.reladomo:reladomo-kata-parent
+3	#DEP#com.goldmansachs.reladomo:tour-examples
+4	#DEP#com.goldmansachs.reladomo:reladomo-serial
+5	#DEP#com.goldmansachs:gs-collections-api
+6	#DEP#com.goldmansachs.reladomo:reladomo
+7	#DEP#com.goldmansachs:gs-collections
+8	#DEP#ch.qos.logback:logback-classic
+9	#DEP#com.goldmansachs.reladomo:reladomo-test-util
+10	#DEP#junit:junit
+11	#DEP#com.goldmansachs:gs-collections-testutils
+12	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http
+13	#DEP#com.goldmansachs.reladomo:reladomo-tour
+14	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+15	#DEP#com.h2database:h2

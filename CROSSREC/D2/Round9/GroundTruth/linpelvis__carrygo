@@ -1,0 +1,11 @@
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#com.abc.carrygo:carrygo.store
+1	#DEP#org.apache.kafka:kafka_2.10
+1	#DEP#com.alibaba:druid
+1	#DEP#com.github.sgroschupf:zkclient
+1	#DEP#com.abc.carrygo:carrygo
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.abc.carrygo:carrygo.common
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

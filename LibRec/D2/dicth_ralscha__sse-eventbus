@@ -1,0 +1,12 @@
+1	git://github.com/ralscha/sse-eventbus.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.springframework.boot:spring-boot-test
+4	#DEP#org.immutables:value
+5	#DEP#com.squareup.okhttp3:okhttp
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.springframework:spring-test
+8	#DEP#org.springframework:spring-webmvc
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#org.springframework:spring-framework-bom
+12	#DEP#org.springframework.boot:spring-boot-starter-web

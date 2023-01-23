@@ -1,0 +1,5 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#c3p0:c3p0
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

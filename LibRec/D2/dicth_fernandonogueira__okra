@@ -1,0 +1,14 @@
+1	git://github.com/fernandonogueira/okra.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.mongodb:mongodb-driver
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.springframework.data:spring-data-mongodb
+6	#DEP#com.github.fernandonogueira.okra:okra-core
+7	#DEP#ch.qos.logback:logback-core
+8	#DEP#ch.qos.logback:logback-classic
+9	#DEP#com.github.fernandonogueira.okra:okra-spring
+10	#DEP#org.projectlombok:lombok
+11	#DEP#junit:junit
+12	#DEP#org.testcontainers:testcontainers
+13	#DEP#com.github.fernandonogueira.okra:okra
+14	#DEP#org.springframework.data:spring-data-commons

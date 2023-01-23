@@ -1,0 +1,5 @@
+22	#DEP#com.scwang.smartrefresh:SmartRefreshHeader
+23	#DEP#org.simple:androideventbus
+24	#DEP#com.github.bumptech.glide:glide
+25	#DEP#com.github.bumptech.glide:compiler
+26	#DEP#com.github.AriesHoo:UIWidget

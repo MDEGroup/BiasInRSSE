@@ -1,0 +1,12 @@
+1	git://github.com/davidedisomma/index-benchmark.git
+2	#DEP#org.infinispan:infinispan-cachestore-jdbc
+3	#DEP#org.hibernate:hibernate-c3p0
+4	#DEP#mysql:mysql-connector-java
+5	#DEP#org.hibernate:hibernate-search
+6	#DEP#org.hibernate:hibernate-entitymanager
+7	#DEP#org.testng:testng
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.infinispan:infinispan-core
+10	#DEP#org.hibernate:hibernate-search-infinispan
+11	#DEP#org.infinispan:infinispan-lucene-directory
+12	#DEP#org.slf4j:slf4j-log4j12

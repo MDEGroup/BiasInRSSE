@@ -1,0 +1,9 @@
+36	#DEP#com.fasterxml.jackson.core:jackson-annotations
+37	#DEP#com.fasterxml.jackson.core:jackson-core
+38	#DEP#org.jsoup:jsoup
+39	#DEP#org.apache.logging.log4j:log4j-jul
+40	#DEP#org.apache.hadoop:hadoop-client
+41	#DEP#org.apache.hadoop:hadoop-common
+42	#DEP#junit:junit
+43	#DEP#qonduit:client
+44	#DEP#org.powermock:powermock-easymock-release-full

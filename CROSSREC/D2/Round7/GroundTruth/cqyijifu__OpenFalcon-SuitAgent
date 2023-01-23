@@ -1,0 +1,9 @@
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#com.github.kevinsawicki:http-request
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#log4j:log4j
+1	#DEP#org.jyaml:jyaml
+1	#DEP#com.google.guava:guava
+1	#DEP#org.json:json
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

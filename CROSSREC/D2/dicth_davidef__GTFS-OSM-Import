@@ -1,0 +1,9 @@
+1	git://github.com/davidef/GTFS-OSM-Import.git
+2	#DEP#it.tidalwave.betterbeansbinding:betterbeansbinding-swingbinding
+3	#DEP#org.openstreetmap.osmosis:osmosis-xml
+4	#DEP#org.mapfish.geo:mapfish-geo-lib
+5	#DEP#org.openstreetmap.osmosis:osmosis-set
+6	#DEP#asg.cliche:cliche
+7	#DEP#com.google.guava:guava
+8	#DEP#org.xerial:sqlite-jdbc
+9	#DEP#commons-lang:commons-lang

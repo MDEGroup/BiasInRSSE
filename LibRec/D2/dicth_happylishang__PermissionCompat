@@ -1,0 +1,13 @@
+1	git://github.com/happylishang/PermissionCompat.git
+2	#DEP#com.jakewharton:butterknife-compiler
+3	#DEP#com.github.campusappcn.AndRouter:compiler
+4	#DEP#com.squareup:javapoet
+5	#DEP#com.android.support:design
+6	#DEP#com.jakewharton:butterknife
+7	#DEP#com.snail:permissioncompat
+8	#DEP#com.github.campusappcn.AndRouter:router
+9	#DEP#com.snail:compiler
+10	#DEP#junit:junit
+11	#DEP#com.google.auto.service:auto-service
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

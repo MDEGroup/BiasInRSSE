@@ -1,0 +1,17 @@
+1	#DEP#com.daimajia.androidanimations:library
+1	#DEP#com.dev.sacot41:scviewpager
+1	#DEP#net.steamcrafted:materialiconlib
+1	#DEP#com.squareup.okio:okio
+1	#DEP#com.android.support:support-annotations
+1	#DEP#com.wdullaer:materialdatetimepicker
+1	#DEP#com.balysv:material-ripple
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.daimajia.slider:library
+1	#DEP#com.melnykov:floatingactionbutton
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.koushikdutta.ion:ion
+1	#DEP#com.tencent.bugly:crashreport
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.balysv.materialmenu:material-menu
+1	#DEP#com.daimajia.easing:library

@@ -1,0 +1,6 @@
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#junit:junit
+1	#DEP#org.mortbay.jetty:servlet-api
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#c3p0:c3p0
+1	#DEP#br.com.caelum.vraptor:vraptor-environment

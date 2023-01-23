@@ -1,0 +1,5 @@
+1	#DEP#com.github.crittercism.dexmaker:dexmaker-dx
+1	#DEP#com.github.fabioCollini:DaggerMock
+1	#DEP#com.github.crittercism.dexmaker:dexmaker
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test.espresso:espresso-idling-resource

@@ -1,0 +1,3 @@
+12	#DEP#org.jmock:jmock-legacy
+13	#DEP#junit:junit
+14	#DEP#jmock:jmock-cglib

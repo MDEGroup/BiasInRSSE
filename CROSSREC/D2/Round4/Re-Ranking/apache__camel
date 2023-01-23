@@ -1,0 +1,10 @@
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.springframework:spring-jdbc	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#org.apache.camel:camel-jms	1.0
+#DEP#org.apache.activemq:activemq-core	1.0
+#DEP#org.jboss.fuse.bom:jboss-fuse-parent	1.0

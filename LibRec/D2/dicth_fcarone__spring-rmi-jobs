@@ -1,0 +1,17 @@
+1	git://github.com/fcarone/spring-rmi-jobs.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring-aop
+4	#DEP#org.logicblaze.lingo:lingo
+5	#DEP#asm:asm-commons
+6	#DEP#commons-logging:commons-logging
+7	#DEP#asm:asm
+8	#DEP#org.springframework:spring-core
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang
+11	#DEP#cglib:cglib-nodep
+12	#DEP#aspectj:aspectjrt
+13	#DEP#aspectj:aspectjweaver
+14	#DEP#asm:asm-attrs
+15	#DEP#net.sourceforge.openutils:openutils-testing-junit
+16	#DEP#org.apache.xbean:xbean-spring-v2c
+17	#DEP#junit:junit

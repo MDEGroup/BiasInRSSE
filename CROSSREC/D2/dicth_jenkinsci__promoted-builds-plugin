@@ -1,0 +1,16 @@
+1	git://github.com/jenkinsci/promoted-builds-plugin.git
+2	#DEP#org.jenkins-ci.plugins:apache-httpcomponents-client-4-api
+3	#DEP#org.jenkins-ci.plugins:junit
+4	#DEP#org.hamcrest:hamcrest-core
+5	#DEP#org.jenkins-ci.plugins:parameterized-trigger
+6	#DEP#com.sonyericsson.hudson.plugins.rebuild:rebuild
+7	#DEP#org.jenkins-ci.plugins:token-macro
+8	#DEP#org.jenkins-ci.plugins:script-security
+9	#DEP#org.jvnet.hudson:xstream
+10	#DEP#org.jenkins-ci.plugins:plugin
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.jenkins-ci.main:maven-plugin
+13	#DEP#org.jenkins-ci.plugins:job-dsl
+14	#DEP#org.jenkins-ci.plugins:matrix-project
+15	#DEP#hudson.plugins:project-inheritance
+16	#DEP#org.jenkins-ci.plugins:matrix-auth

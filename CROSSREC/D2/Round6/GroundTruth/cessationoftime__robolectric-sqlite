@@ -1,0 +1,5 @@
+1	#DEP#org.objenesis:objenesis
+1	#DEP#com.google.android.maps:maps
+1	#DEP#junit:junit
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#org.hamcrest:hamcrest-core

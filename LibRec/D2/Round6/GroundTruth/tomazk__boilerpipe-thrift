@@ -1,0 +1,4 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.apache.thrift:libfb303
+1	#DEP#junit:junit

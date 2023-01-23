@@ -1,0 +1,10 @@
+1	#DEP#org.bukkit:bukkit
+1	#DEP#org.reflections:reflections
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#com.google.inject:guice
+1	#DEP#net.lingala.zip4j:zip4j
+1	#DEP#com.google.guava:guava
+1	#DEP#org.projectlombok:lombok
+1	#DEP#co.aikar:taskchain-bukkit
+1	#DEP#junit:junit
+1	#DEP#com.github.slugify:slugify

@@ -1,0 +1,14 @@
+1	git://github.com/darrinholst/sass-java.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#com.darrinholst:sass-java
+9	#DEP#com.darrinholst:sass-java-parent
+10	#DEP#com.darrinholst:sass-java-gems
+11	#DEP#org.mockito:mockito-core
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#org.jruby:jruby-complete
+14	#DEP#junit:junit

@@ -1,0 +1,10 @@
+#DEP#ch.qos.logback:ch.qos.logback	1.0
+#DEP#org.jdom:org.jdom	1.0
+#DEP#org.jfree:org.jfree	1.0
+#DEP#org.tinyjee.jgraphx:org.tinyjee.jgraphx	1.0
+#DEP#org.openmicroscopy:org.openmicroscopy	1.0
+#DEP#net.sf.jgrapht:net.sf.jgrapht	1.0
+#DEP#org.janelia:org.janelia	1.0
+#DEP#au.com.bytecode:au.com.bytecode	1.0
+#DEP#cisd:cisd	1.0
+#DEP#ca.mcgill:ca.mcgill	1.0

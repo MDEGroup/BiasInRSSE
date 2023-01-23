@@ -1,0 +1,13 @@
+1	git://github.com/anoras/Quaere.git
+2	#DEP#org.quaere:quaere-parent
+3	#DEP#org.quaere:quaere
+4	#DEP#org.hibernate:hibernate-entitymanager
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.jmock:jmock-junit4
+7	#DEP#hsqldb:hsqldb
+8	#DEP#castor:castor
+9	#DEP#org.hibernate:hibernate
+10	#DEP#org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec
+11	#DEP#xerces:xercesImpl
+12	#DEP#org.antlr:antlr-runtime
+13	#DEP#junit:junit

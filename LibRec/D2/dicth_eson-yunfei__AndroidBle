@@ -1,0 +1,9 @@
+1	git://github.com/eson-yunfei/AndroidBle.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#pub.devrel:easypermissions
+4	#DEP#io.reactivex.rxjava2:rxandroid
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.google.appengine:appengine-testing

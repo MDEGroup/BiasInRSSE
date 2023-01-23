@@ -1,0 +1,9 @@
+37	#DEP#javax.faces:javax.faces-api
+38	#DEP#log4j:log4j
+39	#DEP#fm.void.jetm:jetm-web
+40	#DEP#aopalliance:aopalliance
+41	#DEP#junit:junit
+42	#DEP#org.jboss.aop:jboss-aop
+43	#DEP#fm.void.jetm:jetm-jee
+44	#DEP#org.aspectj:aspectjrt
+45	#DEP#org.apache.openwebbeans:openwebbeans-impl

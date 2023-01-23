@@ -1,0 +1,8 @@
+1	#DEP#com.github.ulisesbocchio:spring-boot-security-saml
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework.security.extensions:spring-security-saml2-core
+1	#DEP#com.google.guava:guava
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.security:spring-security-bom
+1	#DEP#org.springframework.boot:spring-boot-maven-plugin

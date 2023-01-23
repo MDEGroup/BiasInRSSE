@@ -1,0 +1,14 @@
+1	git://github.com/nurkiewicz/rxjava-workshop.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.squareup.retrofit2:converter-jackson
+7	#DEP#org.awaitility:awaitility
+8	#DEP#org.apache.commons:commons-collections4
+9	#DEP#io.dropwizard:dropwizard-metrics
+10	#DEP#org.mockito:mockito-core
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#com.google.guava:guava
+13	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+14	#DEP#junit:junit

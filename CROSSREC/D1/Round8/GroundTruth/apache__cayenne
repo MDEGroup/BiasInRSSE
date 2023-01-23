@@ -1,0 +1,12 @@
+50	#DEP#org.apache.cayenne:cayenne-cache-invalidation
+51	#DEP#org.apache.cayenne:cayenne-dbsync
+52	#DEP#org.apache.cayenne:cayenne-jgroups
+53	#DEP#org.apache.cayenne:cayenne-joda
+54	#DEP#com.jgoodies:jgoodies-looks
+55	#DEP#net.java.dev.inflector:inflector
+56	#DEP#org.eclipse.jetty:jetty-servlets
+57	#DEP#org.mockito:mockito-core
+58	#DEP#org.apache.cayenne:cayenne-cgen
+59	#DEP#javax.servlet:servlet-api
+60	#DEP#org.eclipse.jetty.http2:http2-http-client-transport
+61	#DEP#org.hsqldb:hsqldb

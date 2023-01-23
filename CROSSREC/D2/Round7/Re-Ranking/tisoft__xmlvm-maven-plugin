@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#com.google.android:android-test	1.0
+#DEP#org.apache.maven.shared:maven-plugin-testing-harness	1.0
+#DEP#org.liquibase.samples:liquibase-ext-sqlgenerator	1.0
+#DEP#org.liquibase.samples:liquibase-ext-change	1.0
+#DEP#de.akquinet.android.archetypes:android-archetype-project	1.0
+#DEP#net.jarlehansen.android.gcm:gcm-client-utils	1.0

@@ -1,0 +1,12 @@
+1	git://github.com/tenmax/pq.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.slf4j:slf4j-nop
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.commons:commons-csv
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.guava:guava
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#io.tenmax:poppy
+10	#DEP#com.google.code.gson:gson
+11	#DEP#junit:junit
+12	#DEP#joda-time:joda-time

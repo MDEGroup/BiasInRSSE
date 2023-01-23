@@ -1,0 +1,10 @@
+1	git://github.com/ZieIony/Carbon.git
+2	#DEP#de.greenrobot:androidsvg
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.annimon:stream
+5	#DEP#com.github.ZieIony.RandomData:person
+6	#DEP#com.github.ZieIony:LandscapeView
+7	#DEP#com.jakewharton.rxbinding2:rxbinding
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.databinding:compiler
+10	#DEP#com.github.ZieIony:randomdata

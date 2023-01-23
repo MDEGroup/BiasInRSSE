@@ -1,0 +1,10 @@
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.jakewharton.rxbinding:rxbinding
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.squareup:otto
+1	#DEP#com.squareup.retrofit:converter-gson
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.github.moduth:blockcanary-ui
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

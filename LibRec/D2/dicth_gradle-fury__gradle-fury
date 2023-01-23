@@ -1,0 +1,14 @@
+1	git://github.com/gradle-fury/gradle-fury.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.chrisdoyle:hello-world-aar
+4	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+5	#DEP#com.chrisdoyle:MavenConsumers
+6	#DEP#com.google.android.gms:play-services-maps
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#android:android
+9	#DEP#com.google.android.gms:play-services
+10	#DEP#Google Inc.:Google APIs
+11	#DEP#com.android.support:support-v4
+12	#DEP#com.android.support.test:rules
+13	#DEP#junit:junit
+14	#DEP#com.android.support.test:runner

@@ -1,0 +1,5 @@
+21	#DEP#xerces:xercesImpl
+22	#DEP#org.apache.httpcomponents:httpmime
+23	#DEP#commons-fileupload:commons-fileupload
+24	#DEP#net.sourceforge.cssparser:cssparser
+25	#DEP#junit:junit

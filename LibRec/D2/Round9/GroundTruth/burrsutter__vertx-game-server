@@ -1,0 +1,6 @@
+1	#DEP#io.vertx:vertx-core
+1	#DEP#io.vertx:vertx-hazelcast
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.vertx:vertx-lang-groovy
+1	#DEP#com.jayway.awaitility:awaitility

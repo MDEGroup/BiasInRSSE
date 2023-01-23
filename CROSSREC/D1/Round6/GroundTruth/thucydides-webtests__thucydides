@@ -1,0 +1,15 @@
+64	#DEP#javassist:javassist
+65	#DEP#joda-time:joda-time
+66	#DEP#com.fasterxml.jackson.core:jackson-annotations
+67	#DEP#com.google.inject:guice
+68	#DEP#org.hamcrest:hamcrest-integration
+69	#DEP#commons-dbcp:commons-dbcp
+70	#DEP#org.apache.maven:maven-core
+71	#DEP#com.opera:operadriver
+72	#DEP#org.fluentlenium:fluentlenium-core
+73	#DEP#com.fasterxml.jackson.core:jackson-databind
+74	#DEP#org.apache.maven:maven-plugin-api
+75	#DEP#net.thucydides:thucydides-core
+76	#DEP#org.mockito:mockito-core
+77	#DEP#org.skyscreamer:jsonassert
+78	#DEP#org.asciidoctor:asciidoctor-java-integration

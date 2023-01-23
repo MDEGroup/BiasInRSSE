@@ -1,0 +1,13 @@
+1	git://github.com/aztecrex/java-translatebot.git
+2	#DEP#com.amazonaws:aws-java-sdk-dynamodb
+3	#DEP#com.amazonaws:aws-java-sdk-lambda
+4	#DEP#com.amazonaws:aws-java-sdk-s3
+5	#DEP#com.amazonaws:aws-java-sdk-bom
+6	#DEP#com.amazonaws:aws-lambda-java-core
+7	#DEP#com.banjocreek.translatebot:translatebot-all
+8	#DEP#com.amazonaws:aws-java-sdk-api-gateway
+9	#DEP#org.glassfish:javax.json
+10	#DEP#com.amazonaws:aws-java-sdk-route53
+11	#DEP#com.amazonaws:aws-lambda-java-events
+12	#DEP#javax.json:javax.json-api
+13	#DEP#junit:junit

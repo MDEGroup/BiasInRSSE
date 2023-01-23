@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.hibernate.common:hibernate-commons-annotations
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#com.sun.mail:javax.mail

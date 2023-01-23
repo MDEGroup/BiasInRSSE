@@ -1,0 +1,8 @@
+35	#DEP#org.springframework.security:spring-security-acl
+36	#DEP#org.springframework.security:spring-security-openid
+37	#DEP#javax.servlet:jstl
+38	#DEP#junit:junit
+39	#DEP#org.apache.derby:derbyclient
+40	#DEP#org.apache.roller:roller-webapp
+41	#DEP#org.springframework.security:spring-security-ldap
+42	#DEP#commons-validator:commons-validator

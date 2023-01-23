@@ -1,0 +1,5 @@
+1	#DEP#org.postgresql:postgresql
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.yaml:snakeyaml
+1	#DEP#org.json:json
+1	#DEP#com.google.code.gson:gson

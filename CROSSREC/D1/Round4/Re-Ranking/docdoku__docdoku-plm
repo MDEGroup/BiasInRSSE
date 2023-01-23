@@ -1,0 +1,10 @@
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.eclipse.jetty:jetty-servlet	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider	1.0
+#DEP#com.auth0:java-jwt	1.0
+#DEP#com.sun.jersey.contribs:jersey-multipart	1.0
+#DEP#fr.opensagres.xdocreport:org.odftoolkit.odfdom.converter.pdf	1.0
+#DEP#fr.opensagres.xdocreport:fr.opensagres.xdocreport.itext.extension	1.0
+#DEP#fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf	1.0
+#DEP#org.docx4j:docx4j	1.0

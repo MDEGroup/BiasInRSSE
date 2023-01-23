@@ -1,0 +1,13 @@
+1	git://github.com/sudeepster/entertainmentetc.git
+2	#DEP#org.springframework.social:spring-social-web
+3	#DEP#javax.servlet.jsp.jstl:jstl-api
+4	#DEP#org.springframework.security:spring-security-crypto
+5	#DEP#org.springframework:spring-jdbc
+6	#DEP#org.springframework.social:spring-social-facebook
+7	#DEP#org.springframework.social:spring-social-core
+8	#DEP#cglib:cglib-nodep
+9	#DEP#javax.servlet.jsp:jsp-api
+10	#DEP#org.springframework:spring-webmvc
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.glassfish.web:jstl-impl
+13	#DEP#com.h2database:h2

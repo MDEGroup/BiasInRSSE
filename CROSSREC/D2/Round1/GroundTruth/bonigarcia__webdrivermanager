@@ -1,0 +1,7 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.rauschig:jarchivelib
+1	#DEP#org.jmockit:jmockit
+1	#DEP#junit:junit

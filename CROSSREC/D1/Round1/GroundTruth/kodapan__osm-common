@@ -1,0 +1,4 @@
+17	#DEP#org.json:json
+18	#DEP#junit:junit
+19	#DEP#se.kodapan.osm.common:common-parent
+20	#DEP#se.kodapan.osm.common:jts

@@ -1,0 +1,5 @@
+1	#DEP#com.google.code.maven-scm-provider-svnjava:maven-scm-provider-svnjava
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.jenkins-ci.main:maven-plugin
+1	#DEP#org.jenkins-ci.plugins:subversion
+1	#DEP#org.apache.maven.scm:maven-scm-manager-plexus

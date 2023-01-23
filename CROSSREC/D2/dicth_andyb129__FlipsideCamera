@@ -1,0 +1,15 @@
+1	git://github.com/andyb129/FlipsideCamera.git
+2	#DEP#com.getkeepsafe.taptargetview:taptargetview
+3	#DEP#com.karumi:dexter
+4	#DEP#com.mikepenz:iconics-core
+5	#DEP#jp.wasabeef:picasso-transformations
+6	#DEP#jp.co.cyberagent.android.gpuimage:gpuimage-library
+7	#DEP#com.mikepenz:community-material-typeface
+8	#DEP#com.github.daniel-stoneuk:material-about-library
+9	#DEP#com.github.imangazalievm:circlemenu
+10	#DEP#com.google.firebase:firebase-core
+11	#DEP#com.mikepenz:google-material-typeface
+12	#DEP#com.squareup.picasso:picasso
+13	#DEP#com.flurgle:camerakit
+14	#DEP#junit:junit
+15	#DEP#uk.co.chrisjenx:calligraphy

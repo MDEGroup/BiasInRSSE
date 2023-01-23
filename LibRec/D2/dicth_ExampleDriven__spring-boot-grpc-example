@@ -1,0 +1,16 @@
+1	git://github.com/ExampleDriven/spring-boot-grpc-example.git
+2	#DEP#com.github.exampledriven:grpc-eureka-java-starter
+3	#DEP#io.grpc:grpc-protobuf
+4	#DEP#org.springframework.cloud:spring-cloud-dependencies
+5	#DEP#org.springframework.boot:spring-boot-starter
+6	#DEP#io.grpc:grpc-netty
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#io.grpc:grpc-stub
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+11	#DEP#com.google.inject:guice
+12	#DEP#org.springframework.boot:spring-boot-starter-test
+13	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+14	#DEP#junit:junit
+15	#DEP#org.lognet:grpc-spring-boot-starter
+16	#DEP#org.springframework.boot:spring-boot-starter-actuator

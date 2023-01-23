@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,8 @@
+1	#DEP#org.jruby.ext.posix:jna-posix
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.codehaus.groovy.maven.runtime:gmaven-runtime-1.6
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#com.mulesoft:mule-jockey
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.groovy.maven:gmaven-mojo

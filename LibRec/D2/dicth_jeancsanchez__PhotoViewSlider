@@ -1,0 +1,9 @@
+1	git://github.com/jeancsanchez/PhotoViewSlider.git
+2	#DEP#com.squareup.picasso:picasso
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.daimajia.androidanimations:library
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.nineoldandroids:library
+8	#DEP#junit:junit
+9	#DEP#com.daimajia.easing:library

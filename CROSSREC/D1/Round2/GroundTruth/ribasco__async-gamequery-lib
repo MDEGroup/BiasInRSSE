@@ -1,0 +1,4 @@
+19	#DEP#org.powermock:powermock-api-easymock
+20	#DEP#${project.groupId}:agql-dota2-webapi
+21	#DEP#junit:junit
+22	#DEP#${project.groupId}:agql-steam-webapi

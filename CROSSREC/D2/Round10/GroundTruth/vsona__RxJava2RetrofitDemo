@@ -1,0 +1,8 @@
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.afollestad.material-dialogs:commons
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.zhy:autolayout
+1	#DEP#zlc.season:rxdownload2
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#junit:junit

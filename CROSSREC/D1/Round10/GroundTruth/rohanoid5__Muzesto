@@ -1,0 +1,5 @@
+21	#DEP#com.nostra13.universalimageloader:universal-image-loader
+22	#DEP#com.melnykov:floatingactionbutton
+23	#DEP#com.android.support:cardview-v7
+24	#DEP#com.android.support:support-v4
+25	#DEP#com.cleveroad:audiowidget

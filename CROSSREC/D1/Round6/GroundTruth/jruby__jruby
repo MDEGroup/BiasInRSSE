@@ -1,0 +1,11 @@
+45	#DEP#rubygems:jruby-jars
+46	#DEP#rubygems:rdoc
+47	#DEP#org.jruby:jruby-core
+48	#DEP#com.github.jnr:jffi
+49	#DEP#org.jruby:dirgra
+50	#DEP#org.bouncycastle:bcpkix-jdk15on
+51	#DEP#org.ow2.asm:asm-commons
+52	#DEP#me.qmx.jitescript:jitescript
+53	#DEP#com.headius:invokebinder
+54	#DEP#org.openjdk.jmh:jmh-core
+55	#DEP#com.github.jnr:jnr-ffi

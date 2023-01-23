@@ -1,0 +1,11 @@
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.security:spring-security-test
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.ehcache:ehcache
+1	#DEP#com.h2database:h2

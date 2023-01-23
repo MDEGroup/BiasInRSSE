@@ -1,0 +1,7 @@
+1	#DEP#com.google.android.gms:play-services-maps
+1	#DEP#com.google.android.gms:play-services-wearable
+1	#DEP#net.hockeyapp.android:HockeySDK
+1	#DEP#com.android.support:support-compat
+1	#DEP#com.googlecode.mp4parser:isoparser
+1	#DEP#com.stripe:stripe-android
+1	#DEP#com.google.android.gms:play-services-vision

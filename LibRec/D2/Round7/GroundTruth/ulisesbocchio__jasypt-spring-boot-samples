@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-maven-plugin

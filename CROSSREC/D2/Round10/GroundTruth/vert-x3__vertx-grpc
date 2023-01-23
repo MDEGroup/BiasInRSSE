@@ -1,0 +1,6 @@
+1	#DEP#io.grpc:grpc-netty
+1	#DEP#org.mortbay.jetty.alpn:jetty-alpn-agent
+1	#DEP#io.vertx:vertx-parent
+1	#DEP#io.grpc:grpc-stub
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-unit

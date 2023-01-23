@@ -1,0 +1,10 @@
+#DEP#com.google.gwt:gwt-user	1.0
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#com.google.inject.extensions:guice-assistedinject	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.gwtplatform:gwtp-processors	1.0
+#DEP#org.jboss.as:jboss-as-console-flow	1.0
+#DEP#org.jboss.as:diagnostics	1.0
+#DEP#org.jboss.ballroom:ballroom	1.0

@@ -1,0 +1,8 @@
+1	#DEP#application.4_5:jar1_jar
+1	#DEP#application.4_5:two_sar
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#jakarta-regexp:jakarta-regexp
+1	#DEP#${project.groupId}:dummyjar
+1	#DEP#application:application
+1	#DEP#org.twdata.maven:mojo-executor
+1	#DEP#application.4_5:four_test

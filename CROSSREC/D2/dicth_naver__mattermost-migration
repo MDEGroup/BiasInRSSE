@@ -1,0 +1,9 @@
+1	git://github.com/naver/mattermost-migration.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.postgresql:postgresql
+4	#DEP#org.yaml:snakeyaml
+5	#DEP#org.springframework.batch:spring-batch-infrastructure
+6	#DEP#org.springframework.batch:spring-batch-core
+7	#DEP#org.projectlombok:lombok
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#org.springframework:spring-core

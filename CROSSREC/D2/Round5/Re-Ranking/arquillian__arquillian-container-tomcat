@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jboss.arquillian:arquillian-bom	1.0
+#DEP#org.jboss.arquillian.junit:arquillian-junit-container	1.0
+#DEP#org.jboss.arquillian.container:arquillian-container-test-spi	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.jboss:jboss-parent	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#org.jboss.arquillian.container:arquillian-parent-openshift	1.0

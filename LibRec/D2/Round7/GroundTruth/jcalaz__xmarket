@@ -1,0 +1,7 @@
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#cn.finalteam.rxgalleryfinal:library
+1	#DEP#com.miguelcatalan:materialsearchview
+1	#DEP#com.github.shem8:material-login
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#com.ashokvarma.android:bottom-navigation-bar

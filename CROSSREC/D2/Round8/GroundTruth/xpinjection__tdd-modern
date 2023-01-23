@@ -1,0 +1,13 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#net.sourceforge.htmlunit:htmlunit
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-mustache
+1	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-jooq
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#com.github.database-rider:rider-core
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.h2database:h2

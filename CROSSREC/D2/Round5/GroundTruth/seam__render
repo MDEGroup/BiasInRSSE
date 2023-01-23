@@ -1,0 +1,7 @@
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.weld.arquillian.container:arquillian-weld-ee-embedded-1.1
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.glassfish.web:el-impl
+1	#DEP#junit:junit
+1	#DEP#org.jboss.weld:weld-core-bom

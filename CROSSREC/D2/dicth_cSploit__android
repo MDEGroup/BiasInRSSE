@@ -1,0 +1,14 @@
+1	git://github.com/cSploit/android.git
+2	#DEP#org.tukaani:xz
+3	#DEP#org.msgpack:msgpack
+4	#DEP#com.github.zafarkhaja:java-semver
+5	#DEP#ch.acra:acra
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#commons-net:commons-net
+9	#DEP#com.android.support:preference-v7
+10	#DEP#org.apache.commons:commons-compress
+11	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+12	#DEP#org.unbescape:unbescape
+13	#DEP#com.android.support:support-v4
+14	#DEP#junit:junit

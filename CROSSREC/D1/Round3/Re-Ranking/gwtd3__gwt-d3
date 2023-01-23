@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.guava:guava-gwt	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.inject.extensions:guice-assistedinject	1.0
+#DEP#com.google.gwt.google-apis:gwt-ajaxloader	1.0

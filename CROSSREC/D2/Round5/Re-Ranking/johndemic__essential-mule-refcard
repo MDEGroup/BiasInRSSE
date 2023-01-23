@@ -1,0 +1,10 @@
+#DEP#org.mule.transports:mule-transport-vm	1.0
+#DEP#junit:junit	1.0
+#DEP#org.mule.modules:mule-module-scripting	1.0
+#DEP#org.mule.modules:mule-module-spring-config	1.0
+#DEP#org.mule.modules:mule-module-client	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.springframework:spring-jdbc	1.0
+#DEP#org.mule.mql:mql-mule	1.0
+#DEP#org.mule.mql:mql	1.0
+#DEP#org.mule.transports:mule-transport-jdbc	1.0

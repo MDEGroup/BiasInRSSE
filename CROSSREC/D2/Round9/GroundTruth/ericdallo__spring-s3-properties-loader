@@ -1,0 +1,4 @@
+1	#DEP#org.springframework.cloud:spring-cloud-aws-core
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.springframework.cloud:spring-cloud-context
+1	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	git://github.com/JetBrains/intellij-community.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+4	#DEP#org.apache.maven:maven-embedder
+5	#DEP#org.apache.logging.log4j:log4j-core
+6	#DEP#org.scala-lang:scala-library
+7	#DEP#org.sonatype.nexus:nexus-indexer
+8	#DEP#junit:junit
+9	#DEP#org.apache.logging.log4j:log4j-api

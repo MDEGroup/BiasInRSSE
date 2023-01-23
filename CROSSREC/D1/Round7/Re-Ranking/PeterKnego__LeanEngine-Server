@@ -1,0 +1,10 @@
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.appengine:appengine-api-labs	1.0
+#DEP#com.google.appengine:appengine-tools-sdk	1.0
+#DEP#org.apache.ddlutils:ddlutils	1.0
+#DEP#com.google.api.client:google-api-client	1.0
+#DEP#org.drizzle.jdbc:drizzle-jdbc	1.0
+#DEP#dbunit:dbunit	1.0

@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.apache.maven:maven-core

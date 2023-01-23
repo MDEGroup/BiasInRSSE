@@ -1,0 +1,7 @@
+30	#DEP#com.abubusoft:kripton-dataformat-properties
+31	#DEP#com.fasterxml.jackson.core:jackson-core
+32	#DEP#com.google.android:support-v4
+33	#DEP#com.bluelinelabs:logansquare
+34	#DEP#junit:junit
+35	#DEP#com.abubusoft.testing.compile:compile-testing
+36	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-properties

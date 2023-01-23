@@ -1,0 +1,5 @@
+1	#DEP#com.vaadin:vaadin-testbench-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#info.cukes:cucumber-junit
+1	#DEP#com.vaadin:vaadin-client
+1	#DEP#com.vaadin:vaadin-client-compiler

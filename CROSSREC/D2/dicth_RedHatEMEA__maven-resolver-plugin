@@ -1,0 +1,16 @@
+1	git://github.com/RedHatEMEA/maven-resolver-plugin.git
+2	#DEP#${parent.groupId}:dummyjar
+3	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+4	#DEP#org.apache.maven:maven-project
+5	#DEP#org.jboss.maven.plugin.resolver:build
+6	#DEP#org.codehaus.plexus:plexus-digest
+7	#DEP#org.apache.maven:maven-model
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#application.4_5:jar1_jar
+10	#DEP#application.4_5:two_sar
+11	#DEP#org.codehaus.plexus:plexus-utils
+12	#DEP#jakarta-regexp:jakarta-regexp
+13	#DEP#${project.groupId}:dummyjar
+14	#DEP#application:application
+15	#DEP#org.twdata.maven:mojo-executor
+16	#DEP#application.4_5:four_test

@@ -1,0 +1,10 @@
+1	#DEP#org.jsoup:jsoup
+1	#DEP#commons-codec:commons-codec
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.jodd:jodd-http
+1	#DEP#com.vdurmont:emoji-java
+1	#DEP#org.patchca:patchca
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#com.vladsch.flexmark:flexmark-all
+1	#DEP#org.b3log:latke
+1	#DEP#eu.bitwalker:UserAgentUtils

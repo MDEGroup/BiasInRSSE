@@ -1,0 +1,10 @@
+1	git://github.com/lipangit/JiaoZiVideoPlayer.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+5	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.danikula:videocache

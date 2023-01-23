@@ -1,0 +1,10 @@
+1	#DEP#org.sonatype.nexus.plugins:nexus-bundle-maker-plugin
+1	#DEP#org.sonatype.nexus.capabilities:nexus-capabilities-client
+1	#DEP#org.sonatype.nexus:nexus-it-helper-plugin
+1	#DEP#org.sonatype.nexus:nexus-oss-webapp
+1	#DEP#org.sonatype.nexus:nexus-rest-api
+1	#DEP#org.sonatype.nexus.plugins:nexus-maven-bridge-plugin
+1	#DEP#org.sonatype.nexus:nexus-test-utils
+1	#DEP#org.sonatype.sisu:sisu-resource-scanner
+1	#DEP#org.sonatype.nexus:nexus-app
+1	#DEP#org.sonatype.sisu:sisu-inject-bean

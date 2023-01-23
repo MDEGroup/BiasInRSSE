@@ -1,0 +1,11 @@
+1	#DEP#org.openehealth.ipf.platform-camel:platform-camel-core
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.openehealth.ipf.modules:modules-hl7
+1	#DEP#org.apache.cxf:cxf-rt-transports-http-jetty
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.apache.camel:camel-mina
+1	#DEP#ca.uhn.hapi:hapi-structures-v25
+1	#DEP#junit:junit
+1	#DEP#com.oracle:ojdbc14
+1	#DEP#org.openehealth.ipf.platform-camel:platform-camel-ihe-pixpdq
+1	#DEP#org.openehealth.ipf.modules:modules-hl7dsl

@@ -1,0 +1,15 @@
+1	git://github.com/eclipse/mylyn.incubator.git
+2	#DEP#org.eclipse.mylyn.builds:org.eclipse.mylyn.hudson.core
+3	#DEP#org.eclipse.mylyn.builds:org.eclipse.mylyn.builds.core
+4	#DEP#org.eclipse.mylyn:org.eclipse.mylyn.incubator-parent
+5	#DEP#org.eclipse.core:org.eclipse.core.net
+6	#DEP#org.eclipse.mylyn.incubator:org.eclipse.mylyn.incubator-parent
+7	#DEP#org.eclipse.mylyn:org.eclipse.mylyn-parent
+8	#DEP#org.eclipse.emf:org.eclipse.emf.ecore
+9	#DEP#org.eclipse.mylyn.commons:org.eclipse.mylyn.commons.core
+10	#DEP#org.eclipse.mylyn.commons:org.eclipse.mylyn.commons.repositories.core
+11	#DEP#org.eclipse.mylyn.commons:org.eclipse.mylyn.commons.repositories.http.core
+12	#DEP#org.eclipse.core:org.eclipse.core.runtime
+13	#DEP#commons-lang:commons-lang
+14	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+15	#DEP#commons-httpclient:commons-httpclient

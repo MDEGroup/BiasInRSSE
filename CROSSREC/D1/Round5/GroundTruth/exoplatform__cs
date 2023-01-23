@@ -1,0 +1,17 @@
+68	#DEP#org.reflext:reflext.api
+69	#DEP#org.exoplatform.cs:exo.cs.eXoApplication.mail.service
+70	#DEP#org.exoplatform.kernel:exo.kernel.container
+71	#DEP#org.apache.jackrabbit:jackrabbit-webdav
+72	#DEP#org.exoplatform.portal:exo.portal.component.portal
+73	#DEP#org.exoplatform.commons:exo.platform.commons.webui
+74	#DEP#org.exoplatform.kernel:exo.kernel.commons
+75	#DEP#org.exoplatform.cs:exo.cs.demo.webapp
+76	#DEP#org.exoplatform.cs:exo.cs.demo.rest-war
+77	#DEP#org.exoplatform.cs:exo.cs.web.webservice
+78	#DEP#org.exoplatform.tool:exo.tool.framework.junit
+79	#DEP#org.jibx:jibx-run
+80	#DEP#org.exoplatform.cs:exo.cs.eXoApplication.contact.webapp
+81	#DEP#org.exoplatform.kernel:exo.kernel.component.common
+82	#DEP#picocontainer:picocontainer
+83	#DEP#commons-fileupload:commons-fileupload
+84	#DEP#org.exoplatform.kernel:exo.kernel.component.cache

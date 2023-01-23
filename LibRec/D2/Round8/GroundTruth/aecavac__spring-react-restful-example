@@ -1,0 +1,5 @@
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework.boot:spring-boot-starter-web

@@ -1,0 +1,13 @@
+1	#DEP#org.spockframework:spock-core
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.github.mifmif:generex
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.atlassian.jira:jira-rest-java-client-api
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#com.googlecode.lambdaj:lambdaj
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+1	#DEP#org.apache.maven:maven-artifact

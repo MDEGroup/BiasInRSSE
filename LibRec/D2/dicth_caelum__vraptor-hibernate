@@ -1,0 +1,11 @@
+1	git://github.com/caelum/vraptor-hibernate.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#org.hibernate:hibernate-core
+4	#DEP#br.com.caelum:vraptor
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.mockito:mockito-core
+8	#DEP#hsqldb:hsqldb
+9	#DEP#junit:junit
+10	#DEP#org.mortbay.jetty:servlet-api
+11	#DEP#org.hamcrest:hamcrest-core

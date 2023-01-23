@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#io.dropwizard:dropwizard-metrics
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.guava:guava
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#junit:junit

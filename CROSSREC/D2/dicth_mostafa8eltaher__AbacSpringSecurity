@@ -1,0 +1,13 @@
+1	git://github.com/mostafa8eltaher/AbacSpringSecurity.git
+2	#DEP#org.springframework.security:spring-security-web
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#org.springframework.security:spring-security-core
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#edu.mostafa.security:access-control
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#org.springframework:spring-test
+9	#DEP#org.springframework:spring-webmvc
+10	#DEP#javax.servlet:javax.servlet-api
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#edu.mostafa.security:abac-spring-security-parent
+13	#DEP#org.springframework.security:spring-security-config

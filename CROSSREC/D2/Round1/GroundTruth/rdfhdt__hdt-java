@@ -1,0 +1,8 @@
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.rdfhdt:hdt-api
+1	#DEP#org.rdfhdt:hdt-java-core
+1	#DEP#junit:junit
+1	#DEP#org.apache.jena:jena-base
+1	#DEP#org.apache.jena:jena-tdb
+1	#DEP#pl.edu.icm:JLargeArrays
+1	#DEP#com.beust:jcommander

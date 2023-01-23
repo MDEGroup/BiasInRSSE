@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#com.badlogic.gdx:gdx-backend-ios	1.0
+#DEP#com.binarytweed:quarantining-test-runner	1.0
+#DEP#com.badlogicgames.gdx:gdx-box2d-platform	1.0
+#DEP#${project.groupId}:c2d	1.0
+#DEP#com.badlogicgames.gdx:gdx-box2d	1.0
+#DEP#com.badlogicgames.gdx:gdx-tools	1.0
+#DEP#${project.groupId}:c2d-tests	1.0
+#DEP#net.peakgames.libgdx:stagebuilder-extensions	1.0

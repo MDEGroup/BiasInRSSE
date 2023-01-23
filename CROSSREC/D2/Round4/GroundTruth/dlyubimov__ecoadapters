@@ -1,0 +1,17 @@
+1	#DEP#org.apache.hadoop:hadoop-hdfs
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+1	#DEP#org.apache.hive:hive-exec
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.springframework:spring-context
+1	#DEP#com.google.protobuf:protobuf-java-format
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-jobclient
+1	#DEP#org.r-project:jriengine
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#com.inadco.ecoadapters:ecoadapters-parent
+1	#DEP#commons-validator:commons-validator

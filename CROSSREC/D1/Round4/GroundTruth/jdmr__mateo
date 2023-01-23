@@ -1,0 +1,9 @@
+39	#DEP#commons-pool:commons-pool
+40	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa
+41	#DEP#ch.qos.logback:logback-classic
+42	#DEP#org.springframework.security:spring-security-openid
+43	#DEP#javax.servlet:jstl
+44	#DEP#commons-fileupload:commons-fileupload
+45	#DEP#org.apache.commons:commons-digester3
+46	#DEP#junit:junit
+47	#DEP#cglib:cglib

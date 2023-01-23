@@ -1,0 +1,6 @@
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#com.google.auto.factory:auto-factory

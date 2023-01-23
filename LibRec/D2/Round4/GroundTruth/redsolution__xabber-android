@@ -1,0 +1,12 @@
+1	#DEP#com.github.str4tocaster.smack:smack-resolver-dnsjava
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.github.str4tocaster.smack:smack-tcp
+1	#DEP#com.facebook.android:facebook-android-sdk
+1	#DEP#com.melnykov:floatingactionbutton
+1	#DEP#com.github.str4tocaster.smack:smack-android-extensions
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.google.zxing:android-integration
+1	#DEP#com.soundcloud.android:android-crop
+1	#DEP#com.google.android.gms:play-services-auth
+1	#DEP#com.android.support:multidex
+1	#DEP#io.reactivex:rxjava

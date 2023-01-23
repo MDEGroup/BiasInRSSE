@@ -1,0 +1,16 @@
+1	git://github.com/jbarrasa/neosemantics.git
+2	#DEP#org.openrdf.sesame:sesame-rio-turtle
+3	#DEP#org.openrdf.sesame:sesame-rio-ntriples
+4	#DEP#org.neo4j:neo4j
+5	#DEP#org.neo4j:server-api
+6	#DEP#javax.ws.rs:javax.ws.rs-api
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#org.openrdf.sesame:sesame-rio-rdfxml
+9	#DEP#org.neo4j:neo4j-kernel
+10	#DEP#org.neo4j:neo4j-io
+11	#DEP#org.openrdf.sesame:sesame-rio-jsonld
+12	#DEP#org.neo4j.test:neo4j-harness
+13	#DEP#org.openrdf.sesame:sesame-rio-trig
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit
+16	#DEP#org.neo4j.driver:neo4j-java-driver

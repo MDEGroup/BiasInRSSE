@@ -1,0 +1,15 @@
+1	git://github.com/asascience-open/ncSOS.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.jdom:jdom2
+4	#DEP#edu.ucar:tds
+5	#DEP#org.apache.logging.log4j:log4j-core
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#edu.ucar:thredds-parent
+9	#DEP#joda-time:joda-time
+10	#DEP#json-taglib:json-taglib
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+14	#DEP#junit:junit
+15	#DEP#edu.ucar:netcdf4

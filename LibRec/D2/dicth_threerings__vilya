@@ -1,0 +1,14 @@
+1	git://github.com/threerings/vilya.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.threerings:narya
+5	#DEP#com.megginson.sax:xml-writer
+6	#DEP#com.threerings:nenya-tools
+7	#DEP#com.threerings:ooo-util
+8	#DEP#com.threerings:nenya
+9	#DEP#com.adobe.flex.framework:flex-framework
+10	#DEP#com.samskivert:depot
+11	#DEP#com.threerings:vilya-parent
+12	#DEP#commons-digester:commons-digester
+13	#DEP#com.threerings:nenyalib
+14	#DEP#junit:junit

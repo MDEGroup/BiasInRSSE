@@ -1,0 +1,7 @@
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.lnwazg:kit
+1	#DEP#com.lowagie:itext
+1	#DEP#log4j:log4j
+1	#DEP#org.json:json
+1	#DEP#com.other:beautyeye

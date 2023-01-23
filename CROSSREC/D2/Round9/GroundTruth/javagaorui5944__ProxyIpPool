@@ -1,0 +1,6 @@
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#log4j:log4j
+1	#DEP#opensymphony:quartz-all
+1	#DEP#commons-collections:commons-collections
+1	#DEP#edu.uci.ics:crawler4j
+1	#DEP#junit:junit

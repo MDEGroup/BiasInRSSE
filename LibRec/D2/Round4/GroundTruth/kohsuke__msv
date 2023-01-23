@@ -1,0 +1,7 @@
+1	#DEP#org.sonatype.oss:oss-parent
+1	#DEP#net.java.dev.msv:msv-testharness
+1	#DEP#relaxngDatatype:relaxngDatatype
+1	#DEP#crimson:crimson
+1	#DEP#xerces:xercesImpl
+1	#DEP#net.java.dev.msv:msv
+1	#DEP#junit:junit

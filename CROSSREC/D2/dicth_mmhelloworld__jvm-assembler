@@ -1,0 +1,14 @@
+1	git://github.com/mmhelloworld/jvm-assembler.git
+2	#DEP#org.glassfish.jersey:jersey-bom
+3	#DEP#org.glassfish.jersey.media:jersey-media-moxy
+4	#DEP#org.ow2.asm:asm-all
+5	#DEP#org.glassfish.jersey.containers:jersey-container-servlet-core
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#net.sf.jopt-simple:jopt-simple
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#com.mmhelloworld:jvm-assembler
+11	#DEP#org.eclipse.jetty:jetty-server
+12	#DEP#org.projectlombok:lombok
+13	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+14	#DEP#org.eclipse.jetty:jetty-servlet

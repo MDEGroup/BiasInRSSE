@@ -1,0 +1,11 @@
+1	#DEP#it.unimi.dsi:dsiutils
+1	#DEP#org.nd4j:${nd4j.backend}
+1	#DEP#org.campagnelab.goby:goby-io
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.deeplearning4j:deeplearning4j-nlp
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.campagnelab.dl:variation-analysis
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.nd4j:nd4j-cuda-8.0-platform
+1	#DEP#com.beust:jcommander

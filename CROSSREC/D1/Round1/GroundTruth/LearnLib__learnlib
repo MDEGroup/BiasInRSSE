@@ -1,0 +1,8 @@
+34	#DEP#de.learnlib:learnlib-rpni
+35	#DEP#de.learnlib:learnlib-lstar
+36	#DEP#net.automatalib:automata-commons-smartcollections
+37	#DEP#ch.qos.logback:logback-core
+38	#DEP#ch.qos.logback:logback-classic
+39	#DEP#de.learnlib:learnlib-drivers-simulator
+40	#DEP#net.automatalib:automata-commons-util
+41	#DEP#de.learnlib:learnlib-build-parent

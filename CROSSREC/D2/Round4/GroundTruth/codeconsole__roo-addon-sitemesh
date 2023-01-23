@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.roo:org.springframework.roo.metadata
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.springframework.roo:org.springframework.roo.process.manager
+1	#DEP#org.springframework.roo:org.springframework.roo.project
+1	#DEP#org.springframework.roo:org.springframework.roo.shell
+1	#DEP#org.osgi:org.osgi.core

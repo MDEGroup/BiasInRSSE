@@ -1,0 +1,4 @@
+1	#DEP#com.google.android.gms:play-services-appindexing
+1	#DEP#com.github.lovetuzitong:MultiImageSelector
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit

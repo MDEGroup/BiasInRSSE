@@ -1,0 +1,6 @@
+1	#DEP#org.axonframework:axon-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.jetbrains.kotlin:kotlin-test
+1	#DEP#org.axonframework:axon-test
+1	#DEP#com.h2database:h2

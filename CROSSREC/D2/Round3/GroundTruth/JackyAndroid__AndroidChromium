@@ -1,0 +1,7 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.android.gms:play-services-nearby
+1	#DEP#com.android.support:design
+1	#DEP#com.google.android.gms:play-services-cast
+1	#DEP#com.google.android.gms:play-services-auth
+1	#DEP#com.android.support:multidex
+1	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	git://github.com/necst/heldroid.git
+2	#DEP#net.sourceforge.tess4j:tess4j
+3	#DEP#jnetpcap:jnetpcap
+4	#DEP#net.sourceforge.jregex:jregex
+5	#DEP#org.languagetool:language-all
+6	#DEP#nz.ac.waikato.cms.weka:LibSVM
+7	#DEP#org.apache.opennlp:opennlp-maxent
+8	#DEP#nz.ac.waikato.cms.weka:weka-stable
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#org.jsoup:jsoup
+11	#DEP#org.apache.commons:commons-compress
+12	#DEP#org.json:org.json
+13	#DEP#org.apache.opennlp:opennlp-uima
+14	#DEP#org.slf4j:slf4j-parent
+15	#DEP#net.sf.jwordnet:jwnl
+16	#DEP#org.apache.opennlp:opennlp-tools
+17	#DEP#com.cybozu.labs:langdetect

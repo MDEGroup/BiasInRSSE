@@ -1,0 +1,17 @@
+1	git://github.com/Ardesco/selenium-standalone-server-plugin.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.maven:maven-plugin-api
+6	#DEP#org.apache.maven:maven-core
+7	#DEP#commons-codec:commons-codec
+8	#DEP#org.apache.commons:commons-compress
+9	#DEP#org.codehaus.plexus:plexus-resources
+10	#DEP#com.github.stefanbirkner:system-rules
+11	#DEP#log4j:log4j
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#org.eclipse.jetty:jetty-server
+14	#DEP#com.google.guava:guava
+15	#DEP#org.apache.httpcomponents:httpcore
+16	#DEP#org.eclipse.jetty:jetty-webapp
+17	#DEP#junit:junit

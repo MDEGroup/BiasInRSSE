@@ -1,0 +1,11 @@
+1	#DEP#com.google.guava:guava-gwt
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#com.google.truth:truth
+1	#DEP#com.google.guava:guava-testlib
+1	#DEP#com.google.errorprone:error_prone_annotations
+1	#DEP#org.mockito:mockito-core
+1	#DEP#args4j:args4j
+1	#DEP#com.google.guava:guava
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#com.google.javascript:closure-compiler-main
+1	#DEP#junit:junit

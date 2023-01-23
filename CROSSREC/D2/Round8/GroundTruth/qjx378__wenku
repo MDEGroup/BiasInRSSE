@@ -1,0 +1,13 @@
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.openoffice:juh
+1	#DEP#javax.media.jai:com.springsource.javax.media.jai.core
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.alibaba:druid
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.json:json
+1	#DEP#com.alibaba:simpleimage
+1	#DEP#eu.bitwalker:UserAgentUtils
+1	#DEP#org.openoffice:unoil

@@ -1,0 +1,6 @@
+24	#DEP#org.jclouds:org.jclouds
+25	#DEP#org.slf4j:slf4j-log4j12
+26	#DEP#${project.groupId}:whirr-zookeeper
+27	#DEP#${project.groupId}:whirr-hadoop
+28	#DEP#org.jclouds:jclouds-core
+29	#DEP#${project.groupId}:whirr-cassandra

@@ -1,0 +1,9 @@
+1	git://github.com/ericpauley/Alice.git
+2	#DEP#xerces:xerces
+3	#DEP#java3d:vecmath
+4	#DEP#javax.media:jmf-mp3plugin
+5	#DEP#javax.media:jmf
+6	#DEP#gnu.getopt:java-getopt
+7	#DEP#net.java.jogl:jogl
+8	#DEP#jython:jython
+9	#DEP#org.objectweb.joram:jftp

@@ -1,0 +1,4 @@
+20	#DEP#javax.transaction:jta
+21	#DEP#log4j:log4j
+22	#DEP#javax.servlet:servlet-api
+23	#DEP#javaee:javaee-api

@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-validation
+1	#DEP#com.vaadin:vaadin-context-menu
+1	#DEP#com.querydsl:querydsl-sql-spatial
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#com.querydsl:querydsl-jpa
+1	#DEP#org.vaadin.addon:v-leaflet-editable

@@ -1,0 +1,14 @@
+1	git://github.com/MatrixSeven/ZhihuSpider.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#net.java.dev.jna:jna
+6	#DEP#com.alibaba:fastjson
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#org.jsoup:jsoup
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#log4j:log4j
+12	#DEP#org.jetbrains:annotations-java5
+13	#DEP#org.projectlombok:lombok
+14	#DEP#junit:junit

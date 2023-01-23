@@ -1,0 +1,11 @@
+46	#DEP#javax.servlet:jsp-api
+47	#DEP#org.springframework:spring
+48	#DEP#org.ajaxtags:ajaxtags
+49	#DEP#dom4j:dom4j
+50	#DEP#org.safehaus.jug:jug
+51	#DEP#javax.transaction:jta
+52	#DEP#agrega:soporte
+53	#DEP#commons-jelly:commons-jelly-tags-interaction
+54	#DEP#commons-pool:commons-pool
+55	#DEP#javax.servlet:servlet-api
+56	#DEP#xerces:xercesImpl

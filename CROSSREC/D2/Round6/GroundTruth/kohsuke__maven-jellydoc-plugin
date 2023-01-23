@@ -1,0 +1,7 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.apache.maven.reporting:maven-reporting-impl
+1	#DEP#com.sun.xml.txw2:txw2
+1	#DEP#net.java.dev.textile-j:textile-j
+1	#DEP#${project.groupId}:taglib-xml-writer
+1	#DEP#${project.groupId}:jellydoc-annotations
+1	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,17 @@
+1	git://github.com/jenkinsci/performance-plugin.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+5	#DEP#org.jenkins-ci.plugins:structs
+6	#DEP#org.apache.commons:commons-csv
+7	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+8	#DEP#net.sf.ucanaccess:ucanaccess
+9	#DEP#net.java.dev.jna:jna
+10	#DEP#com.google.code.gson:gson
+11	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+12	#DEP#org.easymock:easymockclassextension
+13	#DEP#org.jenkins-ci.plugins:plugin
+14	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+15	#DEP#org.powermock:powermock-api-mockito
+16	#DEP#com.google.guava:guava
+17	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps

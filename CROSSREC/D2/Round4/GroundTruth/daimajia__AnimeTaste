@@ -1,0 +1,4 @@
+1	#DEP#:libraries
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.github.johnpersano:supertoasts
+1	#DEP#fr.baloomba:viewpagerindicator

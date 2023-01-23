@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.jooq:jooq-codegen
+1	#DEP#org.springframework.boot:spring-boot-starter-jooq
+1	#DEP#org.springframework:spring-test
+1	#DEP#com.google.guava:guava
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

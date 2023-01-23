@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-configuration:commons-configuration	1.0
+#DEP#com.tinkerpop.blueprints:blueprints-core	1.0
+#DEP#com.tinkerpop.blueprints:blueprints-sparksee-graph	1.0
+#DEP#com.tinkerpop.rexster:rexster-core	1.0
+#DEP#org.codehaus.jettison:jettison	1.0
+#DEP#org.openrdf.sesame:sesame-sail-memory	1.0
+#DEP#net.fortytwo.sesametools:repository-sail	1.0
+#DEP#com.sparsity:sparkseejava	1.0
+#DEP#org.openrdf.sesame:sesame-sail-api	1.0

@@ -1,0 +1,6 @@
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#com.taobao.android:weexplugin-processor
+1	#DEP#com.taobao.android:weexplugin-annotation
+1	#DEP#com.taobao.android:weex_inspector
+1	#DEP#com.journeyapps:zxing-android-embedded
+1	#DEP#com.squareup.okio:okio

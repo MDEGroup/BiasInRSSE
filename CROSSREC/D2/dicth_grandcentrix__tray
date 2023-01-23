@@ -1,0 +1,9 @@
+1	git://github.com/grandcentrix/tray.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.google.dexmaker:dexmaker-mockito
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.google.dexmaker:dexmaker
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support.test:runner
+9	#DEP#io.reactivex:rxjava

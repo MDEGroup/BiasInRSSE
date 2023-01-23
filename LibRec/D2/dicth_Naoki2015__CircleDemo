@@ -1,0 +1,16 @@
+1	git://github.com/Naoki2015/CircleDemo.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#pub.devrel:easypermissions
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#com.nostra13.universalimageloader:universal-image-loader
+10	#DEP#com.malinskiy:superrecyclerview
+11	#DEP#com.mikhaellopez:circularprogressbar
+12	#DEP#com.google.dagger:dagger-compiler
+13	#DEP#com.github.bumptech.glide:glide
+14	#DEP#com.android.support:support-v4
+15	#DEP#junit:junit
+16	#DEP#com.github.chrisbanes:PhotoView

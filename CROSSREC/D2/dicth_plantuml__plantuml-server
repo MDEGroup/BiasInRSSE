@@ -1,0 +1,11 @@
+1	git://github.com/plantuml/plantuml-server.git
+2	#DEP#org.webjars:codemirror
+3	#DEP#org.eclipse.jetty.aggregate:jetty-all
+4	#DEP#rhino:js
+5	#DEP#net.sourceforge.plantuml:plantuml
+6	#DEP#httpunit:httpunit
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#javax.servlet:jstl
+9	#DEP#org.mortbay.jetty:jsp-2.1-glassfish
+10	#DEP#HTTPClient:HTTPClient
+11	#DEP#junit:junit

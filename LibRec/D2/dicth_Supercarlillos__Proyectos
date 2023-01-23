@@ -1,0 +1,17 @@
+1	git://github.com/Supercarlillos/Proyectos.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#javax.inject:javax.inject
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.springframework:spring
+6	#DEP#com.google.android:android
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#javassist:javassist
+9	#DEP#org.azeckoski:reflectutils
+10	#DEP#org.springframework:spring-jdbc
+11	#DEP#commons-lang:commons-lang
+12	#DEP#org.aspectj:aspectjweaver
+13	#DEP#org.hibernate:hibernate-core
+14	#DEP#org.springframework:spring-test
+15	#DEP#log4j:log4j
+16	#DEP#aspectj:aspectjweaver
+17	#DEP#junit:junit

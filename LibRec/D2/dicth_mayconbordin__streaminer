@@ -1,0 +1,15 @@
+1	git://github.com/mayconbordin/streaminer.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#org.apache.mahout:mahout-math
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.apache.mahout:mahout-core
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#it.unimi.dsi:fastutil
+10	#DEP#commons-codec:commons-codec
+11	#DEP#net.sf.supercsv:super-csv
+12	#DEP#colt:colt
+13	#DEP#com.google.guava:guava
+14	#DEP#org.jblas:jblas
+15	#DEP#junit:junit

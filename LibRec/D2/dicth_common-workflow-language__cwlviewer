@@ -1,0 +1,14 @@
+1	git://github.com/common-workflow-language/cwlviewer.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.github.jabbalaci:graphviz-java-api
+4	#DEP#org.apache.taverna.language:taverna-robundle
+5	#DEP#org.apache.jena:jena-osgi
+6	#DEP#org.yaml:snakeyaml
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.eclipse.jgit:org.eclipse.jgit
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+13	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+14	#DEP#com.github.jsonld-java:jsonld-java

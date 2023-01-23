@@ -1,0 +1,15 @@
+1	#DEP#com.twogoods.tiny4j:core
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.apache.logging.log4j:log4j-web
+1	#DEP#org.apache.tomcat.embed:tomcat-embed-core
+1	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+1	#DEP#org.apache.tomcat:tomcat-jdbc
+1	#DEP#org.apache.logging.log4j:log4j-jcl
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.apache.tomcat:tomcat-jsp-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator
+1	#DEP#cglib:cglib

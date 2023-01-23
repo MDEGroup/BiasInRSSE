@@ -1,0 +1,11 @@
+1	git://github.com/powertac/powertac-tools.git
+2	#DEP#org.powertac:server-master
+3	#DEP#com.googlecode.json-simple:json-simple
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#org.powertac:balancing-market
+6	#DEP#org.powertac:powertac-server
+7	#DEP#net.sf.jopt-simple:jopt-simple
+8	#DEP#junit:junit
+9	#DEP#joda-time:joda-time
+10	#DEP#org.apache.johnzon:johnzon-core
+11	#DEP#org.powertac:logtool-core

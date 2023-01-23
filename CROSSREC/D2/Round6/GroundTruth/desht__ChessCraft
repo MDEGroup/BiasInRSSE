@@ -1,0 +1,6 @@
+1	#DEP#org.bukkit:bukkit
+1	#DEP#me.desht:dhutils-lib
+1	#DEP#me.desht:landslide
+1	#DEP#com.sk89q:worldedit
+1	#DEP#junit:junit
+1	#DEP#net.milkbowl.vault:VaultAPI

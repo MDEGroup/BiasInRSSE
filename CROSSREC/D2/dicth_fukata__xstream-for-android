@@ -1,0 +1,16 @@
+1	git://github.com/fukata/xstream-for-android.git
+2	#DEP#org.codehaus.woodstox:wstx-asl
+3	#DEP#xom:xom
+4	#DEP#stax:stax-api
+5	#DEP#dom4j:dom4j
+6	#DEP#com.megginson.sax:xml-writer
+7	#DEP#oro:oro
+8	#DEP#org.codehaus.jettison:jettison
+9	#DEP#joda-time:joda-time
+10	#DEP#commons-lang:commons-lang
+11	#DEP#cglib:cglib-nodep
+12	#DEP#org.jdom:jdom
+13	#DEP#stax:stax
+14	#DEP#xpp3:xpp3_min
+15	#DEP#jmock:jmock
+16	#DEP#junit:junit

@@ -1,0 +1,12 @@
+1	git://github.com/kbastani/javaone-2016.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#io.eventuate.client.java:eventuate-client-java-test-util
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#io.eventuate.local.java:eventuate-local-java-embedded-cdc-autoconfigure
+7	#DEP#io.eventuate.client.java:eventuate-client-java-spring
+8	#DEP#com.example:javaone-event-sourcing
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#com.example:microservices
+12	#DEP#io.eventuate.local.java:eventuate-local-java-jdbc

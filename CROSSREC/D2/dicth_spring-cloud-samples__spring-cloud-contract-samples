@@ -1,0 +1,16 @@
+1	git://github.com/spring-cloud-samples/spring-cloud-contract-samples.git
+2	#DEP#org.springframework.cloud:spring-cloud-contract-wiremock
+3	#DEP#org.springframework.cloud:spring-cloud-dependencies
+4	#DEP#org.springframework.cloud:spring-cloud-contract-spec
+5	#DEP#org.springframework.boot:spring-boot-starter
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#com.example:beer-api-producer-restdocs
+9	#DEP#org.springframework.boot:spring-boot-starter-test
+10	#DEP#org.springframework.cloud:spring-cloud-starter-contract-verifier
+11	#DEP#org.springframework.cloud:spring-cloud-starter-contract-stub-runner
+12	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+13	#DEP#org.springframework.cloud:spring-cloud-starter-stream-rabbit
+14	#DEP#com.example:beer-common
+15	#DEP#org.springframework.cloud:spring-cloud-stream-test-support
+16	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc

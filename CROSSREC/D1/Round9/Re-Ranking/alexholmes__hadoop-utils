@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#org.apache.thrift:libthrift	1.0
+#DEP#com.sun.jersey:jersey-json	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.sun.jersey:jersey-server	1.0
+#DEP#${project.parent.groupId}:flume-core	1.0
+#DEP#com.cloudera.zookeeper:zookeeper	1.0

@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.basepom:basepom-oss
+1	#DEP#com.pyx4j:maven-plugin-log4j
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#org.apache.maven.shared:maven-dependency-tree

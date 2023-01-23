@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.xerial:sqlite-jdbc	1.0
+#DEP#com.sparkjava:spark-template-freemarker	1.0
+#DEP#org.quartz-scheduler:quartz	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#com.sparkjava:spark-template-handlebars	1.0

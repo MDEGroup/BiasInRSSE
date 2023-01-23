@@ -1,0 +1,10 @@
+1	git://github.com/codekongs/FileExplorer.git
+2	#DEP#pub.devrel:easypermissions
+3	#DEP#com.jwenfeng.pulltorefresh:library
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#net.qiujuer.genius:ui
+6	#DEP#net.qiujuer.genius:res
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.android.support:design

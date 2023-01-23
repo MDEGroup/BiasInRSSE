@@ -1,0 +1,11 @@
+1	#DEP#eclipse:org.eclipse.acceleo.model
+1	#DEP#eclipse:org.eclipse.core.runtime.compatibility.registry
+1	#DEP#eclipse:org.eclipse.emf.ecore.xmi
+1	#DEP#eclipse:org.eclipse.core.resources
+1	#DEP#eclipse:org.eclipse.emf.ecore
+1	#DEP#eclipse:org.eclipse.equinox.common
+1	#DEP#eclipse:org.eclipse.core.contenttype
+1	#DEP#eclipse:org.eclipse.emf.codegen
+1	#DEP#eclipse:org.eclipse.acceleo.engine
+1	#DEP#eclipse:lpg.runtime.java
+1	#DEP#eclipse:org.eclipse.emf.codegen.ecore

@@ -1,0 +1,11 @@
+48	#DEP#org.eclipse.jetty:jetty-overlay-deployer
+49	#DEP#org.eclipse.jetty:jetty-servlet
+50	#DEP#org.mongodb:mongo-java-driver
+51	#DEP#org.eclipse.jetty:jetty-ajp
+52	#DEP#org.eclipse.jetty:jetty-webapp
+53	#DEP#org.eclipse.jetty:jetty-util
+54	#DEP#org.eclipse.jetty.tests:test-sessions-common
+55	#DEP#org.eclipse.jetty.orbit:javax.security.auth.message
+56	#DEP#org.eclipse.jetty.orbit:javax.servlet.jsp.jstl
+57	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper
+58	#DEP#org.eclipse.osgi:org.eclipse.osgi.services

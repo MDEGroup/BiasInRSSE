@@ -1,0 +1,7 @@
+1	#DEP#org.jboss.logging:jboss-logging-processor
+1	#DEP#org.jboss.osgi.spi:jbosgi-spi
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#junit:junit
+1	#DEP#org.jboss.osgi.resolver:jbosgi-resolver-parent
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.jboss.logmanager:jboss-logmanager

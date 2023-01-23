@@ -1,0 +1,9 @@
+1	git://github.com/material-motion/material-motion-android.git
+2	#DEP#com.github.material-motion:indefinite-observable-android
+3	#DEP#com.github.material-motion:gestures-android
+4	#DEP#org.mockito:mockito-core
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.github.material-motion:physics-android
+7	#DEP#junit:junit
+8	#DEP#pl.droidsonroids.gif:android-gif-drawable
+9	#DEP#com.google.truth:truth

@@ -1,0 +1,11 @@
+1	git://github.com/up1/demo-service.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#com.moelholm:prometheus-spring-boot-starter
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.apache.commons:commons-dbcp2
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.springframework.boot:spring-boot-starter-actuator
+11	#DEP#com.h2database:h2

@@ -1,0 +1,10 @@
+#DEP#com.google.guava:guava	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#net.sf.jopt-simple:jopt-simple	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#junit:junit-dep	1.0
+#DEP#org.avaje:ebean	1.0
+#DEP#jline:jline	1.0
+#DEP#co.aikar:minecraft-timings	1.0
+#DEP#org.bukkit:minecraft-server	1.0
+#DEP#net.kyori:text	1.0

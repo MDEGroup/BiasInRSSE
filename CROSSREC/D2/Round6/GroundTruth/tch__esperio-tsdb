@@ -1,0 +1,6 @@
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#com.espertech:esperio-csv
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.jboss.netty:netty
+1	#DEP#junit:junit
+1	#DEP#com.stumbleupon.async:async

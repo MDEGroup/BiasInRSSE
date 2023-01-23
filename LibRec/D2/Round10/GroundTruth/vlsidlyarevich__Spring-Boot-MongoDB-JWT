@@ -1,0 +1,7 @@
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#junit:junit

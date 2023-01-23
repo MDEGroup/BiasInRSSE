@@ -1,0 +1,5 @@
+1	#DEP#javax:javaee-web-api
+1	#DEP#javax.batch:javax.batch-api
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-testing

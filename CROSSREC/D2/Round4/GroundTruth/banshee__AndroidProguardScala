@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#com.restphone:com.restphone.androidproguardscala.parent
+1	#DEP#com.restphone:androidproguardscalalib_2.11
+1	#DEP#org.ow2.asm:asm

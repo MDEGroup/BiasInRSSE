@@ -1,0 +1,7 @@
+1	#DEP#hsqldb:hsqldb
+1	#DEP#javax.transaction:jta
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.hibernate:hibernate
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#junit:junit

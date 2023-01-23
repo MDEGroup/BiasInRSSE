@@ -1,0 +1,9 @@
+1	git://github.com/spotify/android-auth.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.spotify.android:auth
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:customtabs
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

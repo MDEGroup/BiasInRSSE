@@ -1,0 +1,6 @@
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#com.esotericsoftware.reflectasm:reflectasm
+1	#DEP#junit:junit

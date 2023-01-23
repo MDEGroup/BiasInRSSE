@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#cglib:cglib-nodep
+1	#DEP#KittyCache:KittyCache
+1	#DEP#com.amazonaws:aws-java-sdk
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit
+1	#DEP#org.unitils:unitils-mock

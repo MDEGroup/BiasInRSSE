@@ -1,0 +1,3 @@
+13	#DEP#org.springframework:spring-webmvc
+14	#DEP#ch.qos.logback:logback-classic
+15	#DEP#junit:junit

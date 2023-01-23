@@ -1,0 +1,12 @@
+1	git://github.com/loicfrering/jersey-spring-security.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring-test
+4	#DEP#com.sun.jersey.contribs:jersey-spring
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#org.springframework.security:spring-security-web
+7	#DEP#org.springframework.security:spring-security-core
+8	#DEP#org.springframework.security:spring-security-config
+9	#DEP#junit:junit
+10	#DEP#cglib:cglib
+11	#DEP#com.sun.jersey:jersey-server
+12	#DEP#org.eclipse.jetty:jetty-servlet

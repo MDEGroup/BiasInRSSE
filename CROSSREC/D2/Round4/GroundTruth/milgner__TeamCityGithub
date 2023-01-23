@@ -1,0 +1,4 @@
+1	#DEP#org.codehaus.jackson:jackson-core-lgpl
+1	#DEP#com.marcusilgner:ghcity
+1	#DEP#org.jetbrains.teamcity:server-api
+1	#DEP#org.jetbrains.teamcity:tests-support

@@ -1,0 +1,11 @@
+1	git://github.com/yvigara/opennms-pmacct.git
+2	#DEP#org.opennms:opennms-services
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.opennms.dependencies:castor-dependencies
+5	#DEP#org.opennms:opennms-model
+6	#DEP#org.opennms:opennms-util
+7	#DEP#org.easymock:easymock
+8	#DEP#org.opennms:opennms
+9	#DEP#org.opennms:opennms-config
+10	#DEP#org.opennms:opennms-config-utils
+11	#DEP#junit:junit

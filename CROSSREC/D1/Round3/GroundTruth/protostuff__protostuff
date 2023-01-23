@@ -1,0 +1,7 @@
+29	#DEP#io.protostuff:protostuff-yaml
+30	#DEP#org.mockito:mockito-core
+31	#DEP#io.protostuff:protostuff-compiler
+32	#DEP#junit:junit
+33	#DEP#org.openjdk.jmh:jmh-core
+34	#DEP#org.apache.maven:maven-artifact
+35	#DEP#io.protostuff:protostuff-runtime-md

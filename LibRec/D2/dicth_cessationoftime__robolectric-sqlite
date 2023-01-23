@@ -1,0 +1,10 @@
+1	git://github.com/cessationoftime/robolectric-sqlite.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.mockito:mockito-core
+4	#DEP#com.google.android:android
+5	#DEP#com.pivotallabs:robolectric
+6	#DEP#org.objenesis:objenesis
+7	#DEP#com.google.android.maps:maps
+8	#DEP#junit:junit
+9	#DEP#org.xerial:sqlite-jdbc
+10	#DEP#org.hamcrest:hamcrest-core

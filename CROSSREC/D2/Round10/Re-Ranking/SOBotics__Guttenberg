@@ -1,0 +1,10 @@
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.optimaize.languagedetector:language-detector	1.0
+#DEP#javax.json:javax.json-api	1.0
+#DEP#com.atlassian.commonmark:commonmark	1.0
+#DEP#org.tallison:jmatio	1.0
+#DEP#org.gagravarr:vorbis-java-tika	1.0
+#DEP#edu.ucar:httpservices	1.0
+#DEP#org.apache.tika:tika-batch	1.0

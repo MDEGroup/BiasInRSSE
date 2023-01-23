@@ -1,0 +1,11 @@
+1	git://github.com/LendingClub/mercator.git
+2	#DEP#jaxen:jaxen
+3	#DEP#com.github.docker-java:docker-java
+4	#DEP#com.thoughtworks.proxytoys:proxytoys
+5	#DEP#cglib:cglib-nodep
+6	#DEP#org.jdom:jdom2
+7	#DEP#org.mockito:mockito-core
+8	#DEP#dnsjava:dnsjava
+9	#DEP#org.kohsuke:github-api
+10	#DEP#io.fabric8:kubernetes-client
+11	#DEP#com.vmware:vijava

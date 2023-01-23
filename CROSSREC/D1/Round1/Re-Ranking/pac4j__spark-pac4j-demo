@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.pac4j:pac4j-oauth	1.0
+#DEP#junit:junit	1.0
+#DEP#org.projectlombok:lombok	1.0
+#DEP#io.vertx:vertx-auth-common	1.0
+#DEP#io.vertx:vertx-web	1.0
+#DEP#org.javalite:javalite-common	1.0
+#DEP#org.minnal:minnal-utils	1.0
+#DEP#org.activejpa:activejpa-core	1.0

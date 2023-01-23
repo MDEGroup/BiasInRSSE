@@ -1,0 +1,11 @@
+1	git://github.com/thiagoalz/Hermeto.git
+2	#DEP#net.thiagoalz.hermeto:AndroidClient
+3	#DEP#net.thiagoalz.hermeto:AndroidMainApp
+4	#DEP#net.thiagoalz.hermeto:AndroidClientApp
+5	#DEP#org.igniterealtime.smack:smack
+6	#DEP#com.google.android:android
+7	#DEP#com.google.android:android-test
+8	#DEP#android.future:usb
+9	#DEP#junit:junit
+10	#DEP#net.thiagoalz.hermeto:Hermeto
+11	#DEP#net.thiagoalz.hermeto:AndroidMain

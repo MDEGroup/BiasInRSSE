@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#com.turn:ttorrent	1.0

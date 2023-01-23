@@ -1,0 +1,7 @@
+29	#DEP#org.apache.commons:org.apache.commons
+30	#DEP#org.aspectj:org.aspectj
+31	#DEP#junit:junit
+32	#DEP#javax.xml.bind:javax.xml.bind
+33	#DEP#com.jcabi:jcabi-aspects
+34	#DEP#org.aspectj:aspectjrt
+35	#DEP#com.h2database:h2

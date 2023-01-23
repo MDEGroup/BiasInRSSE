@@ -1,0 +1,10 @@
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda	1.0
+#DEP#org.springframework:org.springframework.spring-library	1.0

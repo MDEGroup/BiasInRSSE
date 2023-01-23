@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.subethamail:subethasmtp-wiser
+1	#DEP#junit:junit
+1	#DEP#org.activiti:activiti-root
+1	#DEP#cglib:cglib
+1	#DEP#com.h2database:h2

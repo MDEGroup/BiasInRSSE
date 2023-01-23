@@ -1,0 +1,10 @@
+#DEP#org.powermock:powermock-api-easymock	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#com.jaspersoft.jasperserver:jasperserver-dto	1.0

@@ -1,0 +1,10 @@
+42	#DEP#com.google.code.findbugs:annotations
+43	#DEP#org.apache.tomcat:catalina-ha
+44	#DEP#org.apache.tomcat:tomcat-servlet-api
+45	#DEP#${project.groupId}:memcached-session-manager
+46	#DEP#com.esotericsoftware:kryo
+47	#DEP#de.javakaffee.msm:msm-javolution-serializer
+48	#DEP#de.javakaffee.msm:memcached-session-manager-tc7
+49	#DEP#org.slf4j:slf4j-log4j12
+50	#DEP#org.mockito:mockito-core
+51	#DEP#javax.servlet:servlet-api

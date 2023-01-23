@@ -1,0 +1,4 @@
+17	#DEP#javax.servlet:javax.servlet-api
+18	#DEP#ch.qos.logback:logback-classic
+19	#DEP#io.undertow:undertow-servlet
+20	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-inmemory

@@ -1,0 +1,8 @@
+36	#DEP#javax.servlet:servlet-api
+37	#DEP#javax.servlet:jstl
+38	#DEP#org.eclipse.jetty:jetty-webapp
+39	#DEP#org.eclipse.jetty:jetty-util
+40	#DEP#junit:junit
+41	#DEP#org.vedantatree.expressionoasis:expressionoasis
+42	#DEP#org.aspectj:aspectjrt
+43	#DEP#cglib:cglib

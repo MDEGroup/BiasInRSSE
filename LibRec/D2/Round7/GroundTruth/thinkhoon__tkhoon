@@ -1,0 +1,6 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#commons-collections:commons-collections
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

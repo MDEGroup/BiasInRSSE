@@ -1,0 +1,12 @@
+1	git://github.com/ChineseLincoln/Dagger2Mvp.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#org.ligboy.retrofit2:converter-fastjson-android
+5	#DEP#com.squareup.retrofit2:adapter-rxjava
+6	#DEP#com.squareup.okhttp3:logging-interceptor
+7	#DEP#com.squareup.retrofit2:retrofit
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#io.reactivex:rxjava
+11	#DEP#com.google.dagger:dagger
+12	#DEP#io.reactivex:rxandroid

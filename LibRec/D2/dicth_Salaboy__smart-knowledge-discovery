@@ -1,0 +1,15 @@
+1	git://github.com/Salaboy/smart-knowledge-discovery.git
+2	#DEP#org.hibernate:hibernate-entitymanager
+3	#DEP#com.google.gwt:gwt-user
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.springframework:spring-orm
+6	#DEP#org.codehaus.groovy:groovy-all
+7	#DEP#com.google.gwt:gwt-servlet
+8	#DEP#com.plugtree.smartknowledgediscovery:knowledge-discovery-model
+9	#DEP#com.plugtree.smartknowledgediscovery:knowledge-discovery-core
+10	#DEP#org.hibernate.java-persistence:jpa-api
+11	#DEP#com.plugtree.smartknowledgediscovery:smart-knowledge-discovery-parent
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#aspectj:aspectjweaver
+14	#DEP#junit:junit
+15	#DEP#com.h2database:h2

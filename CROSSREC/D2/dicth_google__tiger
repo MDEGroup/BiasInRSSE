@@ -1,0 +1,9 @@
+1	git://github.com/google/tiger.git
+2	#DEP#com.sun.phobos:freemarker
+3	#DEP#com.google.guava:guava
+4	#DEP#com.google.code.findbugs:jsr305
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.google.auto.service:auto-service
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.google.dagger:dagger
+9	#DEP#org.jetbrains:annotations

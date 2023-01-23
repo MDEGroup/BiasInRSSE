@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit

@@ -1,0 +1,11 @@
+1	git://github.com/jboss-logging/jboss-logmanager.git
+2	#DEP#org.glassfish:javax.json
+3	#DEP#org.jboss:jboss-parent
+4	#DEP#org.jboss.byteman:byteman
+5	#DEP#org.jboss.byteman:byteman-submit
+6	#DEP#org.wildfly.common:wildfly-common
+7	#DEP#org.jboss.byteman:byteman-install
+8	#DEP#org.jboss.modules:jboss-modules
+9	#DEP#javax.json:javax.json-api
+10	#DEP#org.jboss.byteman:byteman-bmunit
+11	#DEP#junit:junit

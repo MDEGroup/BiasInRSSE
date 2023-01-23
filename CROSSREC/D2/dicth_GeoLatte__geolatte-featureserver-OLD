@@ -1,0 +1,14 @@
+1	git://github.com/GeoLatte/geolatte-featureserver-OLD.git
+2	#DEP#org.hibernatespatial:hibernate-spatial
+3	#DEP#org.hibernate:hibernate-c3p0
+4	#DEP#jaxen:jaxen
+5	#DEP#org.codehaus.jackson:jackson-mapper-lgpl
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.hibernatespatial:hibernate-spatial-postgis
+8	#DEP#org.postgis:postgis-jdbc
+9	#DEP#c3p0:c3p0
+10	#DEP#postgresql:postgresql
+11	#DEP#org.jboss.resteasy:resteasy-jaxrs
+12	#DEP#org.geolatte:geolatte-common-hibernate
+13	#DEP#log4j:log4j
+14	#DEP#junit:junit

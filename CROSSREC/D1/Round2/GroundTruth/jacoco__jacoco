@@ -1,0 +1,2 @@
+10	#DEP#jacoco:it-report-aggregate-customization
+11	#DEP#${project.groupId}:child1

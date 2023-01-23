@@ -1,0 +1,4 @@
+1	#DEP#org.mybatis:mybatis
+1	#DEP#io.dropwizard:dropwizard-db
+1	#DEP#org.mockito:mockito-all
+1	#DEP#com.cvent:cvent-parent

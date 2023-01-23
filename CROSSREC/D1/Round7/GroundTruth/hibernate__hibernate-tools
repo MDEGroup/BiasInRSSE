@@ -1,0 +1,4 @@
+19	#DEP#org.slf4j:slf4j-log4j12
+20	#DEP#org.hibernate:hibernate-tools-tests-common
+21	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+22	#DEP#org.hsqldb:hsqldb

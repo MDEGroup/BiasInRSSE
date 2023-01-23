@@ -1,0 +1,5 @@
+20	#DEP#org.apache.xmlrpc:xmlrpc-common
+21	#DEP#org.xbrlapi:xbrlapi-bdbxml
+22	#DEP#log4j:log4j
+23	#DEP#xerces:xercesImpl
+24	#DEP#junit:junit

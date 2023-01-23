@@ -1,0 +1,8 @@
+1	#DEP#com.wang.avi:library
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.google.ads.interactivemedia.v3:interactivemedia
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.google.android.exoplayer:extension-okhttp
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

@@ -1,0 +1,5 @@
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#io.grpc:grpc-stub
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.google.protobuf:protobuf-java

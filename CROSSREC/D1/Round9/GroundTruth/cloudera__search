@@ -1,0 +1,10 @@
+44	#DEP#org.kitesdk:kite-morphlines-all
+45	#DEP#org.apache.spark:spark-core_${scala.base.version}
+46	#DEP#org.slf4j:slf4j-log4j12
+47	#DEP#org.apache.tika:tika-core
+48	#DEP#com.cloudera.search:search-mr
+49	#DEP#org.mockito:mockito-core
+50	#DEP#org.apache.hadoop:hadoop-client
+51	#DEP#org.apache.avro:avro
+52	#DEP#org.apache.lucene:lucene-spatial
+53	#DEP#com.codahale.metrics:metrics-json

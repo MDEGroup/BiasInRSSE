@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.squareup.okhttp:okhttp	1.0
+#DEP#com.squareup:fest-android	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.noveogroup.android:android-logger	1.0
+#DEP#ru.finam:slf4j-gwt	1.0

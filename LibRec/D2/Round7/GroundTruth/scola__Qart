@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#com.google.zxing:core
+1	#DEP#com.journeyapps:zxing-android-embedded
+1	#DEP#pl.droidsonroids.gif:android-gif-drawable
+1	#DEP#com.android.support:design

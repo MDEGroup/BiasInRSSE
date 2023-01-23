@@ -1,0 +1,12 @@
+1	git://github.com/aerdy/Viger-PDF.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+5	#DEP#com.android.support:support-core-utils
+6	#DEP#io.reactivex.rxjava2:rxjava
+7	#DEP#com.squareup.retrofit2:retrofit
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.eftimoff:android-viewpager-transformers
+10	#DEP#junit:junit
+11	#DEP#com.nbsp:library
+12	#DEP#com.squareup.retrofit2:converter-gson

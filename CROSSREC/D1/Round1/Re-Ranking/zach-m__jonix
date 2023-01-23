@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.freemarker:freemarker	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.github.mangstadt:vinnie	1.0

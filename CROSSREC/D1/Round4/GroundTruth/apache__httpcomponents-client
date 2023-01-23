@@ -1,0 +1,4 @@
+20	#DEP#org.apache.httpcomponents.core5:httpcore5
+21	#DEP#org.apache.httpcomponents.core5:httpcore5-testing
+22	#DEP#org.mockito:mockito-core
+23	#DEP#org.apache.httpcomponents.core5:httpcore5-osgi

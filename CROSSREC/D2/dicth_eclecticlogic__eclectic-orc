@@ -1,0 +1,10 @@
+1	git://github.com/eclecticlogic/eclectic-orc.git
+2	#DEP#org.apache.orc:orc-core
+3	#DEP#org.javassist:javassist
+4	#DEP#cglib:cglib-nodep
+5	#DEP#org.antlr:stringtemplate
+6	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#org.testng:testng
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.codehaus.groovy:groovy-all

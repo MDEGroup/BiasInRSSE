@@ -1,0 +1,6 @@
+1	#DEP#org.holoeverywhere:parent
+1	#DEP#com.nineoldandroids:library
+1	#DEP#org.holoeverywhere:addon-preferences
+1	#DEP#android:android
+1	#DEP#org.holoeverywhere:addon-slider
+1	#DEP#com.google.android.gms:play-services

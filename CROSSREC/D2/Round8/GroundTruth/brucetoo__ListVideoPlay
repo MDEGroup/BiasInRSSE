@@ -1,0 +1,6 @@
+1	#DEP#com.joanzapata.android:base-adapter-helper
+1	#DEP#com.android.support:support-v4
+1	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.github.markzhai:blockcanary-android
+1	#DEP#junit:junit

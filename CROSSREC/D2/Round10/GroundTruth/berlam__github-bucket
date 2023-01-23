@@ -1,0 +1,6 @@
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit.junit
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.amazonaws:aws-lambda-java-events
+1	#DEP#junit:junit

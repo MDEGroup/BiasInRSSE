@@ -1,0 +1,9 @@
+40	#DEP#org.datanucleus:datanucleus-rdbms
+41	#DEP#org.eclipse.persistence:eclipselink
+42	#DEP#javax.enterprise:cdi-api
+43	#DEP#org.apache.openwebbeans:openwebbeans-web
+44	#DEP#log4j:log4j
+45	#DEP#javax.servlet:javax.servlet-api
+46	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+47	#DEP#org.hsqldb:hsqldb
+48	#DEP#org.apache.activemq:activemq-core

@@ -1,0 +1,6 @@
+1	#DEP#org.objectledge.maven.connectors:parent
+1	#DEP#junit:junit
+1	#DEP#org.objectledge.coral:coral-api
+1	#DEP#org.objectledge.coral:coral-datatypes
+1	#DEP#org.objectledge.maven.archetypes:parent
+1	#DEP#org.objectledge.maven.connectors.ckpackager:parent

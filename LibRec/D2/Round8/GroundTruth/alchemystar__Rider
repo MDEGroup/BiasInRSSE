@@ -1,0 +1,8 @@
+1	#DEP#com.alibaba:druid
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#junit:junit
+1	#DEP#org.osgi:org.osgi.core

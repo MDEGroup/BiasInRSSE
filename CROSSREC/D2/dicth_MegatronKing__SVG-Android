@@ -1,0 +1,9 @@
+1	git://github.com/MegatronKing/SVG-Android.git
+2	#DEP#jaxen:jaxen
+3	#DEP#commons-cli:commons-cli
+4	#DEP#com.android.support:support-annotations
+5	#DEP#com.github.megatronking:svg-support
+6	#DEP#dom4j:dom4j
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.github.megatronking:svg-generator

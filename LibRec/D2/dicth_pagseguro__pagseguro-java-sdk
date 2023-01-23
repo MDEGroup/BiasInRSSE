@@ -1,0 +1,11 @@
+1	git://github.com/pagseguro/pagseguro-java-sdk.git
+2	#DEP#com.github.klieber:phantomjs-maven-plugin
+3	#DEP#com.codeborne:phantomjsdriver
+4	#DEP#info.cukes:gherkin
+5	#DEP#org.seleniumhq.selenium:selenium-java
+6	#DEP#info.cukes:cucumber-core
+7	#DEP#info.cukes:cucumber-junit
+8	#DEP#info.cukes:cucumber-java
+9	#DEP#org.jboss.spec:jboss-javaee-7.0
+10	#DEP#junit:junit
+11	#DEP#br.com.uol.pagseguro:pagseguro-api

@@ -1,0 +1,9 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.android.support.test.espresso:espresso-idling-resource
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.json:json
+1	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test:runner

@@ -1,0 +1,15 @@
+1	git://github.com/qiscus/qiscus-sdk-android.git
+2	#DEP#com.trello:rxlifecycle-android
+3	#DEP#com.qiscus.utils:jupuk
+4	#DEP#org.greenrobot:eventbus
+5	#DEP#com.facebook.stetho:stetho
+6	#DEP#com.qiscus.mqtt:client
+7	#DEP#com.trello:rxlifecycle
+8	#DEP#com.qiscus.nirmana:nirmana
+9	#DEP#com.trello:rxlifecycle-components
+10	#DEP#com.qiscus.mqtt:android
+11	#DEP#com.schinizer:rxunfurl
+12	#DEP#com.qiscus.utils:manggil
+13	#DEP#io.reactivex:rxjava
+14	#DEP#io.reactivex:rxandroid
+15	#DEP#com.google.android:flexbox

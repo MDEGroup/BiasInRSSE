@@ -1,0 +1,6 @@
+26	#DEP#org:jaudiotagger
+27	#DEP#ch.qos.logback:logback-classic
+28	#DEP#commons-collections:commons-collections
+29	#DEP#xmlwise:xmlwise
+30	#DEP#junit:junit
+31	#DEP#com.h2database:h2

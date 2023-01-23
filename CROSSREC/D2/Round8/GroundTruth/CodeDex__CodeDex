@@ -1,0 +1,9 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.mikepenz:materialize
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.squareup.retrofit2:converter-moshi
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.airbnb.android:epoxy
+1	#DEP#com.mikepenz:fastadapter-commons
+1	#DEP#com.squareup.okio:okio

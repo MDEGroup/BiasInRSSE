@@ -1,0 +1,6 @@
+26	#DEP#org.jboss.seam.faces:seam-faces
+27	#DEP#javax.servlet:servlet-api
+28	#DEP#org.apache.struts:struts2-convention-plugin
+29	#DEP#javax.servlet:jstl
+30	#DEP#org.json:json
+31	#DEP#cglib:cglib

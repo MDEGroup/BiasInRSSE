@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#com.adobe.examples:htl	1.0
+#DEP#com.adobe.acs:acs-aem-commons-bundle	1.0
+#DEP#org.osgi:org.osgi.annotation	1.0

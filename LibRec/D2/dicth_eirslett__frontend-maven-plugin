@@ -1,0 +1,16 @@
+1	git://github.com/eirslett/frontend-maven-plugin.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.commons:commons-exec
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#org.codehaus.jackson:jackson-core-asl
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.sonatype.plexus:plexus-build-api
+10	#DEP#org.codehaus.jackson:jackson-mapper-asl
+11	#DEP#org.apache.maven:maven-plugin-api
+12	#DEP#org.apache.maven:maven-core
+13	#DEP#org.apache.commons:commons-compress
+14	#DEP#org.codehaus.plexus:plexus-utils
+15	#DEP#com.github.eirslett:frontend-plugin-core
+16	#DEP#com.github.eirslett:frontend-plugins

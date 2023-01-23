@@ -1,0 +1,13 @@
+1	git://github.com/ogibayashi/kafka-topic-exporter.git
+2	#DEP#org.apache.kafka:kafka-clients
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#com.fasterxml.jackson.core:jackson-databind
+5	#DEP#io.prometheus:simpleclient
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#com.fasterxml.jackson.core:jackson-core
+8	#DEP#io.prometheus:simpleclient_servlet
+9	#DEP#io.prometheus:simpleclient_hotspot
+10	#DEP#log4j:log4j
+11	#DEP#org.projectlombok:lombok
+12	#DEP#junit:junit
+13	#DEP#org.eclipse.jetty:jetty-servlet

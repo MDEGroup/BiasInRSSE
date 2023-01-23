@@ -1,0 +1,6 @@
+28	#DEP#org.eclipse.rdf4j:rdf4j-rio-n3
+29	#DEP#com.franz:agraph-java-client
+30	#DEP#javax.servlet:servlet-api
+31	#DEP#org.json:json
+32	#DEP#junit:junit
+33	#DEP#org.eclipse.rdf4j:rdf4j-rio-rdfxml

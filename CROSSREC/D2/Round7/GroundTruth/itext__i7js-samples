@@ -1,0 +1,14 @@
+1	#DEP#com.itextpdf:zugferd
+1	#DEP#com.itextpdf:io
+1	#DEP#com.itextpdf:sign
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.itextpdf:forms
+1	#DEP#com.itextpdf:kernel
+1	#DEP#com.itextpdf:itext-licensekey
+1	#DEP#com.itextpdf:examples
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#com.itextpdf:hyph
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

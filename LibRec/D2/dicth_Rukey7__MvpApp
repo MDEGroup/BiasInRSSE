@@ -1,0 +1,10 @@
+1	git://github.com/Rukey7/MvpApp.git
+2	#DEP#com.github.ybq:Android-SpinKit
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+5	#DEP#com.github.ctiao:DanmakuFlameMaster
+6	#DEP#tv.danmaku.ijk.media:ijkplayer-x86
+7	#DEP#tv.danmaku.ijk.media:ijkplayer-armv5
+8	#DEP#com.android.support:multidex
+9	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+10	#DEP#junit:junit

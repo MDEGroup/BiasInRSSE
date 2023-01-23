@@ -1,0 +1,11 @@
+1	git://github.com/blade-monitor/blade-monitor.git
+2	#DEP#blade-monitor:blade-monitor
+3	#DEP#jivesoftware:smack
+4	#DEP#commons-io:commons-io
+5	#DEP#blade-monitor:blade-monitor-core
+6	#DEP#com.google.gwt:gwt-user
+7	#DEP#log4j:log4j
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#com.google.gwt:gwt-servlet

@@ -1,0 +1,17 @@
+1	git://github.com/google/binnavi.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#xml-apis:xml-apis
+4	#DEP#org.postgresql:postgresql
+5	#DEP#org.apache.xmlgraphics:batik-svggen
+6	#DEP#org.python:jython-standalone
+7	#DEP#xml-apis:xml-apis-ext
+8	#DEP#org.apache.xmlgraphics:batik-util
+9	#DEP#org.apache.xmlgraphics:batik-dom
+10	#DEP#com.google.security.zynamics.binnavi:yfileswrap-obfuscated
+11	#DEP#com.jidesoft:jide-oss
+12	#DEP#org.w3c.css:sac
+13	#DEP#org.apache.xmlgraphics:batik-awt-util
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit
+16	#DEP#org.antlr:antlr
+17	#DEP#net.sf.proguard:proguard-anttask

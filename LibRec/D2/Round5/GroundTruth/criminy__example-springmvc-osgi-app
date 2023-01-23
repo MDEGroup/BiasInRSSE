@@ -1,0 +1,6 @@
+1	#DEP#net.sheenobu:net.sheenobu.osgi.tutorial.modules
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.ops4j.pax.web:pax-web-jsp
+1	#DEP#javax.servlet:com.springsource.javax.servlet
+1	#DEP#org.ops4j.pax.web:pax-web-service
+1	#DEP#net.sheenobu:net.sheenobu.osgi.tutorial

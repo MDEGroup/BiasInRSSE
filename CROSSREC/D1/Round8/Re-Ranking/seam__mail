@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#org.jboss.arquillian.junit:arquillian-junit-container	1.0
+#DEP#org.jboss.solder:solder-impl	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.jboss.arquillian.ajocado:org.jboss.arquillian.ajocado	1.0
+#DEP#org.jboss.seam.security:seam-security-external	1.0
+#DEP#org.jboss.seam.persistence:seam-persistence	1.0
+#DEP#org.jboss.weld:org.jboss.weld	1.0
+#DEP#org.jboss.seam.social:seam-social	1.0
+#DEP#org.apache.xbean:org.apache.xbean	1.0

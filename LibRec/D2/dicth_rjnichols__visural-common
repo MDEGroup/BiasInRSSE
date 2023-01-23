@@ -1,0 +1,16 @@
+1	git://github.com/rjnichols/visural-common.git
+2	#DEP#com.yahoo.platform.yui:yuicompressor
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.antlr:stringtemplate
+5	#DEP#org.springframework:spring-aop
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.springframework:spring-beans
+8	#DEP#org.mockito:mockito-all
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.springframework:spring-core
+11	#DEP#com.google.inject:guice
+12	#DEP#org.mozilla:rhino
+13	#DEP#org.springframework:spring-test
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#com.google.guava:guava
+16	#DEP#junit:junit

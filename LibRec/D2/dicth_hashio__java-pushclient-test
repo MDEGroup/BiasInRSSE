@@ -1,0 +1,14 @@
+1	git://github.com/hashio/java-pushclient-test.git
+2	#DEP#commons-discovery:commons-discovery
+3	#DEP#jp.a840.websocket:websocket-client
+4	#DEP#org.glassfish.grizzly:grizzly-websockets
+5	#DEP#org.slf4j:slf4j-log4j12
+6	#DEP#commons-lang:commons-lang
+7	#DEP#javax:javaee-api
+8	#DEP#jp.a840.push:subscriber-common
+9	#DEP#jp.a840.push:push
+10	#DEP#jp.a840.push:subscriber-websocket
+11	#DEP#log4j:log4j
+12	#DEP#jp.a840.push:subscriber-jms
+13	#DEP#junit:junit
+14	#DEP#jp.a840.push:subscriber-swing-annotations

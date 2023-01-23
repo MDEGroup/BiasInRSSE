@@ -1,0 +1,17 @@
+1	git://github.com/jolira/wicket-guicier.git
+2	#DEP#org.apache.wicket:wicket-core
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.eclipse.jetty:jetty-ajp
+5	#DEP#com.google.code.findbugs:jsr305
+6	#DEP#com.jolira:superpom
+7	#DEP#com.jolira:testing-tools
+8	#DEP#com.jolira:wicket-guicier
+9	#DEP#com.jolira:plugins
+10	#DEP#com.google.inject:guice
+11	#DEP#org.eclipse.jetty:jetty-server
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#com.google.inject.extensions:guice-servlet
+14	#DEP#org.eclipse.jetty:jetty-webapp
+15	#DEP#junit:junit
+16	#DEP#org.slf4j:slf4j-jdk14
+17	#DEP#com.jolira:wicket-guicier-parent

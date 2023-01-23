@@ -1,0 +1,4 @@
+1	#DEP#org.greenrobot:eventbus
+1	#DEP#com.facebook.android:facebook-android-sdk
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

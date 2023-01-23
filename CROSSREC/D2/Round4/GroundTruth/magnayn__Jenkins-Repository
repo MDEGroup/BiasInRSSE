@@ -1,0 +1,9 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.jenkins-ci.plugins:token-macro
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#com.nirima.jenkins.repository:pom
+1	#DEP#org.jenkins-ci.main:maven-plugin
+1	#DEP#junit:junit

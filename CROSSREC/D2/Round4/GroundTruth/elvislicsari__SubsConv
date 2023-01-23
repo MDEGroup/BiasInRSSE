@@ -1,0 +1,17 @@
+1	#DEP#org.datanucleus:datanucleus-jpa
+1	#DEP#com.google.appengine.orm:datanucleus-appengine
+1	#DEP#com.google.api.translate:com.google.api.translate
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#org.springframework:spring-beans
+1	#DEP#asm:asm
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.springframework:spring-orm
+1	#DEP#joda-time:joda-time
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs

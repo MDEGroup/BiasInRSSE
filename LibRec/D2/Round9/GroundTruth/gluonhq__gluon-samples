@@ -1,0 +1,13 @@
+1	#DEP#com.gluonhq:cloudlink-enterprise-sdk-javaee
+1	#DEP#postgresql:postgresql
+1	#DEP#javax:javaee-api
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.eclipse:yasson
+1	#DEP#org.glassfish.jersey.ext:jersey-mvc
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.glassfish.jersey.core:jersey-server
+1	#DEP#org.springframework.cloud:spring-cloud-cloudfoundry-connector
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#com.gluonhq:particle
+1	#DEP#org.webjars:jquery
+1	#DEP#com.gluonhq:cloudlink-enterprise-sdk-spring

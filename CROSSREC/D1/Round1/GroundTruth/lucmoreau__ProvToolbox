@@ -1,0 +1,8 @@
+36	#DEP#commons-collections:commons-collections
+37	#DEP#xerces:xercesImpl
+38	#DEP#com.sun.xml.bind:jaxb-impl
+39	#DEP#org.openprovenance.prov:ProvToolbox
+40	#DEP#org.openprovenance.prov:prov-dot
+41	#DEP#junit:junit
+42	#DEP#com.sun.xml.bind:jaxb-core
+43	#DEP#org.hsqldb:hsqldb

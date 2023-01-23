@@ -1,0 +1,12 @@
+1	git://github.com/guoyoujin/MyUpdateApk.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.squareup.okhttp3:logging-interceptor
+4	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+5	#DEP#com.squareup.okhttp3:okhttp
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.nineoldandroids:library
+9	#DEP#junit:junit
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

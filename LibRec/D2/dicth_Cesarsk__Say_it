@@ -1,0 +1,12 @@
+1	git://github.com/Cesarsk/Say_it.git
+2	#DEP#com.github.jetradarmobile:android-snowfall
+3	#DEP#com.github.fernandodev.easyratingdialog:easyratingdialog
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.github.deano2390:MaterialShowcaseView
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.google.firebase:firebase-core
+12	#DEP#com.google.firebase:firebase-ads

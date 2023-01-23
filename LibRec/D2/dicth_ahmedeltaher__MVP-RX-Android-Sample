@@ -1,0 +1,9 @@
+1	git://github.com/ahmedeltaher/MVP-RX-Android-Sample.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.squareup:otto
+6	#DEP#com.android.support:multidex
+7	#DEP#com.squareup.retrofit2:adapter-rxjava2
+8	#DEP#com.orhanobut:logger
+9	#DEP#junit:junit

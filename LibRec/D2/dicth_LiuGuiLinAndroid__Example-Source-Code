@@ -1,0 +1,9 @@
+1	git://github.com/LiuGuiLinAndroid/Example-Source-Code.git
+2	#DEP#com.github.PhilJay:MPAndroidChart
+3	#DEP#de.hdodenhof:circleimageview
+4	#DEP#com.squareup.retrofit2:retrofit
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.squareup.retrofit2:converter-gson

@@ -1,0 +1,11 @@
+46	#DEP#org.drools:drools-templates
+47	#DEP#javax.persistence:persistence-api
+48	#DEP#javax.transaction:jta
+49	#DEP#${project.groupId}:${app.context}-ear
+50	#DEP#org.slf4j:slf4j-log4j12
+51	#DEP#${project.groupId}:${app.context}-war
+52	#DEP#log4j:log4j
+53	#DEP#br.robson:jcommon
+54	#DEP#javax.servlet:servlet-api
+55	#DEP#commons-digester:commons-digester
+56	#DEP#org.apache.openejb:javaee-api

@@ -1,0 +1,15 @@
+1	git://github.com/davidmoten/rxjava2-extras.git
+2	#DEP#io.reactivex.rxjava2:rxjava
+3	#DEP#com.github.davidmoten:junit-extras
+4	#DEP#com.github.davidmoten:guava-mini
+5	#DEP#com.github.davidmoten:sonatype-parent
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+8	#DEP#org.mockito:mockito-core
+9	#DEP#log4j:log4j
+10	#DEP#io.reactivex:rxjava-string
+11	#DEP#com.google.guava:guava
+12	#DEP#com.esotericsoftware:kryo
+13	#DEP#junit:junit
+14	#DEP#io.reactivex:rxjava
+15	#DEP#org.openjdk.jmh:jmh-core

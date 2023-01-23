@@ -1,0 +1,13 @@
+1	#DEP#net.anzix.mux:commons-util
+1	#DEP#com.mucommander:j7zip
+1	#DEP#com.mucommander:com.ibm.icu4j
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#com.mucommander:org.apache.ant.bzip2
+1	#DEP#com.mucommander:com.sun.jna
+1	#DEP#com.mucommander:osx-eawt-stubs
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#net.anzix.mux:commons-conf
+1	#DEP#commons-collections:commons-collections
+1	#DEP#net.anzix.mux:muxcommander
+1	#DEP#net.anzix.mux:commons-io
+1	#DEP#com.mucommander:yanfs

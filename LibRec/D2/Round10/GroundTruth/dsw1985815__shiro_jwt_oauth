@@ -1,0 +1,14 @@
+1	#DEP#com.ibeetl:beetl
+1	#DEP#com.ibeetl:beetlsql
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.springframework.boot:spring-boot-test
+1	#DEP#org.apache.shiro:shiro-core
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#com.alibaba:druid
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

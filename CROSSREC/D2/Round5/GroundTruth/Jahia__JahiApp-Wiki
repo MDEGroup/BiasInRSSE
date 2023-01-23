@@ -1,0 +1,5 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.jahia.modules:jahia-modules
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.xwiki.platform:xwiki-core-rendering-parser-wikimodel
+1	#DEP#commons-lang:commons-lang

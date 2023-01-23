@@ -1,0 +1,11 @@
+1	git://github.com/adamfisk/littleshoot-p2p.git
+2	#DEP#org.littleshoot:xmpp
+3	#DEP#org.littleshoot:turn-client
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#com.barchart.udt:barchart-udt-bundle
+6	#DEP#org.littleshoot:littleshoot-ice
+7	#DEP#org.littleshoot:mina-port
+8	#DEP#org.littleshoot:util
+9	#DEP#org.littleshoot:parent
+10	#DEP#org.littleshoot:jlibtorrent
+11	#DEP#org.littleshoot:udt

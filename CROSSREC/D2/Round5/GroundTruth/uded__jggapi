@@ -1,0 +1,4 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

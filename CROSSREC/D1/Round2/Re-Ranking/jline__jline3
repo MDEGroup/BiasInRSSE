@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#jline:jline	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#org.eclipse.jetty:jetty-server	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#org.jmock:jmock-legacy	1.0
+#DEP#org.junithelper:junithelper-core	1.0
+#DEP#jmock:jmock-cglib	1.0

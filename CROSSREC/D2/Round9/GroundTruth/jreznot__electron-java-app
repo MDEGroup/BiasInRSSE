@@ -1,0 +1,5 @@
+1	#DEP#com.vaadin:vaadin-push
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#com.vaadin:vaadin-client-compiled
+1	#DEP#org.eclipse.jetty.websocket:websocket-server

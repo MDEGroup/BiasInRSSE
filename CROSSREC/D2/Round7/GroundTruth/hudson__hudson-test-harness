@@ -1,0 +1,6 @@
+1	#DEP#org.jvnet.mock-javamail:mock-javamail
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.easymock:easymock
+1	#DEP#org.jvnet.hudson.main:hudson
+1	#DEP#org.jvnet.hudson:htmlunit
+1	#DEP#junit:junit

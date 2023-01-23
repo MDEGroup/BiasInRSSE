@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.truth:truth	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#com.google.guava:com.google.guava	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.spotify:hamcrest	1.0
+#DEP#com.google.oauth-client:com.google.oauth-client	1.0
+#DEP#com.google.cloud.datastore:com.google.cloud.datastore	1.0
+#DEP#com.google.api-client:com.google.api-client	1.0

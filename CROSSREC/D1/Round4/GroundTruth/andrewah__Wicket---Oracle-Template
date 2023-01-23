@@ -1,0 +1,3 @@
+14	#DEP#log4j:log4j
+15	#DEP#org.apache.wicket:wicket-extensions
+16	#DEP#junit:junit

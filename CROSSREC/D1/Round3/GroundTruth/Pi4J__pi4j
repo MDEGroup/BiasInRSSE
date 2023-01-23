@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#com.pi4j:pi4j-device
+15	#DEP#org.osgi:org.osgi.core

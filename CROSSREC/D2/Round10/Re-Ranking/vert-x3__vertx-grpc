@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#io.vertx:vertx-unit	1.0
+#DEP#io.vertx:vertx-lang-groovy	1.0
+#DEP#io.vertx:vertx-lang-js	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#io.vertx:vertx-rx-java	1.0
+#DEP#io.vertx:vertx-lang-ruby	1.0
+#DEP#io.vertx:vertx-lang-kotlin	1.0
+#DEP#com.pszymczyk.consul:embedded-consul	1.0
+#DEP#io.vertx:vertx-service-factory	1.0

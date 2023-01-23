@@ -1,0 +1,11 @@
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.opensaml:xmltooling
+1	#DEP#xerces:xercesImpl
+1	#DEP#com.opensymphony:xwork
+1	#DEP#oauth.signpost:signpost-core
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit
+1	#DEP#org.apache.axis:axis-jaxrpc
+1	#DEP#axis:axis

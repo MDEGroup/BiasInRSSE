@@ -1,0 +1,2 @@
+11	#DEP#org.springframework.boot:spring-boot-starter-actuator
+12	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

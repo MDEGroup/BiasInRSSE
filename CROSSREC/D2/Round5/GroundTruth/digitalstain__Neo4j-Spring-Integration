@@ -1,0 +1,14 @@
+1	#DEP#org.springframework.data:spring-data-graph-core
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.neo4j:neo4j-lucene-index
+1	#DEP#org.springsource:transaction-log
+1	#DEP#com.experlog:xapool
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.springframework.data:spring-data-neo4j
+1	#DEP#com.atomikos:transactions
+1	#DEP#com.atomikos:transactions-osgi
+1	#DEP#org.neo4j.build:parent-central
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

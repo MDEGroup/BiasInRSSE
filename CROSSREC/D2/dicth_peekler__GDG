@@ -1,0 +1,9 @@
+1	git://github.com/peekler/GDG.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.android.gms:play-services-vision
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife

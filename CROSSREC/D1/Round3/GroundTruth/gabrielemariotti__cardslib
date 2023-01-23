@@ -1,0 +1,4 @@
+18	#DEP#com.android.support:support-v4
+19	#DEP#com.nhaarman.listviewanimations:lib-manipulation
+20	#DEP#se.emilsjolander:stickylistheaders
+21	#DEP#com.squareup.okhttp:okhttp-urlconnection

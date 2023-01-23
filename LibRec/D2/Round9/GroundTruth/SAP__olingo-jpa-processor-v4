@@ -1,0 +1,12 @@
+1	#DEP#org.eclipse.persistence:eclipselink
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.apache.olingo:odata-commons-api
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.sap.olingo:odata-jpa-annotation
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.sap.olingo:odata-jpa-metadata
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

@@ -1,0 +1,10 @@
+1	git://github.com/yodle/bayonet.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.crittercism.dexmaker:dexmaker
+4	#DEP#org.mockito:mockito-core
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.crittercism.dexmaker:dexmaker-dx
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.crittercism.dexmaker:dexmaker-mockito
+10	#DEP#com.google.dagger:dagger

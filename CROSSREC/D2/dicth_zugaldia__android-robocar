@@ -1,0 +1,14 @@
+1	git://github.com/zugaldia/android-robocar.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.jakewharton.timber:timber
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:design
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.google.android.things:androidthings
+10	#DEP#com.android.support:support-compat
+11	#DEP#org.nanohttpd:nanohttpd-webserver
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.android.support.constraint:constraint-layout
+14	#DEP#junit:junit

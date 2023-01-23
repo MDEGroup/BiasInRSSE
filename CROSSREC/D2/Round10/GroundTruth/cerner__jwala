@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#javax.el:javax.el-api
+1	#DEP#org.springframework.security:spring-security-ldap
+1	#DEP#org.springframework.security:spring-security-test
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,10 @@
+1	git://github.com/KayLerch/alexa-xmas-tree.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#com.amazonaws:aws-java-sdk-iot
+4	#DEP#com.amazonaws:aws-java-sdk-dynamodb
+5	#DEP#io.klerch:alexa-skills-kit-tellask-java
+6	#DEP#com.amazonaws:aws-lambda-java-log4j
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#junit:junit
+9	#DEP#com.amazonaws:aws-lambda-java-core
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations

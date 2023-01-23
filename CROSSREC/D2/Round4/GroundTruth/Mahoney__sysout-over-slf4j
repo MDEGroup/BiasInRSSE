@@ -1,0 +1,10 @@
+1	#DEP#${project.groupId}:sysout-over-slf4j-context
+1	#DEP#uk.org.lidalia.sysout-over-slf4j:sysout-over-slf4j-parent
+1	#DEP#uk.org.lidalia.sysout-over-slf4j:sysout-over-slf4j-webapps
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#log4j:log4j
+1	#DEP#${project.groupId}:webapp-with-jdk14
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#uk.org.lidalia:lidalia-lang
+1	#DEP#org.slf4j:slf4j-jdk14

@@ -1,0 +1,12 @@
+1	#DEP#org.ops4j:master
+1	#DEP#org.apache.maven.shared:file-management
+1	#DEP#org.apache.maven.archetype:maven-archetype-core
+1	#DEP#com.thoughtworks.qdox:qdox
+1	#DEP#plexus:plexus-utils
+1	#DEP#org.codehaus.plexus:plexus-compiler-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven.plugins:maven-eclipse-plugin
+1	#DEP#org.ops4j.pax:construct
+1	#DEP#${groupId}:${artifactId}
+1	#DEP#org.codehaus.plexus:plexus-compiler-manager
+1	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.hive:hive-exec	1.0
+#DEP#org.apache.hive:hive-serde	1.0
+#DEP#commons-dbcp:commons-dbcp	1.0
+#DEP#com.force.api:force-wsc	1.0
+#DEP#org.apache.hbase:hbase	1.0
+#DEP#org.mongodb:mongo-java-driver	1.0
+#DEP#org.eclipse:core.commands	1.0
+#DEP#net.sf.jacob-project:jacob	1.0

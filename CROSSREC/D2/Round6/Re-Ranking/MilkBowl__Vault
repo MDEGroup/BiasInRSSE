@@ -1,0 +1,10 @@
+#DEP#com.demievil.library:refreshlayout	1.0
+#DEP#com.github.andrzejchm.RESTMock:android	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#com.facebook.fresco:fresco	1.0
+#DEP#io.cereebro:cereebro-server-spring-boot-starter	1.0
+#DEP#io.cereebro:cereebro-core	1.0
+#DEP#com.github.florent37:picassopalette	1.0
+#DEP#io.cereebro:cereebro-spring	1.0
+#DEP#com.qiniu.pili:pili-android-qos	1.0
+#DEP#org.webjars:d3-plugins	1.0

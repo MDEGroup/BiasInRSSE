@@ -1,0 +1,10 @@
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-samples
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#org.springframework.boot:spring-boot-test-autoconfigure
+1	#DEP#com.h2database:h2

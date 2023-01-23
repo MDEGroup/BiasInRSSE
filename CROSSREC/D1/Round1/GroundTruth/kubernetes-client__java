@@ -1,0 +1,4 @@
+17	#DEP#io.kubernetes:client-java-api
+18	#DEP#com.google.guava:guava
+19	#DEP#io.swagger:swagger-annotations
+20	#DEP#junit:junit

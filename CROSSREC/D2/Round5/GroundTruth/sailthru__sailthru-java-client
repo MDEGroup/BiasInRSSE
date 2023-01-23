@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#com.google.collections:google-collections
+1	#DEP#junit:junit
+1	#DEP#com.google.code.gson:gson

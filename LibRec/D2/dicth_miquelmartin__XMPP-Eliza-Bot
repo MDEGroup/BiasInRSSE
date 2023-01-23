@@ -1,0 +1,9 @@
+1	git://github.com/miquelmartin/XMPP-Eliza-Bot.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#jivesoftware:smack
+4	#DEP#log4j:log4j
+5	#DEP#jivesoftware:smackx-debug
+6	#DEP#org.socialblend.eliza:Parent
+7	#DEP#junit:junit
+8	#DEP#hayden:Eliza
+9	#DEP#jivesoftware:smackx

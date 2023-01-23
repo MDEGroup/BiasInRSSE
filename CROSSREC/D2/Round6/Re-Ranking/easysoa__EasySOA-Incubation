@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.easysoa.registry.api:easysoa-remote-frascati-test	1.0
+#DEP#org.easysoa.registry:easysoa-registry-integration-base	1.0
+#DEP#org.apache.woden:woden-tool	1.0

@@ -1,0 +1,11 @@
+1	git://github.com/piomin/sample-spring-reactive.git
+2	#DEP#io.netty:netty-all
+3	#DEP#io.projectreactor.ipc:reactor-netty
+4	#DEP#org.springframework.boot.experimental:spring-boot-dependencies-web-reactive
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#pl.piomin.services:common
+7	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb-reactive
+8	#DEP#io.projectreactor.addons:reactor-test
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.springframework.boot.experimental:spring-boot-starter-web-reactive
+11	#DEP#pl.piomin.services:sample-spring-reactive

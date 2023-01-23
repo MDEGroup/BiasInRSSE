@@ -1,0 +1,17 @@
+72	#DEP#org.slf4j:slf4j-api
+73	#DEP#org.springframework:spring-jdbc
+74	#DEP#org.springframework:spring-oxm
+75	#DEP#joda-time:joda-time
+76	#DEP#org.slf4j:jcl-over-slf4j
+77	#DEP#org.springframework:spring-jms
+78	#DEP#mysql:mysql-connector-java
+79	#DEP#com.sun.faces:jsf-impl
+80	#DEP#org.springframework:spring-tx
+81	#DEP#org.hibernate:hibernate-core
+82	#DEP#${project.groupId}:analyzers-scm
+83	#DEP#${project.groupId}:ml
+84	#DEP#${project.groupId}:datastore
+85	#DEP#org.codehaus.jackson:jackson-core-asl
+86	#DEP#com.existanze.libraries:jsr303
+87	#DEP#javax.servlet:jstl
+88	#DEP#org.apache.activemq:activemq-core

@@ -1,0 +1,6 @@
+1	#DEP#org.apache.clerezza:rdf.core
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.apache.clerezza.commons-rdf:commons-rdf-impl-utils
+1	#DEP#org.apache.clerezza:rdf.jena.serializer
+1	#DEP#junit:junit
+1	#DEP#org.apache.clerezza:rdf.jena.sparql

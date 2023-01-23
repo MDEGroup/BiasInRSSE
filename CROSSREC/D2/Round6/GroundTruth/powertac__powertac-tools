@@ -1,0 +1,5 @@
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time
+1	#DEP#org.apache.johnzon:johnzon-core
+1	#DEP#org.powertac:logtool-core

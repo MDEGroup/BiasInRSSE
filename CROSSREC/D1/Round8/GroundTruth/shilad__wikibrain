@@ -1,0 +1,16 @@
+67	#DEP#org.jgrapht:jgrapht-core
+68	#DEP#org.apache.httpcomponents:httpclient
+69	#DEP#org.wikibrainapi:wikibrain-pageview
+70	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+71	#DEP#org.apache.commons:commons-lang3
+72	#DEP#com.google.code.gson:gson
+73	#DEP#org.geotools:gt-jdbc
+74	#DEP#net.sourceforge.jeval:jeval
+75	#DEP#org.jsoup:jsoup
+76	#DEP#org.wikibrainapi:wikibrain-wikidata
+77	#DEP#com.sun.corba:glassfish-corba-idlj
+78	#DEP#org.jooq:jooq-codegen-maven
+79	#DEP#org.mockito:mockito-core
+80	#DEP#com.github.thiagolocatelli:parse4j
+81	#DEP#org.wikibrainapi:wikibrain-utils
+82	#DEP#org.wikibrainapi:wikibrain-spatial

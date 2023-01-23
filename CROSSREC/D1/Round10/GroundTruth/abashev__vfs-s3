@@ -1,0 +1,7 @@
+28	#DEP#org.slf4j:jcl-over-slf4j
+29	#DEP#org.apache.jackrabbit:jackrabbit-standalone
+30	#DEP#org.apache.mina:mina-core
+31	#DEP#ch.qos.logback:logback-classic
+32	#DEP#org.apache.hadoop:hadoop-common
+33	#DEP#org.apache.httpcomponents:httpcore-nio
+34	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	git://github.com/k55k32/cms-admin-end.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.apache.commons:commons-lang3
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#org.springframework.boot:spring-boot-starter-web
+6	#DEP#org.aspectj:aspectjweaver
+7	#DEP#com.alibaba:druid
+8	#DEP#javax.mail:mail
+9	#DEP#com.github.kevinsawicki:http-request
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.jooq:jooq-codegen
+12	#DEP#org.springframework.boot:spring-boot-starter-jooq
+13	#DEP#org.springframework:spring-test
+14	#DEP#com.google.guava:guava
+15	#DEP#commons-fileupload:commons-fileupload
+16	#DEP#junit:junit
+17	#DEP#org.aspectj:aspectjrt

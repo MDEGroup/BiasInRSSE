@@ -1,0 +1,6 @@
+1	#DEP#me.drakeet.multitype:multitype
+1	#DEP#in.srain.cube:ultra-ptr
+1	#DEP#com.tencent.bugly:crashreport
+1	#DEP#com.github.chrisbanes.photoview:library
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit

@@ -1,0 +1,4 @@
+1	#DEP#org.springframework.batch:spring-batch-core
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework:spring-core

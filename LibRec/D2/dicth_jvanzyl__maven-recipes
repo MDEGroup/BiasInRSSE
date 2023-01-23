@@ -1,0 +1,11 @@
+1	git://github.com/jvanzyl/maven-recipes.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.apache.commons:commons-io
+5	#DEP#org.springframework:spring-beans
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.apache.thrift:libthrift
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.springframework:spring-jdbc
+11	#DEP#org.apache.maven:maven-core

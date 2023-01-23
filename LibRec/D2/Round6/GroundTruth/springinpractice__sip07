@@ -1,0 +1,5 @@
+1	#DEP#${project.groupId}:com.springinpractice.api
+1	#DEP#${project.groupId}:com.springinpractice.deps-web
+1	#DEP#org.springframework.security:org.springframework.security.core
+1	#DEP#com.springinpractice:com.springinpractice.top
+1	#DEP#${project.groupId}:com.springinpractice.deps-hibernate

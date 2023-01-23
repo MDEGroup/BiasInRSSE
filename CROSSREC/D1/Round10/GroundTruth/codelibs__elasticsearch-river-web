@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#org.codelibs.fess:fess-crawler-es
+15	#DEP#org.codelibs.fess:fess-crawler-webdriver

@@ -1,0 +1,11 @@
+1	#DEP#org.springframework.social:spring-social-facebook
+1	#DEP#io.vertx:vertx-core
+1	#DEP#org.apache.ignite:ignite-core
+1	#DEP#org.apache.avro:avro-maven-plugin
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.apache.ignite:ignite-indexing
+1	#DEP#org.apache.avro:avro
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-framework-bom
+1	#DEP#org.springframework.boot:spring-boot-starter-undertow
+1	#DEP#com.h2database:h2

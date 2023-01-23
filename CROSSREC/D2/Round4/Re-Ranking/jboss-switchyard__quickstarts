@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.switchyard.components:switchyard-component-bean	1.0
+#DEP#org.switchyard:switchyard-validate	1.0
+#DEP#org.switchyard:switchyard-api	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#org.apache.cxf:cxf-rt-databinding-jaxb	1.0

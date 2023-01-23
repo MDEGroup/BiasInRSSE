@@ -1,0 +1,7 @@
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#commons-lang:commons-lang
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

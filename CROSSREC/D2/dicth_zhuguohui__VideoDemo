@@ -1,0 +1,10 @@
+1	git://github.com/zhuguohui/VideoDemo.git
+2	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.android.support:design
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

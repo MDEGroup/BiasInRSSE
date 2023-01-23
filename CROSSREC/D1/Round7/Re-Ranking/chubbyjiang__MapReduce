@@ -1,0 +1,10 @@
+#DEP#org.apache.hadoop:hadoop-hdfs	1.0
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#com.github.samtools:htsjdk	1.0

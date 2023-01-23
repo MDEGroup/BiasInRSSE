@@ -1,0 +1,17 @@
+1	git://github.com/dsyer/dist-tx.git
+2	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+3	#DEP#commons-io:commons-io
+4	#DEP#org.springframework.boot:spring-boot-starter-jta-atomikos
+5	#DEP#org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-configuration-processor
+8	#DEP#javax.jms:jms-api
+9	#DEP#org.springframework.boot:spring-boot-starter-test
+10	#DEP#org.apache.activemq:artemis-jms-server
+11	#DEP#org.springframework.boot:spring-boot-starter-amqp
+12	#DEP#org.springframework:spring-jms
+13	#DEP#org.apache.derby:derby
+14	#DEP#org.springframework.boot:spring-boot-starter-artemis
+15	#DEP#org.springframework.boot:spring-boot-starter-aop
+16	#DEP#org.hsqldb:hsqldb
+17	#DEP#org.apache.activemq:activemq-core

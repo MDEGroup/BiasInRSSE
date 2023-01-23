@@ -1,0 +1,12 @@
+1	git://github.com/wakaleo/maven-schemaspy-plugin.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.hamcrest:hamcrest-all
+5	#DEP#org.apache.derby:derby
+6	#DEP#hsqldb:hsqldb
+7	#DEP#junit:junit
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.apache.maven.shared:maven-plugin-testing-harness
+10	#DEP#postgresql:postgresql
+11	#DEP#org.apache.maven.reporting:maven-reporting-impl
+12	#DEP#net.sourceforge.jtds:jtds

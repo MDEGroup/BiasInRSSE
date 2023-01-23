@@ -1,0 +1,7 @@
+1	#DEP#com.github.rtyley:roboguice-sherlock
+1	#DEP#com.actionbarsherlock:parent-sample
+1	#DEP#org.easytesting:fest-assert-core
+1	#DEP#com.google.android:support-v4
+1	#DEP#${project.groupId}:actionbarsherlock
+1	#DEP#com.android.support:support-v4
+1	#DEP#junit:junit

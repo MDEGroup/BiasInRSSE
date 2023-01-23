@@ -1,0 +1,4 @@
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.apache.tomcat:jasper
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty:jetty-servlet

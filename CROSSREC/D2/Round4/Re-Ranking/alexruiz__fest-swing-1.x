@@ -1,0 +1,10 @@
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.easytesting:fest-assert-android	1.0
+#DEP#org.easytesting:fest-assertions-android	1.0
+#DEP#org.easytesting:fest-util-android	1.0

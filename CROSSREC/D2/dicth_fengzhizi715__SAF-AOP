@@ -1,0 +1,11 @@
+1	git://github.com/fengzhizi715/SAF-AOP.git
+2	#DEP#tony-common:tony-common-utils
+3	#DEP#com.safframework.injectview:saf-injectview
+4	#DEP#io.reactivex.rxjava2:rxandroid
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.safframework.log:saf-log
+7	#DEP#com.safframework.injectview:saf-injectview-compiler
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.safframework:saf-cache
+11	#DEP#org.aspectj:aspectjrt

@@ -1,0 +1,10 @@
+1	git://github.com/RealMoMo/FengHuangNews.git
+2	#DEP#com.squareup.retrofit2:converter-scalars
+3	#DEP#com.youth.banner:banner
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#in.srain.cube:ultra-ptr
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#com.android.support:design

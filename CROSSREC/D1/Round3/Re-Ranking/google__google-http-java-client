@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#org.datanucleus:datanucleus-rdbms	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.google.appengine:appengine-api-stubs	1.0
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.google.android:android	1.0
+#DEP#com.octo.android.robospice:robospice-cache	1.0
+#DEP#com.google.appengine:appengine-endpoints	1.0

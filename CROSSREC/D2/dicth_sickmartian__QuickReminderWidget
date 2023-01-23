@@ -1,0 +1,9 @@
+1	git://github.com/sickmartian/QuickReminderWidget.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#com.android.support:percent
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#net.danlew:android.joda
+6	#DEP#org.parceler:parceler
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support:design
+9	#DEP#org.parceler:parceler-api

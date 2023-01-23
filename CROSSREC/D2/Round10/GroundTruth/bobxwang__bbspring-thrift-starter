@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-actuator
+1	#DEP#org.springframework.cloud:spring-cloud-starter-sleuth
+1	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.apache.commons:commons-pool2
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#com.bb.experiment:bb-spring-related
+1	#DEP#com.bb.experiment:bbspring-thrift-starter

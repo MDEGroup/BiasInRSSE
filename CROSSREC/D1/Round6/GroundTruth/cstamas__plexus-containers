@@ -1,0 +1,5 @@
+20	#DEP#org.codehaus.plexus.components:component-a
+21	#DEP#jdom:jdom
+22	#DEP#xerces:xercesImpl
+23	#DEP#junit:junit
+24	#DEP#org.apache.xbean:xbean-reflect

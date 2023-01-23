@@ -1,0 +1,10 @@
+1	git://github.com/jdwittenauer/hadoop-training.git
+2	#DEP#org.apache.spark:spark-sql_${scala.tools.version}
+3	#DEP#org.apache.hbase:hbase-server
+4	#DEP#org.scala-lang:scala-library
+5	#DEP#org.apache.spark:spark-streaming_${scala.tools.version}
+6	#DEP#junit:junit
+7	#DEP#org.apache.mrunit:mrunit
+8	#DEP#org.apache.hbase:hbase-client
+9	#DEP#org.apache.spark:spark-mllib_${scala.tools.version}
+10	#DEP#org.apache.spark:spark-core_${scala.tools.version}

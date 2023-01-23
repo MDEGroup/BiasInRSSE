@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.springframework:spring-orm	1.0
+#DEP#commons-fileupload:commons-fileupload	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.jmock:jmock-junit4	1.0
+#DEP#com.baidu.ueditor:ueditor	1.0

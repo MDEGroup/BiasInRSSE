@@ -1,0 +1,6 @@
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+1	#DEP#org.jenkins-ci.lib.dtkit:dtkit-metrics-model
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.saxon:saxon
+1	#DEP#org.jenkins-ci.modules:sshd
+1	#DEP#org.jenkins-ci.lib.dtkit:dtkit-metrics-util

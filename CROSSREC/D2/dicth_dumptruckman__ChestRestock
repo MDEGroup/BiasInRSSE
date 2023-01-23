@@ -1,0 +1,9 @@
+1	git://github.com/dumptruckman/ChestRestock.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#com.dumptruckman.minecraft:BukkitPlugin
+5	#DEP#org.powermock:powermock-api-mockito
+6	#DEP#org.easymock:easymock
+7	#DEP#org.powermock:powermock-api-easymock
+8	#DEP#com.onarandombox.multiverseadventure:Multiverse-Adventure
+9	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	#DEP#org.lambda3.indra:indra-parent
+1	#DEP#org.mongodb:mongodb-driver
+1	#DEP#org.lambda3.indra:indra-mongo
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.lambda3.indra:indra-client
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson

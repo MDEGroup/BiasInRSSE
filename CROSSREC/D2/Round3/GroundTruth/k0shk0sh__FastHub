@@ -1,0 +1,12 @@
+1	#DEP#com.github.matthiasrobbers:shortbread-compiler
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.firebase:firebase-jobdispatcher
+1	#DEP#com.github.k0shk0sh:RetainedDateTimePickers
+1	#DEP#petrov.kristiyan:colorpicker-library
+1	#DEP#com.airbnb.android:lottie
+1	#DEP#com.github.GrenderG:Toasty
+1	#DEP#com.github.miguelbcr:RxBillingService
+1	#DEP#com.android.support.test:rules
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.jaredrummler:android-device-names

@@ -1,0 +1,9 @@
+1	git://github.com/dwt0317/Search_Adserver.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.apache.flume.flume-ng-clients:flume-ng-log4jappender
+4	#DEP#org.mariadb.jdbc:mariadb-java-client
+5	#DEP#com.alibaba:fastjson
+6	#DEP#junit:junit
+7	#DEP#org.apache.thrift:libthrift
+8	#DEP#org.apache.flume:flume-ng-core
+9	#DEP#org.elasticsearch:elasticsearch

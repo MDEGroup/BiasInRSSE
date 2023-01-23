@@ -1,0 +1,10 @@
+1	git://github.com/avram/zandy.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#com.google.zxing:android-integration
+5	#DEP#com.squareup:otto
+6	#DEP#com.android.support.test:orchestrator
+7	#DEP#junit:junit
+8	#DEP#com.android.support.test.espresso:espresso-intents
+9	#DEP#com.android.support.test:runner
+10	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,11 @@
+1	#DEP#com.xeiam.xchange:xchange-cavirtex
+1	#DEP#com.xeiam.xchange:xchange-btce
+1	#DEP#com.xeiam.xchart:xchart
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.xeiam.xchange:xchange-bitstamp
+1	#DEP#com.xeiam.xchange:xchange-campbx
+1	#DEP#com.google:bitcoinj
+1	#DEP#com.lambdaworks:scrypt
+1	#DEP#junit:junit
+1	#DEP#org.joda:joda-money
+1	#DEP#com.google.guava:guava-base

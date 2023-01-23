@@ -1,0 +1,17 @@
+1	#DEP#net.sourceforge.floggy:floggy-persistence-framework-impl
+1	#DEP#ant:ant
+1	#DEP#net.sourceforge.floggy:floggy
+1	#DEP#commons-logging:commons-logging
+1	#DEP#net.sourceforge.floggy:floggy-persistence-framework
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.microemu:cldcapi10
+1	#DEP#net.sourceforge.floggy:barbecue-calculator
+1	#DEP#org.floggy.3rd.org.eclipse.jdt:core
+1	#DEP#jboss:javassist
+1	#DEP#org.microemu:midpapi20
+1	#DEP#javax.microedition:midpapi
+1	#DEP#org.floggy.3rd.org.eclipse:osgi
+1	#DEP#junit:junit
+1	#DEP#org.floggy.3rd.org.eclipse.core:runtime
+1	#DEP#com.sun:bootclasspath
+1	#DEP#org.apache.bcel:bcel

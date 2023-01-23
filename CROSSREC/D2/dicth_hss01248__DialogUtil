@@ -1,0 +1,11 @@
+1	git://github.com/hss01248/DialogUtil.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+4	#DEP#com.github.tianzhijiexian:logger
+5	#DEP#com.jakewharton.timber:timber
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.jakewharton:butterknife-compiler
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support:design

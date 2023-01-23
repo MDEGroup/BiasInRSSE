@@ -1,0 +1,4 @@
+17	#DEP#org.apache.ws.security:wss4j
+18	#DEP#com.google.guava:guava
+19	#DEP#junit:junit
+20	#DEP#org.apache.cxf:cxf-rt-core

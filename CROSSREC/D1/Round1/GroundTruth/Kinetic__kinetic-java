@@ -1,0 +1,5 @@
+23	#DEP#com.sleepycat:je
+24	#DEP#com.seagate.kinetic:kinetic-simulator
+25	#DEP#org.eclipse.jetty:jetty-webapp
+26	#DEP#com.leacox.process:process-warden
+27	#DEP#com.seagate.kinetic:kinetic-client

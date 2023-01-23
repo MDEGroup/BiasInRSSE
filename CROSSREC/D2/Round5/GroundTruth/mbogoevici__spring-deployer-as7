@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.snowdrop:snowdrop-vfs
+1	#DEP#org.springframework:spring-asm
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.jboss.snowdrop:snowdrop-deployers-common

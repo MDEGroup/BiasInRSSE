@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:trisos	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:mock	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:jennic	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:telosb	1.0
+#DEP#com.coalesenses:ieee-802.15.4-aes	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:parent	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:common	1.0
+#DEP#de.uniluebeck.itm.wsn-device-drivers:pacemate	1.0

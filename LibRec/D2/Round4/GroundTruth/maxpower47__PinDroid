@@ -1,0 +1,8 @@
+1	#DEP#com.artemzin.assert-parcelable:assert-parcelable
+1	#DEP#com.melnykov:floatingactionbutton
+1	#DEP#org.khronos:opengl-api
+1	#DEP#org.robolectric:shadows-support-v4
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner

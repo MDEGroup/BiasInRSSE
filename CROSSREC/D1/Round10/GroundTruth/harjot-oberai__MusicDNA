@@ -1,0 +1,6 @@
+28	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+29	#DEP#com.squareup.picasso:picasso
+30	#DEP#com.diogobernardino:williamchart
+31	#DEP#com.android.support:support-v4
+32	#DEP#bz.tsung.android:objectify
+33	#DEP#junit:junit

@@ -1,0 +1,3 @@
+13	#DEP#net.tomp2p:tomp2p-replication
+14	#DEP#junit:junit
+15	#DEP#net.tomp2p:tomp2p-android

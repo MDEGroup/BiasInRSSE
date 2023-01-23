@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-logging
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-amqp
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework.cloud:spring-cloud-cloudfoundry-connector
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.commons:commons-pool2
+1	#DEP#org.springframework.cloud:spring-cloud-connectors-core

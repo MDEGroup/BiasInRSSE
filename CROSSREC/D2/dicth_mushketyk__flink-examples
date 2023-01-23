@@ -1,0 +1,9 @@
+1	git://github.com/mushketyk/flink-examples.git
+2	#DEP#org.apache.flink:flink-clients_2.10
+3	#DEP#com.amazonaws:aws-java-sdk
+4	#DEP#org.apache.flink:flink-connector-twitter_2.10
+5	#DEP#org.apache.flink:flink-connector-wikiedits_2.10
+6	#DEP#org.apache.flink:flink-java
+7	#DEP#org.apache.flink:flink-streaming-java_2.10
+8	#DEP#org.apache.flink:flink-gelly_2.10
+9	#DEP#org.apache.hadoop:hadoop-aws

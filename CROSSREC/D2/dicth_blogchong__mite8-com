@@ -1,0 +1,13 @@
+1	git://github.com/blogchong/mite8-com.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+5	#DEP#cn.edu.hfut.dmic.webcollector:WebCollector
+6	#DEP#commons-dbcp:commons-dbcp
+7	#DEP#com.mite8:mite-bigdata
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#net.sf.json-lib:json-lib
+12	#DEP#org.ansj:ansj_seg
+13	#DEP#javax.servlet:jstl

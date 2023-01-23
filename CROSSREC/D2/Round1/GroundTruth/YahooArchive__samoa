@@ -1,0 +1,16 @@
+1	#DEP#org.apache.s4:s4-core
+1	#DEP#org.apache.samza:samza-core_2.10
+1	#DEP#net.jcip:jcip-annotations
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.dreizak:miniball
+1	#DEP#org.apache.samza:samza-kafka_2.10
+1	#DEP#org.apache.kafka:kafka_2.10
+1	#DEP#com.yammer.metrics:metrics-core
+1	#DEP#com.github.javacliparser:javacliparser
+1	#DEP#org.jmockit:jmockit
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#com.yahoo.labs.samoa:samoa-api
+1	#DEP#junit:junit
+1	#DEP#com.yahoo.labs.bcn.samoa:samoa-s4
+1	#DEP#com.yahoo.labs.samoa:samoa-instances
+1	#DEP#com.101tec:zkclient

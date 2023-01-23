@@ -1,0 +1,5 @@
+20	#DEP#org.apache.sshd:sshd-core
+21	#DEP#junit:junit
+22	#DEP#org.jenkins-ci.plugins:git-client
+23	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+24	#DEP#org.slf4j:slf4j-jdk14

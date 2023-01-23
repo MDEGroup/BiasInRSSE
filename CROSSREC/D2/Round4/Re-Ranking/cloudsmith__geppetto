@@ -1,0 +1,11 @@
+#DEP#org.eclipse.acceleo:org.eclipse.acceleo.parent	1.0
+#DEP#org.eclipse.acceleo:org.eclipse.acceleo-parent	1.0
+#DEP#org.eclipse.acceleo:org.eclipse.acceleo.parser	1.0
+#DEP#org.eclipse.acceleo:org.eclipse.acceleo.common	1.0
+#DEP#org.eclipse.acceleo:org.eclipse.acceleo.engine	1.0
+#DEP#org.eclipse.ocl:org.eclipse.ocl.ecore	1.0
+#DEP#${groupId}:${rootArtifactId}.parent	1.0
+#DEP#org.eclipse.ocl:org.eclipse.ocl	1.0
+#DEP#lpg.runtime.java:lpg.runtime.java	1.0
+#DEP#org.eclipse.acceleo:org.eclipse.acceleo.model	1.0
+#DEP#org.eclipse.ocl:org.eclipse.ocl.common	1.0

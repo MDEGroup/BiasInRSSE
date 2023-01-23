@@ -1,0 +1,14 @@
+1	git://github.com/ulisesbocchio/jasypt-spring-boot-samples.git
+2	#DEP#com.github.ulisesbocchio:jasypt-spring-boot-starter
+3	#DEP#org.jasypt:jasypt
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.github.ulisesbocchio:jasypt-spring-boot-samples-parent
+6	#DEP#com.github.ulisesbocchio:jasypt-spring-boot
+7	#DEP#org.springframework.boot:spring-boot-starter
+8	#DEP#org.springframework.boot:spring-boot-dependencies
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.springframework.boot:spring-boot-starter-security
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+13	#DEP#org.projectlombok:lombok
+14	#DEP#org.springframework.boot:spring-boot-maven-plugin

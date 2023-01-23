@@ -1,0 +1,10 @@
+1	git://github.com/jodastephen/compare-beangen.git
+2	#DEP#org.immutables:value
+3	#DEP#com.google.auto.value:auto-value
+4	#DEP#com.41concepts:valjogen-annotationprocessor
+5	#DEP#org.testng:testng
+6	#DEP#com.google.guava:guava
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.projectlombok:lombok
+9	#DEP#org.joda:joda-beans
+10	#DEP#org.pojomatic:pojomatic

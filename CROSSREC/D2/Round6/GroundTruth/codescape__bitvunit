@@ -1,0 +1,7 @@
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.seleniumhq.selenium:selenium-api
+1	#DEP#org.seleniumhq.selenium:selenium-htmlunit-driver
+1	#DEP#de.codescape.bitvunit:bitvunit-core
+1	#DEP#junit:junit
+1	#DEP#de.codescape.bitvunit:bitvunit-project

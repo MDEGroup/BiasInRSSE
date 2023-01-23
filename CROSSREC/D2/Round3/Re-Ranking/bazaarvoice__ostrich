@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#io.dropwizard:dropwizard-testing	1.0
+#DEP#io.dropwizard:dropwizard-core	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.slf4j:log4j-over-slf4j	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#au.com.dius:pact-jvm-provider-junit_2.11	1.0

@@ -1,0 +1,11 @@
+1	git://github.com/BelongsH/RedBook.git
+2	#DEP#com.hannesdorfmann:adapterdelegates3
+3	#DEP#jp.wasabeef:glide-transformations
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.squareup.picasso:picasso
+6	#DEP#com.github.bumptech.glide:glide
+7	#DEP#com.jakewharton.picasso:picasso2-okhttp3-downloader
+8	#DEP#junit:junit
+9	#DEP#com.nianxin:utils
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#com.jakewharton:butterknife

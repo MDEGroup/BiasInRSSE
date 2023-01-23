@@ -1,0 +1,4 @@
+16	#DEP#org.asynchttpclient:async-http-client
+17	#DEP#com.google.guava:guava
+18	#DEP#org.projectlombok:lombok
+19	#DEP#junit:junit

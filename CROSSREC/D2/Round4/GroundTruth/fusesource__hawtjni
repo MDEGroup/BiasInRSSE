@@ -1,0 +1,14 @@
+1	#DEP#org.apache.xbean:xbean-finder
+1	#DEP#org.apache.maven:maven-archiver
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.fusesource.hawtjni:hawtjni-project
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.fusesource.scalamd:scalamd
+1	#DEP#org.fusesource:fusesource-pom
+1	#DEP#log4j:log4j
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.plexus:plexus-interpolation
+1	#DEP#org.apache.maven:maven-artifact

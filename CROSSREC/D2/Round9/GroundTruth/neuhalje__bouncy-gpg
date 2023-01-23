@@ -1,0 +1,6 @@
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.code.findbugs:jsr305
+1	#DEP#junit:junit
+1	#DEP#org.concordion:concordion
+1	#DEP#name.neuhalfen.projects.crypto.bouncycastle.openpgp:bouncy-gpg

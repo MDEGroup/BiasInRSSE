@@ -1,0 +1,9 @@
+1	git://github.com/rhauch/modeshape-embedded-example.git
+2	#DEP#log4j:log4j
+3	#DEP#org.modeshape:modeshape-jcr
+4	#DEP#org.modeshape:modeshape-sequencer-cnd
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.modeshape:modeshape-connector-filesystem
+7	#DEP#junit:junit
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#javax.jcr:jcr

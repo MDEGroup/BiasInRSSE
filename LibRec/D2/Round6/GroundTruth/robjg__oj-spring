@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#uk.co.rgordon:oddjob
+1	#DEP#org.springframework:spring-orm
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

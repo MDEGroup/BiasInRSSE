@@ -1,0 +1,17 @@
+1	git://github.com/hjoest/maven-autotools.git
+2	#DEP#org.apache.maven:maven-archiver
+3	#DEP#net.sf.maven-autotools.tests:libshared-foo
+4	#DEP#net.sf.maven-autotools:maven-autotools
+5	#DEP#asm:asm-commons
+6	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+7	#DEP#org.apache.maven:maven-project
+8	#DEP#org.easymock:easymock
+9	#DEP#asm:asm
+10	#DEP#org.apache.maven:maven-plugin-api
+11	#DEP#net.sf.maven-autotools.tests:macros
+12	#DEP#org.codehaus.plexus:plexus-utils
+13	#DEP#net.sf.maven-autotools:maven-autotools-archetype
+14	#DEP#net.sf.maven-autotools.tests:libstatic-foo
+15	#DEP#junit:junit
+16	#DEP#net.sf.maven-autotools.tests:libraries
+17	#DEP#org.apache.maven:maven-artifact

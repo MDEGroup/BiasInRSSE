@@ -1,0 +1,6 @@
+1	#DEP#org.gatein:gatein-parent
+1	#DEP#org.rhq:rhq-core-plugin-api
+1	#DEP#org.gatein.management:portal-management
+1	#DEP#org.rhq:rhq-jmx-plugin
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14

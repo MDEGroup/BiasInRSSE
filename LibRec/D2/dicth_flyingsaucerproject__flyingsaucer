@@ -1,0 +1,13 @@
+1	git://github.com/flyingsaucerproject/flyingsaucer.git
+2	#DEP#com.itextpdf:itextpdf
+3	#DEP#com.github.librepdf:openpdf
+4	#DEP#org.xhtmlrenderer:flying-saucer-parent
+5	#DEP#net.sf.offo:fop-hyph
+6	#DEP#org.xhtmlrenderer:flying-saucer-swt
+7	#DEP#com.lowagie:itext
+8	#DEP#org.xhtmlrenderer:flying-saucer-pdf
+9	#DEP#log4j:log4j
+10	#DEP#org.xhtmlrenderer:flying-saucer-examples
+11	#DEP#org.apache.xmlgraphics:fop
+12	#DEP#junit:junit
+13	#DEP#org.xhtmlrenderer:flying-saucer-core

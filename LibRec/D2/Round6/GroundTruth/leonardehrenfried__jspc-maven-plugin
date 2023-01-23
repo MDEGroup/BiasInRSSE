@@ -1,0 +1,6 @@
+1	#DEP#org.apache.tomcat:tomcat-jasper
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-artifact

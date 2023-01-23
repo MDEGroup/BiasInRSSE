@@ -1,0 +1,10 @@
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#org.apache.maven.shared:maven-dependency-tree	1.0
+#DEP#org.codehaus.plexus:plexus-container-default	1.0
+#DEP#org.sonatype.plexus:plexus-build-api	1.0
+#DEP#org.codehaus.plexus:org.codehaus.plexus	1.0
+#DEP#org.codehaus.plexus:plexus-interactivity-api	1.0
+#DEP#org.codehaus.swizzle:swizzle-jirareport	1.0
+#DEP#org.apache.maven:maven-artifact-test	1.0

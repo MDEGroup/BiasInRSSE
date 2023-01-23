@@ -1,0 +1,10 @@
+1	git://github.com/grails/grails-core.git
+2	#DEP#org.asciidoctor:asciidoctorj
+3	#DEP#org.jsoup:jsoup
+4	#DEP#com.lowagie:itext
+5	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+6	#DEP#commons-fileupload:commons-fileupload
+7	#DEP#com.jfrog.bintray.gradle:gradle-bintray-plugin
+8	#DEP#com.netflix.nebula:gradle-extra-configurations-plugin
+9	#DEP#io.spring.gradle:dependency-management-plugin
+10	#DEP#com.h2database:h2

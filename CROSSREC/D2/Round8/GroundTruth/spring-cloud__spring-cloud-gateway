@@ -1,0 +1,15 @@
+1	#DEP#org.springframework.cloud:spring-cloud-dependencies-parent
+1	#DEP#org.springframework.cloud:spring-cloud-starter-gateway
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#org.springframework.cloud:spring-cloud-starter-netflix-hystrix
+1	#DEP#org.jetbrains.kotlin:kotlin-reflect
+1	#DEP#org.springframework.cloud:spring-cloud-starter-netflix-ribbon
+1	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.isomorphism:token-bucket
+1	#DEP#org.springframework.cloud:spring-cloud-gateway-mvc
+1	#DEP#org.springframework.cloud:spring-cloud-commons-dependencies
+1	#DEP#org.springframework.cloud:spring-cloud-gateway
+1	#DEP#org.springframework.cloud:spring-cloud-starter-netflix-eureka-client
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

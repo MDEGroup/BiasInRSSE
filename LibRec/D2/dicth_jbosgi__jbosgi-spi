@@ -1,0 +1,10 @@
+1	git://github.com/jbosgi/jbosgi-spi.git
+2	#DEP#org.jboss.logging:jboss-logging-processor
+3	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+4	#DEP#org.jboss.osgi.metadata:jbosgi-metadata
+5	#DEP#org.jboss.osgi.vfs:jbosgi-vfs30
+6	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+7	#DEP#org.jboss.logging:jboss-logging
+8	#DEP#org.jboss.osgi:jbosgi-parent
+9	#DEP#junit:junit
+10	#DEP#org.osgi:org.osgi.core

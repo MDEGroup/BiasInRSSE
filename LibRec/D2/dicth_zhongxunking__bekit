@@ -1,0 +1,9 @@
+1	git://github.com/zhongxunking/bekit.git
+2	#DEP#org.bekit:common
+3	#DEP#org.bekit:event
+4	#DEP#org.bekit:bekit
+5	#DEP#org.springframework.boot:spring-boot-autoconfigure
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.springframework:spring-tx

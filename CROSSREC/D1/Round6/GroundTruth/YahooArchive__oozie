@@ -1,0 +1,7 @@
+31	#DEP#javax.persistence:persistence-api
+32	#DEP#org.slf4j:slf4j-log4j12
+33	#DEP#postgresql:postgresql
+34	#DEP#commons-pool:commons-pool
+35	#DEP#log4j:log4j
+36	#DEP#com.yahoo.hadoop:hadoop-core
+37	#DEP#javax.servlet:servlet-api

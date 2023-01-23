@@ -1,0 +1,6 @@
+26	#DEP#com.sun.xml.bind:jaxb-impl
+27	#DEP#rome:rome
+28	#DEP#org.glassfish:javax.ejb
+29	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+30	#DEP#junit:junit
+31	#DEP#com.sun.jersey:jersey-fastinfoset

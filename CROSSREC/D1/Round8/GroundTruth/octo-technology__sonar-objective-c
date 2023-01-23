@@ -1,0 +1,3 @@
+14	#DEP#org.codehaus.sonar.plugins:sonar-surefire-plugin
+15	#DEP#org.codehaus.sonar.sslr:sslr-testing-harness
+16	#DEP#junit:junit

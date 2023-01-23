@@ -1,0 +1,9 @@
+40	#DEP#net.sourceforge.plantuml:plantuml
+41	#DEP#com.commercetools.sdk.jvm.core:commercetools-java-client
+42	#DEP#ch.qos.logback:logback-classic
+43	#DEP#com.google.testing.compile:compile-testing
+44	#DEP#${project.groupId}:sdk-http-ahc-2_0
+45	#DEP#${project.groupId}:commercetools-java-client-apache-async
+46	#DEP#org.apache.httpcomponents:httpasyncclient-osgi
+47	#DEP#${project.groupId}:commercetools-sdk-base
+48	#DEP#junit:junit

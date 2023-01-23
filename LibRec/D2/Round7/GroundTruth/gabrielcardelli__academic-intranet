@@ -1,0 +1,10 @@
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#javax.mail:mail
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#org.apache.velocity.tools:velocity-tools
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.apache.struts:struts2-spring-plugin
+1	#DEP#junit:junit
+1	#DEP#org.apache.struts:struts2-tiles-plugin

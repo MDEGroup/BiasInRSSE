@@ -1,0 +1,12 @@
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#${project.groupId}:net.sz.framework.nio
+1	#DEP#${project.groupId}:net.sz.framework.db
+1	#DEP#com.alibaba:fastjson
+1	#DEP#net.sz.framework:net.sz.framework
+1	#DEP#com.squareup.retrofit:converter-simplexml
+1	#DEP#com.google.code.gson:gson
+1	#DEP#c3p0:c3p0
+1	#DEP#${project.groupId}:net.sz.framework.way.navmesh
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:net.sz.framework.script

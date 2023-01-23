@@ -1,0 +1,11 @@
+1	git://github.com/anncode1/Platzigram.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#de.hdodenhof:circleimageview
+6	#DEP#com.roughike:bottom-bar
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.zoonref:simple-view-behavior
+11	#DEP#com.android.support:design

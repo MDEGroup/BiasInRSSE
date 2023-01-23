@@ -1,0 +1,5 @@
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.jboss.osgi:jbosgi-parent
+1	#DEP#junit:junit
+1	#DEP#org.osgi:org.osgi.core

@@ -1,0 +1,13 @@
+1	git://github.com/jiangzehui/xmpp.git
+2	#DEP#com.umeng.analytics:analytics
+3	#DEP#com.android.support:appcompat-v7
+4	#DEP#com.android.support:design
+5	#DEP#com.jakewharton:butterknife
+6	#DEP#com.commit451:PhotoView
+7	#DEP#com.melnykov:floatingactionbutton
+8	#DEP#com.loopj.android:android-async-http
+9	#DEP#com.squareup.picasso:picasso
+10	#DEP#com.rockerhieu.emojicon:library
+11	#DEP#com.demievil.library:refreshlayout
+12	#DEP#junit:junit
+13	#DEP#cn.pedant.sweetalert:library

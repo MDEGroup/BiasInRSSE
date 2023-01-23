@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.apache.cxf:cxf-bundle
+1	#DEP#fr.inria.eventcloud:eventcloud-webservices-core
+1	#DEP#org.ow2.play:play-parent
+1	#DEP#org.ow2.play:play-eventadapter-abstractrdfsender
+1	#DEP#org.ow2.play:play-commons-constants
+1	#DEP#org.ow2.play:governance-api

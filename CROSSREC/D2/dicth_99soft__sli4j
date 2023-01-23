@@ -1,0 +1,11 @@
+1	git://github.com/99soft/sli4j.git
+2	#DEP#com.google.inject:guice
+3	#DEP#${project.parent.groupId}:sli4j-testfw
+4	#DEP#org.slf4j:slf4j-nop
+5	#DEP#${project.parent.groupId}:sli4j-core
+6	#DEP#log4j:log4j
+7	#DEP#commons-logging:commons-logging
+8	#DEP#org.99soft.guice.sli4j:sli4j-parent
+9	#DEP#org.testng:testng
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#org.99soft:oss-parent

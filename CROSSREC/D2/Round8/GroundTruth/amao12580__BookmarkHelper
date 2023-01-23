@@ -1,0 +1,7 @@
+1	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+1	#DEP#com.flyco.dialog:FlycoDialog_Lib
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support:multidex
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.google.zxing:core
+1	#DEP#se.emilsjolander:stickylistheaders

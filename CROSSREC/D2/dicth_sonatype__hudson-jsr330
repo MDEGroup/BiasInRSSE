@@ -1,0 +1,13 @@
+1	git://github.com/sonatype/hudson-jsr330.git
+2	#DEP#org.sonatype.matrix:matrix-smoothie-parent
+3	#DEP#org.jvnet.hudson.main:hudson-core
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.sonatype.forge:forge-parent
+6	#DEP#junit:junit-dep
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#ch.qos.logback:logback-classic
+9	#DEP#javax.servlet:servlet-api
+10	#DEP#org.sonatype.matrix:matrix-smoothie
+11	#DEP#org.aspectj:aspectjrt
+12	#DEP#org.slf4j:slf4j-jdk14
+13	#DEP#org.sonatype.sisu:sisu-inject-bean

@@ -1,0 +1,5 @@
+1	#DEP#org.apache.flink:flink-java
+1	#DEP#org.apache.flink:flink-streaming-java_2.10
+1	#DEP#java.es.accenture.flink:flink-kudu
+1	#DEP#org.apache.flink:flink-table_2.11
+1	#DEP#junit:junit

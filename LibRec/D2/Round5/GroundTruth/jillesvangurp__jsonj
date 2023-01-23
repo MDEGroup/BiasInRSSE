@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#io.inbot:inbot-utils
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.googlecode.plist:dd-plist
+1	#DEP#com.jillesvangurp:efficientstring
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.jasonclawson:jackson-dataformat-hocon

@@ -1,0 +1,5 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#junit:junit
+1	#DEP#org.fusesource.hawtbuf:hawtbuf-project
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.fusesource.hawtbuf:hawtbuf

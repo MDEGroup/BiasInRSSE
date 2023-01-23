@@ -1,0 +1,5 @@
+1	#DEP#dom4j:dom4j
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

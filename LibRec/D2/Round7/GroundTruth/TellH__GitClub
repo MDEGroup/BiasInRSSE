@@ -1,0 +1,10 @@
+1	#DEP#me.zhanghai.android.materialprogressbar:library
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.github.TellH:RecyclerTreeView
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.github.fabioCollini:DaggerMock
+1	#DEP#com.github.paolorotolo:appintro
+1	#DEP#junit:junit
+1	#DEP#com.sackcentury:shinebutton
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

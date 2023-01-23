@@ -1,0 +1,4 @@
+19	#DEP#net.sf.jtidy:jtidy
+20	#DEP#org.twitter4j:twitter4j-core
+21	#DEP#org.json:json
+22	#DEP#junit:junit

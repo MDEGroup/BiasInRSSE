@@ -1,0 +1,6 @@
+1	#DEP#${project.groupId}:messaging-user-level-api
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#${project.groupId}:messaging-user-level-samples
+1	#DEP#${project.groupId}:messaging-router
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:messaging-wire-level-api

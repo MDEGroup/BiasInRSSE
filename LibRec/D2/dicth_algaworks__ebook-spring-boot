@@ -1,0 +1,13 @@
+1	git://github.com/algaworks/ebook-spring-boot.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.postgresql:postgresql
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.webjars:webjars-locator
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.webjars:bootstrap
+10	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+11	#DEP#org.webjars:jquery
+12	#DEP#org.springframework.boot:spring-boot-devtools
+13	#DEP#com.h2database:h2

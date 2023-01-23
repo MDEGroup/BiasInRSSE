@@ -1,0 +1,9 @@
+1	git://github.com/MassiveCraft/Factions.git
+2	#DEP#org.spigotmc:spigot-api
+3	#DEP#com.dthielke.herochat:Herochat
+4	#DEP#com.massivecraft.massivesuper:MassiveSuper
+5	#DEP#com.massivecraft.massivecore:MassiveCore
+6	#DEP#com.sk89q.worldedit:worldedit-bukkit
+7	#DEP#com.sk89q.worldguard:worldguard-legacy
+8	#DEP#com.griefcraft:lwc
+9	#DEP#net.milkbowl.vault:Vault

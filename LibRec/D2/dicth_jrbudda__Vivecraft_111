@@ -1,0 +1,10 @@
+1	git://github.com/jrbudda/Vivecraft_111.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#com.jgoodies:forms
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#com.jgoodies:jgoodies-common
+6	#DEP#foxtrot:foxtrot
+7	#DEP#commons-logging:commons-logging
+8	#DEP#commons-beanutils:commons-beanutils
+9	#DEP#net.java.abeille:abeille
+10	#DEP#com.jgoodies:looks

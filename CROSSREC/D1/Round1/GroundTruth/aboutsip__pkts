@@ -1,0 +1,3 @@
+13	#DEP#log4j:log4j
+14	#DEP#io.pkts:pkts-sdp
+15	#DEP#junit:junit

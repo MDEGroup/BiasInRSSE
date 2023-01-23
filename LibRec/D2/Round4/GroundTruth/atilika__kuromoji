@@ -1,0 +1,6 @@
+1	#DEP#com.atilika.kuromoji:kuromoji-ipadic
+1	#DEP#com.atilika.kuromoji:kuromoji-core
+1	#DEP#com.atilika.kuromoji:kuromoji
+1	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+1	#DEP#junit:junit
+1	#DEP#com.atilika.kuromoji:kuromoji-unidic-neologd

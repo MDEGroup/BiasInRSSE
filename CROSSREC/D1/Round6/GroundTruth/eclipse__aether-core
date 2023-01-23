@@ -1,0 +1,4 @@
+20	#DEP#javax.inject:javax.inject
+21	#DEP#org.apache.httpcomponents:httpclient
+22	#DEP#ch.qos.logback:logback-classic
+23	#DEP#org.eclipse.aether:aether-api

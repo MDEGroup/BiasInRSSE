@@ -1,0 +1,10 @@
+40	#DEP#org.eclipse.higgins:higgins-sts-spi
+41	#DEP#xerces:xerces
+42	#DEP#org.openxri:openxri-syntax
+43	#DEP#${groupId}:openid4java-server
+44	#DEP#jdom:jdom
+45	#DEP#jetty:jetty
+46	#DEP#org.openxri:openxri-client
+47	#DEP#${groupId}:openid4java-infocard
+48	#DEP#javax.servlet:jstl
+49	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin

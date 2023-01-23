@@ -1,0 +1,9 @@
+1	git://github.com/kongxiao0532/PROJECT_NKU.git
+2	#DEP#cn.jiguang.sdk:jpush
+3	#DEP#cn.jiguang.sdk:jcore
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#cn.jiguang.sdk:janalytics
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

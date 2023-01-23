@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#org.assertj:assertj-core	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#io.github.livingdocumentation:dot-diagram	1.0

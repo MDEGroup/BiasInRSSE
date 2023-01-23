@@ -1,0 +1,10 @@
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.jboss.arquillian.core:org.jboss.arquillian.core	1.0
+#DEP#org.jboss.arquillian.container:org.jboss.arquillian.container	1.0
+#DEP#org.jboss.arquillian.testng:org.jboss.arquillian.testng	1.0
+#DEP#org.jboss.as:org.jboss.as	1.0

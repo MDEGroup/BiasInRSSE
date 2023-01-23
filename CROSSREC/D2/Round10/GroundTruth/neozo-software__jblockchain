@@ -1,0 +1,6 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#de.neozo:jblockchain
+1	#DEP#org.springframework.boot:spring-boot-starter-web

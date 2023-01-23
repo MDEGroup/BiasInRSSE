@@ -1,0 +1,10 @@
+#DEP#org.jboss.naming:jnpserver	1.0
+#DEP#junit:junit	1.0
+#DEP#org.jboss.logging:jboss-logging-spi	1.0
+#DEP#org.jboss.security:jbosssx	1.0
+#DEP#org.jboss.ejb3:jboss-ejb3-interceptors	1.0
+#DEP#org.jboss.ejb3:jboss-ejb3-api	1.0
+#DEP#org.jboss:jboss-reflect	1.0
+#DEP#org.jboss.javaee:jboss-servlet-api	1.0
+#DEP#org.jboss.aspects:jboss-aspects-common	1.0
+#DEP#org.jboss.ejb3:jboss-ejb3-metrics-deployer	1.0

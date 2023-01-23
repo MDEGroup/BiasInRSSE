@@ -1,0 +1,10 @@
+#DEP#org.powermock:powermock-module-junit4	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.jenkins-ci.plugins:git	1.0
+#DEP#org.jenkins-ci.plugins:support-core	1.0
+#DEP#com.sonymobile.tools.gerrit:gerrit-events	1.0
+#DEP#org.jenkins-ci.plugins:rabbitmq-consumer	1.0
+#DEP#org.jenkins-ci.plugins:git-client	1.0

@@ -1,0 +1,9 @@
+1	git://github.com/tranngoclam/movie-booking.git
+2	#DEP#com.android.support.constraint:constraint-layout-solver
+3	#DEP#com.google.auto.value:auto-value
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.jakewharton.auto.value:auto-value-annotations
+6	#DEP#com.ryanharter.auto.value:auto-value-parcel
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#junit:junit
+9	#DEP#com.android.support.test.espresso:espresso-core

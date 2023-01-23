@@ -1,0 +1,8 @@
+1	#DEP#org.eclipse.jetty.websocket:websocket-server
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.eclipse.jetty.websocket:websocket-servlet
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#org.powermock.tests:powermock-tests-utils

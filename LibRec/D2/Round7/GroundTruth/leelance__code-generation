@@ -1,0 +1,4 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-web

@@ -1,0 +1,4 @@
+17	#DEP#dk.dma.enav:enav-model
+18	#DEP#dk.dma.commons:dma-commons-util
+19	#DEP#com.beust:jcommander
+20	#DEP#org.antlr:antlr4-runtime

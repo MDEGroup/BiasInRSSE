@@ -1,0 +1,14 @@
+1	git://github.com/NLPchina/elasticsearch-sql.git
+2	#DEP#org.apache.logging.log4j:log4j-core
+3	#DEP#com.vividsolutions:jts
+4	#DEP#com.alibaba:fastjson
+5	#DEP#org.locationtech.spatial4j:spatial4j
+6	#DEP#org.elasticsearch:elasticsearch
+7	#DEP#com.alibaba:druid
+8	#DEP#log4j:log4j
+9	#DEP#org.hamcrest:hamcrest-all
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#com.google.guava:guava
+12	#DEP#junit:junit
+13	#DEP#org.elasticsearch.client:transport
+14	#DEP#org.apache.logging.log4j:log4j-api

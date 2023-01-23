@@ -1,0 +1,10 @@
+1	#DEP#${project.groupId}:docking-frames-demo-chess
+1	#DEP#org.dockingframes:docking-frames-common
+1	#DEP#${project.groupId}:docking-frames-demo-tutorial
+1	#DEP#${project.groupId}:docking-frames-demo-help
+1	#DEP#${project.groupId}:docking-frames-demo-size-and-color
+1	#DEP#${project.groupId}:docking-frames-ext-toolbar
+1	#DEP#${project.groupId}:docking-frames-common
+1	#DEP#${project.groupId}:docking-frames-ext-glass
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:docking-frames-demo-app-ice

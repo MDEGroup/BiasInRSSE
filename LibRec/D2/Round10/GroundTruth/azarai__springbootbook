@@ -1,0 +1,11 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.security:spring-security-test
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.codehaus.janino:janino
+1	#DEP#de.codeboje.springbootbook:commons
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#de.codeboje.springbootbook:spam-detection
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2

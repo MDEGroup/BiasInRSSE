@@ -1,0 +1,11 @@
+1	git://github.com/hieuapp/android-firebase-chat.git
+2	#DEP#com.google.firebase:firebase-auth
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.android.support:percent
+5	#DEP#de.hdodenhof:circleimageview
+6	#DEP#com.google.firebase:firebase-database
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.yarolegovich:lovely-dialog
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.google.firebase:firebase-core

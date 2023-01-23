@@ -1,0 +1,7 @@
+30	#DEP#org.seleniumhq.selenium:selenium-server
+31	#DEP#javax.servlet:servlet-api
+32	#DEP#org.zkoss.zss:zssex
+33	#DEP#commons-fileupload:commons-fileupload
+34	#DEP#org.zkoss.zats:zats-mimic-ext6
+35	#DEP#junit:junit
+36	#DEP#org.zkoss.zss:zsshtml

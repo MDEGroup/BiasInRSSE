@@ -1,0 +1,14 @@
+1	#DEP#io.netty:netty-resolver
+1	#DEP#io.vertx:vertx-docgen
+1	#DEP#io.netty:netty-handler-proxy
+1	#DEP#io.netty:netty-codec-http
+1	#DEP#io.vertx:vertx-dependencies
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#io.netty:netty-handler
+1	#DEP#org.apache.directory.server:apacheds-protocol-dns
+1	#DEP#io.netty:netty-buffer
+1	#DEP#log4j:log4j
+1	#DEP#io.netty:netty-transport-native-kqueue
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core

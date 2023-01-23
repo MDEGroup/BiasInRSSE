@@ -1,0 +1,12 @@
+1	git://github.com/AllenCoder/Recyclerview.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#jp.wasabeef:recyclerview-animators
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.orhanobut:logger
+8	#DEP#com.android.support.constraint:constraint-layout
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design
+12	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

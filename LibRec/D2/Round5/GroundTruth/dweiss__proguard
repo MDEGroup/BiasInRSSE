@@ -1,0 +1,5 @@
+1	#DEP#net.sf.proguard:proguard-parent
+1	#DEP#wtklib:kenv
+1	#DEP#org.gradle:gradle-core
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#${project.groupId}:proguard-retrace

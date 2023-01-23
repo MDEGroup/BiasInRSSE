@@ -1,0 +1,9 @@
+1	#DEP#javax.activation:activation
+1	#DEP#net.sourceforge.java-jml:jml
+1	#DEP#:jalarms-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#com.adenki:smppapi
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#spy:memcached
+1	#DEP#jivesoftware:smackx

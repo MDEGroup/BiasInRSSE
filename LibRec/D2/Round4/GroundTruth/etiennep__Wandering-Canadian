@@ -1,0 +1,10 @@
+1	#DEP#javax.transaction:jta
+1	#DEP#com.google.appengine:appengine-tools-sdk
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#com.google.appengine:appengine-api-1.0-sdk
+1	#DEP#cglib:cglib-nodep
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.gwt:gwt
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.google.appengine:appengine-testing

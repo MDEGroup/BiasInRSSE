@@ -1,0 +1,3 @@
+12	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+13	#DEP#junit:junit
+14	#DEP#org.apache.lucene:lucene-test-framework

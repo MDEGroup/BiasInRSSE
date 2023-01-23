@@ -1,0 +1,13 @@
+1	git://github.com/liweinan/resteasy-sandbox.git
+2	#DEP#org.jboss.resteasy:resteasy-jaxb-provider
+3	#DEP#org.jboss.resteasy:resteasy-atom-provider
+4	#DEP#org.jboss.resteasy:tjws
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.jboss.resteasy:resteasy-jettison-provider
+7	#DEP#com.fasterxml.jackson.core:jackson-core
+8	#DEP#org.jboss.resteasy:resteasy-jaxrs
+9	#DEP#org.jboss.resteasy:resteasy-client
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#org.jboss.resteasy:resteasy-netty
+12	#DEP#junit:junit
+13	#DEP#org.jboss.resteasy:resteasy-jackson-provider

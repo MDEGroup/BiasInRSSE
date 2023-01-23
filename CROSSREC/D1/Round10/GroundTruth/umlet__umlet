@@ -1,0 +1,6 @@
+25	#DEP#org.apache.xmlgraphics:batik-awt-util
+26	#DEP#com.umlet:umlet-swing
+27	#DEP#junit:junit
+28	#DEP#org.sourceforge.jlibeps:jlibeps
+29	#DEP#com.sun.mail:javax.mail
+30	#DEP#org.apache.bcel:bcel

@@ -1,0 +1,13 @@
+1	git://github.com/github/maven-plugins.git
+2	#DEP#com.github.github:github-maven-core
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.github.github:github-maven-plugins-parent
+5	#DEP#org.eclipse.mylyn.github:org.eclipse.egit.github.core
+6	#DEP#org.mockito:mockito-all
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.apache.maven:maven-core
+10	#DEP#org.codehaus.plexus:plexus-utils
+11	#DEP#org.easytesting:fest-assert
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit

@@ -1,0 +1,5 @@
+23	#DEP#org.springframework:spring-jms
+24	#DEP#org.jboss.remoting:jboss-remoting
+25	#DEP#org.apache.avro:avro
+26	#DEP#jboss:jboss-jmx
+27	#DEP#org.apache.activemq:activemq-core

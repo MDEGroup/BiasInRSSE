@@ -1,0 +1,17 @@
+1	git://github.com/actorapp/actor-platform.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.squareup.okhttp:okhttp
+6	#DEP#com.roughike:bottom-bar
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.xerial:sqlite-jdbc
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations
+11	#DEP#com.fasterxml.jackson.core:jackson-core
+12	#DEP#io.pristine:libjingle
+13	#DEP#org.timepedia.exporter:gwtexporter
+14	#DEP#ch.qos.logback:logback-core
+15	#DEP#ch.qos.logback:logback-classic
+16	#DEP#com.android.support:multidex
+17	#DEP#junit:junit

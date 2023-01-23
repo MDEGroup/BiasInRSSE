@@ -1,0 +1,3 @@
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.sedmelluq:jda-nas
+14	#DEP#com.sedmelluq:lavaplayer

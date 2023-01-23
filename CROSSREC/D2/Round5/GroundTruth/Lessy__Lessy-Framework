@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#junit:junit

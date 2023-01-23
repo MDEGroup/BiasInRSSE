@@ -1,0 +1,3 @@
+12	#DEP#opensymphony:oscache
+13	#DEP#junit:junit
+14	#DEP#cglib:cglib

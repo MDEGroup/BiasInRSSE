@@ -1,0 +1,9 @@
+1	git://github.com/thedudeguy/JukeIt.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.apache.commons:commons-io
+4	#DEP#com.chrischurchwell:meshit
+5	#DEP#org.mcstats:metrics
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#commons-fileupload:commons-fileupload
+8	#DEP#org.spoutcraft:spoutcraftplugin
+9	#DEP#org.freemarker:freemarker

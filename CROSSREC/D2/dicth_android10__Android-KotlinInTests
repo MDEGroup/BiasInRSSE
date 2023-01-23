@@ -1,0 +1,16 @@
+1	git://github.com/android10/Android-KotlinInTests.git
+2	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+3	#DEP#com.android.support:support-annotations
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#org.robolectric:robolectric
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.android.support:design
+9	#DEP#org.jetbrains.kotlin:kotlin-test-junit
+10	#DEP#org.amshove.kluent:kluent
+11	#DEP#com.android.support.test:rules
+12	#DEP#junit:junit
+13	#DEP#com.nhaarman:mockito-kotlin
+14	#DEP#com.android.support.test.espresso:espresso-intents
+15	#DEP#com.android.support.test:runner
+16	#DEP#com.android.support.test.espresso:espresso-core

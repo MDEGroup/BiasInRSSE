@@ -1,0 +1,13 @@
+1	git://github.com/bingoogolapple/BGASwipeBackLayout-Android.git
+2	#DEP#com.jaeger.statusbaruitl:library
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#com.android.support:palette-v7
+5	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+6	#DEP#cn.bingoogolapple:bga-baseadapter
+7	#DEP#com.android.support:recyclerview-v7
+8	#DEP#cn.bingoogolapple:bga-progressbar
+9	#DEP#com.android.support:design
+10	#DEP#cn.bingoogolapple:bga-swipebacklayout
+11	#DEP#cn.bingoogolapple:bga-refreshlayout
+12	#DEP#com.android.support:support-v4
+13	#DEP#cn.bingoogolapple:bga-swipeitemlayout

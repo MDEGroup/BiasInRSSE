@@ -1,0 +1,12 @@
+1	git://github.com/isocoLab/LUF.git
+2	#DEP#com.extjs:gxt
+3	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-signature
+4	#DEP#org.semweb4j:rdf2go.impl.sesame23
+5	#DEP#org.semweb4j:rdf2go.api
+6	#DEP#org.apache.httpcomponents:httpclient
+7	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-server
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.openrdf.sesame:sesame-runtime
+10	#DEP#commons-httpclient:commons-httpclient
+11	#DEP#com.sun.jersey:jersey-server
+12	#DEP#org.slf4j:slf4j-jdk14

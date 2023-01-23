@@ -1,0 +1,16 @@
+1	git://github.com/Karumi/KataScreenshotAndroid.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#org.glassfish:javax.annotation
+4	#DEP#com.google.dexmaker:dexmaker
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:design
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.google.dagger:dagger
+9	#DEP#com.google.dagger:dagger-compiler
+10	#DEP#com.squareup.picasso:picasso
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.github.fabioCollini:DaggerMock
+13	#DEP#com.android.support.test:rules
+14	#DEP#junit:junit
+15	#DEP#com.android.support.test.espresso:espresso-intents
+16	#DEP#com.android.support.test:runner

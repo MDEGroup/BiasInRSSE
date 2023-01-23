@@ -1,0 +1,10 @@
+1	git://github.com/ghaskins/maven-erlang-plugin.git
+2	#DEP#org.jgrapht:jgrapht-jdk1.5
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#org.apache.maven.reporting:maven-reporting-api
+5	#DEP#org.easymock:easymock
+6	#DEP#org.erlang.otp:jinterface
+7	#DEP#junit:junit
+8	#DEP#com.github.ghaskins:osclarity
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.maven.reporting:maven-reporting-impl

@@ -1,0 +1,11 @@
+1	git://github.com/metamx/http-client.git
+2	#DEP#com.metamx:java-util
+3	#DEP#log4j:log4j
+4	#DEP#io.netty:netty
+5	#DEP#org.easymock:easymock
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#com.google.guava:guava
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#com.metamx:oss-parent
+11	#DEP#org.eclipse.jetty:jetty-servlet

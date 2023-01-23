@@ -1,0 +1,7 @@
+1	#DEP#org.jmxtrans:jmxtrans-output-core
+1	#DEP#org.apache.geode:geode-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.jmxtrans:jmxtrans-output-ganglia
+1	#DEP#org.springframework.shell:spring-shell
+1	#DEP#jline:jline
+1	#DEP#org.jmxtrans:jmxtrans-core

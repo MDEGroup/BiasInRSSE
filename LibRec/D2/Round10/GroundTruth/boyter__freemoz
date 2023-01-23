@@ -1,0 +1,10 @@
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.freemarker:freemarker
+1	#DEP#com.sparkjava:spark-core
+1	#DEP#com.squareup:tape
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#org.quartz-scheduler:quartz-jobs
+1	#DEP#com.sparkjava:spark-template-freemarker
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator

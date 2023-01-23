@@ -1,0 +1,9 @@
+1	git://github.com/FasterXML/jackson-dataformat-xml.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#com.fasterxml.woodstox:woodstox-core
+4	#DEP#javax.xml.bind:jaxb-api
+5	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+6	#DEP#com.fasterxml.jackson:jackson-base
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#org.codehaus.woodstox:stax2-api

@@ -1,0 +1,16 @@
+1	git://github.com/threerings/clyde.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#com.threerings:clyde-parent
+4	#DEP#org.lwjgl.lwjgl:lwjgl
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#com.threerings:narya
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#com.threerings:ooo-util
+9	#DEP#com.threerings:nenya
+10	#DEP#org.lwjgl.lwjgl:lwjgl_util
+11	#DEP#com.apple:applejavaextensions
+12	#DEP#proguard:annotations
+13	#DEP#com.threerings:vilya
+14	#DEP#com.google.guava:guava
+15	#DEP#commons-digester:commons-digester
+16	#DEP#junit:junit

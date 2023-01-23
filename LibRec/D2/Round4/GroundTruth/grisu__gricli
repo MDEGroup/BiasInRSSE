@@ -1,0 +1,6 @@
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#nz.org.nesi:nesi
+1	#DEP#external.jline:jline
+1	#DEP#junit:junit
+1	#DEP#grisu.frontend:grisu-client

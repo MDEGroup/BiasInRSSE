@@ -1,0 +1,7 @@
+1	#DEP#com.afollestad.material-dialogs:commons
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.github.drozdzynski:Steppers
+1	#DEP#org.androidannotations:androidannotations-api
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.streamsupport:streamsupport

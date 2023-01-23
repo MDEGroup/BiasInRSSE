@@ -1,0 +1,7 @@
+1	#DEP#org.junit.platform:junit-platform-console
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#junit:junit
+1	#DEP#org.junit.platform:junit-platform-engine
+1	#DEP#com.microsoft.azure:azure-keyvault
+1	#DEP#org.junit.platform:junit-platform-runner

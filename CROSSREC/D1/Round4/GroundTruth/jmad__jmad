@@ -1,0 +1,4 @@
+20	#DEP#cern:jdataviewer
+21	#DEP#cern.accmodel.commons:accmodel-commons-util
+22	#DEP#org.apache.ant:ant-compress
+23	#DEP#cglib:cglib

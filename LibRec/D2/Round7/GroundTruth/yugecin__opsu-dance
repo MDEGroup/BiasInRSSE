@@ -1,0 +1,7 @@
+1	#DEP#com.googlecode.soundlibs:mp3spi
+1	#DEP#net.lingala.zip4j:zip4j
+1	#DEP#com.github.jponge:lzma-java
+1	#DEP#org.json:json
+1	#DEP#gov.nist.math:jama
+1	#DEP#org.jcraft:jorbis
+1	#DEP#org.apache.maven:maven-artifact

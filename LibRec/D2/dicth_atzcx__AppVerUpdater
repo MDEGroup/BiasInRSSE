@@ -1,0 +1,9 @@
+1	git://github.com/atzcx/AppVerUpdater.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.mikepenz:iconics-core
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.mikepenz:material-design-iconic-typeface
+6	#DEP#junit:junit
+7	#DEP#com.mani:ThinDownloadManager
+8	#DEP#com.android.support:design
+9	#DEP#gun0912.ted:tedpermission

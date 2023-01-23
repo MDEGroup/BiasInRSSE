@@ -1,0 +1,9 @@
+1	git://github.com/Suleiman19/Android-Pagination-with-RecyclerView.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.squareup.okhttp3:logging-interceptor
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.squareup.retrofit2:converter-gson

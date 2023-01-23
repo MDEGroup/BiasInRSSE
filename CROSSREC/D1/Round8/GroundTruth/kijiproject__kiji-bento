@@ -1,0 +1,6 @@
+28	#DEP#org.kiji.mapreduce.lib:kiji-mapreduce-lib-dist
+29	#DEP#org.kiji.kiji-bento:bento-checkin
+30	#DEP#org.kiji.examples.music:kiji-music
+31	#DEP#org.kiji.express:kiji-express
+32	#DEP#junit:junit
+33	#DEP#org.aspectj:aspectjrt

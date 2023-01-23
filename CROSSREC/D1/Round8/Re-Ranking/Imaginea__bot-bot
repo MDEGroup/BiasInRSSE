@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#com.sun.jersey.contribs:jersey-spring	1.0
+#DEP#com.sun.jersey:jersey-core	1.0
+#DEP#de.fhg.fokus:SurveyMaven2-web	1.0
+#DEP#org.icefaces:icefaces-compat	1.0
+#DEP#de.fhg.fokus:PadgetsREST-web	1.0
+#DEP#com.sun.jersey.contribs:jersey-simple-server	1.0
+#DEP#de.fhg.fokus:SurveyMaven2-ejb	1.0
+#DEP#org.icepush:icepush	1.0

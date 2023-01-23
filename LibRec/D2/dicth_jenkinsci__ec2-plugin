@@ -1,0 +1,17 @@
+1	git://github.com/jenkinsci/ec2-plugin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.jenkins-ci.plugins:bouncycastle-api
+4	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+7	#DEP#org.jenkins-ci.plugins:aws-credentials
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+9	#DEP#org.jenkins-ci.plugins:aws-java-sdk
+10	#DEP#org.jenkins-ci.plugins:plugin
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+13	#DEP#org.powermock:powermock-api-mockito
+14	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+15	#DEP#junit:junit
+16	#DEP#org.jenkins-ci.plugins:node-iterator-api
+17	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

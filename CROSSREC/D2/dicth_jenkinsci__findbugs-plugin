@@ -1,0 +1,9 @@
+1	git://github.com/jenkinsci/findbugs-plugin.git
+2	#DEP#org.jenkins-ci:jenkins
+3	#DEP#org.jvnet.hudson.plugins:analysis-test
+4	#DEP#org.jvnet.hudson.plugins:analysis-pom
+5	#DEP#com.google.code.findbugs:findbugs
+6	#DEP#xerces:xercesImpl
+7	#DEP#org.jvnet.hudson.plugins.findbugs:library
+8	#DEP#org.apache.commons:commons-digester3
+9	#DEP#org.jvnet.hudson.plugins:analysis-core

@@ -1,0 +1,13 @@
+1	git://github.com/fabiomassa/practices.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-c3p0
+4	#DEP#br.com.caelum:vraptor
+5	#DEP#org.hibernate:hibernate-annotations
+6	#DEP#net.sourceforge.htmlunit:webdriver
+7	#DEP#org.hibernate:hibernate-core
+8	#DEP#org.mockito:mockito-core
+9	#DEP#log4j:log4j
+10	#DEP#javax.activation:activation
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#javax.servlet:jstl
+13	#DEP#junit:junit

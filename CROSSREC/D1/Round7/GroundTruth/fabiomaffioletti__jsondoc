@@ -1,0 +1,5 @@
+23	#DEP#org.springframework:org.springframework
+24	#DEP#org.slf4j:org.slf4j
+25	#DEP#org.apache.commons:org.apache.commons
+26	#DEP#junit:junit
+27	#DEP#org.springframework.data:spring-data-rest-webmvc

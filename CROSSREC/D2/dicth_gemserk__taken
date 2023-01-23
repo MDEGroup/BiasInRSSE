@@ -1,0 +1,13 @@
+1	git://github.com/gemserk/taken.git
+2	#DEP#com.badlogic.gdx:gdx
+3	#DEP#com.google.android:android
+4	#DEP#org.jmock:jmock-junit4
+5	#DEP#com.badlogic.gdx:gdx-backend-android
+6	#DEP#${project.groupId}:taken-core
+7	#DEP#com.badlogic.gdx:gdx-backend-lwjgl
+8	#DEP#com.gemserk.commons.gdx:commons-gdx-artemis
+9	#DEP#org.jmock:jmock
+10	#DEP#com.gemserk.games.taken:taken
+11	#DEP#org.jmock:jmock-legacy
+12	#DEP#com.gemserk.commons.gdx:commons-gdx-core
+13	#DEP#junit:junit

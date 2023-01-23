@@ -1,0 +1,9 @@
+1	#DEP#dcm4che:dcm4che-filecache
+1	#DEP#dcm4che:dcm4che-core-test-dictionary
+1	#DEP#dcm4che:dcm4che-imageio
+1	#DEP#log4j:log4j
+1	#DEP#org.dcm4che.test:dcm4che-test-image
+1	#DEP#dcm4che:dcm4che-image
+1	#DEP#junit:junit
+1	#DEP#dcm4che:dcm4che-iod
+1	#DEP#dcm4che:dcm4che-net

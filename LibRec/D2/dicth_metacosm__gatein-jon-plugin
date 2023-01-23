@@ -1,0 +1,13 @@
+1	git://github.com/metacosm/gatein-jon-plugin.git
+2	#DEP#org.gatein.common:common-common
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#org.hibernate:hibernate-annotations
+5	#DEP#org.rhq:rhq-core-domain
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#org.gatein.management:jonplugin-parent
+8	#DEP#org.gatein:gatein-parent
+9	#DEP#org.rhq:rhq-core-plugin-api
+10	#DEP#org.gatein.management:portal-management
+11	#DEP#org.rhq:rhq-jmx-plugin
+12	#DEP#junit:junit
+13	#DEP#org.slf4j:slf4j-jdk14

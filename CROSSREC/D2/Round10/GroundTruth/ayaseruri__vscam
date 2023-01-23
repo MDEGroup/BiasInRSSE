@@ -1,0 +1,8 @@
+1	#DEP#com.tencent.bugly:crashreport_upgrade
+1	#DEP#me.relex:photodraweeview
+1	#DEP#com.trello.rxlifecycle2:rxlifecycle-android
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#junit:junit
+1	#DEP#com.github.drewnoakes:metadata-extractor
+1	#DEP#cn.pedant.sweetalert:library

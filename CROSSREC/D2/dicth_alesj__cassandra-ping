@@ -1,0 +1,13 @@
+1	git://github.com/alesj/cassandra-ping.git
+2	#DEP#org.jboss.jgroups:cassandra-ping-base
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#org.jboss.jgroups:cassandra-ping
+5	#DEP#org.jgroups:jgroups
+6	#DEP#org.apache.cassandra:apache-cassandra
+7	#DEP#org.jboss.jgroups:cassandra-ping-v7
+8	#DEP#org.jboss.jgroups:cassandra-ping-cli
+9	#DEP#org.jboss:jboss-parent
+10	#DEP#org.apache.cassandra:cassandra-all
+11	#DEP#org.apache.cassandra:libthrift
+12	#DEP#com.martiansoftware:jsap
+13	#DEP#junit:junit

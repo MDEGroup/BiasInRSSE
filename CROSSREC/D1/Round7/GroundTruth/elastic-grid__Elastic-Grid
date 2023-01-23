@@ -1,0 +1,14 @@
+60	#DEP#org.apache.tapestry:t5c-commons
+61	#DEP#org.testng:testng
+62	#DEP#com.elasticgrid:amazon-ec2-provisioner
+63	#DEP#${pom.groupId}:admin-console
+64	#DEP#org.rioproject:rio-cli
+65	#DEP#com.google.code.typica:typica
+66	#DEP#org.springframework:spring
+67	#DEP#org.jibx:jibx-run
+68	#DEP#org.apache.tapestry:tapestry-upload
+69	#DEP#net.java.dev.jets3t:jets3t
+70	#DEP#${pom.groupId}:private-lan-provisioner
+71	#DEP#args4j:args4j-tools
+72	#DEP#org.restlet:org.restlet
+73	#DEP#com.elasticgrid:private-lan-provisioner

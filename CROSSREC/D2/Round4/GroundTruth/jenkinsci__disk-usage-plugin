@@ -1,0 +1,4 @@
+1	#DEP#org.jenkins-ci.plugins:promoted-builds
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#com.github.olivergondza.dumpling:dumpling

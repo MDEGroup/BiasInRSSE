@@ -1,0 +1,4 @@
+16	#DEP#com.ghosthack:turismo
+17	#DEP#junit:junit
+18	#DEP#org.antlr:antlr
+19	#DEP#org.eclipse.jetty:jetty-servlet

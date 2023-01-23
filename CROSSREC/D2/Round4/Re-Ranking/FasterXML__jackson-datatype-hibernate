@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.hibernate:hibernate-core	1.0
+#DEP#com.fasterxml.jackson.dataformat:jackson-dataformats-text	1.0

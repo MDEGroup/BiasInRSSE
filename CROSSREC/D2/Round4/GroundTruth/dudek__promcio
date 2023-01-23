@@ -1,0 +1,7 @@
+1	#DEP#org.primefaces:primefaces
+1	#DEP#org.jboss.weld:weld-extensions-bom
+1	#DEP#org.testng:testng
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.primefaces.themes:pepper-grinder
+1	#DEP#org.glassfish.web:el-impl

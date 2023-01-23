@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#org.apache.ant:ant	1.0
+#DEP#org.springframework.security:spring-security-web	1.0
+#DEP#org.apache.tomcat:catalina	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3	1.0

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.mule.modules:mule-module-scripting	1.0
+#DEP#org.mule.modules:mule-module-spring-config	1.0
+#DEP#org.mule.ibeans:ibeans-ri	1.0
+#DEP#org.mule.modules:mule-module-geonames	1.0
+#DEP#org.ibeans:ibeans-annotation-api	1.0
+#DEP#org.mule.tools:mule-cloud-connector-annotations	1.0
+#DEP#org.mule.tools:mule-cloud-connector-ibeans	1.0
+#DEP#org.mule.modules:mule-module-flickr	1.0
+#DEP#org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec	1.0

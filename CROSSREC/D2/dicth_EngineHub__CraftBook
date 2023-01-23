@@ -1,0 +1,14 @@
+1	git://github.com/EngineHub/CraftBook.git
+2	#DEP#com.me4502:modularframework-core
+3	#DEP#com.sk89q.worldedit:worldedit-sponge
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.google.code.gson:gson
+7	#DEP#ninja.leaping.configurate:configurate-gson
+8	#DEP#com.me4502:modularframework-sponge
+9	#DEP#ninja.leaping.configurate:configurate-yaml
+10	#DEP#ninja.leaping.configurate:configurate-hocon
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit
+14	#DEP#com.sk89q.worldedit:worldedit-core

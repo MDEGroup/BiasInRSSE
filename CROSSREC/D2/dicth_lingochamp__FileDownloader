@@ -1,0 +1,11 @@
+1	git://github.com/lingochamp/FileDownloader.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.robolectric:robolectric
+5	#DEP#cn.dreamtobe.threaddebugger:threaddebugger-no-op
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#cn.dreamtobe.threaddebugger:threaddebugger
+10	#DEP#:library
+11	#DEP#com.squareup.okio:okio

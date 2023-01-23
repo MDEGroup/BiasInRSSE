@@ -1,0 +1,9 @@
+1	git://github.com/Meituan-Dianping/walle.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.android.support:support-annotations
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.json:json
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.android.tools.build:gradle
+9	#DEP#com.beust:jcommander

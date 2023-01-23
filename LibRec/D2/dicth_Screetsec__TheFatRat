@@ -1,0 +1,11 @@
+1	git://github.com/Screetsec/TheFatRat.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#org.gradle:gradle-base-services-groovy
+4	#DEP#org.gradle:gradle-logging
+5	#DEP#org.gradle:gradle-base-services
+6	#DEP#${project.groupId}:proguard-base
+7	#DEP#net.sf.proguard:proguard-parent
+8	#DEP#wtklib:kenv
+9	#DEP#org.gradle:gradle-core
+10	#DEP#org.codehaus.groovy:groovy-all
+11	#DEP#${project.groupId}:proguard-retrace

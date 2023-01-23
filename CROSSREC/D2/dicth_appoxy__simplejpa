@@ -1,0 +1,14 @@
+1	git://github.com/appoxy/simplejpa.git
+2	#DEP#org.unitils:unitils-core
+3	#DEP#net.sf.scannotation:scannotation
+4	#DEP#net.sf.ehcache:ehcache-core
+5	#DEP#org.codehaus.gmaven.runtime:gmaven-runtime-1.7
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#SimpleJPA:SimpleJPA
+8	#DEP#commons-lang:commons-lang
+9	#DEP#cglib:cglib-nodep
+10	#DEP#KittyCache:KittyCache
+11	#DEP#com.amazonaws:aws-java-sdk
+12	#DEP#commons-collections:commons-collections
+13	#DEP#junit:junit
+14	#DEP#org.unitils:unitils-mock

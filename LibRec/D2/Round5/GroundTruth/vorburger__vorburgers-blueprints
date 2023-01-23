@@ -1,0 +1,13 @@
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#org.apache.tuscany.sca:tuscany-implementation-java-runtime
+1	#DEP#org.apache.tuscany.sca:tuscany-databinding-sdo
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.guava:guava-collections
+1	#DEP#com.vaadin:vaadin
+1	#DEP#org.apache.tuscany.sca:tuscany-binding-ws-axis2
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+1	#DEP#org.apache.tuscany.sca:tuscany-sca
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit

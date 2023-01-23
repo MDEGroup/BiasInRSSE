@@ -1,0 +1,6 @@
+1	#DEP#com.mashape.unirest:unirest-java
+1	#DEP#com.moandjiezana.toml:toml4j
+1	#DEP#com.google.apis:google-api-services-calendar
+1	#DEP#com.vdurmont:emoji-java
+1	#DEP#com.google.guava:guava
+1	#DEP#com.google.api-client:google-api-client

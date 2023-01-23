@@ -1,0 +1,15 @@
+62	#DEP#org.jboss.weld.se:weld-se-core
+63	#DEP#com.sun.faces:jsf-impl
+64	#DEP#org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.2_spec
+65	#DEP#org.jboss.arquillian.extension:arquillian-drone-bom
+66	#DEP#org.jboss.arquillian.container:arquillian-container-test-spi
+67	#DEP#org.eclipse.jetty:jetty-server
+68	#DEP#org.jboss.arquillian.extension:arquillian-drone-webdriver-depchain
+69	#DEP#org.eclipse.jetty:jetty-servlet
+70	#DEP#org.apache.tomcat.embed:tomcat-embed-core
+71	#DEP#org.jboss.weld.examples:weld-osgi-paint-api
+72	#DEP#org.eclipse.equinox:app
+73	#DEP#org.jboss.weld.se:weld-se-shaded
+74	#DEP#javax.servlet:jstl
+75	#DEP#org.eclipse.jetty:jetty-webapp
+76	#DEP#org.eclipse.jetty:jetty-util

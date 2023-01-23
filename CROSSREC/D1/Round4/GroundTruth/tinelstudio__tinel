@@ -1,0 +1,10 @@
+41	#DEP#org.geotools:gt-shapefile
+42	#DEP#net.tinelstudio.gis:tinel-gis-routing-server
+43	#DEP#org.geotools:gt-render
+44	#DEP#net.tinelstudio.gis:tinel-gis-geocoding-server-httpinvoker
+45	#DEP#commons-dbcp:commons-dbcp
+46	#DEP#org.compass-project:compass
+47	#DEP#net.tinelstudio.gis:tinel-gis-geocoding-compass
+48	#DEP#net.tinelstudio.gis:tinel-gis-model-old
+49	#DEP#net.tinelstudio:tinel-commons-db
+50	#DEP#net.tinelstudio.gis:tinel-gis-model

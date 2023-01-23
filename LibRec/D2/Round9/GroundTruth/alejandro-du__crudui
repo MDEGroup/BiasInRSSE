@@ -1,0 +1,8 @@
+1	#DEP#com.vaadin:vaadin-client-compiled
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#com.vaadin:vaadin-themes
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.vaadin.jetty:jetty-vaadin
+1	#DEP#junit:junit
+1	#DEP#org.apache.bval:org.apache.bval.bundle
+1	#DEP#com.h2database:h2

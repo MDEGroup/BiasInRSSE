@@ -1,0 +1,12 @@
+#DEP#org.eclipse.mylyn.docs:epub	1.0
+#DEP#org.eclipse.mylyn.docs:epub.core	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.docs-parent	1.0
+#DEP#org.eclipse.mylyn.docs:wikitext.core	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext.mediawiki	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.docs.epub.core	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext.confluence	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext.textile	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext.toolkit	1.0
+#DEP#org.eclipse.mylyn.docs:epub.ui	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext.html	1.0
+#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext	1.0

@@ -1,0 +1,5 @@
+1	#DEP#com.hp.hpl.jena:arq
+1	#DEP#com.hp.hpl.jena:iri
+1	#DEP#junit:junit
+1	#DEP#postgresql:postgresql
+1	#DEP#com.hp.hpl.jena:jena

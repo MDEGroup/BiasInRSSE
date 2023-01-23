@@ -1,0 +1,11 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.easytesting:fest-assert-core
+1	#DEP#org.roboguice:roboguice
+1	#DEP#com.google.inject:guice
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.easytesting:fest-reflect
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit

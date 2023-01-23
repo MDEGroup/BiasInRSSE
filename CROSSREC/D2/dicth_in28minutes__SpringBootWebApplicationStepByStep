@@ -1,0 +1,11 @@
+1	git://github.com/in28minutes/SpringBootWebApplicationStepByStep.git
+2	#DEP#org.webjars:bootstrap
+3	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#javax.servlet:jstl
+6	#DEP#org.webjars:jquery
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-devtools
+9	#DEP#org.webjars:bootstrap-datepicker
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#org.springframework.boot:spring-boot-starter-security

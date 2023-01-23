@@ -1,0 +1,11 @@
+1	git://github.com/Yohann-Codes/Jelly.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.jelly:jelly-dao
+4	#DEP#io.netty:netty-all
+5	#DEP#org.jelly:jelly-serialization
+6	#DEP#log4j:log4j
+7	#DEP#org.jelly:jelly
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.jelly:jelly-transport
+10	#DEP#junit:junit
+11	#DEP#org.jelly:jelly-service

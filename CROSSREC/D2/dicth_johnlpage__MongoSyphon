@@ -1,0 +1,10 @@
+1	git://github.com/johnlpage/MongoSyphon.git
+2	#DEP#org.mongodb:mongo-java-driver
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#commons-cli:commons-cli
+5	#DEP#commons-io:commons-io
+6	#DEP#org.postgresql:postgresql
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#org.yaml:snakeyaml
+9	#DEP#org.json:json
+10	#DEP#com.google.code.gson:gson

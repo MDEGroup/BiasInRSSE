@@ -1,0 +1,6 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.springframework:spring-aspects
+1	#DEP#junit:junit-dep
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-test
+1	#DEP#com.mattbolt.javaray:javaray-parent

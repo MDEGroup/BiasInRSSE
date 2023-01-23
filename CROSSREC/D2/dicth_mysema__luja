@@ -1,0 +1,12 @@
+1	git://github.com/mysema/luja.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#org.springframework:spring-aop
+5	#DEP#com.mysema.querydsl:querydsl-lucene
+6	#DEP#com.mysema.home:mysema-source
+7	#DEP#org.codehaus.jackson:jackson-core-asl
+8	#DEP#com.mysema.querydsl:querydsl-apt
+9	#DEP#junit:junit
+10	#DEP#joda-time:joda-time
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.aspectj:aspectjweaver

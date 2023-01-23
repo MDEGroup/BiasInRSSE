@@ -1,0 +1,5 @@
+1	#DEP#org.ansj:ansj_plugin
+1	#DEP#org.apache.lucene:lucene-queries
+1	#DEP#org.ansj:ansj_seg
+1	#DEP#junit:junit
+1	#DEP#org.nlpcn:nlp-lang

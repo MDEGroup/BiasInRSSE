@@ -1,0 +1,16 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.springframework.boot:spring-boot-starter-mail
+1	#DEP#org.springframework.security:spring-security-taglibs
+1	#DEP#com.github.pagehelper:pagehelper
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.springframework.session:spring-session-data-redis
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.alibaba:druid
+1	#DEP#com.github.sgroschupf:zkclient
+1	#DEP#com.alibaba:dubbo
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.mybatis:mybatis-spring

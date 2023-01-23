@@ -1,0 +1,3 @@
+13	#DEP#org.powermock:powermock-api-easymock
+14	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+15	#DEP#junit:junit

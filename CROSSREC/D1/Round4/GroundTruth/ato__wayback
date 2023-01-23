@@ -1,0 +1,3 @@
+15	#DEP#javax.servlet:servlet-api
+16	#DEP#org.mozilla:juniversalchardet
+17	#DEP#junit:junit

@@ -1,0 +1,14 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.jvnet.ws.wadl:wadl-ant
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.sun.localizer:localizer
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#com.sun.xml.ws:jaxws-tools
+1	#DEP#log4j:log4j
+1	#DEP#org.jvnet.ws.wadl:wadl
+1	#DEP#com.sun.localizer:comresrcgen
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#junit:junit
+1	#DEP#org.jvnet.ws.wadl:wadl-core
+1	#DEP#org.apache.maven.shared:maven-plugin-testing-harness

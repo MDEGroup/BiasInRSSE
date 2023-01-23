@@ -1,0 +1,14 @@
+1	git://github.com/ballroom/ballroom.git
+2	#DEP#javax.validation:validation-api
+3	#DEP#org.jboss.ballroom:widgets
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.google.gwt:gwt-servlet
+6	#DEP#com.gwtplatform:gwtp-mvp-client
+7	#DEP#com.google.inject:guice
+8	#DEP#com.google.inject.extensions:guice-assistedinject
+9	#DEP#com.google.gwt:gwt-dev
+10	#DEP#com.google.gwt.inject:gin
+11	#DEP#com.google.code.gwt-log:gwt-log
+12	#DEP#junit:junit
+13	#DEP#com.mycila.com.google.inject.extensions:guice-assisted-inject
+14	#DEP#org.jboss.ballroom:ballroom

@@ -1,0 +1,14 @@
+1	#DEP#org.bytedeco.javacpp-presets:librealsense
+1	#DEP#org.bytedeco.javacpp-presets:libfreenect2-platform
+1	#DEP#org.bytedeco.javacpp-presets:flandmark
+1	#DEP#com.google.android:android
+1	#DEP#org.bytedeco.javacpp-presets:flycapture-platform
+1	#DEP#org.bytedeco.javacpp-presets:videoinput
+1	#DEP#org.bytedeco.javacpp-presets:videoinput-platform
+1	#DEP#org.bytedeco:javacpp-presets
+1	#DEP#org.jogamp.jocl:jocl-main
+1	#DEP#org.bytedeco.javacpp-presets:libdc1394-platform
+1	#DEP#org.bytedeco:javacpp
+1	#DEP#junit:junit
+1	#DEP#org.jogamp.jogl:jogl-all-main
+1	#DEP#org.bytedeco.javacpp-presets:flandmark-platform

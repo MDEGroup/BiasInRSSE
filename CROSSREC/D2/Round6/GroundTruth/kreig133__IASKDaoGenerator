@@ -1,0 +1,11 @@
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#com.intellij:annotations
+1	#DEP#com.extjs:gxt
+1	#DEP#com.microsoft.sqlserver:sqljdbc
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#com.google.guava:guava
+1	#DEP#com.intellij:forms_rt
+1	#DEP#junit:junit
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#cglib:cglib

@@ -1,0 +1,6 @@
+1	#DEP#commons-dbutils:commons-dbutils
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.jsoup:jsoup
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.alibaba:druid
+1	#DEP#org.json:json

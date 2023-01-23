@@ -1,0 +1,7 @@
+30	#DEP#org.springframework:spring-context-support
+31	#DEP#org.redisson:redisson
+32	#DEP#com.sleepycat:je
+33	#DEP#com.brucezee.jspider:jspider-core
+34	#DEP#ch.qos.logback:logback-classic
+35	#DEP#commons-collections:commons-collections
+36	#DEP#junit:junit

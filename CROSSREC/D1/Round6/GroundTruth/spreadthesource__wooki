@@ -1,0 +1,8 @@
+35	#DEP#org.springframework:spring-context-support
+36	#DEP#org.springframework.security:spring-security-acl
+37	#DEP#javax.servlet:servlet-api
+38	#DEP#org.jvnet.hudson:jtidy
+39	#DEP#commons-collections:commons-collections
+40	#DEP#com.spreadthesource:tapestry5-db-migration
+41	#DEP#com.spreadthesource:tapestry5-rome
+42	#DEP#com.h2database:h2

@@ -1,0 +1,17 @@
+1	git://github.com/takari/takari-local-repository.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#org.eclipse.aether:aether-spi
+4	#DEP#io.takari:takari-filemanager
+5	#DEP#io.takari.maven.plugins:takari-plugin-testing
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#io.takari.aether.localrepo.its:non-existent
+9	#DEP#io.takari.maven.plugins:takari-plugin-integration-testing
+10	#DEP#io.takari:takari
+11	#DEP#org.eclipse.aether:aether-test-util
+12	#DEP#org.codehaus.plexus:plexus-utils
+13	#DEP#com.google.guava:guava
+14	#DEP#org.eclipse.aether:aether-impl
+15	#DEP#junit:junit
+16	#DEP#com.googlecode.multithreadedtc:multithreadedtc
+17	#DEP#org.eclipse.aether:aether-api

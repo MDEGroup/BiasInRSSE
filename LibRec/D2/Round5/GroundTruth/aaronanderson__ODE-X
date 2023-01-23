@@ -1,0 +1,15 @@
+1	#DEP#org.apache.ode.data:ode-data-memory
+1	#DEP#org.apache.ode.data:ode-data-pom
+1	#DEP#org.apache.ode.runtime:ode-runtime-memory
+1	#DEP#org.apache.geronimo.specs:geronimo-jcdi_1.0_spec
+1	#DEP#javax.cache:cache-api
+1	#DEP#org.apache.ode:ode-pom
+1	#DEP#org.apache.ode.di:ode-di-guice
+1	#DEP#com.google.inject:guice
+1	#DEP#org.apache.ode.runtime:ode-runtime-pom
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.apache.ode.di:ode-di-pom
+1	#DEP#org.apache.ode.eclipse:eclipse-pom
+1	#DEP#junit:junit
+1	#DEP#org.apache.ode:ode-bpel
+1	#DEP#com.h2database:h2

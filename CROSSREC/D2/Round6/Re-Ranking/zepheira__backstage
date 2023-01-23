@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.openrdf.sesame:sesame-rio-n3	1.0
+#DEP#org.openrdf.sesame:sesame-rio-trig	1.0
+#DEP#org.openrdf.sesame:sesame-repository-sail	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.openrdf.sesame:sesame-queryparser-sparql	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.openrdf.sesame:sesame-rio-rdfjson	1.0
+#DEP#org.openrdf.sesame:sesame-rio-jsonld	1.0

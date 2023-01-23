@@ -1,0 +1,11 @@
+1	#DEP#com.automattic:tracks
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.automattic:rest
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.dagger:dagger-android-processor
+1	#DEP#com.mcxiaoke.volley:library
+1	#DEP#com.github.bumptech.glide:compiler
+1	#DEP#com.google.android.gms:play-services-auth
+1	#DEP#org.apache.commons:commons-text
+1	#DEP#junit:junit

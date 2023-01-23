@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#uk.ac.ncl.intbio:sbol-data-examples	1.0
+#DEP#uk.ac.ncl.intbio:sbol-data-nativeSbol	1.0
+#DEP#uk.ac.ncl.intbio:sbol-data-io-RDF	1.0
+#DEP#org.apache.jena:jena-tdb	1.0

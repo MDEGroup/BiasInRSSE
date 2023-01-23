@@ -1,0 +1,13 @@
+1	git://github.com/patloew/RxAwareness.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:design
+7	#DEP#org.mockito:mockito-core
+8	#DEP#com.google.android.gms:play-services-awareness
+9	#DEP#org.powermock:powermock-api-mockito
+10	#DEP#junit:junit
+11	#DEP#io.reactivex:rxjava
+12	#DEP#com.android.support:gridlayout-v7
+13	#DEP#io.reactivex:rxandroid

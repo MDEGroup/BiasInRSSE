@@ -1,0 +1,14 @@
+1	git://github.com/cscotta/Octobot.git
+2	#DEP#com.rabbitmq:amqp-client
+3	#DEP#com.googlecode.json-simple:json-simple
+4	#DEP#com.yammer.metrics:metrics-servlet
+5	#DEP#redis.clients:jedis
+6	#DEP#com.surftools:BeanstalkClient
+7	#DEP#net.java.dev:jvyaml
+8	#DEP#com.yammer.metrics:metrics-core
+9	#DEP#javax.mail:mail
+10	#DEP#com.codahale:simplespec_${scala.version}
+11	#DEP#log4j:log4j
+12	#DEP#org.scala-lang:scala-library
+13	#DEP#org.eclipse.jetty:jetty-server
+14	#DEP#org.eclipse.jetty:jetty-servlet

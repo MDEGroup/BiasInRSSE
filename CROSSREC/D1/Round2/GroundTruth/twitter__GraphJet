@@ -1,0 +1,3 @@
+16	#DEP#junit:junit
+17	#DEP#com.twitter:graphjet-adapters
+18	#DEP#org.eclipse.jetty:jetty-servlet

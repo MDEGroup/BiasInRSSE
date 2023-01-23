@@ -1,0 +1,5 @@
+1	#DEP#org.eclipse.persistence:eclipselink
+1	#DEP#hsqldb:hsqldb
+1	#DEP#com.vaadin:vaadin-client-compiled
+1	#DEP#com.vaadin:vaadin-client
+1	#DEP#junit:junit

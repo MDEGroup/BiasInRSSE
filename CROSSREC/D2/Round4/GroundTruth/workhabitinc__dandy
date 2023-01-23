@@ -1,0 +1,11 @@
+1	#DEP#log4j:log4j
+1	#DEP#xerces:xmlParserAPIs
+1	#DEP#xpp3:xpp3
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.json:json
+1	#DEP#org.jmock:jmock
+1	#DEP#junit:junit
+1	#DEP#jug:jug
+1	#DEP#org.workhabit.dandy:dandy-parent
+1	#DEP#cglib:cglib

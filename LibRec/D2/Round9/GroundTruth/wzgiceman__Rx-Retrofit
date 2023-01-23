@@ -1,0 +1,7 @@
+1	#DEP#com.daimajia.numberprogressbar:library
+1	#DEP#com.trello:rxlifecycle
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.trello:rxlifecycle-components
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit

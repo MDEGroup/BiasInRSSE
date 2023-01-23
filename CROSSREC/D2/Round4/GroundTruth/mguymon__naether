@@ -1,0 +1,13 @@
+1	#DEP#com.google.code.greaze:greaze-client
+1	#DEP#org.apache.maven.shared:maven-invoker
+1	#DEP#org.sonatype.aether:aether-connector-wagon
+1	#DEP#org.sonatype.aether:aether-api
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.sonatype.aether:aether-connector-file
+1	#DEP#pom:with-system-path
+1	#DEP#org.sonatype.aether:aether-spi
+1	#DEP#org.sonatype.aether:aether-util
+1	#DEP#org.sonatype.aether:aether-impl
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit

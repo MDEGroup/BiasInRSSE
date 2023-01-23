@@ -1,0 +1,6 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-api
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job

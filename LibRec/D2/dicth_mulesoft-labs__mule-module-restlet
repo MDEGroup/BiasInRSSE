@@ -1,0 +1,11 @@
+1	git://github.com/mulesoft-labs/mule-module-restlet.git
+2	#DEP#mockobjects:mockobjects-core
+3	#DEP#org.mule.tests:mule-tests-functional
+4	#DEP#org.restlet.jee:org.restlet
+5	#DEP#org.mule.modules:mule-module-spring-config
+6	#DEP#org.restlet.jee:org.restlet.ext.httpclient
+7	#DEP#org.mule:mule-core
+8	#DEP#org.restlet.jee:org.restlet.ext.json
+9	#DEP#org.mule.transports:mule-transport-http
+10	#DEP#org.mule.modules:mule-module-client
+11	#DEP#org.mule.transports:mule-transport-vm

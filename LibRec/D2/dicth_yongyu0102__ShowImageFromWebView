@@ -1,0 +1,16 @@
+1	git://github.com/yongyu0102/ShowImageFromWebView.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.google.code.gson:gson
+6	#DEP#com.squareup.retrofit2:converter-gson
+7	#DEP#com.github.bumptech.glide:glide
+8	#DEP#com.squareup.okhttp3:logging-interceptor
+9	#DEP#com.trello:rxlifecycle
+10	#DEP#com.trello:rxlifecycle-components
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#junit:junit
+13	#DEP#com.github.chrisbanes:PhotoView
+14	#DEP#io.reactivex:rxjava
+15	#DEP#com.squareup.okio:okio
+16	#DEP#io.reactivex:rxandroid

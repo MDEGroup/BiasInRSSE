@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.squareup.okhttp3:okhttp	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#io.requery:requery-android	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.joshdholtz.sentry:sentry-android	1.0
+#DEP#com.github.pluscubed:recycler-fast-scroll	1.0

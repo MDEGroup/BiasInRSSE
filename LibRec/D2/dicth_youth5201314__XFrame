@@ -1,0 +1,10 @@
+1	git://github.com/youth5201314/XFrame.git
+2	#DEP#com.loopj.android:android-async-http
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#cat.ereza:customactivityoncrash
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#com.mcxiaoke.volley:library
+8	#DEP#com.alibaba:fastjson
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design

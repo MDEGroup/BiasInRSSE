@@ -1,0 +1,10 @@
+1	git://github.com/bcolyn/jmediahash.git
+2	#DEP#xuggle:xuggle-xuggler
+3	#DEP#com.mortennobel:java-image-scaling
+4	#DEP#log4j:log4j
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.hamcrest:hamcrest-integration
+7	#DEP#com.googlecode.efficient-java-matrix-library:ejml
+8	#DEP#junit:junit
+9	#DEP#org.github.bcolyn:jmediahash
+10	#DEP#org.slf4j:slf4j-log4j12

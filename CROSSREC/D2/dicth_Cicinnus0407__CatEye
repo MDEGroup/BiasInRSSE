@@ -1,0 +1,9 @@
+1	git://github.com/Cicinnus0407/CatEye.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+4	#DEP#com.zhy:flowlayout-lib
+5	#DEP#com.amap.api:location
+6	#DEP#com.orhanobut:logger
+7	#DEP#fm.jiecao:jiecaovideoplayer
+8	#DEP#com.hwangjr.rxbus:rxbus
+9	#DEP#junit:junit

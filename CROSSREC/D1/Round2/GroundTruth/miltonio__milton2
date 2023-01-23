@@ -1,0 +1,17 @@
+68	#DEP#${project.groupId}:cardme
+69	#DEP#com.ettrema:milton-client
+70	#DEP#org.apache.httpcomponents:httpclient
+71	#DEP#dom4j:dom4j
+72	#DEP#org.apache.ftpserver:ftpserver-core
+73	#DEP#javax.persistence:persistence-api
+74	#DEP#${project.groupId}:milton-api
+75	#DEP#org.springframework:spring-orm
+76	#DEP#io.milton:aspirin
+77	#DEP#org.slf4j:slf4j-log4j12
+78	#DEP#org.eclipse.jetty:jetty-servlets
+79	#DEP#net.java.dev.appframework:appframework
+80	#DEP#javax.servlet:servlet-api
+81	#DEP#commons-fileupload:commons-fileupload
+82	#DEP#org.eclipse.jetty:jetty-webapp
+83	#DEP#io.milton:cardme
+84	#DEP#cglib:cglib

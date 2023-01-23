@@ -1,0 +1,4 @@
+17	#DEP#${project.groupId}:dojoserverfaces-core
+18	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+19	#DEP#junit:junit
+20	#DEP#org.apache.wink:wink-server

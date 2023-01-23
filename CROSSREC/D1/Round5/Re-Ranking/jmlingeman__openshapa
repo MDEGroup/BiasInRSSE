@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#${project.groupId}:jackrabbit-bc-base	1.0
+#DEP#org.apache.jackrabbit:jackrabbit-core	1.0
+#DEP#org.apache.commons:commons-math	1.0
+#DEP#org.apache.jackrabbit:jackrabbit-bc-base	1.0
+#DEP#org.apache.jackrabbit:jackrabbit-bundle	1.0
+#DEP#org.apache.tika:tika-bundle	1.0
+#DEP#org.apache.felix:org.apache.felix.ipojo.junit4osgi	1.0

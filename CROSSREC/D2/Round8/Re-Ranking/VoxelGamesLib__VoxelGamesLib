@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.xerial:sqlite-jdbc	1.0
+#DEP#org.freemarker:freemarker	1.0
+#DEP#org.apache.commons:commons-math3	1.0
+#DEP#io.grpc:grpc-stub	1.0
+#DEP#org.valid4j:valid4j	1.0

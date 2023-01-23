@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.ow2.asm:asm	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.seleniumhq.selenium.grid:selenium-grid-remote-control	1.0
+#DEP#org.seleniumhq.selenium.grid:selenium-grid-hub	1.0
+#DEP#emma.test:it03	1.0
+#DEP#org.openqa.selenium.grid:selenium-grid-tools	1.0

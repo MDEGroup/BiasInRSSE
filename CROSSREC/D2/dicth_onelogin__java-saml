@@ -1,0 +1,17 @@
+1	git://github.com/onelogin/java-saml.git
+2	#DEP#com.onelogin:java-saml-core
+3	#DEP#com.onelogin:java-saml
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#com.onelogin:java-saml-tookit-samples
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.onelogin:java-saml-toolkit
+9	#DEP#joda-time:joda-time
+10	#DEP#org.apache.santuario:xmlsec
+11	#DEP#org.hamcrest:hamcrest-core
+12	#DEP#commons-codec:commons-codec
+13	#DEP#org.mockito:mockito-core
+14	#DEP#javax.servlet:javax.servlet-api
+15	#DEP#ch.qos.logback:logback-classic
+16	#DEP#javax.servlet:servlet-api
+17	#DEP#junit:junit

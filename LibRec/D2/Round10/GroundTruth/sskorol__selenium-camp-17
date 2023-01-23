@@ -1,0 +1,8 @@
+1	#DEP#org.awaitility:awaitility
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.apache.commons:commons-configuration2
+1	#DEP#ru.yandex.qatools.allure:allure-testng-adaptor
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.jooq:joor
+1	#DEP#org.projectlombok:lombok

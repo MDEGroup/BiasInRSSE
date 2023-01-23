@@ -1,0 +1,6 @@
+1	#DEP#org.jvnet.com4j.typelibs:ado20
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#com.github.waffle:waffle-distro
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#org.jvnet.com4j.typelibs:active-directory

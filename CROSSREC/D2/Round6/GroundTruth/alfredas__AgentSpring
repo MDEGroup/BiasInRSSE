@@ -1,0 +1,17 @@
+1	#DEP#agentspring:agentspring-engine
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.hibernate:hibernate-validator-annotation-processor
+1	#DEP#org.springframework.data:spring-data-neo4j
+1	#DEP#com.tinkerpop.gremlin:gremlin-groovy
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#log4j:log4j
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#agentspring:agentspring-facade
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.aspectj:aspectjrt

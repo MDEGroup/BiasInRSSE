@@ -1,0 +1,12 @@
+1	git://github.com/kartikarora/urdashboard.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#com.dlazaro66.qrcodereaderview:qrcodereaderview
+4	#DEP#me.kartikarora.potato:library
+5	#DEP#com.jakewharton.timber:timber
+6	#DEP#com.facebook.stetho:stetho-okhttp3
+7	#DEP#com.daimajia.androidanimations:library
+8	#DEP#com.fujiyuu75:sequent
+9	#DEP#com.android.support.constraint:constraint-layout
+10	#DEP#com.squareup.retrofit2:retrofit
+11	#DEP#com.squareup.retrofit2:converter-gson
+12	#DEP#com.daimajia.easing:library

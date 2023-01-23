@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#javax.activation:activation	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#cglib:cglib	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#net.padaf:xmpbox	1.0
+#DEP#org.pdfa:isartor	1.0
+#DEP#net.padaf:xmpbox-jdk15	1.0

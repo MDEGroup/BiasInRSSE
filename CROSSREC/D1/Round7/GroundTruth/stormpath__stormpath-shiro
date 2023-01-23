@@ -1,0 +1,11 @@
+45	#DEP#com.stormpath.shiro:stormpath-shiro-spring-boot-starter
+46	#DEP#org.springframework.boot:spring-boot-configuration-processor
+47	#DEP#org.apache.commons:commons-configuration2
+48	#DEP#org.glassfish.jersey.ext:jersey-mvc
+49	#DEP#com.stormpath.sdk:stormpath-sdk-api
+50	#DEP#org.apache.shiro:shiro-jaxrs
+51	#DEP#javax.servlet:javax.servlet-api
+52	#DEP#com.github.mjeanroy:junit-servers-jetty
+53	#DEP#ch.qos.logback:logback-classic
+54	#DEP#org.springframework.boot:spring-boot-autoconfigure
+55	#DEP#com.stormpath.shiro:shiro-spring-boot-starter

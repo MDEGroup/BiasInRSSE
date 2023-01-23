@@ -1,0 +1,9 @@
+39	#DEP#org.mortbay.jetty:jetty-naming
+40	#DEP#org.testng:testng
+41	#DEP#backport-util-concurrent:backport-util-concurrent
+42	#DEP#org.terracotta:terracotta
+43	#DEP#org.apache.maven:maven-plugin-api
+44	#DEP#regexp:regexp
+45	#DEP#org.openspaces:openspaces
+46	#DEP#org.mortbay.jetty:jetty-openspaces-webapp
+47	#DEP#org.codehaus.wadi:wadi-aop

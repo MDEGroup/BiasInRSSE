@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.jscience:jscience
+1	#DEP#org.osgi:core
+1	#DEP#junit:junit
+1	#DEP#c3p0:c3p0

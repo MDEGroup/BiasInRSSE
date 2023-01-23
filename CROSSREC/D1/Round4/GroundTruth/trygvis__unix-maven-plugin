@@ -1,0 +1,4 @@
+20	#DEP#org.functionaljava:functionaljava
+21	#DEP#org.mortbay.jetty:jetty-assembly
+22	#DEP#${project.groupId}:unix-common
+23	#DEP#${project.groupId}:unix-rpm

@@ -1,0 +1,5 @@
+1	#DEP#com.tencent.bugly:crashreport
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:customtabs
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.android.support:design

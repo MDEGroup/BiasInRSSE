@@ -1,0 +1,10 @@
+1	git://github.com/jbarrez/simple-bpm-editor.git
+2	#DEP#localjar:gwt-dnd
+3	#DEP#org.vaadin.addons:nodegraphwidget
+4	#DEP#com.vaadin:vaadin
+5	#DEP#org.vaadin.addons:dragdroplayouts
+6	#DEP#localjar:flexjson
+7	#DEP#com.google.gwt:gwt-user
+8	#DEP#localjar:gwt-svg
+9	#DEP#org.vaadin.addons:expandingtextarea
+10	#DEP#localjar:jsonwrapper

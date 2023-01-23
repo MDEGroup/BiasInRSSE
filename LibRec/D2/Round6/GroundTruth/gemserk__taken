@@ -1,0 +1,6 @@
+1	#DEP#com.gemserk.commons.gdx:commons-gdx-artemis
+1	#DEP#org.jmock:jmock
+1	#DEP#com.gemserk.games.taken:taken
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#com.gemserk.commons.gdx:commons-gdx-core
+1	#DEP#junit:junit

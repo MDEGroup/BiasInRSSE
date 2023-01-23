@@ -1,0 +1,12 @@
+1	git://github.com/jamesmorgan/DemoAspectJLogging.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring-aspects
+4	#DEP#org.slf4j:jcl-over-slf4j
+5	#DEP#ch.qos.logback:logback-core
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.slf4j:log4j-over-slf4j
+8	#DEP#com.google.guava:guava
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.aspectj:aspectjrt
+11	#DEP#org.aspectj:aspectjweaver
+12	#DEP#cglib:cglib

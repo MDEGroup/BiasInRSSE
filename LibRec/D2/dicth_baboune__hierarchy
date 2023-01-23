@@ -1,0 +1,9 @@
+1	git://github.com/baboune/hierarchy.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#org.apache.openjpa:openjpa-persistence-jdbc
+5	#DEP#mine:h
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#org.apache.openjpa:openjpa-persistence
+8	#DEP#junit:junit
+9	#DEP#javax.ejb:ejb-api

@@ -1,0 +1,9 @@
+1	git://github.com/ISA-tools/graph2tab.git
+2	#DEP#com.opencsv:opencsv
+3	#DEP#commons-io:commons-io
+4	#DEP#uk.ac.ebi.fg.biosd:biosd_deploy
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#uk.ac.ebi:jutils
+9	#DEP#commons-lang:commons-lang

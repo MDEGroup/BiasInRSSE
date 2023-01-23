@@ -1,0 +1,10 @@
+1	git://github.com/w446108264/XhsEmoticonsKeyboard.git
+2	#DEP#com.github.w446108264:AndroidEmoji
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.github.w446108264:XhsEmoticonsKeyboard
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.nineoldandroids:library
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife

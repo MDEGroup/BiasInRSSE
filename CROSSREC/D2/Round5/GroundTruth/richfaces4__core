@@ -1,0 +1,15 @@
+1	#DEP#org.richfaces:richfaces-root-parent
+1	#DEP#org.richfaces.core:richfaces-core-parent
+1	#DEP#org.apache.shale:shale-test
+1	#DEP#org.richfaces:framework
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.richfaces.core:richfaces-core-api
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#rhino:js
+1	#DEP#org.jboss.test-jsf:htmlunit-client
+1	#DEP#org.jboss.cache:jbosscache-core
+1	#DEP#opensymphony:oscache
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.cssparser:cssparser
+1	#DEP#org.richfaces:richfaces-parent

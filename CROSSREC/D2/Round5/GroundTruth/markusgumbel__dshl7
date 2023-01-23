@@ -1,0 +1,14 @@
+1	#DEP#javax.transaction:jta
+1	#DEP#c3p0:c3p0
+1	#DEP#jboss:jboss-cache
+1	#DEP#org.apache.xmlbeans:xmlbeans
+1	#DEP#org.scala-lang:scala-swing
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#opensymphony:oscache
+1	#DEP#commons-collections:commons-collections
+1	#DEP#swarmcache:swarmcache
+1	#DEP#org.hl7:flatMif
+1	#DEP#asm:asm-attrs
+1	#DEP#jgroups:jgroups-all
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.lucene:lucene-test-framework	1.0
+#DEP#org.elasticsearch:elasticsearch	1.0
+#DEP#org.eclipse.jetty:jetty-servlet	1.0
+#DEP#args4j:args4j	1.0
+#DEP#javax.ejb:ejb-api	1.0
+#DEP#org.seamless:seamless-http	1.0
+#DEP#org.seamless:seamless-util	1.0
+#DEP#org.fourthline.cling:cling-mediarenderer	1.0
+#DEP#org.seamless:seamless-swing	1.0

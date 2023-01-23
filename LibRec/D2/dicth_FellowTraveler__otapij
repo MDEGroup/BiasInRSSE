@@ -1,0 +1,9 @@
+1	git://github.com/FellowTraveler/otapij.git
+2	#DEP#org.swinglabs:swing-layout
+3	#DEP#org.netbeans.external:AbsoluteLayout
+4	#DEP#chrriis:dj-nativeswing-swt
+5	#DEP#org.jdesktop:appframework
+6	#DEP#org.opentransactions:otapij
+7	#DEP#junit:junit
+8	#DEP#chrriis:dj-nativeswing
+9	#DEP#org.opentransactions:otapij-parent

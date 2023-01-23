@@ -1,0 +1,16 @@
+1	git://github.com/brian512/CodeBlog.git
+2	#DEP#com.umeng.analytics:analytics
+3	#DEP#pub.devrel:easypermissions
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#org.greenrobot:eventbus
+7	#DEP#com.google.code.gson:gson
+8	#DEP#me.imid.swipebacklayout.lib:library
+9	#DEP#com.google.android.gms:play-services-analytics
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.networkbench.newlens.agent.android:nbs.newlens.agent
+12	#DEP#com.tencent.bugly:crashreport_upgrade
+13	#DEP#com.squareup.picasso:picasso
+14	#DEP#com.oasisfeng.condom:library
+15	#DEP#junit:junit
+16	#DEP#com.google.firebase:firebase-ads

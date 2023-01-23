@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.powermock:powermock-api-mockito	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#net.sourceforge:javaocr	1.0
+#DEP#org.neuroph:neuroph-contrib	1.0
+#DEP#org.boofcv:openkinect	1.0
+#DEP#${project.groupId}:neuroph-core	1.0
+#DEP#${project.groupId}:neuroph-ocr	1.0
+#DEP#${project.groupId}:neuroph-imgrec	1.0

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-net:commons-net	1.0
+#DEP#javancss:jhbasic	1.0
+#DEP#org.crosswire:jsword-common-swing	1.0
+#DEP#org.apache.lucene:lucene-smartcn	1.0
+#DEP#org.crosswire:jsword	1.0
+#DEP#com.sun:jlfgr	1.0

@@ -1,0 +1,10 @@
+#DEP#org.hamcrest:org.hamcrest	1.0
+#DEP#javax.validation:javax.validation	1.0
+#DEP#org.apache.commons:org.apache.commons	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#junit:junit	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.codehaus.groovy:org.codehaus.groovy	1.0
+#DEP#xml-apis:xml-apis	1.0
+#DEP#com.jcabi:jcabi-immutable	1.0

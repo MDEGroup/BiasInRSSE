@@ -1,0 +1,9 @@
+1	git://github.com/EmiteGWT/hablar.git
+2	#DEP#com.calclab:emite
+3	#DEP#org.mockito:mockito-core
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#org.testng:testng
+6	#DEP#com.google.gwt.inject:gin
+7	#DEP#junit:junit
+8	#DEP#com.google.gwt:gwt-servlet
+9	#DEP#org.seleniumhq.selenium:selenium

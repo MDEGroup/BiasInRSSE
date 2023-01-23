@@ -1,0 +1,17 @@
+1	git://github.com/bdot/struts-hibernate.git
+2	#DEP#org.apache.struts:struts2-sitemesh-plugin
+3	#DEP#javax.servlet:jsp-api
+4	#DEP#mysql:mysql-connector-java
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.springframework:spring-beans
+7	#DEP#org.hibernate:hibernate-annotations
+8	#DEP#javax.persistence:persistence-api
+9	#DEP#org.springframework:spring-orm
+10	#DEP#org.springframework:spring-core
+11	#DEP#org.hibernate:hibernate-core
+12	#DEP#org.apache.struts:struts2-core
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#commons-fileupload:commons-fileupload
+15	#DEP#org.apache.struts:struts2-spring-plugin
+16	#DEP#junit:junit
+17	#DEP#com.h2database:h2

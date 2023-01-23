@@ -1,0 +1,13 @@
+55	#DEP#com.googlecode.xmemcached:xmemcached
+56	#DEP#org.eclipse.jetty:jetty-server
+57	#DEP#org.clojure:data.json
+58	#DEP#com.taobao.metamorphosis:metamorphosis-tools
+59	#DEP#${pom.groupId}:metamorphosis-client
+60	#DEP#org.codehaus.jackson:jackson-core-lgpl
+61	#DEP#javax.transaction:jta
+62	#DEP#com.taobao.metamorphosis:metamorphosis-commons
+63	#DEP#org.slf4j:slf4j-log4j12
+64	#DEP#ch.ethz.ganymed:ganymed-ssh2
+65	#DEP#org.clojure:core.cache
+66	#DEP#${pom.groupId}:metamorphosis-storm-spout
+67	#DEP#com.taobao.notify:notify-store4j

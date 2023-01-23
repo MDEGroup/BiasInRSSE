@@ -1,0 +1,7 @@
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.ovea:ovea
+1	#DEP#org.eclipse.jetty.aggregate:jetty-all
+1	#DEP#trove:trove
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit

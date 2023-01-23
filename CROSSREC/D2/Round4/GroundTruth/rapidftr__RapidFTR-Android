@@ -1,0 +1,13 @@
+1	#DEP#com.github.kedzie.supportanimator:support-v4-animator
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#joda-time:joda-time
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.google.inject:guice
+1	#DEP#org.powermock:powermock-classloading-xstream
+1	#DEP#org.skyscreamer:jsonassert
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#sqlcipher:sqlcipher
+1	#DEP#junit:junit
+1	#DEP#org.powermock:powermock-module-junit4-rule-agent

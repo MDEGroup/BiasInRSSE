@@ -1,0 +1,6 @@
+1	#DEP#org.projectlombok:lombok-maven
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.sonatype.plexus:plexus-build-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-core

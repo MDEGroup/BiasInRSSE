@@ -1,0 +1,13 @@
+1	git://github.com/diega/drools-shell.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.drools:knowledge-api
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.springframework:spring-beans
+6	#DEP#net.sf.jopt-simple:jopt-simple
+7	#DEP#org.codehaus.groovy:groovy-all
+8	#DEP#org.slf4j:jcl-over-slf4j
+9	#DEP#org.drools:drools-compiler
+10	#DEP#jline:jline
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#junit:junit
+13	#DEP#org.drools:drools-core

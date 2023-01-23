@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.cloud:spring-cloud-starter-sleuth
+1	#DEP#io.zipkin.java:zipkin-server
+1	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+1	#DEP#pl.piomin:sample-spring-microservices
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+1	#DEP#io.zipkin.java:zipkin
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

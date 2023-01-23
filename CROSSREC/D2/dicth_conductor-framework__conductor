@@ -1,0 +1,14 @@
+1	git://github.com/conductor-framework/conductor.git
+2	#DEP#com.codeborne:phantomjsdriver
+3	#DEP#org.seleniumhq.selenium:selenium-firefox-driver
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.seleniumhq.selenium:selenium-chrome-driver
+7	#DEP#org.seleniumhq.selenium:selenium-edge-driver
+8	#DEP#org.seleniumhq.selenium:selenium-ie-driver
+9	#DEP#org.seleniumhq.selenium:selenium-java
+10	#DEP#org.seleniumhq.selenium:selenium-support
+11	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+12	#DEP#junit:junit
+13	#DEP#org.apache.logging.log4j:log4j-api
+14	#DEP#org.seleniumhq.selenium:selenium-safari-driver

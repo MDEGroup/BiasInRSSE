@@ -1,0 +1,8 @@
+1	#DEP#net.bytebuddy:byte-buddy
+1	#DEP#org.sonarlint.its.sample:sample-maven
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.sonarsource.orchestrator:sonar-orchestrator-osgi
+1	#DEP#org.sonarsource.sonarlint.eclipse.its:sonarlint-eclipse-its-parent
+1	#DEP#org.objenesis:objenesis
+1	#DEP#junit:junit
+1	#DEP#org.sonarsource.sonarlint.core:sonarlint-core

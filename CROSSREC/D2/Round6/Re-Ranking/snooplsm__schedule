@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.nineoldandroids:library	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#com.squareup:fest-android	1.0
+#DEP#com.actionbarsherlock:parent-sample	1.0
+#DEP#${project.groupId}:extra-viewpager	1.0
+#DEP#${project.groupId}:extra-listfragment	1.0

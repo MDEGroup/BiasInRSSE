@@ -1,0 +1,14 @@
+1	git://github.com/benalexau/rpc-bench.git
+2	#DEP#io.grpc:grpc-core
+3	#DEP#io.grpc:grpc-protobuf
+4	#DEP#org.agrona:agrona
+5	#DEP#io.grpc:grpc-netty
+6	#DEP#com.esotericsoftware:kryonet
+7	#DEP#io.grpc:grpc-stub
+8	#DEP#com.google.protobuf:protobuf-java
+9	#DEP#au.com.acegi:rpc-bench
+10	#DEP#org.hdrhistogram:HdrHistogram
+11	#DEP#com.google.guava:guava
+12	#DEP#com.esotericsoftware:kryo
+13	#DEP#io.aeron:aeron-all
+14	#DEP#au.com.acegi:acegi-standard-project

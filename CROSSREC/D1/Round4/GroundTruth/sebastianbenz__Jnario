@@ -1,0 +1,4 @@
+17	#DEP#org.jnario:org.jnario.lib
+18	#DEP#log4j:log4j
+19	#DEP#org.hamcrest:hamcrest-all
+20	#DEP#junit:junit

@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#com.squareup.okio:okio
+1	#DEP#org.codehaus.mojo:animal-sniffer-annotations

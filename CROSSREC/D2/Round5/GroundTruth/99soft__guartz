@@ -1,0 +1,4 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.99soft:oss-parent
+1	#DEP#junit:junit
+1	#DEP#com.google.inject.extensions:guice-multibindings

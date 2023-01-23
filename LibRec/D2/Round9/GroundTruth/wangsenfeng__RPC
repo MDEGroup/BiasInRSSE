@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#org.apache.rpc:1-rpc-sample-client
+1	#DEP#org.objenesis:objenesis
+1	#DEP#junit:junit
+1	#DEP#org.apache.rpc:1-rpc-client
+1	#DEP#org.apache.rpc:1-rpc-registry
+1	#DEP#cglib:cglib

@@ -1,0 +1,7 @@
+28	#DEP#${project.groupId}:springfaces-showcase
+29	#DEP#org.mockito:mockito-core
+30	#DEP#log4j:log4j
+31	#DEP#org.seleniumhq.selenium:selenium-server
+32	#DEP#javax.servlet:servlet-api
+33	#DEP#org.hsqldb:hsqldb
+34	#DEP#cglib:cglib

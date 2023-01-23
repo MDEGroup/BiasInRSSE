@@ -1,0 +1,14 @@
+1	#DEP#${project.groupId}:electric-concurrent
+1	#DEP#com.sun.electric:electric-concurrent
+1	#DEP#com.sun.electric:electric-irsim-api
+1	#DEP#org.python:jython
+1	#DEP#com.sun.electric:electric
+1	#DEP#com.sun.electric:electric-minarea-api
+1	#DEP#org.beanshell:bsh
+1	#DEP#com.sun.electric:electric-core
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.sun.electric:electric-parent
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#${project.groupId}:electric-test
+1	#DEP#com.sun.electric:electric-merge
+1	#DEP#junit:junit

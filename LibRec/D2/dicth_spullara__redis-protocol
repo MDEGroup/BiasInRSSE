@@ -1,0 +1,17 @@
+1	git://github.com/spullara/redis-protocol.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.webbitserver:webbit
+4	#DEP#com.github.spullara.redis:util
+5	#DEP#io.netty:netty-all
+6	#DEP#com.github.spullara.redis:client
+7	#DEP#com.github.spullara.redis:netty4
+8	#DEP#io.netty:netty
+9	#DEP#com.github.spullara.cli-parser:cli-parser
+10	#DEP#com.github.spullara.redis:redis
+11	#DEP#com.github.spullara.mustache.java:compiler
+12	#DEP#org.codehaus.jackson:jackson-mapper-asl
+13	#DEP#com.github.spullara.java:concurrent6
+14	#DEP#com.github.spullara.redis:protocol
+15	#DEP#com.google.guava:guava
+16	#DEP#com.github.spullara.redis:netty
+17	#DEP#junit:junit

@@ -1,0 +1,2 @@
+10	#DEP#org.apache.tomcat:tomcat-servlet-api
+11	#DEP#org.json:json

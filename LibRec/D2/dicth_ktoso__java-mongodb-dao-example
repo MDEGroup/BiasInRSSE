@@ -1,0 +1,16 @@
+1	git://github.com/ktoso/java-mongodb-dao-example.git
+2	#DEP#org.mongodb:mongo-java-driver
+3	#DEP#org.springframework:spring-aop
+4	#DEP#com.google.code:morphia
+5	#DEP#org.springframework:org.springframework.aspects
+6	#DEP#org.springframework.security:spring-security-core
+7	#DEP#org.springframework:spring-core
+8	#DEP#org.aspectj:aspectjweaver
+9	#DEP#org.springframework.security:org.springframework.security.config
+10	#DEP#cglib:cglib-nodep
+11	#DEP#com.thoughtworks.proxytoys:proxytoys
+12	#DEP#org.springframework.security:org.springframework.security.web
+13	#DEP#org.springframework:spring-context-support
+14	#DEP#org.springframework.security:org.springframework.security.taglibs
+15	#DEP#junit:junit
+16	#DEP#org.aspectj:aspectjrt

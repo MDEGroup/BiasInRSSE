@@ -1,0 +1,10 @@
+1	git://github.com/flewton/flewton.git
+2	#DEP#commons-configuration:commons-configuration
+3	#DEP#org.python:jython
+4	#DEP#org.osgi:org.osgi.compendium
+5	#DEP#commons-collections:commons-collections
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.jboss.netty:netty
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.osgi:org.osgi.core

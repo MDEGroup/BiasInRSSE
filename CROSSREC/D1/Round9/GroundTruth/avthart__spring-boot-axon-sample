@@ -1,0 +1,3 @@
+13	#DEP#org.springframework.boot:spring-boot-starter-actuator
+14	#DEP#org.springframework.data:spring-data-commons
+15	#DEP#org.hsqldb:hsqldb

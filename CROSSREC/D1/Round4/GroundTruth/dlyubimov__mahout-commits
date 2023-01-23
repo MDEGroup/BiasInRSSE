@@ -1,0 +1,10 @@
+40	#DEP#org.apache.mahout:mahout-examples
+41	#DEP#commons-dbcp:commons-dbcp
+42	#DEP#org.apache.mahout.commons:commons-cli
+43	#DEP#org.mongodb:mongo-java-driver
+44	#DEP#org.codehaus.jackson:jackson-core-asl
+45	#DEP#org.apache.hbase:hbase-client
+46	#DEP#org.slf4j:slf4j-log4j12
+47	#DEP#org.apache.mahout:mahout-integration
+48	#DEP#commons-pool:commons-pool
+49	#DEP#javax.servlet:servlet-api

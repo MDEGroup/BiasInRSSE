@@ -1,0 +1,11 @@
+1	#DEP#log4j:log4j
+1	#DEP#org.cometd.java:cometd-java-client
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#org.cometd.java:cometd-java-common
+1	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+1	#DEP#com.sun.jersey.contribs:jersey-guice
+1	#DEP#org.cometd.java:cometd-java-server
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#org.eclipse.jetty:jetty-servlet

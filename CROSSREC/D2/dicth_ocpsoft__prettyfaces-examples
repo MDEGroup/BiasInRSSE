@@ -1,0 +1,10 @@
+1	git://github.com/ocpsoft/prettyfaces-examples.git
+2	#DEP#net.sf.barcode4j:barcode4j-light
+3	#DEP#org.jboss.seam.servlet:seam-servlet
+4	#DEP#org.jboss.spec:jboss-javaee-6.0
+5	#DEP#org.jboss.seam.faces:seam-faces
+6	#DEP#com.ocpsoft:ocpsoft-pretty-time
+7	#DEP#junit:junit
+8	#DEP#org.jboss.seam.persistence:seam-persistence
+9	#DEP#com.ocpsoft.pretty.examples:prettyfaces-examples
+10	#DEP#com.ocpsoft:prettyfaces-jsf2

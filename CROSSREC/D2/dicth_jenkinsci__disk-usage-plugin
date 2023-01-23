@@ -1,0 +1,9 @@
+1	git://github.com/jenkinsci/disk-usage-plugin.git
+2	#DEP#org.powermock:powermock-core
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#org.jenkins-ci.plugins:mailer
+5	#DEP#org.jenkins-ci.plugins:plugin
+6	#DEP#org.jenkins-ci.plugins:promoted-builds
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#org.jenkins-ci.plugins:matrix-project
+9	#DEP#com.github.olivergondza.dumpling:dumpling

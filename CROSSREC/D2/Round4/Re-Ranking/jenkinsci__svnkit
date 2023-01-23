@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.jcraft:jsch.agentproxy.usocket-nc	1.0
+#DEP#com.jcraft:jsch.agentproxy.pageant	1.0
+#DEP#com.jcraft:jsch.agentproxy.usocket-jna	1.0
+#DEP#com.jcraft:jsch.agentproxy.sshj	1.0
+#DEP#com.jcraft:jsch.agentproxy.sshagent	1.0
+#DEP#com.jcraft:jsch.agentproxy.core	1.0
+#DEP#com.jcraft:jsch.agentproxy.svnkit-trilead-ssh2	1.0

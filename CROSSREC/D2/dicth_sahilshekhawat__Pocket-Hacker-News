@@ -1,0 +1,12 @@
+1	git://github.com/sahilshekhawat/Pocket-Hacker-News.git
+2	#DEP#com.firebase:firebase-client-android
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#de.hdodenhof:circleimageview
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.google.firebase:firebase-database
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.google.firebase:firebase-messaging
+12	#DEP#uk.co.chrisjenx:calligraphy

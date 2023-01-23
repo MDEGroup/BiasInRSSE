@@ -1,0 +1,15 @@
+1	git://github.com/ysrc/Liudao.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.mongodb:mongodb-driver
+4	#DEP#com.alibaba:fastjson
+5	#DEP#commons-beanutils:commons-beanutils
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+8	#DEP#org.kie:kie-ci
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#commons-lang:commons-lang
+11	#DEP#com.alibaba:druid
+12	#DEP#org.drools:drools-compiler
+13	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+14	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+15	#DEP#org.springframework.boot:spring-boot-starter-tomcat

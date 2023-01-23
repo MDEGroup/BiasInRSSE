@@ -1,0 +1,9 @@
+39	#DEP#ch.qos.logback:logback-classic
+40	#DEP#com.github.sarxos:oss-parent
+41	#DEP#com.github.sarxos:webcam-capture-parent
+42	#DEP#org.apache.httpcomponents:httpmime
+43	#DEP#org.eclipse.swt:${swt.artifactId}
+44	#DEP#org.powermock:powermock-api-easymock
+45	#DEP#com.typesafe.akka:akka-actor_2.11
+46	#DEP#junit:junit
+47	#DEP#org.bytedeco:javacv-platform

@@ -1,0 +1,5 @@
+20	#DEP#com.android.support:support-v4
+21	#DEP#net.sourceforge.findbugs:jsr305
+22	#DEP#se.emilsjolander:stickylistheaders
+23	#DEP#com.google.android.gms:play-services-base
+24	#DEP#com.squareup.okhttp:okhttp-urlconnection

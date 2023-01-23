@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven.scm:maven-scm-manager-plexus	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#org.codehaus.plexus:plexus-container-default	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-clearcase	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-perforce	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-starteam	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-cvsexe	1.0
+#DEP#org.apache.maven.scm:maven-scm-provider-jazz	1.0

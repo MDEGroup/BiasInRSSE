@@ -1,0 +1,5 @@
+21	#DEP#com.google.inject:guice
+22	#DEP#org.mockito:mockito-core
+23	#DEP#ch.qos.logback:logback-classic
+24	#DEP#org.apache.httpcomponents:httpmime
+25	#DEP#junit:junit

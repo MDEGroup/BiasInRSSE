@@ -1,0 +1,10 @@
+44	#DEP#org.xwiki.commons:xwiki-commons-script
+45	#DEP#org.hibernate:hibernate-validator
+46	#DEP#org.xwiki.rendering:xwiki-rendering-syntax-xdomxml10
+47	#DEP#org.xwiki.rendering:xwiki-rendering-syntax-event
+48	#DEP#org.xwiki.commons:xwiki-commons-properties
+49	#DEP#org.xwiki.commons:xwiki-commons-component-default
+50	#DEP#org.xwiki.rendering:xwiki-rendering-syntax-docbook
+51	#DEP#org.xwiki.rendering:xwiki-rendering-macro-toc
+52	#DEP#org.xwiki.rendering:xwiki-rendering-transformation-wikiword
+53	#DEP#org.xwiki.rendering:xwiki-rendering-macro-footnotes

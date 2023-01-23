@@ -1,0 +1,5 @@
+21	#DEP#org.graylog.plugins:metrics-reporter-core
+22	#DEP#com.librato.metrics:metrics-librato
+23	#DEP#junit:junit
+24	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-inmemory
+25	#DEP#io.dropwizard.metrics:metrics-graphite

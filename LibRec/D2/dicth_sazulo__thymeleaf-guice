@@ -1,0 +1,14 @@
+1	git://github.com/sazulo/thymeleaf-guice.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.easymock:easymock
+4	#DEP#org.hamcrest:hamcrest-core
+5	#DEP#org.thymeleaf:thymeleaf
+6	#DEP#com.google.inject:guice
+7	#DEP#junit:junit-dep
+8	#DEP#org.bloatedcode.guice.thymeleaf:thymeleaf-guice-core
+9	#DEP#ch.qos.logback:logback-core
+10	#DEP#org.bloatedcode.guice.thymeleaf:thymeleaf-guice-pom
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#com.google.guava:guava
+14	#DEP#com.google.inject.extensions:guice-servlet

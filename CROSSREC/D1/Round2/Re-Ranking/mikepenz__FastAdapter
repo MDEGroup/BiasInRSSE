@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:support-annotations	1.0
+#DEP#io.reactivex.rxjava2:rxjava	1.0
+#DEP#com.mikepenz:fastadapter-extensions-expandable	1.0
+#DEP#com.mikepenz:crossfadedrawerlayout	1.0
+#DEP#com.mikepenz:crossfader	1.0
+#DEP#com.mikepenz:octicons-typeface	1.0
+#DEP#com.mikepenz:fastadapter-commons	1.0
+#DEP#com.mikepenz:materialize	1.0

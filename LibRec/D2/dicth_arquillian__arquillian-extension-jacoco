@@ -1,0 +1,16 @@
+1	git://github.com/arquillian/arquillian-extension-jacoco.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.jboss.arquillian.protocol:arquillian-protocol-servlet
+4	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+5	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+6	#DEP#org.mockito:mockito-all
+7	#DEP#org.jacoco:org.jacoco.core
+8	#DEP#javax.enterprise:cdi-api
+9	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec
+10	#DEP#org.jboss:jboss-parent
+11	#DEP#org.jboss.arquillian:arquillian-build
+12	#DEP#org.jboss.arquillian:arquillian-bom
+13	#DEP#org.jboss.arquillian.container:arquillian-container-test-spi
+14	#DEP#org.jboss.arquillian.container:arquillian-container-spi
+15	#DEP#junit:junit
+16	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-depchain

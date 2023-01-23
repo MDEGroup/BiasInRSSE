@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#net.lingala.zip4j:zip4j	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.twitter4j:twitter4j-stream	1.0
+#DEP#com.linkedin.dexmaker:dexmaker-mockito	1.0
+#DEP#com.android.tools.build:gradle	1.0

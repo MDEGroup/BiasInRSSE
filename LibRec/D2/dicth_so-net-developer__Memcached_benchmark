@@ -1,0 +1,9 @@
+1	git://github.com/so-net-developer/Memcached_benchmark.git
+2	#DEP#net.rubyeye:yanf4j
+3	#DEP#log4j:log4j
+4	#DEP#com.danga:MemCached
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#net.rubyeye:xmemcached
+9	#DEP#org.slf4j:slf4j-log4j12

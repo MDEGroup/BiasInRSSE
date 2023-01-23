@@ -1,0 +1,11 @@
+1	#DEP#org.fusesource.hawtdispatch:hawtdispatch-transport
+1	#DEP#org.fusesource.hawtbuf:hawtbuf
+1	#DEP#org.scala-lang:scala-compiler
+1	#DEP#org.fusesource:fusesource-pom
+1	#DEP#org.fusesource.scalamd:scalamd
+1	#DEP#org.apache.activemq:apollo-broker
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.apache.geronimo.specs:geronimo-jms_1.1_spec
+1	#DEP#org.apache.activemq:activemq-broker
+1	#DEP#org.eclipse.jetty.aggregate:jetty-all-server
+1	#DEP#junit:junit

@@ -1,0 +1,15 @@
+1	git://github.com/zzsawyer/CampusDiary.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.droi.sdk:feedback
+4	#DEP#com.droi.sdk:Core
+5	#DEP#com.droi.sdk:selfupdate
+6	#DEP#com.malinskiy:superrecyclerview
+7	#DEP#com.mikhaellopez:circularprogressbar
+8	#DEP#com.github.bumptech.glide:glide
+9	#DEP#com.droi.sdk:Utility
+10	#DEP#com.droi.sdk:analytics
+11	#DEP#com.android.support:support-v4
+12	#DEP#com.droi.sdk:push
+13	#DEP#com.github.chrisbanes:PhotoView
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

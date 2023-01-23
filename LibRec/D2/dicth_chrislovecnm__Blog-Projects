@@ -1,0 +1,9 @@
+1	git://github.com/chrislovecnm/Blog-Projects.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#cglib:cglib-nodep
+4	#DEP#org.jasypt:jasypt
+5	#DEP#org.slf4j:jcl-over-slf4j
+6	#DEP#org.springframework:spring-test
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12

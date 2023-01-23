@@ -1,0 +1,17 @@
+1	git://github.com/AKSW/LinkedData-QA-Dashboard.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#org.aksw.commons:util
+4	#DEP#org.aksw.commons:collections
+5	#DEP#commons-cli:commons-cli
+6	#DEP#org.apache.jena:eyeball
+7	#DEP#org.mod4j.org.apache.commons:cli
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.ini4j:ini4j
+10	#DEP#postgresql:postgresql
+11	#DEP#org.aksw.commons:sparql
+12	#DEP#com.sun.jersey:jersey-core
+13	#DEP#com.google.guava:guava
+14	#DEP#com.jolbox:bonecp
+15	#DEP#junit:junit
+16	#DEP#org.apache.jena:jena-tdb
+17	#DEP#com.sun.jersey:jersey-server

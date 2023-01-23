@@ -1,0 +1,9 @@
+1	git://github.com/tomazk/boilerpipe-thrift.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#de.l3s.boilerpipe:boilerpipe
+4	#DEP#net.sourceforge.nekohtml:nekohtml
+5	#DEP#log4j:log4j
+6	#DEP#commons-logging:commons-logging
+7	#DEP#xerces:xercesImpl
+8	#DEP#org.apache.thrift:libfb303
+9	#DEP#junit:junit

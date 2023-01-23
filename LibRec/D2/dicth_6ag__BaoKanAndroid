@@ -1,0 +1,16 @@
+1	git://github.com/6ag/BaoKanAndroid.git
+2	#DEP#com.lcodecorex:tkrefreshlayout
+3	#DEP#com.zhy:okhttputils
+4	#DEP#com.facebook.fresco:animated-gif
+5	#DEP#com.kaopiz:kprogresshud
+6	#DEP#com.facebook.fresco:fresco
+7	#DEP#com.facebook.rebound:rebound
+8	#DEP#com.alibaba:fastjson
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#org.litepal.android:core
+11	#DEP#com.android.support:design
+12	#DEP#com.android.support:cardview-v7
+13	#DEP#com.squareup.picasso:picasso
+14	#DEP#com.youth.banner:banner
+15	#DEP#junit:junit
+16	#DEP#com.github.chrisbanes:PhotoView

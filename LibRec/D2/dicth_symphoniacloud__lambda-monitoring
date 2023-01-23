@@ -1,0 +1,17 @@
+1	git://github.com/symphoniacloud/lambda-monitoring.git
+2	#DEP#io.dropwizard.metrics:metrics-core
+3	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+4	#DEP#com.amazonaws:aws-java-sdk-logs
+5	#DEP#${project.groupId}:lambda-metrics
+6	#DEP#org.slf4j:log4j-over-slf4j
+7	#DEP#com.amazonaws:aws-java-sdk-bom
+8	#DEP#com.amazonaws:aws-lambda-java-core
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.apache.maven:maven-core
+11	#DEP#org.reflections:reflections
+12	#DEP#io.symphonia:lambda-monitoring-parent
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#io.symphonia:lambda-metrics
+15	#DEP#${project.groupId}:lambda-logging
+16	#DEP#junit:junit
+17	#DEP#org.hamcrest:java-hamcrest

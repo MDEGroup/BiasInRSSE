@@ -1,0 +1,17 @@
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.activiti:activiti-cdi
+1	#DEP#cn.bc:bc-template
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#javax.transaction:jta
+1	#DEP#org.springframework:spring-orm
+1	#DEP#cn.bc:bc-workday
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.activiti:activiti-designer-integration
+1	#DEP#cn.bc:bc-core
+1	#DEP#org.activiti:activiti-cycle
+1	#DEP#cn.bc:bc-test
+1	#DEP#cn.bc:bc-spider
+1	#DEP#junit:junit
+1	#DEP#org.activiti:activiti-camel

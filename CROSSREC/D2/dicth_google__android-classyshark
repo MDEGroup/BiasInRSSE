@@ -1,0 +1,11 @@
+1	git://github.com/google/android-classyshark.git
+2	#DEP#org.ow2.asm:asm-all
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.google.code.gson:gson-parent
+5	#DEP#com.google.guava:guava
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#org.apache.bcel:bcel
+11	#DEP#com.squareup.okio:okio

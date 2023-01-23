@@ -1,0 +1,17 @@
+1	git://github.com/javaeeeee/SpringBootBookmarks.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.flywaydb:flyway-core
+5	#DEP#commons-beanutils:commons-beanutils
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-configuration-processor
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-validation
+10	#DEP#org.springframework.boot:spring-boot-starter-security
+11	#DEP#org.springframework.security:spring-security-test
+12	#DEP#org.springframework.boot:spring-boot-starter-test
+13	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+14	#DEP#org.springframework.boot:spring-boot-starter-social-twitter
+15	#DEP#org.springframework.boot:spring-boot-starter-hateoas
+16	#DEP#org.springframework.boot:spring-boot-devtools
+17	#DEP#com.h2database:h2

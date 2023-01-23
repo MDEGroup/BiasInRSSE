@@ -1,0 +1,10 @@
+#DEP#org.codehaus.gmaven.runtime:gmaven-runtime-2.0	1.0
+#DEP#org.spockframework:spock-core	1.0
+#DEP#com.google.protobuf:protobuf-java	1.0
+#DEP#org.jboss.spec:jboss-javaee-6.0	1.0
+#DEP#com.google.dagger:dagger-android-support	1.0
+#DEP#org.timepedia.exporter:gwtexporter	1.0
+#DEP#xmlbeans:xbean	1.0
+#DEP#junit:junit	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.apache.xmlbeans:xmlbeans-xmlpublic	1.0

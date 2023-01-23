@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.offbytwo.jenkins:jenkins-client

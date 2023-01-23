@@ -1,0 +1,9 @@
+1	git://github.com/alibaba/ARouter.git
+2	#DEP#com.alibaba:arouter-annotation
+3	#DEP#com.alibaba:arouter-compiler
+4	#DEP#org.apache.commons:commons-collections4
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#com.alibaba:fastjson
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#com.squareup:javapoet
+9	#DEP#com.google.auto.service:auto-service

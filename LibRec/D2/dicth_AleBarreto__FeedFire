@@ -1,0 +1,13 @@
+1	git://github.com/AleBarreto/FeedFire.git
+2	#DEP#com.github.championswimmer:Android-SocialButtons
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.android.support:design
+6	#DEP#com.facebook.android:facebook-android-sdk
+7	#DEP#com.google.firebase:firebase-auth
+8	#DEP#com.android.support:cardview-v7
+9	#DEP#com.sandrios.android:sandriosCamera
+10	#DEP#com.google.android.gms:play-services-auth
+11	#DEP#com.google.firebase:firebase-storage
+12	#DEP#com.google.firebase:firebase-database
+13	#DEP#junit:junit

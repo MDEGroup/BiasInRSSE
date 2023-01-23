@@ -1,0 +1,13 @@
+52	#DEP#org.jboss.weld.se:weld-se-core
+53	#DEP#org.eclipse.jetty:test-jetty-webapp
+54	#DEP#org.apache.taglibs:taglibs-standard-impl
+55	#DEP#org.eclipse.jetty:jetty-server
+56	#DEP#org.eclipse.jetty:jetty-util-ajax
+57	#DEP#org.eclipse.jetty:jetty-servlet
+58	#DEP#org.eclipse.jetty.websocket:websocket-client
+59	#DEP#org.eclipse.jetty:apache-jsp
+60	#DEP#org.eclipse.jetty:test-proxy-webapp
+61	#DEP#org.eclipse.jetty.websocket:javax-websocket-server-impl
+62	#DEP#org.eclipse.jetty:jetty-util
+63	#DEP#org.eclipse.jetty:jetty-webapp
+64	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper

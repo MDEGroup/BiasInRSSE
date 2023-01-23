@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.poi:poi	1.0
+#DEP#org.apache.poi:poi-ooxml	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#org.apache.pdfbox:pdfbox	1.0
+#DEP#org.apache.lucene:lucene-analyzers-common	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.carrotsearch:java-sizeof	1.0
+#DEP#org.apache.poi:poi-excelant	1.0

@@ -1,0 +1,11 @@
+1	git://github.com/neo4j-contrib/neoclipse.git
+2	#DEP#org.neo4j.neoclipse:org.neo4j.neoclipse.dependencies
+3	#DEP#org.neo4j.build:parent-central
+4	#DEP#org.neo4j:neo4j
+5	#DEP#org.neo4j:neo4j-shell
+6	#DEP#org.neo4j:server-api
+7	#DEP#com.tinkerpop.blueprints:blueprints-neo4j-graph
+8	#DEP#org.neo4j:neo4j-management
+9	#DEP#org.neo4j:neoclipse
+10	#DEP#com.google.code.gson:gson
+11	#DEP#org.neo4j:neo4j-rest-graphdb

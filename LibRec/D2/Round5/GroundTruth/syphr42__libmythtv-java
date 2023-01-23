@@ -1,0 +1,13 @@
+1	#DEP#org.syphr:libmythtv-protocol
+1	#DEP#org.syphr:libmythtv-api
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.syphr:libmythtv-test
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.syphr:libmythtv-ws
+1	#DEP#org.syphr:prom
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.syphr:syphr-parent
+1	#DEP#junit:junit
+1	#DEP#org.syphr:libmythtv-java

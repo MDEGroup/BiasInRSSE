@@ -1,0 +1,10 @@
+1	git://github.com/imri/mizo.git
+2	#DEP#org.mizo:mizo-hbase
+3	#DEP#org.mizo:mizo-core
+4	#DEP#com.thinkaurelius.titan:titan-hbase
+5	#DEP#org.apache.hbase:hbase-server
+6	#DEP#org.mizo:mizo
+7	#DEP#org.apache.spark:spark-core_2.10
+8	#DEP#junit:junit
+9	#DEP#org.mizo:mizo-iterators
+10	#DEP#com.thinkaurelius.titan:titan-core

@@ -1,0 +1,11 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.apache.directory.api:api-all
+1	#DEP#javax.mail:javax.mail-api
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#dnsjava:dnsjava
+1	#DEP#com.google.firebase:firebase-admin
+1	#DEP#net.i2p.crypto:eddsa
+1	#DEP#com.twilio.sdk:twilio
+1	#DEP#junit:junit
+1	#DEP#com.sun.mail:javax.mail
+1	#DEP#com.j256.ormlite:ormlite-jdbc

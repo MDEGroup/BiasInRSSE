@@ -1,0 +1,4 @@
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty.examples:jetty-slf4j-mdc-handler
+1	#DEP#org.slf4j:slf4j-api

@@ -1,0 +1,11 @@
+1	git://github.com/mbogoevici/spring-deployer-as7.git
+2	#DEP#org.jboss.as:jboss-as-controller
+3	#DEP#org.springframework:spring-expression
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.jboss.as:jboss-as-server
+6	#DEP#org.springframework:spring-context-support
+7	#DEP#org.jboss.snowdrop:snowdrop-vfs
+8	#DEP#org.springframework:spring-asm
+9	#DEP#org.springframework:spring-beans
+10	#DEP#org.springframework:spring-core
+11	#DEP#org.jboss.snowdrop:snowdrop-deployers-common

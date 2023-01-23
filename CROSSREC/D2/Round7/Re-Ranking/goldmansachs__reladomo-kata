@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.gs.mithra:mithra	1.0
+#DEP#com.gs.fw.aig.intgr:gsintegrator-api	1.0
+#DEP#com.gs.fw.core:fw-psp	1.0
+#DEP#com.gs.fw.aig.jdbc:jndijdbc	1.0
+#DEP#com.goldmansachs.reladomo:reladomogen	1.0
+#DEP#com.goldmansachs.reladomo:reladomo-test-util	1.0
+#DEP#com.gs.mithra:mithragen	1.0
+#DEP#com.gs.mithra:mithraui	1.0

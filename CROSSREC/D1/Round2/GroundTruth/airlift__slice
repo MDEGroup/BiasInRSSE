@@ -1,0 +1,7 @@
+31	#DEP#org.slf4j:org.slf4j
+32	#DEP#org.apache.commons:org.apache.commons
+33	#DEP#com.google.inject.extensions:com.google.inject.extensions
+34	#DEP#com.fasterxml.jackson.dataformat:com.fasterxml.jackson.dataformat
+35	#DEP#org.openjdk.jmh:jmh-core
+36	#DEP#ch.qos.logback:ch.qos.logback
+37	#DEP#cglib:cglib

@@ -1,0 +1,16 @@
+1	git://github.com/jiaqi/jmxterm.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.cyclopsgroup:jcli
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#commons-beanutils:commons-beanutils
+7	#DEP#org.apache.commons:commons-configuration2
+8	#DEP#org.cyclopsgroup:cyclopsgroup-java-parent
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#org.apache.commons:commons-collections4
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#org.jline:jline
+13	#DEP#org.jmock:jmock
+14	#DEP#org.apache.commons:commons-text
+15	#DEP#org.jmock:jmock-legacy
+16	#DEP#junit:junit

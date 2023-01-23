@@ -1,0 +1,13 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.boot:spring-boot-starter-redis
+1	#DEP#org.apache.shiro:shiro-ehcache
+1	#DEP#com.jf:page-mysql
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.apache.kafka:kafka_2.11
+1	#DEP#com.github.theborakompanioni:thymeleaf-extras-shiro
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.mybatis:mybatis-spring

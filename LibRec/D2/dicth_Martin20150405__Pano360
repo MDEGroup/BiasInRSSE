@@ -1,0 +1,9 @@
+1	git://github.com/Martin20150405/Pano360.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.android.support:design
+8	#DEP#com.android.support.test:runner
+9	#DEP#com.android.support.test.espresso:espresso-core

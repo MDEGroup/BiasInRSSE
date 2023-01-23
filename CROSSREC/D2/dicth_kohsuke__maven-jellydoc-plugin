@@ -1,0 +1,15 @@
+1	git://github.com/kohsuke/maven-jellydoc-plugin.git
+2	#DEP#nekohtml:nekohtml
+3	#DEP#jaxen:jaxen
+4	#DEP#ant:ant
+5	#DEP#org.jvnet.maven-jellydoc-plugin:jellydoc
+6	#DEP#dom4j:dom4j
+7	#DEP#org.apache.maven:maven-project
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.apache.maven:maven-core
+10	#DEP#org.apache.maven.reporting:maven-reporting-impl
+11	#DEP#com.sun.xml.txw2:txw2
+12	#DEP#net.java.dev.textile-j:textile-j
+13	#DEP#${project.groupId}:taglib-xml-writer
+14	#DEP#${project.groupId}:jellydoc-annotations
+15	#DEP#org.apache.maven:maven-artifact

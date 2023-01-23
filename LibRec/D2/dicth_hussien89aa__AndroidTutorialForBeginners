@@ -1,0 +1,11 @@
+1	git://github.com/hussien89aa/AndroidTutorialForBeginners.git
+2	#DEP#com.google.firebase:firebase-auth
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.google.firebase:firebase-storage
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.google.android.gms:play-services-maps
+8	#DEP#com.google.firebase:firebase-database
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.google.firebase:firebase-core

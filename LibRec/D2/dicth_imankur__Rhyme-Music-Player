@@ -1,0 +1,11 @@
+1	git://github.com/imankur/Rhyme-Music-Player.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.android.support:palette-v7
+4	#DEP#com.google.android.gms:play-services-ads
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.futuremind.recyclerfastscroll:fastscroll
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.google.android.gms:play-services-analytics
+11	#DEP#com.nostra13.universalimageloader:universal-image-loader

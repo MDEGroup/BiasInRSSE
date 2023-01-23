@@ -1,0 +1,11 @@
+1	git://github.com/694551594/android-http.git
+2	#DEP#cn.yhq:android-dialog
+3	#DEP#cn.yhq:android-base
+4	#DEP#com.google.guava:guava
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#com.jakewharton:disklrucache
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#cn.yhq:android-utils
+9	#DEP#junit:junit
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#cn.yhq:android-adapter

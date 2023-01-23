@@ -1,0 +1,4 @@
+1	#DEP#com.madgag:lazy-drawables
+1	#DEP#com.google.android:android-test
+1	#DEP#com.google.guava:guava
+1	#DEP#org.hamcrest:hamcrest-core

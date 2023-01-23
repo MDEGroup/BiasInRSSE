@@ -1,0 +1,8 @@
+34	#DEP#org.apache.zookeeper:zookeeper
+35	#DEP#com.senseidb:sensei-core
+36	#DEP#com.yammer.metrics:metrics-core_2.8.1
+37	#DEP#org.iq80.snappy:snappy
+38	#DEP#org.springframework:spring
+39	#DEP#${project.groupId}:sensei-core
+40	#DEP#com.linkedin:norbert_2.8.1
+41	#DEP#javax.servlet:servlet-api

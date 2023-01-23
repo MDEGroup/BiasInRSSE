@@ -1,0 +1,4 @@
+17	#DEP#junit:junit
+18	#DEP#com.j256.ormlite:ormlite-core
+19	#DEP#io.reactivex:rxjava
+20	#DEP#io.reactivex:rxandroid

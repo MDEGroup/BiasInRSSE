@@ -1,0 +1,15 @@
+1	git://github.com/OlgaKuklina/GitJourney.git
+2	#DEP#com.android.support:support-core-utils
+3	#DEP#commons-io:commons-io
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#org.markdownj:markdownj-core
+6	#DEP#com.google.android.gms:play-services-maps
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support:design
+9	#DEP#com.google.firebase:firebase-core
+10	#DEP#com.android.support:cardview-v7
+11	#DEP#com.squareup.picasso:picasso
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.android.support.constraint:constraint-layout
+14	#DEP#com.github.softwee:codeview-android
+15	#DEP#junit:junit

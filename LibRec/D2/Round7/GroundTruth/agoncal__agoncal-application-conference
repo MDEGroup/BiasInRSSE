@@ -1,0 +1,13 @@
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-bom
+1	#DEP#javax:javaee-api
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#org.agoncal.application.conference:microservice-rating
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.jboss.arquillian.extension:arquillian-rest-client-api
+1	#DEP#org.agoncal.application.conference:parent
+1	#DEP#org.agoncal.application.conference:conference-commons
+1	#DEP#org.jboss.arquillian.extension:arquillian-rest-client-impl-3x
+1	#DEP#io.swagger:swagger-annotations
+1	#DEP#junit:junit
+1	#DEP#org.agoncal.application.conference:microservice-venue
+1	#DEP#com.h2database:h2

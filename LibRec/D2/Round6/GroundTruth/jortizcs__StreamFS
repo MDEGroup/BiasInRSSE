@@ -1,0 +1,7 @@
+1	#DEP#colt:colt
+1	#DEP#net.sf.jung:jung-io
+1	#DEP#net.sf.jung:jung-graph-impl
+1	#DEP#net.sf.jung:jung-3d
+1	#DEP#junit:junit
+1	#DEP#net.sf.jung:jung-api
+1	#DEP#net.sourceforge.collections:collections-generic

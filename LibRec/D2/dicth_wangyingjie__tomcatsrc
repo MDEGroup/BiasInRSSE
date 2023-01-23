@@ -1,0 +1,13 @@
+1	git://github.com/wangyingjie/tomcatsrc.git
+2	#DEP#javax.xml.rpc:javax.xml.rpc-api
+3	#DEP#ant:ant
+4	#DEP#org.apache:apache
+5	#DEP#org.easymock:easymock
+6	#DEP#org.apache.tomcat:dbcp
+7	#DEP#org.apache.tomcat:juli
+8	#DEP#ant:ant-apache-log4j
+9	#DEP#org.eclipse.jdt.core.compiler:ecj
+10	#DEP#ant:ant-commons-logging
+11	#DEP#junit:junit
+12	#DEP#wsdl4j:wsdl4j
+13	#DEP#com.h2database:h2

@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.zalando:problem	1.0
+#DEP#org.junit.platform:junit-platform-launcher	1.0
+#DEP#org.hobsoft.hamcrest:hamcrest-compose	1.0
+#DEP#com.google.gag:gag	1.0
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#net.opentsdb:opentsdb	1.0

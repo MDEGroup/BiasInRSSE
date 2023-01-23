@@ -1,0 +1,9 @@
+1	#DEP#de.topicmapslab.tmql4j:tmql4j-insert
+1	#DEP#de.topicmapslab.tmql4j:tmql4j-draft2010
+1	#DEP#jline:jline
+1	#DEP#de.topicmapslab.tmql4j:tmql4j-select
+1	#DEP#de.topicmapslab.majortom:majortom-bridge-common
+1	#DEP#de.topicmapslab.majortom:majortom-inMemory
+1	#DEP#de.topicmapslab.tmql4j:tmql4j-delete
+1	#DEP#de.topicmapslab.tmql4j:tmql4j-path
+1	#DEP#de.topicmapslab.tmql4j:tmql4j-merge

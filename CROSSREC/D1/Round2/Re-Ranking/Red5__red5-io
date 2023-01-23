@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.apache.mina:mina-core	1.0
+#DEP#org.springframework:spring-aop	1.0
+#DEP#org.red5:red5-server	1.0
+#DEP#org/testng:testng	1.0

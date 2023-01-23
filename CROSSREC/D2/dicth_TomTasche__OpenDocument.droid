@@ -1,0 +1,10 @@
+1	git://github.com/TomTasche/OpenDocument.droid.git
+2	#DEP#com.android.support:support-compat
+3	#DEP#com.google.android.gms:play-services-ads
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:multidex
+6	#DEP#com.google.firebase:firebase-storage
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.google.android.gms:play-services-analytics

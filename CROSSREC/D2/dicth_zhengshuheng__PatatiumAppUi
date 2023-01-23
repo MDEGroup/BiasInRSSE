@@ -1,0 +1,12 @@
+1	git://github.com/zhengshuheng/PatatiumAppUi.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#javax.mail:mail
+4	#DEP#org.seleniumhq.selenium:selenium-java
+5	#DEP#log4j:log4j
+6	#DEP#io.appium:java-client
+7	#DEP#com.github.sanjusoftware:yamlbeans
+8	#DEP#dom4j:dom4j
+9	#DEP#org.testng:testng
+10	#DEP#org.jodd:jodd-http
+11	#DEP#org.json:json
+12	#DEP#net.sourceforge.jexcelapi:jxl

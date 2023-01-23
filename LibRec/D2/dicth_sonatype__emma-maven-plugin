@@ -1,0 +1,12 @@
+1	git://github.com/sonatype/emma-maven-plugin.git
+2	#DEP#org.sonatype.plugins:plugins-parent
+3	#DEP#emma:emma
+4	#DEP#org.apache.maven.reporting:maven-reporting-api
+5	#DEP#org.codehaus.plexus:plexus-utils
+6	#DEP#emma.test:it03
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#org.apache.maven:maven-project
+9	#DEP#junit:junit
+10	#DEP#org.apache.maven:maven-plugin-api
+11	#DEP#org.apache.maven.reporting:maven-reporting-impl
+12	#DEP#commons-lang:commons-lang

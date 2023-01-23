@@ -1,0 +1,6 @@
+1	#DEP#com.google.cloud:google-cloud-storage
+1	#DEP#org.mitre.dsmiley.httpproxy:smiley-http-proxy-servlet
+1	#DEP#com.google.protobuf:protobuf-java-util
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.google.cloud:gcloud-java
+1	#DEP#com.google.protobuf:protobuf-java

@@ -1,0 +1,12 @@
+1	#DEP#jline:jline
+1	#DEP#com.jgoodies:forms
+1	#DEP#org.vpac.grisu:grisu-client-swing
+1	#DEP#log4j:log4j
+1	#DEP#org.vpac.grisu:grisu-clients
+1	#DEP#bouncycastle:bcprov-jdk15
+1	#DEP#au.org.arcs.auth:arcs-gsi
+1	#DEP#uk.co.flamingpenguin.jewelcli:jewelcli
+1	#DEP#org.vpac.grisu:grisu-archetypes
+1	#DEP#junit:junit
+1	#DEP#jython:jython
+1	#DEP#org.vpac.grisu:frontend

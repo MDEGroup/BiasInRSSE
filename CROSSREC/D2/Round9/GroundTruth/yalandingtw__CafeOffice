@@ -1,0 +1,5 @@
+1	#DEP#com.google.android.gms:play-services-maps
+1	#DEP#biz.kasual:materialnumberpicker
+1	#DEP#junit:junit
+1	#DEP#com.grasea:grandroid-mvp-framework
+1	#DEP#com.jakewharton:butterknife

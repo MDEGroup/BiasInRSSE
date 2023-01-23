@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:jstl
+1	#DEP#javax:javaee-web-api
+1	#DEP#com.sun.faces:jsf-impl
+1	#DEP#junit:junit
+1	#DEP#javax:javaee-api

@@ -1,0 +1,16 @@
+1	#DEP#org.slf4j:jul-to-slf4j
+1	#DEP#org.jboss.resteasy:resteasy-netty4
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.jboss.resteasy:resteasy-jackson2-provider
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.google.inject:guice
+1	#DEP#org.jboss.resteasy:resteasy-guice
+1	#DEP#com.alibaba:druid
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jboss.resteasy:resteasy-validator-provider-11
+1	#DEP#junit:junit
+1	#DEP#com.google.inject.extensions:guice-multibindings
+1	#DEP#com.h2database:h2

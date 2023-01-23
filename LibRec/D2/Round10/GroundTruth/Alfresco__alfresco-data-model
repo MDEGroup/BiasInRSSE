@@ -1,0 +1,14 @@
+1	#DEP#org.alfresco:alfresco-xmlfactory
+1	#DEP#org.jibx:jibx-run
+1	#DEP#org.acegisecurity:acegi-security
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#org.gagravarr:vorbis-java-tika
+1	#DEP#org.antlr:gunit
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.apache.chemistry.opencmis:chemistry-opencmis-client-impl
+1	#DEP#junit:junit

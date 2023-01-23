@@ -1,0 +1,8 @@
+1	#DEP#org.codehaus.sonar-plugins:parent
+1	#DEP#org.codehaus.sonar-plugins.scm-activity:sonar-scm-activity-plugin
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#org.codenarc:CodeNarc
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.codehaus.sonar:sonar-plugin-api
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

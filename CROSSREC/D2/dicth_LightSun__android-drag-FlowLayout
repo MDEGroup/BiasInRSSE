@@ -1,0 +1,9 @@
+1	git://github.com/LightSun/android-drag-FlowLayout.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.heaven7.volley:volley_with_extra
+4	#DEP#com.heaven7.core.adapter:adapter
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.heaven7.core.util:util-v1
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.heaven7.core.util:memory

@@ -1,0 +1,11 @@
+45	#DEP#org.eclipse.jetty:jetty-jmx
+46	#DEP#org.eclipse.jetty:jetty-io
+47	#DEP#javax.websocket:javax.websocket-client-api
+48	#DEP#org.eclipse.jetty.toolchain:jetty-perf-helper
+49	#DEP#org.eclipse.jetty.websocket:websocket-server
+50	#DEP#com.google.inject:guice
+51	#DEP#org.eclipse.jetty:jetty-util-ajax
+52	#DEP#org.eclipse.jetty.websocket:websocket-client
+53	#DEP#com.fasterxml.jackson.core:jackson-databind
+54	#DEP#org.eclipse.jetty.websocket:javax-websocket-server-impl
+55	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper

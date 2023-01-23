@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.bitcoinj:bitcoinj-core	1.0
+#DEP#de.jensd:fontawesomefx	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.fxmisc.easybind:easybind	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#com.sun.xml.security:xml-security-impl	1.0
+#DEP#network.thunder:thunder-core	1.0

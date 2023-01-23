@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-all	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.openstreetmap.osmosis:osmosis-core	1.0
+#DEP#junit:junit	1.0
+#DEP#com.vividsolutions:jts	1.0
+#DEP#org.openstreetmap.osmosis:osmosis-tagfilter	1.0
+#DEP#org.locationtech.geogig:geogig-cli	1.0
+#DEP#org.locationtech.geogig:geogig-core	1.0
+#DEP#org.geotools:gt-property	1.0
+#DEP#org.locationtech.geogig:geogig-sqlite-xerial	1.0

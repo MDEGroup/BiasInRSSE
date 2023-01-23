@@ -1,0 +1,13 @@
+1	git://github.com/IronManRobotTonyJunior/ThirtySixFinal.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#org.greenrobot:eventbus
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.google.code.gson:gson
+6	#DEP#com.android.support:design
+7	#DEP#com.squareup.picasso:picasso
+8	#DEP#com.youth.banner:banner
+9	#DEP#com.github.bumptech.glide:glide
+10	#DEP#eu.the4thfloor.volley:com.android.volley
+11	#DEP#com.linsea:universalvideoview
+12	#DEP#com.android.support:support-v4
+13	#DEP#junit:junit

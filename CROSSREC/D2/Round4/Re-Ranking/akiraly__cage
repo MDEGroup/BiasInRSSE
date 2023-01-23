@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.apache.wicket:wicket-extensions	1.0
+#DEP#log4j:log4j	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.springframework:spring-web	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#net.ftlines.metagen:metagen-core	1.0

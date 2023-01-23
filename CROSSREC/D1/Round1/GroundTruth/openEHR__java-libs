@@ -1,0 +1,5 @@
+24	#DEP#org.openehr.java-libs:openehr-rm-core
+25	#DEP#org.apache.xmlbeans:xmlbeans
+26	#DEP#log4j:log4j
+27	#DEP#jdom:jdom
+28	#DEP#junit:junit

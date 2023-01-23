@@ -1,0 +1,4 @@
+20	#DEP#com.googlecode.lambdaj:lambdaj
+21	#DEP#com.github.richardwilly98.elasticsearch:elasticsearch-river-mongodb
+22	#DEP#ru.yandex.qatools.matchers:matcher-decorators
+23	#DEP#org.javalite:activejdbc

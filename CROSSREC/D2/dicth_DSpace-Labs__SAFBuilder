@@ -1,0 +1,13 @@
+1	git://github.com/DSpace-Labs/SAFBuilder.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#commons-vfs:commons-vfs
+9	#DEP#net.sourceforge.javacsv:javacsv
+10	#DEP#org.apache.commons:commons-compress
+11	#DEP#xmlwriter:xmlwriter
+12	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+13	#DEP#junit:junit

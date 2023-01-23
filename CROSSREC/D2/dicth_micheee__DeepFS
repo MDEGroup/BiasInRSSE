@@ -1,0 +1,9 @@
+1	git://github.com/micheee/DeepFS.git
+2	#DEP#org.apache.pdfbox:pdfbox
+3	#DEP#net.sf:jargs
+4	#DEP#org:jaudiotagger
+5	#DEP#org.deepfs.external:cardme
+6	#DEP#com.drewnoakes:metadata-extractor
+7	#DEP#junit:junit
+8	#DEP#org.basex:basex
+9	#DEP#com.sun.mail:javax.mail

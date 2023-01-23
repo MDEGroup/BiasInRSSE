@@ -1,0 +1,13 @@
+1	git://github.com/apsaltis/StreamingData-Book-Examples.git
+2	#DEP#org.apache.kafka:kafka-clients
+3	#DEP#org.javassist:javassist
+4	#DEP#io.netty:netty-all
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#org.apache.storm:storm-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#com.clearspring.analytics:stream
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.apache.storm:storm-kafka-client
+13	#DEP#org.rocksdb:rocksdbjni

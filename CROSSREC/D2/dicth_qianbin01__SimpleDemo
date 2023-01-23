@@ -1,0 +1,14 @@
+1	git://github.com/qianbin01/SimpleDemo.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#de.hdodenhof:circleimageview
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:design
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.android.support:cardview-v7
+10	#DEP#com.squareup.picasso:picasso
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#junit:junit
+13	#DEP#io.reactivex:rxjava
+14	#DEP#io.reactivex:rxandroid

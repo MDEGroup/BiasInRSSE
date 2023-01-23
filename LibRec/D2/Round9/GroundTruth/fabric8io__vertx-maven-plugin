@@ -1,0 +1,6 @@
+1	#DEP#org.webjars:jquery
+1	#DEP#org.bouncycastle:bcprov-jdk16
+1	#DEP#io.vertx:vertx-web-templ-thymeleaf
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-jdbc-client
+1	#DEP#io.vertx:vertx-unit

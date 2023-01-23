@@ -1,0 +1,14 @@
+1	git://github.com/kamranzafar/JCL.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.xeustechnologies:jcl
+5	#DEP#org.xeustechnologies:jcl-core
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.xeustechnologies:jcl-web
+8	#DEP#cglib:cglib-nodep
+9	#DEP#org.xeustechnologies:jcl-spring
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#org.objenesis:objenesis
+12	#DEP#org.kamranzafar.commons:object-cloner
+13	#DEP#junit:junit
+14	#DEP#org.xeustechnologies:test-jcl

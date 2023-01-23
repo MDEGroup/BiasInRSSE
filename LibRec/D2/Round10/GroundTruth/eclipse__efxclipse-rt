@@ -1,0 +1,6 @@
+1	#DEP#org.eclipse.fx.experimental:releng
+1	#DEP#org.eclipse.fx.testcases.dnd:org.eclipse.fx.testcases.dnd.app.releng
+1	#DEP#org.eclipse.fx.simplycode:org.eclipse.fx.simplycode.app.releng
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.fx.code.compensator:org.eclipse.fx.code.compensator.app.releng
+1	#DEP#test.issue12:test.issue12.app.releng

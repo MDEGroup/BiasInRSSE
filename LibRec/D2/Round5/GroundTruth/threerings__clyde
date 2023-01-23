@@ -1,0 +1,8 @@
+1	#DEP#com.threerings:nenya
+1	#DEP#org.lwjgl.lwjgl:lwjgl_util
+1	#DEP#com.apple:applejavaextensions
+1	#DEP#proguard:annotations
+1	#DEP#com.threerings:vilya
+1	#DEP#com.google.guava:guava
+1	#DEP#commons-digester:commons-digester
+1	#DEP#junit:junit

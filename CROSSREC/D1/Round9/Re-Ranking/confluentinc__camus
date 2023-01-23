@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.avro:avro	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#${project.groupId}:trevni-core	1.0
+#DEP#${project.groupId}:trevni-avro	1.0

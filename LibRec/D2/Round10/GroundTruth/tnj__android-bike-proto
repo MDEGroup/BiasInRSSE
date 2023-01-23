@@ -1,0 +1,7 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.deploygate:sdk
+1	#DEP#junit:junit

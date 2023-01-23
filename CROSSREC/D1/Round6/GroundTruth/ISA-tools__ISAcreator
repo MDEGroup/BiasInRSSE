@@ -1,0 +1,7 @@
+32	#DEP#javax.jws:jsr181-api
+33	#DEP#javax.xml.ws:jaxws-api
+34	#DEP#org.apache.xmlbeans:xmlbeans
+35	#DEP#log4j:log4j
+36	#DEP#net.minidev:json-smart
+37	#DEP#org.apache.commons:com.springsource.org.apache.commons.httpclient
+38	#DEP#org.apache.felix:org.apache.felix.main

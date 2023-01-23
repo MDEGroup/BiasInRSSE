@@ -1,0 +1,4 @@
+1	#DEP#com.github.material-motion:physics-android
+1	#DEP#junit:junit
+1	#DEP#pl.droidsonroids.gif:android-gif-drawable
+1	#DEP#com.google.truth:truth

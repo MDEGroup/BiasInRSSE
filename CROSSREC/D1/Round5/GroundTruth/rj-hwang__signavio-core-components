@@ -1,0 +1,14 @@
+58	#DEP#javax.xml.bind:jsr173_api
+59	#DEP#javax.servlet:jsp-api
+60	#DEP#antlr:antlr
+61	#DEP#dom4j:dom4j
+62	#DEP#javax.transaction:jta
+63	#DEP#batik:batik-awt-util
+64	#DEP#org.slf4j:slf4j-log4j12
+65	#DEP#com.signavio.corecomponents:scc-platform-extension-bpmn2_0
+66	#DEP#batik:batik-ext
+67	#DEP#org.hibernate:jtidy
+68	#DEP#xerces:xercesImpl
+69	#DEP#javax.servlet:servlet-api
+70	#DEP#swarmcache:swarmcache
+71	#DEP#javax.servlet:jstl

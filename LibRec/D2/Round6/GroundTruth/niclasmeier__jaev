@@ -1,0 +1,11 @@
+1	#DEP#org.apache.tapestry:tapestry-core
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.apache.myfaces.core:myfaces-impl
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr

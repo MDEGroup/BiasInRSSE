@@ -1,0 +1,14 @@
+1	git://github.com/stivlo/spring-recipes.git
+2	#DEP#org.springframework:org.springframework.web.servlet
+3	#DEP#commons-logging:commons-logging
+4	#DEP#org.springframework:org.springframework.beans
+5	#DEP#taglibs:standard
+6	#DEP#org.springframework:org.springframework.core
+7	#DEP#org.springframework:org.springframework.aop
+8	#DEP#org.springframework:org.springframework.context.support
+9	#DEP#org.mockito:mockito-core
+10	#DEP#javax.servlet:jstl
+11	#DEP#org.springframework:org.springframework.web
+12	#DEP#junit:junit
+13	#DEP#org.springframework:org.springframework.context
+14	#DEP#org.obliquid:obliquid-lib

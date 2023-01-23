@@ -1,0 +1,11 @@
+1	#DEP#ru.yandex.clickhouse:clickhouse-jdbc
+1	#DEP#org.codehaus.groovy:groovy-templates
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guava:guava
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#io.swagger:swagger-parser
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2
+1	#DEP#org.antlr:antlr4-runtime

@@ -1,0 +1,10 @@
+1	git://github.com/willmore/hama-kmeans.git
+2	#DEP#jfree:jcommon
+3	#DEP#commons-cli:commons-cli
+4	#DEP#commons-logging:commons-logging-api
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#commons-logging:commons-logging
+7	#DEP#jfree:jfreechart
+8	#DEP#org.apache.incubator:hama
+9	#DEP#commons-httpclient:commons-httpclient
+10	#DEP#org.apache.hadoop:zookeeper

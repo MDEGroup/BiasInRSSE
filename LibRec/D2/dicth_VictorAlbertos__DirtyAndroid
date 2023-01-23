@@ -1,0 +1,15 @@
+1	git://github.com/VictorAlbertos/DirtyAndroid.git
+2	#DEP#com.github.VictorAlbertos.Jolyglot:gson_auto_value
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#org.glassfish:javax.annotation
+6	#DEP#com.jakewharton.timber:timber
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#com.github.miguelbcr:OkAdapters
+9	#DEP#com.squareup.picasso:picasso
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.android.support.test:rules
+12	#DEP#com.github.VictorAlbertos:ReactiveCache
+13	#DEP#junit:junit
+14	#DEP#com.android.support.test:runner
+15	#DEP#com.github.VictorAlbertos:DeviceAnimationTestRule

@@ -1,0 +1,12 @@
+1	git://github.com/spring-projects/spring-retry.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.springframework:spring-test
+5	#DEP#log4j:log4j
+6	#DEP#org.easymock:easymock
+7	#DEP#junit:junit
+8	#DEP#org.springframework:spring-framework-bom
+9	#DEP#org.aspectj:aspectjrt
+10	#DEP#org.springframework:spring-core
+11	#DEP#org.springframework:spring-tx
+12	#DEP#org.aspectj:aspectjweaver

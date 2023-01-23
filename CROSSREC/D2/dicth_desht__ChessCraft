@@ -1,0 +1,13 @@
+1	git://github.com/desht/ChessCraft.git
+2	#DEP#org.mcstats.bukkit:metrics
+3	#DEP#net.citizensnpcs:citizensapi
+4	#DEP#me.desht:scrollingmenusign
+5	#DEP#com.comphenix.protocol:ProtocolLib
+6	#DEP#me.desht:chesspresso
+7	#DEP#org.dynmap:dynmap-api
+8	#DEP#org.bukkit:bukkit
+9	#DEP#me.desht:dhutils-lib
+10	#DEP#me.desht:landslide
+11	#DEP#com.sk89q:worldedit
+12	#DEP#junit:junit
+13	#DEP#net.milkbowl.vault:VaultAPI

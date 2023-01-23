@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.testng:testng	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.jboss.weld.se:weld-se-core	1.0
+#DEP#org.hsqldb:hsqldb	1.0
+#DEP#com.googlecode.genericdao:dao-hibernate	1.0
+#DEP#com.googlecode.genericdao:search-jpa-hibernate	1.0

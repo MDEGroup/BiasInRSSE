@@ -1,0 +1,10 @@
+1	#DEP#com.atlassian.jira:atlassian-jira-pageobjects
+1	#DEP#com.atlassian.streams:streams-api
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#com.atlassian.plugins.rest:atlassian-rest-common
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.atlassian.jira:atlassian-jira
+1	#DEP#com.atlassian.templaterenderer:atlassian-template-renderer-api
+1	#DEP#com.atlassian.activeobjects:activeobjects-test
+1	#DEP#junit:junit
+1	#DEP#com.atlassian.activeobjects:activeobjects-plugin

@@ -1,0 +1,10 @@
+1	git://github.com/Hylke1982/PoiParser.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.apache.poi:poi
+5	#DEP#org.hamcrest:hamcrest-all
+6	#DEP#commons-beanutils:commons-beanutils
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.apache.poi:poi-ooxml
+9	#DEP#junit:junit
+10	#DEP#commons-lang:commons-lang

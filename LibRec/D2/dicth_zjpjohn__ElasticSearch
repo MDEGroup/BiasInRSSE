@@ -1,0 +1,12 @@
+1	git://github.com/zjpjohn/ElasticSearch.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#ch.qos.logback:logback-core
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:log4j-over-slf4j
+7	#DEP#org.springframework:spring-beans
+8	#DEP#com.google.guava:guava
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#com.alibaba:fastjson
+11	#DEP#org.springframework:spring-core
+12	#DEP#org.elasticsearch:elasticsearch

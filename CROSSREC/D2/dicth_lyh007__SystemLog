@@ -1,0 +1,15 @@
+1	git://github.com/lyh007/SystemLog.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring
+4	#DEP#org.springframework:spring-aop
+5	#DEP#asm:asm-commons
+6	#DEP#org.springframework:spring-beans
+7	#DEP#asm:asm
+8	#DEP#org.freemarker:freemarker
+9	#DEP#org.springframework:spring-aspects
+10	#DEP#cglib:cglib-nodep
+11	#DEP#asm:asm-util
+12	#DEP#org.apache.velocity:velocity
+13	#DEP#log4j:log4j
+14	#DEP#aspectj:aspectjweaver
+15	#DEP#junit:junit

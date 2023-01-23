@@ -1,0 +1,5 @@
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.aspectj:aspectjweaver

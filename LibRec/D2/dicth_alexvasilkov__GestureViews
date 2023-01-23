@@ -1,0 +1,10 @@
+1	git://github.com/alexvasilkov/GestureViews.git
+2	#DEP#com.alexvasilkov:android-commons
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#org.slf4j:slf4j-android
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.googlecode.flickrj-android:flickrj-android
+7	#DEP#com.alexvasilkov:events
+8	#DEP#com.android.support:support-v4
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design

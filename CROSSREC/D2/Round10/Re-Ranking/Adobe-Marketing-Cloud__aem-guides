@@ -1,0 +1,10 @@
+#DEP#org.apache.sling:org.apache.sling.hc.core	1.0
+#DEP#org.apache.sling:org.apache.sling.jcr.jcr-wrapper	1.0
+#DEP#com.adobe.acs:acs-aem-commons-bundle	1.0
+#DEP#org.osgi:org.osgi.service.metatype.annotations	1.0
+#DEP#com.shinesolutions:aem-healthcheck	1.0
+#DEP#org.apache.sling:org.apache.sling.scripting.jsp.taglib	1.0
+#DEP#org.osgi:org.osgi.annotation	1.0
+#DEP#com.shinesolutions:aem-healthcheck-bundle	1.0
+#DEP#com.adobe.cq:core.wcm.components.core	1.0
+#DEP#org.apache.sling:org.apache.sling.hc.annotations	1.0

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#org.jsoup:jsoup	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#net.java.balloontip:balloontip	1.0
+#DEP#com.socrata:soda-api-java	1.0

@@ -1,0 +1,4 @@
+16	#DEP#log4j:log4j
+17	#DEP#org.apache.tomcat:catalina
+18	#DEP#org.springframework.security:spring-security-config
+19	#DEP#junit:junit

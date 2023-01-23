@@ -1,0 +1,7 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#cglib:cglib-nodep
+1	#DEP#com.hellblazer.jackal:jackal
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.fasterxml.uuid:java-uuid-generator
+1	#DEP#junit:junit

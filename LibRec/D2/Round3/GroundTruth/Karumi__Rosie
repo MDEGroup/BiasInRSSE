@@ -1,0 +1,11 @@
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.victor:lib
+1	#DEP#com.squareup.dagger:dagger-compiler
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.birbit:android-priority-jobqueue
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.karumi:dividers

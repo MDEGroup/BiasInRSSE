@@ -1,0 +1,5 @@
+1	#DEP#org.geotools:gt-render
+1	#DEP#org.geotools:gt-referencing
+1	#DEP#junit:junit
+1	#DEP#org.geotools:gt-main
+1	#DEP#org.neo4j:neo4j-kernel

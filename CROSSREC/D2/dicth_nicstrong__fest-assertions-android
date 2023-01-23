@@ -1,0 +1,9 @@
+1	git://github.com/nicstrong/fest-assertions-android.git
+2	#DEP#org.easytesting:fest-assert-android
+3	#DEP#com.google.android:android
+4	#DEP#org.easytesting:fest-test
+5	#DEP#com.google.android:android-test
+6	#DEP#org.easytesting:fest-assertions-android
+7	#DEP#junit:junit
+8	#DEP#android:android
+9	#DEP#org.easytesting:fest-util-android

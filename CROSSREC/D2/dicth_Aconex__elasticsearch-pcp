@@ -1,0 +1,11 @@
+1	git://github.com/Aconex/elasticsearch-pcp.git
+2	#DEP#com.custardsource.parfait:parfait-pcp
+3	#DEP#com.custardsource.parfait:parfait-spring
+4	#DEP#com.custardsource.parfait:parfait-io
+5	#DEP#com.custardsource.parfait:dxm
+6	#DEP#org.testng:testng
+7	#DEP#com.custardsource.parfait:parfait-jmx
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.custardsource.parfait:parfait-core
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.elasticsearch:elasticsearch

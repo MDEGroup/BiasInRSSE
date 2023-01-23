@@ -1,0 +1,13 @@
+1	#DEP#com.googlecode.json-simple:json-simple
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.pushingpixels:trident
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#net.jodah:expiringmap
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+1	#DEP#log4j:log4j
+1	#DEP#com.github.arnabk:pgslookandfeel
+1	#DEP#com.home.mercury:MercuryTrade
+1	#DEP#junit:junit
+1	#DEP#org.imgscalr:imgscalr-lib
+1	#DEP#io.reactivex:rxjava

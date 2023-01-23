@@ -1,0 +1,9 @@
+1	git://github.com/lhanson/multipleEntityManagers.git
+2	#DEP#org.springframework:spring
+3	#DEP#org.hibernate:hibernate-entitymanager
+4	#DEP#org.springframework:spring-test
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#hsqldb:hsqldb
+7	#DEP#junit:junit
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.aspectj:aspectjweaver

@@ -1,0 +1,4 @@
+1	#DEP#org.xutils:xutils
+1	#DEP#com.github.chrisbanes.photoview:library
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader

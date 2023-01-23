@@ -1,0 +1,15 @@
+1	#DEP#ch.ge.ve:commons-properties
+1	#DEP#ch.ge.sidp.common:testfx-spock
+1	#DEP#org.testfx:testfx-core
+1	#DEP#ch.ge.ve:commons-base
+1	#DEP#org.spockframework:spock-core
+1	#DEP#ch.ge.ve:base-pom
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#joda-time:joda-time
+1	#DEP#org.mockito:mockito-core
+1	#DEP#log4j:log4j
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#${project.groupId}:commons-properties
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#junit:junit

@@ -1,0 +1,14 @@
+1	git://github.com/RSNA/isn-edge-server-transfer-content.git
+2	#DEP#org.rsna.isn:core
+3	#DEP#org.rsna.oht-ihe:xds-source
+4	#DEP#commons-io:commons-io
+5	#DEP#dcm4che:dcm4che-core
+6	#DEP#com.sun.media:jai_imageio
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.rsna.oht-ihe:pix-consumer
+10	#DEP#dcm4che:dcm4che-imageio
+11	#DEP#log4j:log4j
+12	#DEP#org.apache.xmlgraphics:fop
+13	#DEP#org.rsna.oht-ihe:pix-source
+14	#DEP#junit:junit

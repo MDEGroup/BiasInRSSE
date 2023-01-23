@@ -1,0 +1,12 @@
+1	git://github.com/JujaLabs/gamification.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#io.springfox:springfox-swagger-ui
+4	#DEP#com.github.fakemongo:fongo
+5	#DEP#io.rest-assured:rest-assured
+6	#DEP#org.apache.httpcomponents:httpclient
+7	#DEP#org.skyscreamer:jsonassert
+8	#DEP#net.javacrumbs.json-unit:json-unit-fluent
+9	#DEP#org.projectlombok:lombok
+10	#DEP#io.springfox:springfox-swagger2
+11	#DEP#com.lordofthejars:nosqlunit-mongodb
+12	#DEP#commons-lang:commons-lang

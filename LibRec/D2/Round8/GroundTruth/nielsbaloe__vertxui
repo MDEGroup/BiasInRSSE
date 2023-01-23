@@ -1,0 +1,5 @@
+1	#DEP#com.machinepublishers:jbrowserdriver
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#com.google.gwt:gwt-elemental

@@ -1,0 +1,8 @@
+1	#DEP#org.apache.poi:poi
+1	#DEP#xerces:xercesImpl
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jeecg:easypoi
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jeecg:easypoi-annotation
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#org.jeecg:easypoi-base

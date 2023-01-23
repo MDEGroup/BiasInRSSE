@@ -1,0 +1,8 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#me.chanjar:weixin-java-parent
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.httpcomponents:fluent-hc
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty:jetty-servlet

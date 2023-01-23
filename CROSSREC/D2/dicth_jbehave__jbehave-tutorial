@@ -1,0 +1,17 @@
+1	git://github.com/jbehave/jbehave-tutorial.git
+2	#DEP#com.github.tanob:groobe
+3	#DEP#org.jbehave:jbehave-core
+4	#DEP#org.jbehave:jbehave-pico
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.jbehave.tutorials:etsy-stories-java-spring
+7	#DEP#org.picocontainer:picocontainer
+8	#DEP#org.seleniumhq.selenium.fluent:fluent-selenium
+9	#DEP#org.codehaus.groovy:groovy-all
+10	#DEP#org.codehaus.geb:geb-core
+11	#DEP#junit:junit-dep
+12	#DEP#org.seleniumhq.selenium:selenium-java
+13	#DEP#org.jbehave:jbehave-spring
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#org.jbehave.site:jbehave-site-resources
+16	#DEP#org.jbehave.web:jbehave-web-selenium
+17	#DEP#org.jbehave.web:jbehave-web-runner

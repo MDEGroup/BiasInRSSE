@@ -1,0 +1,12 @@
+1	git://github.com/OpenFeign/feign-vertx.git
+2	#DEP#io.vertx:vertx-core
+3	#DEP#com.netflix.feign:feign-core
+4	#DEP#org.assertj:assertj-core
+5	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+6	#DEP#com.github.tomakehurst:wiremock
+7	#DEP#com.netflix.feign:feign-jackson
+8	#DEP#junit:junit
+9	#DEP#com.netflix.feign:feign-slf4j
+10	#DEP#io.vertx:vertx-unit
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

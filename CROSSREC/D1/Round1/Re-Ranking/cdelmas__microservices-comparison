@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.protobuf:protobuf-java	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.springframework.security:spring-security-config	1.0
+#DEP#org.springframework.security:spring-security-web	1.0
+#DEP#org.eclipse.jetty.websocket:websocket-client	1.0
+#DEP#org.whispersystems:dropwizard-simpleauth	1.0
+#DEP#io.dropwizard:dropwizard-servlets	1.0
+#DEP#org.whispersystems:websocket-resources	1.0

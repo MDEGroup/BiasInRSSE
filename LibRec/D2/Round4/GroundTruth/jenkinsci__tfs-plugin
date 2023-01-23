@@ -1,0 +1,9 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#com.microsoft.tfs.sdk:com.microsoft.tfs.sdk
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#org.jenkins-ci.main:jenkins-core

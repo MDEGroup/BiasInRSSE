@@ -1,0 +1,12 @@
+1	git://github.com/objectledge/maven-extensions.git
+2	#DEP#org.objectledge.maven.connectors.jflex:parent
+3	#DEP#org.objectledge.maven.connectors.javacc:parent
+4	#DEP#org.objectledge.maven:parent
+5	#DEP#org.objectledge.maven.connectors.coral:parent
+6	#DEP#${groupId}:parent
+7	#DEP#org.objectledge.maven.connectors:parent
+8	#DEP#junit:junit
+9	#DEP#org.objectledge.coral:coral-api
+10	#DEP#org.objectledge.coral:coral-datatypes
+11	#DEP#org.objectledge.maven.archetypes:parent
+12	#DEP#org.objectledge.maven.connectors.ckpackager:parent

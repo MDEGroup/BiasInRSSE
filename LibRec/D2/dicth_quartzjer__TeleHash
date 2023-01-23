@@ -1,0 +1,16 @@
+1	git://github.com/quartzjer/TeleHash.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.eclipse.emf:org.eclipse.emf.ecore
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#telehash:telehash
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#${pom.groupId}:telehash-core
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#${pom.groupId}:org.eclipse.emf.json
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-lang:commons-lang
+12	#DEP#commons-codec:commons-codec
+13	#DEP#com.google.guava:guava-collections
+14	#DEP#log4j:log4j
+15	#DEP#org.apache.mina:mina-core
+16	#DEP#junit:junit

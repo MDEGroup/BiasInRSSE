@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#javax.validation:validation-api	1.0
+#DEP#javax.el:el-api	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.querydsl:querydsl-core	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.neo4j:neo4j	1.0
+#DEP#org.neo4j:neo4j-io	1.0
+#DEP#:granite-generator-share	1.0

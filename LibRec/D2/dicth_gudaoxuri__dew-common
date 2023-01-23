@@ -1,0 +1,10 @@
+1	git://github.com/gudaoxuri/dew-common.git
+2	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+3	#DEP#org.jooq:joox
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.httpcomponents:httpmime
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#commons-beanutils:commons-beanutils
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#org.mindrot:jbcrypt

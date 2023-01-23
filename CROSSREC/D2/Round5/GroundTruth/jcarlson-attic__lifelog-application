@@ -1,0 +1,5 @@
+1	#DEP#log4j:log4j
+1	#DEP#com.methodknowledgy:pom-parent
+1	#DEP#com.methodknowledgy:lifelog
+1	#DEP#hsqldb:hsqldb
+1	#DEP#junit:junit

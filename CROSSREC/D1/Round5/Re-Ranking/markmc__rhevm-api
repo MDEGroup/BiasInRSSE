@@ -1,0 +1,10 @@
+#DEP#org.jboss.resteasy:resteasy-jackson-provider	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.jboss.resteasy:resteasy-jaxb-provider	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#junit:junit	1.0
+#DEP#org.eclipse.jetty:jetty-webapp	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.jboss.resteasy:resteasy-atom-provider	1.0

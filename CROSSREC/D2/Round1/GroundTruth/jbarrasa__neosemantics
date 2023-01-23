@@ -1,0 +1,8 @@
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.neo4j:neo4j-io
+1	#DEP#org.openrdf.sesame:sesame-rio-jsonld
+1	#DEP#org.neo4j.test:neo4j-harness
+1	#DEP#org.openrdf.sesame:sesame-rio-trig
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.neo4j.driver:neo4j-java-driver

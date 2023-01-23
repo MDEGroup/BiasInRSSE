@@ -1,0 +1,16 @@
+1	#DEP#com.vaadin:vaadin-push
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.vaadin:vaadin-spring-boot-starter
+1	#DEP#com.vaadin:vaadin-client-compiled
+1	#DEP#com.vaadin:vaadin-shared
+1	#DEP#com.vaadin.framework8:framework8-demo
+1	#DEP#com.vaadin:vaadin-themes
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.vaadin.framework8:spring-demo
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#com.vaadin.framework8:test-util
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-framework-bom
+1	#DEP#org.hsqldb:hsqldb

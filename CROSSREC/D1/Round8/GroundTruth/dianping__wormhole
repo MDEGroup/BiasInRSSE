@@ -1,0 +1,5 @@
+22	#DEP#postgresql:postgresql
+23	#DEP#org.apache.hbase:hbase
+24	#DEP#org.mockito:mockito-core
+25	#DEP#org.powermock:powermock-api-easymock
+26	#DEP#org.hsqldb:hsqldb

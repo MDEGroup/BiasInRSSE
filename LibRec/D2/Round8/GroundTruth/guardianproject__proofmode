@@ -1,0 +1,7 @@
+1	#DEP#net.hockeyapp.android:HockeySDK
+1	#DEP#com.madgag.spongycastle:pkix
+1	#DEP#com.madgag.spongycastle:prov
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.google.android.gms:play-services-safetynet
+1	#DEP#com.github.paolorotolo:appintro
+1	#DEP#junit:junit

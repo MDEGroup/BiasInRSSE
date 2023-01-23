@@ -1,0 +1,16 @@
+1	#DEP#org.springframework:spring-beans
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework.vault:spring-vault-dependencies
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework:spring-webflux
+1	#DEP#io.projectreactor.ipc:reactor-netty
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.skyscreamer:jsonassert
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.springframework.data:spring-data-releasetrain
+1	#DEP#com.amazonaws:aws-java-sdk-core
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-framework-bom
+1	#DEP#org.springframework.security:spring-security-bom
+1	#DEP#org.springframework.vault:spring-vault-core

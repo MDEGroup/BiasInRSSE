@@ -1,0 +1,11 @@
+1	git://github.com/AirMiya/DownloadDemo.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.jakewharton.rxbinding:rxbinding
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#io.reactivex:rxjava
+10	#DEP#com.google.dagger:dagger
+11	#DEP#io.reactivex:rxandroid

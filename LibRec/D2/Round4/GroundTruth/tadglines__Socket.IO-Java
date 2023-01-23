@@ -1,0 +1,5 @@
+1	#DEP#com.glines.socketio.extension:socketio-gwt
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#org.testatoo.container:testatoo-container-jetty
+1	#DEP#org.codehaus.jettison:jettison
+1	#DEP#com.glines.socketio:socketio

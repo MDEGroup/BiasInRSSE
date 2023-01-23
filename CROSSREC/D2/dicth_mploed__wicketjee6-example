@@ -1,0 +1,13 @@
+1	git://github.com/mploed/wicketjee6-example.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#org.mortbay.jetty:jetty-util
+5	#DEP#com.zenika.wicket.contrib:wicket-jsr303-validators
+6	#DEP#org.apache.wicket:wicket
+7	#DEP#org.mortbay.jetty:jetty-management
+8	#DEP#org.jboss.weld:weld-wicket
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#javax:javaee-api
+11	#DEP#org.apache.wicket:wicket-datetime
+12	#DEP#log4j:log4j
+13	#DEP#junit:junit

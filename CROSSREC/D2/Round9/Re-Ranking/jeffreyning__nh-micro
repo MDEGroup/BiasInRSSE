@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.eclipse.jgit:org.eclipse.jgit.ant	1.0
+#DEP#org.eclipse.jgit:org.eclipse.jgit-parent	1.0
+#DEP#org.eclipse.jgit:org.eclipse.jgit.lfs.server	1.0

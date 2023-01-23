@@ -1,0 +1,6 @@
+1	#DEP#jboss:javassist
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#dreamvc.majorxie:mvc-dream
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.velocity:velocity-tools
+1	#DEP#junit:junit

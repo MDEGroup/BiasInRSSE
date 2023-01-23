@@ -1,0 +1,11 @@
+1	git://github.com/Hemumu/HLiveDemo.git
+2	#DEP#com.github.ctiao:DanmakuFlameMaster
+3	#DEP#com.github.ctiao:ndkbitmap-armv5
+4	#DEP#com.github.ctiao:ndkbitmap-armv7a
+5	#DEP#com.zhy:flowlayout-lib
+6	#DEP#com.android.support:support-v4
+7	#DEP#fm.jiecao:jiecaovideoplayer
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.github.ctiao:ndkbitmap-x86
+11	#DEP#com.android.support:design

@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.codehaus.plexus:plexus-components
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#org.apache.maven:maven-artifact-test
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjtools
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#com.google.errorprone:error_prone_core

@@ -1,0 +1,8 @@
+1	#DEP#org.jgroups:jgroups
+1	#DEP#org.glassfish.jersey.core:jersey-server
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#org.quartz-scheduler:quartz-jobs
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.glassfish.jersey.core:jersey-client
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http
+1	#DEP#org.apache.logging.log4j:log4j-api

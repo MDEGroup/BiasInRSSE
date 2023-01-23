@@ -1,0 +1,9 @@
+1	git://github.com/campaignmonitor/createsend-java.git
+2	#DEP#com.sun.jersey:jersey-json
+3	#DEP#commons-codec:commons-codec
+4	#DEP#commons-io:commons-io
+5	#DEP#com.sun.jersey:jersey-core
+6	#DEP#com.sun.jersey:jersey-client
+7	#DEP#org.codehaus.jackson:jackson-core-asl
+8	#DEP#org.codehaus.jackson:jackson-jaxrs
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl

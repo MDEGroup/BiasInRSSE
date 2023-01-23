@@ -1,0 +1,4 @@
+18	#DEP#org.apache.wicket:wicket-extensions
+19	#DEP#junit:junit
+20	#DEP#org.wicketstuff:wicketstuff-rome
+21	#DEP#org.apache.solr:solr-solrj

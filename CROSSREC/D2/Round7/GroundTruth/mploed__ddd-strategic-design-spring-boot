@@ -1,0 +1,10 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.boot:spring-boot-starter-web-services
+1	#DEP#io.prometheus:simpleclient_hotspot
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework.boot:spring-boot-starter-hateoas
+1	#DEP#wsdl4j:wsdl4j
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#io.prometheus:simpleclient_spring_boot

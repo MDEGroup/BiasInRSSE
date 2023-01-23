@@ -1,0 +1,14 @@
+1	git://github.com/florent37/RxAndroidOrm.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.github.florent37:rxandroidorm-annotations
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.truth:truth
+8	#DEP#com.facebook.stetho:stetho
+9	#DEP#pl.pragmatists:JUnitParams
+10	#DEP#com.google.testing.compile:compile-testing
+11	#DEP#com.github.florent37:rxandroidorm-compiler
+12	#DEP#junit:junit
+13	#DEP#com.google.auto.service:auto-service
+14	#DEP#com.github.florent37:rxandroidorm

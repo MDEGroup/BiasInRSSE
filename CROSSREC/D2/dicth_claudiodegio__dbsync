@@ -1,0 +1,14 @@
+1	git://github.com/claudiodegio/dbsync.git
+2	#DEP#com.google.android.gms:play-services-drive
+3	#DEP#commons-io:commons-io
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#im.dino:dbinspector
+6	#DEP#org.codehaus.groovy:groovy-all
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#de.codecrafters.tableview:tableview
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.github.claudiodegio:sfl4j-android
+12	#DEP#com.fasterxml.jackson.core:jackson-core
+13	#DEP#org.apache.commons:commons-collections4
+14	#DEP#junit:junit

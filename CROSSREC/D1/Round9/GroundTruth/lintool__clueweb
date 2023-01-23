@@ -1,0 +1,4 @@
+17	#DEP#log4j:log4j
+18	#DEP#org.apache.hadoop:hadoop-client
+19	#DEP#com.google.guava:guava
+20	#DEP#junit:junit

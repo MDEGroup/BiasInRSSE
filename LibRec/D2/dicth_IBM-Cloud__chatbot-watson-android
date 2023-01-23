@@ -1,0 +1,13 @@
+1	git://github.com/IBM-Cloud/chatbot-watson-android.git
+2	#DEP#com.ibm.watson.developer_cloud:text-to-speech
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.squareup.okhttp3:okhttp-ws
+6	#DEP#com.ibm.watson.developer_cloud:android-sdk
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.ibm.mobilefirstplatform.clientsdk.android:analytics
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.android.support:design
+11	#DEP#com.ibm.watson.developer_cloud:conversation
+12	#DEP#junit:junit
+13	#DEP#com.ibm.watson.developer_cloud:speech-to-text

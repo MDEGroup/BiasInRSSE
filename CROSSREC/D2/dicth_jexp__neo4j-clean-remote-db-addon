@@ -1,0 +1,11 @@
+1	git://github.com/jexp/neo4j-clean-remote-db-addon.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#commons-configuration:commons-configuration
+4	#DEP#org.neo4j:neo4j-shell
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#org.neo4j.app:neo4j-server
+7	#DEP#org.neo4j:neo4j-ha
+8	#DEP#junit:junit
+9	#DEP#org.neo4j:neo4j-udc
+10	#DEP#org.neo4j:neo4j-kernel
+11	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,14 @@
+1	git://github.com/kguelseven/monithor.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.hibernate:hibernate-java8
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit
+14	#DEP#com.h2database:h2

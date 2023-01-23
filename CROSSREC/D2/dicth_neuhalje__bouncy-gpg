@@ -1,0 +1,12 @@
+1	git://github.com/neuhalje/bouncy-gpg.git
+2	#DEP#org.mockito:mockito-core
+3	#DEP#org.concordion:concordion-api-documentation-extension
+4	#DEP#org.bouncycastle:bcpg-jdk15on
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.bouncycastle:bcprov-jdk15on
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.google.code.findbugs:jsr305
+10	#DEP#junit:junit
+11	#DEP#org.concordion:concordion
+12	#DEP#name.neuhalfen.projects.crypto.bouncycastle.openpgp:bouncy-gpg

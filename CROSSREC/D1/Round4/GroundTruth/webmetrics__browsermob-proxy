@@ -1,0 +1,4 @@
+16	#DEP#junit:junit
+17	#DEP#org.slf4j:slf4j-jdk14
+18	#DEP#com.google.inject.extensions:guice-multibindings
+19	#DEP#org.eclipse.jetty:jetty-servlet

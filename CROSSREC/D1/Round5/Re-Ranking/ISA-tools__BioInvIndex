@@ -1,0 +1,10 @@
+#DEP#org.richfaces.ui:richfaces-ui	1.0
+#DEP#javax.faces:jsf-api	1.0
+#DEP#org.richfaces.framework:richfaces-impl	1.0
+#DEP#junit:junit	1.0
+#DEP#com.sun.facelets:jsf-facelets	1.0
+#DEP#javassist:javassist	1.0
+#DEP#br.robson:gson	1.0
+#DEP#no.knowit.seam:seam-utils-openejb	1.0
+#DEP#br.robson:plugin	1.0
+#DEP#${project.groupId}:${app.context}-ear	1.0

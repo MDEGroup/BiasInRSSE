@@ -1,0 +1,13 @@
+1	git://github.com/Clendy/V14Leanback.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.orhanobut:logger
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:leanback-v17
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.github.navasmdc:MaterialDesign
+9	#DEP#com.github.bumptech.glide:glide
+10	#DEP#com.android.support:support-v4
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

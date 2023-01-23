@@ -1,0 +1,10 @@
+1	git://github.com/qaware/gradle-cloud-deployer.git
+2	#DEP#com.github.mohitsoni:marathon-client
+3	#DEP#org.powermock:powermock-module-junit4-rule
+4	#DEP#org.powermock:powermock-classloading-xstream
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.github.tomakehurst:wiremock
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#io.fabric8:kubernetes-client
+10	#DEP#junit:junit

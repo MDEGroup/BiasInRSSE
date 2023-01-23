@@ -1,0 +1,17 @@
+1	git://github.com/testmycode/tmc-netbeans.git
+2	#DEP#org.cometd.java:cometd-java-websocket-javax-client
+3	#DEP#commons-io:commons-io
+4	#DEP#org.sonatype.sisu:sisu-inject-plexus
+5	#DEP#org.yaml:snakeyaml
+6	#DEP#${project.groupId}:core
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.sonatype.sisu:sisu-guice
+9	#DEP#org.mockito:mockito-all
+10	#DEP#${project.groupId}:tmc-langs-abstraction
+11	#DEP#com.google.code.gson:gson
+12	#DEP#fi.helsinki.cs.tmc:tmc-checkstyle-runner
+13	#DEP#org.eclipse.jetty.websocket:javax-websocket-client-impl
+14	#DEP#org.cometd.java:cometd-java-client
+15	#DEP#junit:junit
+16	#DEP#org.sonatype.sisu:sisu-inject-bean
+17	#DEP#org.slf4j:slf4j-jdk14

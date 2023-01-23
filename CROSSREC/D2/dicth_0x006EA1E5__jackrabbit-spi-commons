@@ -1,0 +1,10 @@
+1	git://github.com/0x006EA1E5/jackrabbit-spi-commons.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.jackrabbit:jackrabbit-parent
+4	#DEP#org.apache.jackrabbit:jackrabbit-jcr-commons
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#commons-collections:commons-collections
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.jackrabbit:jackrabbit-spi
+9	#DEP#junit:junit
+10	#DEP#javax.jcr:jcr

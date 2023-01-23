@@ -1,0 +1,9 @@
+1	git://github.com/BaronZ88/Router.git
+2	#DEP#com.baronzhang.android:router-compiler
+3	#DEP#com.baronzhang.android:router
+4	#DEP#com.android.support.constraint:constraint-layout
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.baronzhang.android:router-annotation
+8	#DEP#junit:junit
+9	#DEP#com.google.auto.service:auto-service

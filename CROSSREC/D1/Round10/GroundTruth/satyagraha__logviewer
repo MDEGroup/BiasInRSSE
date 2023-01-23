@@ -1,0 +1,6 @@
+25	#DEP#log4j:log4j
+26	#DEP#javax.servlet:servlet-api
+27	#DEP#org.eclipse.jetty.websocket:websocket-servlet
+28	#DEP#org.eclipse.jetty.websocket:websocket-api
+29	#DEP#junit:junit
+30	#DEP#com.googlecode.lambdaj:lambdaj

@@ -1,0 +1,15 @@
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.flyco.tablayout:FlycoTabLayout_Lib
+1	#DEP#com.vise.xiaoyaoyou:viselog
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#id.zelory:compressor
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.thefinestartist:finestwebview
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#org.greenrobot:greendao
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.hedgehog.ratingbar:app

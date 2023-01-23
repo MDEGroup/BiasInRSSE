@@ -1,0 +1,11 @@
+1	#DEP#org.apache.geronimo.specs:geronimo-interceptor_1.1_spec
+1	#DEP#org.apache.geronimo.specs:geronimo-ejb_3.1_spec
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.openwebbeans:openwebbeans-spi
+1	#DEP#${project.groupId}:openknowledge-cdi-scope
+1	#DEP#de.openknowledge.cdi:openknowledge-cdi-parent-pom
+1	#DEP#org.objenesis:objenesis
+1	#DEP#junit:junit
+1	#DEP#org.apache.openwebbeans:openwebbeans-impl
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec

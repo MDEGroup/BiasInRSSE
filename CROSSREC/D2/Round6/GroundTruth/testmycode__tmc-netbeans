@@ -1,0 +1,8 @@
+1	#DEP#${project.groupId}:tmc-langs-abstraction
+1	#DEP#com.google.code.gson:gson
+1	#DEP#fi.helsinki.cs.tmc:tmc-checkstyle-runner
+1	#DEP#org.eclipse.jetty.websocket:javax-websocket-client-impl
+1	#DEP#org.cometd.java:cometd-java-client
+1	#DEP#junit:junit
+1	#DEP#org.sonatype.sisu:sisu-inject-bean
+1	#DEP#org.slf4j:slf4j-jdk14

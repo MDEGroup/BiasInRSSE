@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.red5:websocket	1.0
+#DEP#org.apache.mina:mina-parent	1.0

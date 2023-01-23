@@ -1,0 +1,6 @@
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.jenkins-ci.plugins:dashboard-view
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci.plugins:job-dsl
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps

@@ -1,0 +1,3 @@
+12	#DEP#com.squareup.okio:okio
+13	#DEP#com.squareup.okhttp:okhttp-urlconnection
+14	#DEP#com.android.support.test.espresso:espresso-core

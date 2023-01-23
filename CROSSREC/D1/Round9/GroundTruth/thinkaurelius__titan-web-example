@@ -1,0 +1,3 @@
+15	#DEP#org.eclipse.jetty:jetty-server
+16	#DEP#org.eclipse.jetty:jetty-webapp
+17	#DEP#com.sun.jersey:jersey-server

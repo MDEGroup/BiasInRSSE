@@ -1,0 +1,10 @@
+1	#DEP#org.apache.httpcomponents:httpclient-android
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.google.code.gson:gson
+1	#DEP#android:android
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.simpleframework:simple-xml
+1	#DEP#com.google.dexmaker:dexmaker-mockito
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.springframework.android:spring-android-core
+1	#DEP#org.springframework.android:spring-android-rest-template

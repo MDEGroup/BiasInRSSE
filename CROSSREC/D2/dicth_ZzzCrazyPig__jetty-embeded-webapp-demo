@@ -1,0 +1,12 @@
+1	git://github.com/ZzzCrazyPig/jetty-embeded-webapp-demo.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.eclipse.jetty:jetty-jsp
+6	#DEP#org.springframework:spring-webmvc
+7	#DEP#org.eclipse.jetty:jetty-server
+8	#DEP#org.springframework:spring-beans
+9	#DEP#org.eclipse.jetty:jetty-webapp
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#junit:junit
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

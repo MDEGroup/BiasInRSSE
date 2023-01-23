@@ -1,0 +1,10 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.github.jponge:lzma-java
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.j256.ormlite:ormlite-core
+1	#DEP#junit:junit
+1	#DEP#com.thedeanda:lorem
+1	#DEP#org.japura:japura-gui
+1	#DEP#org.eclipse.jetty:jetty-servlet
+1	#DEP#com.h2database:h2
+1	#DEP#com.j256.ormlite:ormlite-jdbc

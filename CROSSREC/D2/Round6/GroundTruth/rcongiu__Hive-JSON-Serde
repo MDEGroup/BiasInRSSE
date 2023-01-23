@@ -1,0 +1,4 @@
+1	#DEP#org.openx.data:json-serde-parent
+1	#DEP#org.apache.hadoop:${hadoop.dependency}
+1	#DEP#junit:junit
+1	#DEP#org.openx.data:json-serde

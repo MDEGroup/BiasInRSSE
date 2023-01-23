@@ -1,0 +1,13 @@
+1	git://github.com/spring-projects/spring-data-ldap.git
+2	#DEP#${project.groupId}:spring-data-commons
+3	#DEP#org.springframework:spring-context
+4	#DEP#com.querydsl:querydsl-apt
+5	#DEP#javax.annotation:javax.annotation-api
+6	#DEP#org.apache.geronimo.specs:geronimo-jcdi_2.0_spec
+7	#DEP#org.springframework:spring-web
+8	#DEP#javax.enterprise:cdi-api
+9	#DEP#javax.interceptor:javax.interceptor-api
+10	#DEP#com.querydsl:querydsl-mongodb
+11	#DEP#org.springframework.data.build:spring-data-parent
+12	#DEP#org.springframework.ldap:spring-ldap-core
+13	#DEP#org.apache.openwebbeans:openwebbeans-se

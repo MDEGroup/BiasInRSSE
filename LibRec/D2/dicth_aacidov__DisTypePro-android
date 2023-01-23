@@ -1,0 +1,9 @@
+1	git://github.com/aacidov/DisTypePro-android.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.yandex.android:speechkit
+4	#DEP#com.android.volley:volley
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.yandex.android:mobmetricalib
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.google.firebase:firebase-messaging

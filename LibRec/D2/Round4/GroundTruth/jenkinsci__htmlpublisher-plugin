@@ -1,0 +1,4 @@
+1	#DEP#org.jenkins-ci:annotation-indexer
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job

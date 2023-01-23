@@ -1,0 +1,6 @@
+1	#DEP#com.daimajia.androidanimations:library
+1	#DEP#com.fujiyuu75:sequent
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.daimajia.easing:library

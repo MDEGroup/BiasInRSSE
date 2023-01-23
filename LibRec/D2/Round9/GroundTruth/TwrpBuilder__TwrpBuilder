@@ -1,0 +1,8 @@
+1	#DEP#com.firebaseui:firebase-ui-database
+1	#DEP#com.google.firebase:firebase-auth
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.github.kevinsawicki:http-request
+1	#DEP#com.google.firebase:firebase-storage
+1	#DEP#com.google.firebase:firebase-database
+1	#DEP#com.kingfisherphuoc:easy-file-folder-picker-dialog
+1	#DEP#junit:junit

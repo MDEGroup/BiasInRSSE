@@ -1,0 +1,4 @@
+16	#DEP#org.bouncycastle:bcprov-jdk15on
+17	#DEP#${project.groupId}:test-utils
+18	#DEP#log4j:log4j
+19	#DEP#javax.servlet:servlet-api

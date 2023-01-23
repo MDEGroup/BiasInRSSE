@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#org.apache.cocoon:cocoon-forms-impl	1.0
+#DEP#com.computas.sublima:sublima-app	1.0
+#DEP#com.computas.sublima:sublima-skin	1.0
+#DEP#com.openlinksw:virtjdbc3	1.0
+#DEP#org.z3950.zing:cql	1.0
+#DEP#org.apache.cocoon:cocoon-apples-impl	1.0
+#DEP#com.computas.sublima:sublima-root	1.0
+#DEP#com.jivesoftware:akismet-java	1.0

@@ -1,0 +1,12 @@
+51	#DEP#wonder.misc:ERCalendar
+52	#DEP#com.webobjects:JavaEOAccess
+53	#DEP#org.openxri:openxri-syntax
+54	#DEP#wonder.reporting:ERPlot
+55	#DEP#org.apache.mina:mina-core
+56	#DEP#com.sun.mail:javax.mail
+57	#DEP#org.openxri:openxri-client
+58	#DEP#com.gammastream:gamma-core
+59	#DEP#wonder.ajax:YUI
+60	#DEP#wonder.misc:WOLips
+61	#DEP#org.safehaus.jug:jug
+62	#DEP#wonder.reporting:WRReporting

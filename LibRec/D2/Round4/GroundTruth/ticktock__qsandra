@@ -1,0 +1,11 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.apache.ivy:ivy
+1	#DEP#com.google.clhm:clhm-production
+1	#DEP#log4j:log4j
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.apache.xbean:xbean-spring
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#junit:junit
+1	#DEP#org.apache.activemq:activemq-core

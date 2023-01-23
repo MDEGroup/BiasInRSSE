@@ -1,0 +1,11 @@
+1	git://github.com/AndreasWilhelm/gt-neo4j-spatial.git
+2	#DEP#org.neo4j:neo4j-spatial
+3	#DEP#org.neo4j:neo4j-lucene-index
+4	#DEP#org.geotools:gt-epsg-hsql
+5	#DEP#com.vividsolutions:jts
+6	#DEP#log4j:log4j
+7	#DEP#org.geotools:gt-render
+8	#DEP#org.geotools:gt-referencing
+9	#DEP#junit:junit
+10	#DEP#org.geotools:gt-main
+11	#DEP#org.neo4j:neo4j-kernel

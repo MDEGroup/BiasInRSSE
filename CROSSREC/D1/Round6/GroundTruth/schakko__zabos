@@ -1,0 +1,5 @@
+20	#DEP#org.rxtx:rxtx
+21	#DEP#javax.servlet:servlet-api
+22	#DEP#org.subethamail:subethasmtp-wiser
+23	#DEP#org.apache.poi:poi-ooxml
+24	#DEP#junit:junit

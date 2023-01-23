@@ -1,0 +1,15 @@
+1	#DEP#edu.emory.clir:clearnlp-bioinformatics-en-pos
+1	#DEP#net.sf.meka:meka
+1	#DEP#edu.emory.clir:clearnlp-medical-en-pos
+1	#DEP#org.mapdb:mapdb
+1	#DEP#org.jgrapht:jgrapht-core
+1	#DEP#com.facebook.thirdparty:libsvm
+1	#DEP#edu.emory.clir:clearnlp-dictionary
+1	#DEP#edu.emory.clir:clearnlp-medical-en-dep
+1	#DEP#nz.ac.waikato.cms.weka:classificationViaClustering
+1	#DEP#edu.cmu.lti.oaqa.bio:bioasq-gopubmed-client
+1	#DEP#edu.cmu.lti.oaqa.bio:uts-api
+1	#DEP#edu.stanford.nlp:stanford-corenlp
+1	#DEP#org.apache.lucene:lucene-backward-codecs
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#edu.cmu.lti.oaqa.3rdparty:lingpipe-models

@@ -1,0 +1,8 @@
+1	#DEP#org.apache.tapestry:tapestry-core
+1	#DEP#org.tynamo:tynamo-test
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.tynamo:tapestry-resteasy
+1	#DEP#org.apache.tapestry:tapestry-yuicompressor
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#org.tynamo:tapestry-routing
+1	#DEP#com.h2database:h2

@@ -1,0 +1,9 @@
+1	git://github.com/osmandapp/Osmand.git
+2	#DEP#net.osmand:OsmAndCore_androidNativeDebug
+3	#DEP#net.osmand:OsmAndCore_androidNativeRelease
+4	#DEP#com.google.firebase:firebase-config
+5	#DEP#net.osmand:OsmAndCore_android
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#:eclipse-compile
+9	#DEP#com.google.firebase:firebase-core

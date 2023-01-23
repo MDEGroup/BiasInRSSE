@@ -1,0 +1,7 @@
+28	#DEP#com.fasterxml.jackson.core:jackson-core
+29	#DEP#com.google.inject:guice
+30	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+31	#DEP#org.mockito:mockito-core
+32	#DEP#org.apache.hadoop:hadoop-common
+33	#DEP#junit:junit
+34	#DEP#org.apache.hadoop:hadoop-mapreduce-client-hs

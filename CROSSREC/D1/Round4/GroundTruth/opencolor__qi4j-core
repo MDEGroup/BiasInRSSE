@@ -1,0 +1,5 @@
+21	#DEP#org.ops4j.pax.exam:pax-exam-junit
+22	#DEP#org.ops4j.pax.exam:pax-exam
+23	#DEP#org.osgi:osgi_R4_compendium
+24	#DEP#org.ops4j.pax.swissbox:pax-swissbox-lifecycle
+25	#DEP#junit:junit

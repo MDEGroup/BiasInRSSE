@@ -1,0 +1,13 @@
+1	#DEP#ai.h2o:h2o-classic-parent
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.codeartisans:org.json
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#com.google.code.gson:gson
+1	#DEP#joda-time:joda-time
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#net.java.dev.jets3t:jets3t
+1	#DEP#org.mockito:mockito-core
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.json:json
+1	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	git://github.com/square/okio.git
+2	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.squareup.okio:okio-parent
+5	#DEP#com.google.code.findbugs:jsr305
+6	#DEP#junit:junit
+7	#DEP#org.openjdk.jmh:jmh-core
+8	#DEP#com.squareup.okio:okio
+9	#DEP#org.codehaus.mojo:animal-sniffer-annotations

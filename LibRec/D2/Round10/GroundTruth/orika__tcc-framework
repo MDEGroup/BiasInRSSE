@@ -1,0 +1,7 @@
+1	#DEP#com.netease:tcc_demo
+1	#DEP#com.github.sgroschupf:zkclient
+1	#DEP#com.alibaba:dubbo
+1	#DEP#log4j:log4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.netease:tcc_demo_api
+1	#DEP#junit:junit

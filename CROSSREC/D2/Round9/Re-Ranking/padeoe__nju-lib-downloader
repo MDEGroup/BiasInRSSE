@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.itextpdf.samples:signatures	1.0
+#DEP#com.itextpdf:itext-licensekey	1.0
+#DEP#com.itextpdf:barcodes	1.0
+#DEP#com.itextpdf:layout	1.0
+#DEP#com.itextpdf:zugferd	1.0
+#DEP#com.itextpdf:io	1.0
+#DEP#com.itextpdf:hyph	1.0
+#DEP#com.itextpdf:publications	1.0
+#DEP#com.itextpdf:sign	1.0

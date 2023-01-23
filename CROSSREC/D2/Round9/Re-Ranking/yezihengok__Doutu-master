@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.squareup.okhttp3:okhttp	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.github.LidongWen:ViewSupport	1.0
+#DEP#com.gxz.stickynavlayout:library	1.0
+#DEP#com.github.LidongWen:DownLoadUtils	1.0

@@ -1,0 +1,5 @@
+1	#DEP#org.testng:testng
+1	#DEP#org.apache.geronimo.specs:geronimo-osgi-locator
+1	#DEP#org.apache.geronimo.specs:geronimo-jaspic_1.0_spec
+1	#DEP#org.apache.xbean:xbean-reflect
+1	#DEP#org.openid4java:openid4java-consumer

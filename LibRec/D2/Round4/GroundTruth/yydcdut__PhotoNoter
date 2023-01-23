@@ -1,0 +1,7 @@
+1	#DEP#com.evernote:android-sdk
+1	#DEP#com.yydcdut.sdlv:sdlv
+1	#DEP#com.android.support:multidex
+1	#DEP#org.aspectj:aspectjtools
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

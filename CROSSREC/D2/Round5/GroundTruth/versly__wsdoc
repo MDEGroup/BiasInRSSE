@@ -1,0 +1,8 @@
+1	#DEP#org.freemarker:freemarker
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.raml:raml-parser
+1	#DEP#com.beust:jcommander

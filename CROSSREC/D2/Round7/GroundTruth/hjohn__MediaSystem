@@ -1,0 +1,5 @@
+1	#DEP#hs.mediasystem:mediasystem-parent
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#postgresql:postgresql

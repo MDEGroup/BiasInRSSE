@@ -1,0 +1,6 @@
+1	#DEP#org.apache.poi:poi
+1	#DEP#com.dtrules:eBook
+1	#DEP#com.dtrules:dsl
+1	#DEP#edu.princeton.cup:java-cup
+1	#DEP#junit:junit
+1	#DEP#com.dtrules:compilerutil

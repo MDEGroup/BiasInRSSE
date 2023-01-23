@@ -1,0 +1,6 @@
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#zemberek-nlp:core
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#zemberek-nlp:tokenization
+1	#DEP#nz.ac.waikato.cms.weka:weka-stable
+1	#DEP#org.springframework.boot:spring-boot-starter-web

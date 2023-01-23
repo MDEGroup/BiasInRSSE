@@ -1,0 +1,8 @@
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#ognl:ognl
+1	#DEP#com.h2database:h2
+1	#DEP#com.github.pagehelper:pagehelper-spring-boot-autoconfigure

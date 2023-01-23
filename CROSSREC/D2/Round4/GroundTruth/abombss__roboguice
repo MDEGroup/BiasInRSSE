@@ -1,0 +1,5 @@
+1	#DEP#org.testng:testng
+1	#DEP#org.easymock:easymock
+1	#DEP#com.google.android:android-test
+1	#DEP#com.google.android.maps:maps
+1	#DEP#aopalliance:aopalliance

@@ -1,0 +1,5 @@
+1	#DEP#org.apache.maven:maven-project
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.sonarsource.parent:parent
+1	#DEP#org.apache.maven:maven-core

@@ -1,0 +1,4 @@
+1	#DEP#ognl:ognl
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

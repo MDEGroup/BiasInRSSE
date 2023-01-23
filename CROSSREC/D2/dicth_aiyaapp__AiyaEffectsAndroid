@@ -1,0 +1,13 @@
+1	git://github.com/aiyaapp/AiyaEffectsAndroid.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.aiyaapp.aiya:AyBeauty
+4	#DEP#com.aiyaapp.aavt:aavt
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.aiyaapp.aiya:AyEffect
+8	#DEP#com.aiyaapp.aiya:AyFaceTrack
+9	#DEP#com.xw.repo:bubbleseekbar
+10	#DEP#com.android.support.constraint:constraint-layout
+11	#DEP#com.aiyaapp.aiya:AyCore
+12	#DEP#junit:junit
+13	#DEP#com.aiyaapp.aiya:AyShortVideoEffect

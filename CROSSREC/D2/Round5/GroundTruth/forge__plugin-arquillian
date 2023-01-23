@@ -1,0 +1,6 @@
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.jboss.forge:forge-shell
+1	#DEP#org.jboss.forge:forge-javaee-api
+1	#DEP#org.jboss.forge:forge-test-harness
+1	#DEP#junit:junit
+1	#DEP#org.jboss.forge:forge-dev-plugins

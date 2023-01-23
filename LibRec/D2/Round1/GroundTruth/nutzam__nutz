@@ -1,0 +1,8 @@
+1	#DEP#com.alibaba:druid
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.eclipse.jetty.websocket:javax-websocket-server-impl
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

@@ -1,0 +1,9 @@
+1	#DEP#com.android.support.test.uiautomator:uiautomator-v18
+1	#DEP#com.google.android.gms:play-services-auth
+1	#DEP#com.google.apis:google-api-services-people
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.json:json
+1	#DEP#com.google.api-client:google-api-client
+1	#DEP#com.android.support.test:rules
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,11 @@
+1	git://github.com/Evlikat/siberian-forest.git
+2	#DEP#evlikat-games:siberian-forest-swing-drawing
+3	#DEP#evlikat-games:siberian-forest-biology
+4	#DEP#com.typesafe:config
+5	#DEP#evlikat-games:siberian-forest-geo
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#evlikat-games:siberian-forest-biology-impl
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#evlikat-games:siberian-forest
+10	#DEP#junit:junit
+11	#DEP#evlikat-games:siberian-forest-commons

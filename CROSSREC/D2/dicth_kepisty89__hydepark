@@ -1,0 +1,12 @@
+1	git://github.com/kepisty89/hydepark.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#javax.faces:jsf-api
+4	#DEP#javax.validation:validation-api
+5	#DEP#javax.annotation:jsr250-api
+6	#DEP#org.hibernate:hibernate-validator
+7	#DEP#org.jboss.ejb3:jboss-ejb3-api
+8	#DEP#org.primefaces:primefaces
+9	#DEP#org.jboss.weld:weld-extensions-bom
+10	#DEP#org.testng:testng
+11	#DEP#javax.persistence:persistence-api
+12	#DEP#org.glassfish.web:el-impl

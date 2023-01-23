@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#javax.validation:validation-api	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.google.guava:guava-gwt	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.google.gwt:gwt-codeserver	1.0

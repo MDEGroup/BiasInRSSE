@@ -1,0 +1,7 @@
+1	#DEP#de.felixschulze.teamcity:xcode-teamcity-plugin
+1	#DEP#com.jetbrains.teamcity:agent
+1	#DEP#com.jetbrains.teamcity:agent-api
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.intellij:openapi

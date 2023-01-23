@@ -1,0 +1,15 @@
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#org.springframework:spring-test
+1	#DEP#javax.activation:activation
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.tuckey:urlrewritefilter
+1	#DEP#org.jodaengine:engine-apps
+1	#DEP#org.jodaengine:engine-ext-debugger
+1	#DEP#opensymphony:sitemesh
+1	#DEP#com.asual.lesscss:lesscss-servlet
+1	#DEP#org.jboss.resteasy:resteasy-multipart-provider
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jodaengine:engine-root

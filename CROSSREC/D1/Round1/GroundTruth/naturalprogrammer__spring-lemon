@@ -1,0 +1,2 @@
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#org.springframework.boot:spring-boot-starter-security

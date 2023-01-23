@@ -1,0 +1,11 @@
+1	git://github.com/zch/ContextHelp.git
+2	#DEP#org.vaadin.jonatan:contexthelp
+3	#DEP#info.cukes:cucumber-picocontainer
+4	#DEP#javax.servlet.jsp:jsp-api
+5	#DEP#com.vaadin:vaadin-server
+6	#DEP#com.vaadin:vaadin-themes
+7	#DEP#com.vaadin:vaadin-testbench-api
+8	#DEP#org.eclipse.jetty:jetty-webapp
+9	#DEP#info.cukes:cucumber-junit
+10	#DEP#com.vaadin:vaadin-client
+11	#DEP#com.vaadin:vaadin-client-compiler

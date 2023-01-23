@@ -1,0 +1,9 @@
+1	git://github.com/Leeii/LeeFream.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.leeiidesu:permission-helper
+8	#DEP#junit:junit
+9	#DEP#org.simple:androideventbus

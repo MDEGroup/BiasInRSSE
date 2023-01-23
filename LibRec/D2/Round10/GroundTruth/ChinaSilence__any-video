@@ -1,0 +1,8 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-undertow

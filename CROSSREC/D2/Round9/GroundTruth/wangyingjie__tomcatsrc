@@ -1,0 +1,6 @@
+1	#DEP#ant:ant-apache-log4j
+1	#DEP#org.eclipse.jdt.core.compiler:ecj
+1	#DEP#ant:ant-commons-logging
+1	#DEP#junit:junit
+1	#DEP#wsdl4j:wsdl4j
+1	#DEP#com.h2database:h2

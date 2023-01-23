@@ -1,0 +1,9 @@
+1	git://github.com/FabianTerhorst/Floppy.git
+2	#DEP#io.reactivex.rxjava2:rxjava
+3	#DEP#com.android.support:appcompat-v7
+4	#DEP#com.android.support.test:rules
+5	#DEP#junit:junit
+6	#DEP#com.android.support.test:runner
+7	#DEP#dk.ilios:spanner
+8	#DEP#com.squareup.okio:okio
+9	#DEP#com.github.fabianterhorst:fast-serialization

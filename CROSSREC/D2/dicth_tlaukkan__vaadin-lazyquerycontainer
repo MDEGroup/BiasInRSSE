@@ -1,0 +1,11 @@
+1	git://github.com/tlaukkan/vaadin-lazyquerycontainer.git
+2	#DEP#org.vaadin.addons.lazyquerycontainer:vaadin-lazyquerycontainer-root
+3	#DEP#org.eclipse.persistence:javax.persistence
+4	#DEP#com.vaadin:vaadin-server
+5	#DEP#com.vaadin:vaadin-themes
+6	#DEP#org.vaadin.addons.lazyquerycontainer:vaadin-lazyquerycontainer
+7	#DEP#org.eclipse.persistence:eclipselink
+8	#DEP#hsqldb:hsqldb
+9	#DEP#com.vaadin:vaadin-client-compiled
+10	#DEP#com.vaadin:vaadin-client
+11	#DEP#junit:junit

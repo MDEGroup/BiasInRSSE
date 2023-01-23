@@ -1,0 +1,11 @@
+1	git://github.com/jenkinsci/urltrigger-plugin.git
+2	#DEP#org.jenkins-ci.lib:xtrigger-lib
+3	#DEP#com.sun.jersey.contribs:jersey-apache-client
+4	#DEP#org.jenkins-ci.plugins:plugin
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#com.jayway.jsonpath:json-path
+7	#DEP#org.jenkins-ci.plugins:matrix-project
+8	#DEP#org.mockito:mockito-all
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#junit:junit
+11	#DEP#commons-net:commons-net

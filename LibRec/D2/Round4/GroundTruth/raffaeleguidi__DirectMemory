@@ -1,0 +1,7 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#com.dyuproject.protostuff:protostuff-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.josql
+1	#DEP#com.carrotsearch:junit-benchmarks
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#com.h2database:h2

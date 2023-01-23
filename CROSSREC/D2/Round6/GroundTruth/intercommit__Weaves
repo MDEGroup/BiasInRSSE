@@ -1,0 +1,4 @@
+1	#DEP#org.chenillekit:chenillekit-tapestry
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.apache.tapestry:tapestry-test

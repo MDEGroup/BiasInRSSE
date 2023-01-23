@@ -1,0 +1,10 @@
+1	git://github.com/scola/Qart.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.github.castorflex.smoothprogressbar:library
+4	#DEP#com.aurelhubert:ahbottomnavigation
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.google.zxing:core
+8	#DEP#com.journeyapps:zxing-android-embedded
+9	#DEP#pl.droidsonroids.gif:android-gif-drawable
+10	#DEP#com.android.support:design

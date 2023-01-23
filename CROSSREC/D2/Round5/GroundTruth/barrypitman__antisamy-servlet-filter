@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-core
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,14 @@
+1	git://github.com/YuyuZha0/word2vec.git
+2	#DEP#commons-io:commons-io
+3	#DEP#commons-logging:commons-logging
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.nd4j:nd4j-native
+8	#DEP#org.slf4j:jcl-over-slf4j
+9	#DEP#log4j:log4j
+10	#DEP#org.deeplearning4j:deeplearning4j-nlp
+11	#DEP#org.ansj:ansj_seg
+12	#DEP#com.google.guava:guava
+13	#DEP#org.jblas:jblas
+14	#DEP#junit:junit

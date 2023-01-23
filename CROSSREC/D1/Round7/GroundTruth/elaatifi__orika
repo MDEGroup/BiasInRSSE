@@ -1,0 +1,7 @@
+28	#DEP#ch.qos.logback:logback-classic
+29	#DEP#commons-collections:commons-collections
+30	#DEP#org.eclipse.core:runtime
+31	#DEP#junit:junit
+32	#DEP#org.hsqldb:hsqldb
+33	#DEP#com.h2database:h2
+34	#DEP#org.eclipse.core:contenttype

@@ -1,0 +1,10 @@
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#junit:junit	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#org.tukaani:xz	1.0
+#DEP#net.java.balloontip:balloontip	1.0
+#DEP#com.intellij:javac2	1.0
+#DEP#com.socrata:ssync	1.0
+#DEP#com.google.sitebricks:sitebricks	1.0

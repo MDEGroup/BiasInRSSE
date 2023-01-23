@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.scalacheck:scalacheck_${scala.version}	1.0
+#DEP#org.json4s:json4s-ast_${scala.version}	1.0

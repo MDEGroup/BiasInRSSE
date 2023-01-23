@@ -1,0 +1,7 @@
+31	#DEP#org.primefaces:primefaces
+32	#DEP#com.liferay.faces:liferay-faces-util
+33	#DEP#org.icefaces:icefaces
+34	#DEP#org.glassfish.web:jstl-impl
+35	#DEP#org.icefaces:icefaces-ace
+36	#DEP#org.hibernate:hibernate-validator
+37	#DEP#commons-fileupload:commons-fileupload

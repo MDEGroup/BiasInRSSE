@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.springframework.security:spring-security-config	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.hibernate:hibernate-validator	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.springframework.data:spring-data-jpa	1.0
+#DEP#commons-dbcp:commons-dbcp	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#org.kubek2k:springockito-annotations	1.0

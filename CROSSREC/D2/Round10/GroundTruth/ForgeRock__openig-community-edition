@@ -1,0 +1,9 @@
+1	#DEP#org.forgerock.ce.commons:org.forgerock.util
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.sun.xml.ws:webservices-rt
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.forgerock.openam:fedlib
+1	#DEP#org.forgerock.ce.openig:openig-core
+1	#DEP#org.forgerock.openam:sharedlib

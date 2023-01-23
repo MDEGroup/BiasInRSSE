@@ -1,0 +1,8 @@
+36	#DEP#org.apache.mina:mina-filter-ssl
+37	#DEP#commons-pool:commons-pool
+38	#DEP#ch.qos.logback:logback-core
+39	#DEP#ch.qos.logback:logback-classic
+40	#DEP#javax.servlet:servlet-api
+41	#DEP#xerces:xercesImpl
+42	#DEP#bouncycastle:bcprov-jdk16
+43	#DEP#org.red5:red5-base

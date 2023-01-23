@@ -1,0 +1,17 @@
+1	#DEP#org.datanucleus:datanucleus-jpa
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.tuckey:urlrewritefilter
+1	#DEP#com.google.appengine.orm:datanucleus-appengine
+1	#DEP#org.springframework.security:spring-security-taglibs
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#opensymphony:sitemesh
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#cglib:cglib

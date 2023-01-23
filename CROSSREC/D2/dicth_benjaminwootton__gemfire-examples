@@ -1,0 +1,11 @@
+1	git://github.com/benjaminwootton/gemfire-examples.git
+2	#DEP#org.springframework:org.springframework.web.servlet
+3	#DEP#opencredo:opencredo-gemfire-samples
+4	#DEP#jstl:jstl
+5	#DEP#commons-logging:commons-logging
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#org.springframework:org.springframework.web
+8	#DEP#gemfire:gemfire
+9	#DEP#org.springframework:org.springframework.core
+10	#DEP#taglibs:standard
+11	#DEP#junit:junit

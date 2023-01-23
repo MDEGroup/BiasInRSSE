@@ -1,0 +1,11 @@
+1	git://github.com/koldaman/springboot-jwt-swagger.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#io.springfox:springfox-swagger-ui
+4	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.mobile:spring-mobile-device
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#io.springfox:springfox-swagger2
+9	#DEP#org.springframework.boot:spring-boot-starter-security
+10	#DEP#com.h2database:h2
+11	#DEP#io.jsonwebtoken:jjwt

@@ -1,0 +1,12 @@
+1	git://github.com/tomcz/spring-conversations.git
+2	#DEP#org.slf4j:jcl-over-slf4j
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#commons-io:commons-io
+5	#DEP#org.springframework:spring-test
+6	#DEP#org.springframework:spring-webmvc
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit
+11	#DEP#org.freemarker:freemarker
+12	#DEP#commons-lang:commons-lang

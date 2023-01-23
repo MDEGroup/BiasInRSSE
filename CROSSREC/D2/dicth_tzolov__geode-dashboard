@@ -1,0 +1,14 @@
+1	git://github.com/tzolov/geode-dashboard.git
+2	#DEP#org.apache.logging.log4j:log4j-core
+3	#DEP#io.github.lukehutch:fast-classpath-scanner
+4	#DEP#org.springframework.boot:spring-boot-starter
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.jmxtrans:jmxtrans-output-influxdb
+7	#DEP#org.influxdb:influxdb-java
+8	#DEP#org.jmxtrans:jmxtrans-output-core
+9	#DEP#org.apache.geode:geode-core
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.jmxtrans:jmxtrans-output-ganglia
+12	#DEP#org.springframework.shell:spring-shell
+13	#DEP#jline:jline
+14	#DEP#org.jmxtrans:jmxtrans-core

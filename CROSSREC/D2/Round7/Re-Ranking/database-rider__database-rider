@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-core	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.hsqldb:hsqldb	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#io.zipkin.brave:brave-apache-http-interceptors	1.0
+#DEP#com.jayway.restassured:json-schema-validator	1.0

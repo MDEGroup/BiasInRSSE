@@ -1,0 +1,5 @@
+1	#DEP#org.hibernate:hibernate-entitymanager
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#org.springframework:spring-tx

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.sonatype.plexus:plexus-build-api	1.0
+#DEP#org.apache.maven:maven-compat	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.commons:commons-exec	1.0
+#DEP#com.github.alexcojocaru:elasticsearch-maven-plugin	1.0

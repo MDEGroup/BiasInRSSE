@@ -1,0 +1,4 @@
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#commons-net:commons-net
+1	#DEP#com.sun.jersey.contribs:jersey-multipart
+1	#DEP#commons-lang:commons-lang

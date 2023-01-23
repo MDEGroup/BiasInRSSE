@@ -1,0 +1,16 @@
+1	git://github.com/jenkinsci/violations-plugin.git
+2	#DEP#root.project.projects:logging
+3	#DEP#root.project:ejbs
+4	#DEP#org.seleniumhq.selenium:selenium-firefox-driver
+5	#DEP#root.project:projects
+6	#DEP#root.project.servlets:servlet
+7	#DEP#commons-codec:commons-codec
+8	#DEP#root:project
+9	#DEP#org.jenkins-ci.plugins:plugin
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.jayway.jsonpath:json-path
+12	#DEP#xpp3:xpp3
+13	#DEP#root.project:primary-source
+14	#DEP#org.jenkins-ci.main:maven-plugin
+15	#DEP#root.project:servlets
+16	#DEP#junit:junit

@@ -1,0 +1,8 @@
+1	#DEP#blm.server:dao
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.springframework.boot:spring-boot-starter-amqp
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#blm.server:service
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#junit:junit

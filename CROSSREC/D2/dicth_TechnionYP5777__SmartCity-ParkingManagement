@@ -1,0 +1,13 @@
+1	git://github.com/TechnionYP5777/SmartCity-ParkingManagement.git
+2	#DEP#com.googlecode.json-simple:json-simple
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.sendgrid:sendgrid-java
+7	#DEP#org.controlsfx:controlsfx
+8	#DEP#javax.mail:mail
+9	#DEP#com.jfoenix:jfoenix
+10	#DEP#com.lynden:GMapsFX
+11	#DEP#com.github.abdielou:parse4j
+12	#DEP#org.loadui:testFx
+13	#DEP#junit:junit

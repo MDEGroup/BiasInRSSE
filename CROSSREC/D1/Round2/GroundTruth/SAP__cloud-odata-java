@@ -1,0 +1,4 @@
+20	#DEP#com.sap.odata:com.sap.core.odata.processor.api
+21	#DEP#junit:junit
+22	#DEP#com.sap.odata:com.sap.core.odata.api.annotation
+23	#DEP#org.eclipse.jetty:jetty-servlet

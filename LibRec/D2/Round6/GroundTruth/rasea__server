@@ -1,0 +1,14 @@
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.primefaces:primefaces-ui
+1	#DEP#org.jboss.seam:jboss-seam-debug
+1	#DEP#com.sun.facelets:jsf-facelets
+1	#DEP#commons-logging:commons-logging
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#hsqldb:hsqldb
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#javax.xml.stream:stax-api
+1	#DEP#org.rasea:rasea-parent
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#org.jboss.seam:parent

@@ -1,0 +1,4 @@
+1	#DEP#:opendap
+1	#DEP#:dap4
+1	#DEP#edu.ucar:thredds-parent
+1	#DEP#${project.groupId}:cdm

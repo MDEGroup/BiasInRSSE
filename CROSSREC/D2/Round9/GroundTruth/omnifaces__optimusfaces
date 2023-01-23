@@ -1,0 +1,6 @@
+1	#DEP#org.primefaces:primefaces
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#javax:javaee-web-api
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian.extension:arquillian-drone-bom

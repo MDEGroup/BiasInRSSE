@@ -1,0 +1,7 @@
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.googlecode.cedar-common:cpsuite
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#junit:junit
+1	#DEP#com.zaxxer:HikariCP-java7
+1	#DEP#org.hsqldb:hsqldb

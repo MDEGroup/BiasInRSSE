@@ -1,0 +1,15 @@
+1	git://github.com/tnj/android-bike-proto.git
+2	#DEP#com.github.hotchemi:permissionsdispatcher
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#javax.annotation:jsr250-api
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.google.android.gms:play-services-location
+7	#DEP#com.annimon:stream
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.google.dagger:dagger
+11	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+12	#DEP#com.google.dagger:dagger-compiler
+13	#DEP#com.android.support.constraint:constraint-layout
+14	#DEP#com.deploygate:sdk
+15	#DEP#junit:junit

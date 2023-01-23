@@ -1,0 +1,11 @@
+1	#DEP#com.github.spullara.cli-parser:cli-parser
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.squareup.retrofit2:converter-moshi
+1	#DEP#com.madgag.spongycastle:prov
+1	#DEP#com.squareup.retrofit2:retrofit

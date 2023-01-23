@@ -1,0 +1,10 @@
+1	git://github.com/tadglines/Socket.IO-Java.git
+2	#DEP#com.glines.socketio:socketio-core
+3	#DEP#com.google.gwt:gwt-user
+4	#DEP#com.glines.socketio.extension:socketio-extension
+5	#DEP#com.glines.socketio.sample:socketio-sample
+6	#DEP#com.glines.socketio.extension:socketio-gwt
+7	#DEP#com.google.gwt:gwt-dev
+8	#DEP#org.testatoo.container:testatoo-container-jetty
+9	#DEP#org.codehaus.jettison:jettison
+10	#DEP#com.glines.socketio:socketio

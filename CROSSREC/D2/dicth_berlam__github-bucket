@@ -1,0 +1,13 @@
+1	git://github.com/berlam/github-bucket.git
+2	#DEP#com.amazonaws:aws-java-sdk-s3
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#com.amazonaws:aws-lambda-java-log4j
+5	#DEP#org.mockito:mockito-all
+6	#DEP#com.amazonaws:aws-lambda-java-core
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#org.eclipse.jgit:org.eclipse.jgit
+9	#DEP#org.apache.tika:tika-core
+10	#DEP#org.eclipse.jgit:org.eclipse.jgit.junit
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#com.amazonaws:aws-lambda-java-events
+13	#DEP#junit:junit

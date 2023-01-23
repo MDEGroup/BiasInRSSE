@@ -1,0 +1,7 @@
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#log4j:log4j
+1	#DEP#com.liveperson.ephemerals:ephemerals-module-wiremock
+1	#DEP#com.liveperson.ephemerals:ephemerals-provider-kubernetes
+1	#DEP#com.liveperson.ephemerals:ephemerals-parent
+1	#DEP#junit:junit
+1	#DEP#io.fabric8:kubernetes-client

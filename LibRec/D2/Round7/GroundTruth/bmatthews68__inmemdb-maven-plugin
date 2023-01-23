@@ -1,0 +1,10 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.hsqldb:sqltool
+1	#DEP#org.apache.poi:poi
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.derby:derbyclient
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.btmatthews.utils:monitor
+1	#DEP#com.h2database:h2

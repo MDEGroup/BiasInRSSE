@@ -1,0 +1,17 @@
+1	git://github.com/chanjarster/weixin-java-tools.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.thoughtworks.xstream:xstream
+4	#DEP#org.testng:testng
+5	#DEP#me.chanjar:weixin-java-common
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.google.code.gson:gson
+9	#DEP#commons-codec:commons-codec
+10	#DEP#com.google.inject:guice
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#me.chanjar:weixin-java-parent
+13	#DEP#org.eclipse.jetty:jetty-server
+14	#DEP#org.apache.httpcomponents:httpmime
+15	#DEP#org.apache.httpcomponents:fluent-hc
+16	#DEP#junit:junit
+17	#DEP#org.eclipse.jetty:jetty-servlet

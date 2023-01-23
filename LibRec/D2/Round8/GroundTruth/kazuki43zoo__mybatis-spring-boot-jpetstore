@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.seleniumhq.selenium:htmlunit-driver
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#com.codeborne:selenide
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.hsqldb:hsqldb

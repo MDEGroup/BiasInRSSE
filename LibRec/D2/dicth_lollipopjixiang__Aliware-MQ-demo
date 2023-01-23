@@ -1,0 +1,16 @@
+1	git://github.com/lollipopjixiang/Aliware-MQ-demo.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#com.aliyun.openservices:ons-client
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.alibaba:fastjson
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.springframework:spring-core
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.springframework:spring-test
+12	#DEP#com.mashape.unirest:unirest-java
+13	#DEP#log4j:log4j
+14	#DEP#junit:junit
+15	#DEP#org.apache.logging.log4j:log4j-api
+16	#DEP#org.eclipse.jetty:jetty-client

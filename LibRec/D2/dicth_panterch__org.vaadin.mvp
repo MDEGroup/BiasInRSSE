@@ -1,0 +1,12 @@
+1	git://github.com/panterch/org.vaadin.mvp.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#com.vaadin:vaadin
+4	#DEP#org.springframework:spring-test
+5	#DEP#${project.groupId}:org.vaadin.mvp.spring
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#${project.groupId}:org.vaadin.mvp.common
+8	#DEP#org.easymock:easymock
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#commons-beanutils:commons-beanutils
+11	#DEP#junit:junit
+12	#DEP#org.vaadin.addons:org.vaadin.mvp

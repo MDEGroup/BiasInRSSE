@@ -1,0 +1,11 @@
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#cn.bingoogolapple:bga-swipebacklayout
+1	#DEP#com.android.support:preference-v7
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.pgyersdk:sdk
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.github.chrisbanes:PhotoView

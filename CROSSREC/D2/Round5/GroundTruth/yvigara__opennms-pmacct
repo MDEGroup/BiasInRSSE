@@ -1,0 +1,5 @@
+1	#DEP#org.easymock:easymock
+1	#DEP#org.opennms:opennms
+1	#DEP#org.opennms:opennms-config
+1	#DEP#org.opennms:opennms-config-utils
+1	#DEP#junit:junit

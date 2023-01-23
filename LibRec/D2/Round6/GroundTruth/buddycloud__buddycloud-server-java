@@ -1,0 +1,12 @@
+1	#DEP#org.jivesoftware:whack
+1	#DEP#commons-lang:commons-lang
+1	#DEP#log4j:log4j
+1	#DEP#xpp3:xpp3
+1	#DEP#commons-collections:commons-collections
+1	#DEP#nl.jqno.equalsverifier:equalsverifier
+1	#DEP#proxool:proxool
+1	#DEP#org.igniterealtime:tinder
+1	#DEP#net.xeoh:jspf.core
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.lazyluke:log4jdbc-remix

@@ -1,0 +1,3 @@
+16	#DEP#org.codehaus.cargo:cargo-core-api-generic
+17	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+18	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

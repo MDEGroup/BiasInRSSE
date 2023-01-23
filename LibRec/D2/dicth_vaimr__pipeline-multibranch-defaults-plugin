@@ -1,0 +1,17 @@
+1	git://github.com/vaimr/pipeline-multibranch-defaults-plugin.git
+2	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+3	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+4	#DEP#org.jenkins-ci.plugins:git
+5	#DEP#org.jenkins-ci.plugins.workflow:workflow-multibranch
+6	#DEP#com.cloudbees:groovy-cps
+7	#DEP#org.jenkins-ci.plugins:subversion
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+9	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+10	#DEP#org.jenkins-ci.plugins:plugin
+11	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+12	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+13	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps-global-lib
+14	#DEP#org.jenkins-ci.plugins:config-file-provider
+15	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+16	#DEP#org.jenkins-ci.modules:sshd
+17	#DEP#org.jenkins-ci.plugins:matrix-auth

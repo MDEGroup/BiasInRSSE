@@ -1,0 +1,4 @@
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.sonatype.nexus:nexus-indexer
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api

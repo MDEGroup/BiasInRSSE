@@ -1,0 +1,15 @@
+62	#DEP#org.jboss.resteasy:resteasy-jaxrs
+63	#DEP#org.jboss.resteasy:resteasy-wadl
+64	#DEP#org.jboss.arquillian.container:arquillian-jetty-embedded-9
+65	#DEP#org.jboss.resteasy:tjws
+66	#DEP#com.fasterxml.jackson.core:jackson-annotations
+67	#DEP#com.google.inject:guice
+68	#DEP#com.sun.mail:javax.mail
+69	#DEP#org.codehaus.jackson:jackson-xc
+70	#DEP#httpunit:httpunit
+71	#DEP#org.codehaus.jackson:jackson-jaxrs
+72	#DEP#org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec
+73	#DEP#org.codehaus.jackson:jackson-core-asl
+74	#DEP#com.fasterxml.jackson.core:jackson-databind
+75	#DEP#org.jboss.resteasy:resteasy-jettison-provider
+76	#DEP#com.github.fge:json-patch

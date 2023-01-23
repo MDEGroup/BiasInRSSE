@@ -1,0 +1,15 @@
+1	git://github.com/migue/blog-examples.git
+2	#DEP#org.apache.tomcat.embed:tomcat-embed-core
+3	#DEP#commons-el:commons-el
+4	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+5	#DEP#org.apache.felix:org.osgi.compendium
+6	#DEP#org.apache.tomcat.embed:tomcat-embed-logging-log4j
+7	#DEP#org.apache.felix:org.apache.felix.framework
+8	#DEP#org.aspectj:aspectjweaver
+9	#DEP#com.github.migue.osgi:metrics-core
+10	#DEP#org.apache.tomcat:tomcat-catalina-ant
+11	#DEP#org.eclipse.jdt.core.compiler:ecj
+12	#DEP#org.apache.tomcat:tomcat-jasper
+13	#DEP#junit:junit
+14	#DEP#org.apache.felix:org.apache.felix.scr
+15	#DEP#org.aspectj:aspectjrt

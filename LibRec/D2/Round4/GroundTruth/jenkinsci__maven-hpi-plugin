@@ -1,0 +1,13 @@
+1	#DEP#org.apache.maven:maven-archiver
+1	#DEP#org.jenkins-ci.plugins:structs
+1	#DEP#org.jenkins-ci.plugins:support-core
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.eclipse.jetty:jetty-maven-plugin
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.jenkins-ci.plugins:parameterized-trigger
+1	#DEP#org.jenkins-ci:jenkins
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.apache.maven.plugins:maven-dependency-plugin
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.kohsuke.stapler:maven-stapler-plugin
+1	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#stax:stax	1.0
+#DEP#javassist:javassist	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#net.java.dev.inflector:inflector	1.0

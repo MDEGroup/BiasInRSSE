@@ -1,0 +1,10 @@
+1	#DEP#io.apptik.widget:multislider
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.android.support:preference-v7
+1	#DEP#com.squareup.assertj:assertj-android
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guava:guava
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner

@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.codehaus.groovy.maven.runtime:gmaven-runtime-api
+1	#DEP#commons-lang:commons-lang
+1	#DEP#log4j:log4j
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#junit:junit
+1	#DEP#org.extensify:transform-extensions-core

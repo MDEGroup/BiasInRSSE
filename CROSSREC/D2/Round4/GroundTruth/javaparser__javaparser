@@ -1,0 +1,7 @@
+1	#DEP#com.github.javaparser:javaparser-symbol-solver-model
+1	#DEP#com.github.valfirst:jbehave-junit-runner
+1	#DEP#com.github.javaparser:javaparser-core
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guava:guava
+1	#DEP#com.github.javaparser:javaparser-symbol-solver-core
+1	#DEP#junit:junit

@@ -1,0 +1,14 @@
+1	git://github.com/arunsoman/spring-micro-service-jwt.git
+2	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+3	#DEP#commons-io:commons-io
+4	#DEP#org.springframework.security.oauth:spring-security-oauth2
+5	#DEP#org.springframework.security:spring-security-web
+6	#DEP#org.springframework.boot:spring-boot-dependencies
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.springframework.boot:spring-boot-starter-test
+10	#DEP#org.springframework.security:spring-security-config
+11	#DEP#org.springframework.security:spring-security-jwt
+12	#DEP#com.flytxt.security:resource-server-config
+13	#DEP#org.springframework.security:spring-security-ldap
+14	#DEP#com.h2database:h2

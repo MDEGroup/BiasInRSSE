@@ -1,0 +1,12 @@
+1	#DEP#com.alibaba:fastjson
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#javax.transaction:jta
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.unitils:unitils-spring
+1	#DEP#net.sourceforge.groboutils:groboutils-core
+1	#DEP#com.github.springtestdbunit:spring-test-dbunit
+1	#DEP#junit:junit
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#com.h2database:h2

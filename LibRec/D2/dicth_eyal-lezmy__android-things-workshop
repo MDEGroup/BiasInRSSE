@@ -1,0 +1,10 @@
+1	git://github.com/eyal-lezmy/android-things-workshop.git
+2	#DEP#com.google.android.things.contrib:driver-pwmservo
+3	#DEP#com.google.android.things.contrib:driver-ht16k33
+4	#DEP#com.google.android.things.contrib:driver-bmx280
+5	#DEP#com.google.android.things.contrib:driver-apa102
+6	#DEP#com.google.android.things.contrib:driver-pwmspeaker
+7	#DEP#org.nanohttpd:nanohttpd
+8	#DEP#com.google.android.things.contrib:driver-rainbowhat
+9	#DEP#com.google.android.things.contrib:driver-button
+10	#DEP#com.google.android.things:androidthings

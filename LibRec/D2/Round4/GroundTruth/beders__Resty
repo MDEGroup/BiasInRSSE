@@ -1,0 +1,5 @@
+1	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey.contribs:jersey-multipart
+1	#DEP#net.java.dev.javacc:javacc
+1	#DEP#com.sun.jersey:jersey-server

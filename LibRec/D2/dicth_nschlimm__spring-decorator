@@ -1,0 +1,10 @@
+1	git://github.com/nschlimm/spring-decorator.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework:spring-aop
+5	#DEP#org.springframework:spring-test
+6	#DEP#org.springframework:spring-webmvc
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#junit:junit
+9	#DEP#org.aspectj:aspectjtools
+10	#DEP#cglib:cglib

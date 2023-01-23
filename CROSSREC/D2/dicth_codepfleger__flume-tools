@@ -1,0 +1,16 @@
+1	git://github.com/codepfleger/flume-tools.git
+2	#DEP#de.codepfleger:flume-avro-serializer
+3	#DEP#de.codepfleger:flume-parquet-sink
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#org.codehaus.jackson:jackson-core-asl
+6	#DEP#de.codepfleger:flume-tools-commons
+7	#DEP#org.apache.hbase:hbase-client
+8	#DEP#de.codepfleger:flume-hbase-serializer
+9	#DEP#de.codepfleger:flume-tools-parent
+10	#DEP#org.apache.flume.flume-ng-sinks:flume-ng-hbase-sink
+11	#DEP#org.apache.flume.flume-ng-sinks:flume-hdfs-sink
+12	#DEP#org.apache.hadoop:hadoop-common
+13	#DEP#org.apache.parquet:parquet-hadoop
+14	#DEP#junit:junit
+15	#DEP#org.apache.parquet:parquet-avro
+16	#DEP#org.apache.flume:flume-ng-core

@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-dbcp:commons-dbcp
+1	#DEP#org.json:json
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit

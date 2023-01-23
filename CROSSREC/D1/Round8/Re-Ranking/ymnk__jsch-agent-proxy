@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.tomcat:tomcat-jdbc	1.0
+#DEP#com.jcraft:jsch.agentproxy.connector-factory	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#com.sun.java:tools	1.0
+#DEP#net.openhft:third-party-bom	1.0
+#DEP#org.ops4j.pax.url:pax-url-reference	1.0

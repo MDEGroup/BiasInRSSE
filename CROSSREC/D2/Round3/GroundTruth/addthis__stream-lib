@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#it.unimi.dsi:fastutil
+1	#DEP#junit:junit
+1	#DEP#com.addthis.common.build.maven.pom:jar-pom
+1	#DEP#com.googlecode.charts4j:charts4j

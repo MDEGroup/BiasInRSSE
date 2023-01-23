@@ -1,0 +1,17 @@
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#taglibs:standard
+1	#DEP#joda-time:joda-time
+1	#DEP#org.jboss.seam.international:seam-international
+1	#DEP#postgresql:postgresql
+1	#DEP#org.jboss.seam.catch:seam-catch
+1	#DEP#javax:javaee-api
+1	#DEP#com.ocpsoft:prettyfaces-jsf2
+1	#DEP#org.richfaces:richfaces-bom
+1	#DEP#org.richfaces.ui:richfaces-components-ui
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.seam.faces:seam-faces
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#com.h2database:h2

@@ -1,0 +1,14 @@
+1	#DEP#glimpse:ComplexEventException
+1	#DEP#org.ow2.choreos:Airline
+1	#DEP#com.jcraft:jsch
+1	#DEP#org.ow2.choreos:middleware
+1	#DEP#org.jclouds.driver:jclouds-slf4j
+1	#DEP#org.apache.cxf:cxf-bundle
+1	#DEP#org.ow2.choreos:Commons
+1	#DEP#org.apache.activemq:activemq-all
+1	#DEP#com.ebmwebsourcing.esstar.esmanagement:management-client
+1	#DEP#log4j:log4j
+1	#DEP#eu.choreos:rehearsal
+1	#DEP#glimpse:glimpse-api
+1	#DEP#com.ebmwebsourcing.easyesb:ws-binding-admin-client
+1	#DEP#junit:junit

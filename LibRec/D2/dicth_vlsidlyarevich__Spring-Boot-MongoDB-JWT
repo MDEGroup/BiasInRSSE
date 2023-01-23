@@ -1,0 +1,15 @@
+1	git://github.com/vlsidlyarevich/Spring-Boot-MongoDB-JWT.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.springframework.boot:spring-boot-starter
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.boot:spring-boot-configuration-processor
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#io.jsonwebtoken:jjwt
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.apache.commons:commons-collections4
+12	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+13	#DEP#com.google.guava:guava
+14	#DEP#org.springframework.boot:spring-boot-starter-aop
+15	#DEP#junit:junit

@@ -1,0 +1,4 @@
+1	#DEP#org.apache.jmeter:ApacheJMeter_http
+1	#DEP#junit:junit
+1	#DEP#org.apache.jmeter:ApacheJMeter_functions
+1	#DEP#org.jpos:jpos

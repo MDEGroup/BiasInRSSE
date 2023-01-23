@@ -1,0 +1,15 @@
+1	git://github.com/btimofeev/UniPatcher.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#org.sufficientlysecure:html-textview
+4	#DEP#com.afollestad.material-dialogs:core
+5	#DEP#commons-io:commons-io
+6	#DEP#com.android.support:recyclerview-v7
+7	#DEP#org.commonjava.googlecode.markdown4j:markdown4j
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.android.support:cardview-v7
+11	#DEP#com.android.support:preference-v14
+12	#DEP#org.sufficientlysecure:donations
+13	#DEP#org.mockito:mockito-core
+14	#DEP#com.android.support:support-v4
+15	#DEP#junit:junit

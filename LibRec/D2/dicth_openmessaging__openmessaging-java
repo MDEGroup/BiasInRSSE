@@ -1,0 +1,12 @@
+1	git://github.com/openmessaging/openmessaging-java.git
+2	#DEP#${project.groupId}:openmessaging-api
+3	#DEP#${project.groupId}:messaging-benchmark
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#io.openmessaging:parent
+6	#DEP#${project.groupId}:messaging-binlog-core
+7	#DEP#${project.groupId}:messaging-user-level-api
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#${project.groupId}:messaging-user-level-samples
+10	#DEP#${project.groupId}:messaging-router
+11	#DEP#junit:junit
+12	#DEP#${project.groupId}:messaging-wire-level-api

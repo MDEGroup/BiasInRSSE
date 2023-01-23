@@ -1,0 +1,9 @@
+1	git://github.com/rulebook-rules/rulebook.git
+2	#DEP#cglib:cglib-nodep
+3	#DEP#com.deliveredtechnologies:rulebook-core
+4	#DEP#com.google.inject:guice
+5	#DEP#net.jodah:concurrentunit
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.objenesis:objenesis
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit

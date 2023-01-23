@@ -1,0 +1,17 @@
+1	git://github.com/PressAssociation/maven-marklogic-plugin.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#com.marklogic:marklogic-install-server
+4	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#org.apache.maven:maven-model
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#com.marklogic.ps:recordloader
+9	#DEP#org.codehaus.plexus:plexus-archiver
+10	#DEP#com.intellij:annotations
+11	#DEP#org.jfrog.maven.annomojo:maven-plugin-anno
+12	#DEP#org.codehaus.plexus:plexus-utils
+13	#DEP#org.apache.maven.shared:file-management
+14	#DEP#com.google.guava:guava
+15	#DEP#org.json:json
+16	#DEP#com.marklogic:marklogic-xcc
+17	#DEP#junit:junit

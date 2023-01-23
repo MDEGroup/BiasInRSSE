@@ -1,0 +1,10 @@
+41	#DEP#asm:asm
+42	#DEP#com.google.gwt:gwt-servlet
+43	#DEP#ch.qos.logback:logback-core
+44	#DEP#org.slf4j:slf4j-api
+45	#DEP#org.springframework:spring-jdbc
+46	#DEP#com.google.gwt:gwt-user
+47	#DEP#org.springframework:spring-tx
+48	#DEP#org.jmonitor:jmonitor-probes
+49	#DEP#org.jmonitor:jmonitor-installer
+50	#DEP#org.apache.maven:maven-plugin-api

@@ -1,0 +1,3 @@
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#com.google.gwt.inject:gin
+14	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	git://github.com/dzinot/spring-boot-jpa-data-rest-soft-delete.git
+2	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jdk8
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+5	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+6	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.springframework.boot:spring-boot-starter-validation
+10	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.springframework.boot:spring-boot-starter-hateoas
+13	#DEP#com.google.guava:guava
+14	#DEP#org.springframework.boot:spring-boot-devtools
+15	#DEP#org.projectlombok:lombok
+16	#DEP#com.fasterxml.jackson.module:jackson-module-parameter-names
+17	#DEP#org.springframework.boot:spring-boot-starter-actuator

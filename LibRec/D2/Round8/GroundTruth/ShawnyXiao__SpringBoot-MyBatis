@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.hsqldb:hsqldb

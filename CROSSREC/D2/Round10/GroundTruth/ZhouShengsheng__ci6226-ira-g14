@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#ci6226-ira-g14:g14-parent
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.webjars:jquery
+1	#DEP#org.projectlombok:lombok

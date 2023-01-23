@@ -1,0 +1,9 @@
+1	git://github.com/Linyuzai/Demo4RequestButton.git
+2	#DEP#org.jetbrains.anko:anko-appcompat-v7
+3	#DEP#com.linyuzai:requestbutton
+4	#DEP#org.jetbrains.anko:anko
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#org.jetbrains.anko:anko-support-v4
+8	#DEP#junit:junit
+9	#DEP#org.jetbrains.anko:anko-sdk15

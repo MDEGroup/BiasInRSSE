@@ -1,0 +1,10 @@
+1	git://github.com/LateralView/android-base-project.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#jp.wasabeef:glide-transformations
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.squareup.okhttp3:logging-interceptor
+6	#DEP#com.soundcloud.android:android-crop
+7	#DEP#com.facebook.stetho:stetho-okhttp3
+8	#DEP#frankiesardo:icepick-processor
+9	#DEP#frankiesardo:icepick
+10	#DEP#junit:junit

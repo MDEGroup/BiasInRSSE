@@ -1,0 +1,10 @@
+1	git://github.com/JoanZapata/base-adapter-helper.git
+2	#DEP#com.googlecode.androidannotations:androidannotations
+3	#DEP#com.googlecode.androidannotations:androidannotations-api
+4	#DEP#com.actionbarsherlock:actionbarsherlock
+5	#DEP#com.squareup.picasso:picasso
+6	#DEP#com.joanzapata.android:base-adapter-helper
+7	#DEP#org.sonatype.oss:oss-parent
+8	#DEP#com.google.android:android
+9	#DEP#org.twitter4j:twitter4j-core
+10	#DEP#com.joanzapata.android:base-adapter-helper-parent

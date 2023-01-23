@@ -1,0 +1,9 @@
+1	git://github.com/narrowtux/Showcase.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.getspout:spoutpluginapi
+4	#DEP#com.narrowtux:narrowtuxlib
+5	#DEP#com.narrowtux:dropchest
+6	#DEP#info.somethingodd.bukkit:OddItem
+7	#DEP#com.sk89q:worldguard
+8	#DEP#net.milkbowl:vault
+9	#DEP#com.nijikokun.bukkit:permissions

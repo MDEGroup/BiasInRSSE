@@ -1,0 +1,6 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

@@ -1,0 +1,9 @@
+1	#DEP#org.cytosm:common
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#log4j:log4j
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#log4j:apache-log4j-extras
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr4-runtime

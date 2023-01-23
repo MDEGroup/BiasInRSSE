@@ -1,0 +1,11 @@
+1	#DEP#com.sun.jersey.contribs:jersey-atom-abdera
+1	#DEP#com.google.inject:guice
+1	#DEP#se.scalablesolutions.akka:akka-remote
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#com.smartitengineering.smart-util.rest:atom-client
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#com.smartitengineering.smart-util:smart-bean-util
+1	#DEP#junit:junit
+1	#DEP#com.smartitengineering:smart-async-events
+1	#DEP#com.smartitengineering.smart-util:smart-bean-guice-util
+1	#DEP#org.slf4j:slf4j-jdk14

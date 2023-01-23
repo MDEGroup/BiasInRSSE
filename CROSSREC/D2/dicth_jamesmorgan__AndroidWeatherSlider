@@ -1,0 +1,11 @@
+1	git://github.com/jamesmorgan/AndroidWeatherSlider.git
+2	#DEP#com.google.android:support-v4
+3	#DEP#org.jdom:jdom
+4	#DEP#com.google.android:android
+5	#DEP#com.j256.ormlite:ormlite-android
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.springframework.android:spring-android-rest-template
+8	#DEP#org.springframework.android:spring-android-core
+9	#DEP#org.simpleframework:simple-xml
+10	#DEP#com.google.android.apps.analytics:GoogleAnalyticsTracker
+11	#DEP#org.acra:acra

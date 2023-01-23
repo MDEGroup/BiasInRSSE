@@ -1,0 +1,17 @@
+1	#DEP#hsqldb:hsqldb
+1	#DEP#taglibs:standard
+1	#DEP#org.jboss.resteasy:tjws
+1	#DEP#com.google.code.gson:gson
+1	#DEP#ch.ethz.ganymed:ganymed-ssh2
+1	#DEP#commons-pool:commons-pool
+1	#DEP#com.kenai.nbpwr:edu-umd-cs-findbugs-annotations
+1	#DEP#org.apache.poi:poi
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#xerces:xercesImpl
+1	#DEP#javax.servlet:jstl
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.json:json
+1	#DEP#org.apache.commons:commons-email
+1	#DEP#org.apache.cxf:cxf-bundle-minimal
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.jexcelapi:jxl

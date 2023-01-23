@@ -1,0 +1,15 @@
+1	#DEP#com.beust:jcommander
+1	#DEP#xml-apis:xml-apis
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.apache.ws.xmlschema:xmlschema-core
+1	#DEP#dom4j:dom4j
+1	#DEP#javax.annotation:javax.annotation-api
+1	#DEP#com.surenpi.autotest:autotest.interface.framework
+1	#DEP#com.surenpi.autotest:autotest.datasource
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.apache.poi:poi
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

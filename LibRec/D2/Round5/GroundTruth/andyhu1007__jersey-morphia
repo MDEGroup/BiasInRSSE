@@ -1,0 +1,10 @@
+1	#DEP#asm:asm
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.sun.jersey:jersey-json
+1	#DEP#com.google.code.morphia:morphia-validation
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#com.sun.jersey:jersey-spring
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#org.slf4j:slf4j-jdk14

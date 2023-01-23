@@ -1,0 +1,14 @@
+1	git://github.com/x2on/xcode-teamcity-plugin.git
+2	#DEP#com.jetbrains.teamcity:common-api
+3	#DEP#com.intellij:util
+4	#DEP#com.jetbrains.teamcity:annotations
+5	#DEP#org.apache.commons:commons-io
+6	#DEP#de.felixschulze.teamcity:xcode-teamcity-plugin-common
+7	#DEP#com.jetbrains.teamcity:server-api
+8	#DEP#de.felixschulze.teamcity:xcode-teamcity-plugin
+9	#DEP#com.jetbrains.teamcity:agent
+10	#DEP#com.jetbrains.teamcity:agent-api
+11	#DEP#log4j:log4j
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#com.intellij:openapi

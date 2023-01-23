@@ -1,0 +1,9 @@
+1	git://github.com/stoicflame/ofx4j.git
+2	#DEP#org.ccil.cowan.tagsoup:tagsoup
+3	#DEP#org.reflections:reflections
+4	#DEP#be.cyberelf.nanoxml:nanoxml
+5	#DEP#log4j:log4j
+6	#DEP#args4j:args4j
+7	#DEP#commons-logging:commons-logging
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#junit:junit

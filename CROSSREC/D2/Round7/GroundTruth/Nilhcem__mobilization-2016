@@ -1,0 +1,10 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#org.mockito:mockito-core
+1	#DEP#jp.wasabeef:takt
+1	#DEP#yyyy-MM-dd HH:mm
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.streamsupport:streamsupport
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#io.reactivex:rxandroid

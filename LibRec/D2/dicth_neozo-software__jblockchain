@@ -1,0 +1,12 @@
+1	git://github.com/neozo-software/jblockchain.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#commons-cli:commons-cli
+4	#DEP#commons-io:commons-io
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#de.neozo:common
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.google.guava:guava
+9	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+10	#DEP#org.springframework.boot:spring-boot-starter-parent
+11	#DEP#de.neozo:jblockchain
+12	#DEP#org.springframework.boot:spring-boot-starter-web

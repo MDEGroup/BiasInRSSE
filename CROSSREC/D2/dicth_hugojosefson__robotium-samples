@@ -1,0 +1,10 @@
+1	git://github.com/hugojosefson/robotium-samples.git
+2	#DEP#com.jayway.android.robotium:robotium-solo
+3	#DEP#com.jayway.android.robotium.samples.srplayer:srplayer
+4	#DEP#com.jayway.android.robotium.samples.secrets-for-android:secrets-for-android-app
+5	#DEP#com.google.android:android
+6	#DEP#com.jayway.android.com.metago.astro:astro
+7	#DEP#com.google.android:android-test
+8	#DEP#com.jayway.android.robotium.samples:samples
+9	#DEP#com.jayway.android.robotium.samples.srplayer:srplayer-app
+10	#DEP#com.jayway.android.robotium.samples.secrets-for-android:secrets-for-android

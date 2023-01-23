@@ -1,0 +1,8 @@
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#junit:junit-dep
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework.integration:spring-integration-groovy
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.springframework.integration:spring-integration-core

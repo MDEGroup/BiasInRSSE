@@ -1,0 +1,15 @@
+64	#DEP#org.apache.geronimo.gshell.support:gshell-terminal
+65	#DEP#org.apache.mina:mina-core
+66	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.asm
+67	#DEP#org.apache.servicemix.kernel.jaas:org.apache.servicemix.kernel.jaas.config
+68	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.commons-vfs
+69	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.aopalliance
+70	#DEP#org.jsecurity:jsecurity
+71	#DEP#org.apache.servicemix.kernel.demos:smx4web
+72	#DEP#org.apache.felix:org.apache.felix.bundlerepository
+73	#DEP#org.apache.servicemix.kernel:org.apache.servicemix.kernel.blueprint
+74	#DEP#org.apache.felix:org.osgi.compendium
+75	#DEP#org.ops4j.pax.logging:pax-logging-service
+76	#DEP#org.apache.geronimo:blueprint-bundle
+77	#DEP#org.apache.servicemix.kernel.gshell:org.apache.servicemix.kernel.gshell.obr
+78	#DEP#org.apache.felix:org.apache.felix.configadmin

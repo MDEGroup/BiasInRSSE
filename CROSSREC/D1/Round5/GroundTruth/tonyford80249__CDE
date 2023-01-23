@@ -1,0 +1,10 @@
+44	#DEP#javax.transaction:jta
+45	#DEP#org.springframework:spring-orm
+46	#DEP#com.google.code.gson:gson
+47	#DEP#org.springframework:spring-web
+48	#DEP#commons-pool:commons-pool
+49	#DEP#log4j:log4j
+50	#DEP#javax.servlet:servlet-api
+51	#DEP#commons-fileupload:commons-fileupload
+52	#DEP#commons-digester:commons-digester
+53	#DEP#cglib:cglib

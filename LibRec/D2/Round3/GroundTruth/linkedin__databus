@@ -1,0 +1,7 @@
+1	#DEP#:databus-bootstrap-producer
+1	#DEP#:databus-core
+1	#DEP#:databus-tools
+1	#DEP#:databus-bootstrap-common
+1	#DEP#:databus-util-cmdline
+1	#DEP#:databus-bootstrap-server
+1	#DEP#:databus2-relay

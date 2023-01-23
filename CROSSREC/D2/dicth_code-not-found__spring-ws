@@ -1,0 +1,13 @@
+1	git://github.com/code-not-found/spring-ws.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.springframework.boot:spring-boot-starter-parent
+4	#DEP#org.mockito:mockito-all
+5	#DEP#io.gatling.highcharts:gatling-charts-highcharts
+6	#DEP#org.springframework.ws:spring-ws-security
+7	#DEP#org.apache.santuario:xmlsec
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.apache.wss4j:wss4j
+10	#DEP#org.springframework.boot:spring-boot-starter-web-services
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.springframework.ws:spring-ws-test
+13	#DEP#org.springframework.ws:spring-ws-support

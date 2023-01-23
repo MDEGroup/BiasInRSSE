@@ -1,0 +1,8 @@
+1	#DEP#org.mule.modules:mule-module-client
+1	#DEP#org.mule.transports:mule-transport-vm
+1	#DEP#org.mule.transports:mule-transport-quartz
+1	#DEP#org.hornetq:hornetq-jms
+1	#DEP#org.hornetq:hornetq-core
+1	#DEP#org.mule.transports:mule-transport-jms
+1	#DEP#org.hornetq:hornetq-logging
+1	#DEP#org.jboss.netty:netty

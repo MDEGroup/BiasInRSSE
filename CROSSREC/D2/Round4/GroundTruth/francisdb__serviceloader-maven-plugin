@@ -1,0 +1,4 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.sonatype.plexus:plexus-build-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api

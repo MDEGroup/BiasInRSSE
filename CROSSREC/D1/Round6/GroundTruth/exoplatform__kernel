@@ -1,0 +1,9 @@
+39	#DEP#org.jibx:jibx-run
+40	#DEP#org.subethamail:subethasmtp
+41	#DEP#javax.transaction:jta
+42	#DEP#org.slf4j:slf4j-log4j12
+43	#DEP#commons-pool:commons-pool
+44	#DEP#org.exoplatform.kernel:exo.kernel.component.common
+45	#DEP#commons-digester:commons-digester
+46	#DEP#org.exoplatform.kernel:exo.kernel.component.cache
+47	#DEP#eu.medsea.mimeutil:mime-util

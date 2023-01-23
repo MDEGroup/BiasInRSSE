@@ -1,0 +1,6 @@
+1	#DEP#commons-vfs:commons-vfs
+1	#DEP#net.sourceforge.javacsv:javacsv
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#xmlwriter:xmlwriter
+1	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+1	#DEP#junit:junit

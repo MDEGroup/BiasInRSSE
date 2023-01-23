@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#javax.cache:cache-tests
+1	#DEP#javax.transaction:jta
+1	#DEP#javax.cache:cache-api
+1	#DEP#junit:junit
+1	#DEP#org.ehcache:ehcache-jcache-parent

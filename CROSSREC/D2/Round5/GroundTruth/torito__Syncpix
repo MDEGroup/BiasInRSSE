@@ -1,0 +1,5 @@
+1	#DEP#fr.liglab.adele.cilia:cilia-ipojo-runtime
+1	#DEP#fr.liglab.adele.cilia:cilia-core
+1	#DEP#org.apache.felix:org.apache.felix.ipojo
+1	#DEP#org.torito.social.syncpix:twitpic-service
+1	#DEP#fr.liglab.adele.cilia:cilia-ipojo-compendium

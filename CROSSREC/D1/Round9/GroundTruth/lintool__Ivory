@@ -1,0 +1,2 @@
+9	#DEP#org.apache.hadoop:hadoop-auth
+10	#DEP#org.apache.lucene:lucene-analyzers

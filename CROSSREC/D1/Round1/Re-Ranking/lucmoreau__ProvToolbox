@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#net.arnx:wmf2svg	1.0
+#DEP#com.bluelinelabs:logansquare	1.0
+#DEP#com.googlecode.jaxb-namespaceprefixmapper-interfaces:JAXBNamespacePrefixMapper	1.0

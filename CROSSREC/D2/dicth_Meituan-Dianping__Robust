@@ -1,0 +1,10 @@
+1	git://github.com/Meituan-Dianping/Robust.git
+2	#DEP#org.javassist:javassist
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.squareup.okhttp:okhttp
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#junit:junit
+8	#DEP#com.android.tools.build:gradle
+9	#DEP#com.android.support:design
+10	#DEP#org.ow2.asm:asm

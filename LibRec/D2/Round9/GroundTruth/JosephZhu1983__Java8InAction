@@ -1,0 +1,6 @@
+1	#DEP#log4j:log4j
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#org.ow2.asm:asm-debug-all
+1	#DEP#org.projectlombok:lombok
+1	#DEP#me.qmx.jitescript:jitescript
+1	#DEP#junit:junit

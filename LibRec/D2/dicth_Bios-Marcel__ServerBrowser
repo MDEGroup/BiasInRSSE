@@ -1,0 +1,9 @@
+1	git://github.com/Bios-Marcel/ServerBrowser.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.junit.jupiter:junit-jupiter-api
+4	#DEP#com.github.sarxos:windows-registry-util
+5	#DEP#com.github.albfernandez:juniversalchardet
+6	#DEP#com.github.Bios-Marcel:TrayNotification
+7	#DEP#com.eclipsesource.minimal-json:minimal-json
+8	#DEP#org.kohsuke:github-api
+9	#DEP#org.xerial:sqlite-jdbc

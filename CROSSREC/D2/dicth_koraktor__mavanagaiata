@@ -1,0 +1,11 @@
+1	git://github.com/koraktor/mavanagaiata.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#org.slf4j:slf4j-nop
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.apache.maven.shared:maven-filtering
+8	#DEP#org.apache.maven:maven-project
+9	#DEP#junit:junit
+10	#DEP#org.apache.maven:maven-plugin-api
+11	#DEP#org.eclipse.jgit:org.eclipse.jgit

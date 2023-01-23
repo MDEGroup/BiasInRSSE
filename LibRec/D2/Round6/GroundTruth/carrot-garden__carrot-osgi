@@ -1,0 +1,11 @@
+1	#DEP#com.carrotgarden.base:carrot-archon
+1	#DEP#com.carrotgarden.osgi:carrot-osgi-anno2-scr-core
+1	#DEP#com.carrotgarden:pivot-core
+1	#DEP#com.carrotgarden.osgi:carrot-osgi-anno-scr-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#com.carrotgarden.osgi:carrot-osgi-scr-event
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#com.carrotgarden:carrot-util-json
+1	#DEP#com.carrotgarden:carrot-osgi
+1	#DEP#org.osgi:org.osgi.core

@@ -1,0 +1,10 @@
+1	git://github.com/robjg/oj-spring.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework:spring-test
+5	#DEP#log4j:log4j
+6	#DEP#org.mockito:mockito-all
+7	#DEP#uk.co.rgordon:oddjob
+8	#DEP#org.springframework:spring-orm
+9	#DEP#junit:junit
+10	#DEP#org.hsqldb:hsqldb

@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.sun.jersey:jersey-server	1.0
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#org.bitbucket.mstrobel:procyon-reflection	1.0
+#DEP#org.bitbucket.mstrobel:procyon-compilertools	1.0
+#DEP#org.bitbucket.mstrobel:procyon-core	1.0
+#DEP#org.apache.felix:org.apache.felix.webconsole	1.0

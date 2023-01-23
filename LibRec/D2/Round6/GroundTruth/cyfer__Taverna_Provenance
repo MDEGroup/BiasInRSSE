@@ -1,0 +1,5 @@
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#uk.org.taverna.scufl2:scufl2-api
+1	#DEP#junit:junit
+1	#DEP#uk.org.taverna.scufl2:scufl2-t2flow
+1	#DEP#org.biocatalogue:biocatalogue_api_classes

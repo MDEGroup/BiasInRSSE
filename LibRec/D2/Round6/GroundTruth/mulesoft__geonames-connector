@@ -1,0 +1,6 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.ibeans:ibeans-support
+1	#DEP#org.mule.modules:mule-module-ibeans
+1	#DEP#org.mule.modules:mule-module-ognl
+1	#DEP#org.mule.transports:mule-transport-http
+1	#DEP#org.mule.modules:mule-module-flickr

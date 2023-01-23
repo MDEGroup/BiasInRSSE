@@ -1,0 +1,16 @@
+1	#DEP#org.infinispan:infinispan-core
+1	#DEP#org.apache.logging.log4j:log4j-to-slf4j
+1	#DEP#org.jnosql.diana:diana-key-value
+1	#DEP#org.apache.hbase:hbase-client
+1	#DEP#org.awaitility:awaitility
+1	#DEP#org.jnosql.diana:diana-driver-commons
+1	#DEP#org.mongodb:mongodb-driver-async
+1	#DEP#org.eclipse:yasson
+1	#DEP#org.glassfish:javax.json
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jnosql.diana:diana-driver
+1	#DEP#org.elasticsearch.client:transport
+1	#DEP#javax.json:javax.json-api
+1	#DEP#com.couchbase.client:java-client
+1	#DEP#com.orientechnologies:orientdb-graphdb
+1	#DEP#com.arangodb:arangodb-java-driver

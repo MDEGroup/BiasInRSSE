@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#multiworld:MultiWorld	1.0
+#DEP#me.gnat008.perworldinventory:PerWorldInventory	1.0
+#DEP#org.spigotmc:spigot-api	1.0
+#DEP#com.massivecraft:factions	1.0
+#DEP#me.ryanhamshire:GriefPrevention	1.0
+#DEP#com.wimbli.WorldBorder:WorldBorder	1.0
+#DEP#com.sk89q:worldguard	1.0
+#DEP#com.griefcraft:lwc	1.0

@@ -1,0 +1,3 @@
+13	#DEP#com.google.zxing:core
+14	#DEP#com.beust:jcommander
+15	#DEP#org.slf4j:slf4j-jdk14

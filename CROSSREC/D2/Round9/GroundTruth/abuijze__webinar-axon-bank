@@ -1,0 +1,6 @@
+1	#DEP#org.axonframework:axon-spring-boot-starter
+1	#DEP#org.jetbrains.kotlin:kotlin-test-junit
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.axonframework:axon-test
+1	#DEP#org.springframework.boot:spring-boot-starter-web

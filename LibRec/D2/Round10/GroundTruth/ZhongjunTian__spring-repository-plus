@@ -1,0 +1,4 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.h2database:h2

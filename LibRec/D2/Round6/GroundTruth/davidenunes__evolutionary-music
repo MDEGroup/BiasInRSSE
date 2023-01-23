@@ -1,0 +1,6 @@
+1	#DEP#log4j:log4j
+1	#DEP#commons-math:commons-math
+1	#DEP#xpp3:xpp3
+1	#DEP#xstream:xstream
+1	#DEP#jcgrid:jcgrid
+1	#DEP#junit:junit

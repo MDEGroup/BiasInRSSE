@@ -1,0 +1,9 @@
+1	#DEP#org.springframework:spring-jms
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.springframework.amqp:spring-rabbit
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.xbean:xbean-spring
+1	#DEP#org.apache.activemq:activemq-pool
+1	#DEP#junit:junit
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.apache.activemq:activemq-core

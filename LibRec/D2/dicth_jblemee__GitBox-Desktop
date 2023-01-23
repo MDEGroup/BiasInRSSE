@@ -1,0 +1,13 @@
+1	git://github.com/jblemee/GitBox-Desktop.git
+2	#DEP#com.jcheype:gitbox
+3	#DEP#org.mod4j.org.eclipse:jface
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.httpcomponents:httpclient
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#${swt.groupId}:${swt.artifactId}
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#joda-time:joda-time
+10	#DEP#commons-lang:commons-lang
+11	#DEP#commons-configuration:commons-configuration
+12	#DEP#commons-codec:commons-codec
+13	#DEP#junit:junit

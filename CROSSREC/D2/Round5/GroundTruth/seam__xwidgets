@@ -1,0 +1,12 @@
+1	#DEP#org.jboss.seam.solder:seam-solder-api
+1	#DEP#javax.validation:validation-api
+1	#DEP#org.jboss.seam.security:seam-security
+1	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec
+1	#DEP#org.jboss.seam:seam-bom
+1	#DEP#com.ocpsoft:prettyfaces-jsf2
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss.seam.xwidgets:seam-xwidgets-parent
+1	#DEP#org.jboss.seam.faces:seam-faces
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+1	#DEP#org.jboss.seam.xwidgets:seam-xwidgets

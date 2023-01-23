@@ -1,0 +1,11 @@
+1	git://github.com/LuckyJayce/MultiTypeView.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#de.hdodenhof:circleimageview
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.shizhefei:MVCHelper-Library
+10	#DEP#junit:junit
+11	#DEP#com.shizhefei:ViewPagerIndicator

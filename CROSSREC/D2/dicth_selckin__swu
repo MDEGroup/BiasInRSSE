@@ -1,0 +1,17 @@
+1	git://github.com/selckin/swu.git
+2	#DEP#org.apache.wicket:wicket-ioc
+3	#DEP#org.apache.wicket:wicket-core
+4	#DEP#xom:xom
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.testng:testng
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#be.selckin.swu:swu
+10	#DEP#com.google.code.gson:gson
+11	#DEP#joda-time:joda-time
+12	#DEP#cglib:cglib-nodep
+13	#DEP#be.selckin.swu:swu-base
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#com.google.guava:guava
+16	#DEP#org.objenesis:objenesis
+17	#DEP#org.apache.wicket:wicket-extensions

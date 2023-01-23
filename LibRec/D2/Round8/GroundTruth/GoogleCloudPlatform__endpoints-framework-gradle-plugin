@@ -1,0 +1,7 @@
+1	#DEP#com.google.appengine:appengine-api-1.0-sdk
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#com.google.api-client:google-api-client
+1	#DEP#junit:junit
+1	#DEP#com.google.endpoints:endpoints-framework-tools

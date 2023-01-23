@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.github.bumptech.glide:glide	1.0
+#DEP#org.cyanogenmod:platform.sdk	1.0
+#DEP#com.github.pfichtner:durationformatter	1.0
+#DEP#com.github.freeyourgadget:greendao	1.0
+#DEP#:GBDaoGenerator	1.0
+#DEP#com.github.Freeyourgadget:MPAndroidChart	1.0

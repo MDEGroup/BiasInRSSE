@@ -1,0 +1,12 @@
+1	git://github.com/thedeveloperworldisyours/FullRecyclerView.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView
+4	#DEP#com.google.code.findbugs:jsr305
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.daimajia.swipelayout:library
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.github.rubensousa:gravitysnaphelper
+12	#DEP#com.thoughtbot:expandablerecyclerview

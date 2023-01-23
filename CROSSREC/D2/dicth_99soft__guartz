@@ -1,0 +1,9 @@
+1	git://github.com/99soft/guartz.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.google.inject:guice
+4	#DEP#org.quartz-scheduler:quartz
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.99soft:oss-parent
+8	#DEP#junit:junit
+9	#DEP#com.google.inject.extensions:guice-multibindings

@@ -1,0 +1,14 @@
+1	git://github.com/facebook/facebook-android-sdk.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#org.robolectric:robolectric
+4	#DEP#com.facebook.fresco:fresco
+5	#DEP#com.google.dexmaker:dexmaker
+6	#DEP#com.google.android.gms:play-services-maps
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.facebook.android:facebook-android-sdk
+9	#DEP#com.google.dexmaker:dexmaker-mockito
+10	#DEP#org.mockito:mockito-core
+11	#DEP#junit:junit
+12	#DEP#com.parse.bolts:bolts-android
+13	#DEP#com.google.zxing:core
+14	#DEP#com.google.android.gms:play-services-base

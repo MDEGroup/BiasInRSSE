@@ -1,0 +1,13 @@
+1	#DEP#com.facebook.fresco:animated-gif
+1	#DEP#io.reactivex.rxjava2:rxjava
+1	#DEP#com.tbruyelle.rxpermissions2:rxpermissions
+1	#DEP#com.facebook.fresco:fresco
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.github.franmontiel:PersistentCookieJar
+1	#DEP#cn.bingoogolapple:bga-adapter
+1	#DEP#com.orhanobut:logger
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#me.relex:photodraweeview
+1	#DEP#com.github.MFlisar:RxBus2
+1	#DEP#junit:junit

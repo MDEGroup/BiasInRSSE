@@ -1,0 +1,10 @@
+1	#DEP#apache-taglibs:standard
+1	#DEP#blackboard:bb-taglibs
+1	#DEP#com.whirlycott:whirlycache
+1	#DEP#apache-taglibs:jstl
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#servletapi:servletapi
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#mediamosa:mediamosa-api
+1	#DEP#junit:junit
+1	#DEP#blackboard:bb-platform

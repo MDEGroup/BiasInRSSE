@@ -1,0 +1,11 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.jenkins-ci.plugins:azure-commons
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.apache.maven.plugins:maven-failsafe-plugin
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jenkins-ci.plugins:cloud-stats
+1	#DEP#com.microsoft.azure:azure
+1	#DEP#com.microsoft.azure:azure-storage
+1	#DEP#org.jenkins-ci.main:jenkins-core

@@ -1,0 +1,6 @@
+1	#DEP#${project.groupId}:org.vaadin.mvp.common
+1	#DEP#org.easymock:easymock
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#junit:junit
+1	#DEP#org.vaadin.addons:org.vaadin.mvp

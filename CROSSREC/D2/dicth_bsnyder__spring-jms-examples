@@ -1,0 +1,9 @@
+1	git://github.com/bsnyder/spring-jms-examples.git
+2	#DEP#org.springframework:spring-jms
+3	#DEP#log4j:log4j
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.bsnyder.spring.jms:spring-jms-examples
+6	#DEP#junit:junit
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#org.springframework:spring-core
+9	#DEP#org.apache.activemq:activemq-core

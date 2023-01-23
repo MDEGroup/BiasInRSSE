@@ -1,0 +1,10 @@
+1	git://github.com/philliphsu/ClockPlus.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.google.auto.value:auto-value
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.android.support:gridlayout-v7

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.twitter4j:twitter4j-core	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.jsoup:jsoup	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.apache.abdera:abdera-bundle	1.0
+#DEP#de.u-mass:lastfm-java	1.0
+#DEP#no.fictive.irclib:irclib	1.0

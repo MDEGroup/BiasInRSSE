@@ -1,0 +1,7 @@
+1	#DEP#com.alibaba:druid
+1	#DEP#org.shardbatis:shardbatis
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.mybatis:mybatis-spring

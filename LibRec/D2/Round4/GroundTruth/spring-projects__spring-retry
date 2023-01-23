@@ -1,0 +1,6 @@
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-framework-bom
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.aspectj:aspectjweaver

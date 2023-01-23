@@ -1,0 +1,10 @@
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#de.jiac.micro.extensions:microjiac-stomp-client	1.0
+#DEP#com.github.mcpat.slf4j:slf4cldc-simple	1.0
+#DEP#de.jiac.micro.examples:microjiac-examples	1.0
+#DEP#de.jiac.micro.platforms.cldc:microjiac-midlet-platform	1.0
+#DEP#org.prolog4j:prolog4j-api	1.0
+#DEP#de.jiac.micro.platforms.cldc:microjiac-midp-extensions	1.0
+#DEP#org.prolog4j:prolog4j-swi	1.0
+#DEP#com.github.mcpat.slf4j:slf4cldc-nop	1.0

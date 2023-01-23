@@ -1,0 +1,12 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#info.cukes:cucumber-picocontainer
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework.security:spring-security-acl
+1	#DEP#org.springframework.hateoas:spring-hateoas
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit

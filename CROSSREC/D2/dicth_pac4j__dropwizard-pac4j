@@ -1,0 +1,12 @@
+1	git://github.com/pac4j/dropwizard-pac4j.git
+2	#DEP#org.pac4j:pac4j-oauth
+3	#DEP#org.pac4j:pac4j-http
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.pac4j:pac4j-config
+7	#DEP#org.pac4j:jax-rs-pac4j
+8	#DEP#org.pac4j:j2e-pac4j
+9	#DEP#io.dropwizard:dropwizard-bom
+10	#DEP#io.dropwizard:dropwizard-testing
+11	#DEP#org.pac4j:pac4j-core
+12	#DEP#io.dropwizard:dropwizard-core

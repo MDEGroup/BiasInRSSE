@@ -1,0 +1,8 @@
+1	#DEP#org.mule.transports:mule-transport-mongodb
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#backport-util-concurrent:backport-util-concurrent
+1	#DEP#org.mule.modules:mule-module-magento
+1	#DEP#org.mule.tools.devkit:mule-devkit-parent
+1	#DEP#org.mule.modules:mule-module-ognl
+1	#DEP#org.apache.axis:axis
+1	#DEP#wsdl4j:wsdl4j

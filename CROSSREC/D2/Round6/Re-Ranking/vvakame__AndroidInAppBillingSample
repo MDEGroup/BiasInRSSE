@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.google.appengine:appengine-api-labs	1.0
+#DEP#org.slim3:slim3	1.0
+#DEP#com.google.appengine:appengine-api-stubs	1.0
+#DEP#org.seasar.aptina:aptina-commons	1.0
+#DEP#net.arnx.jsonic:jsonic	1.0
+#DEP#org.seasar.aptina:aptina-unit	1.0
+#DEP#net.vvakame:jsonpullparser-parent	1.0

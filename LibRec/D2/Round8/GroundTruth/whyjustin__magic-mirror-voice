@@ -1,0 +1,14 @@
+1	#DEP#org.mortbay.jetty.alpn:alpn-boot
+1	#DEP#org.eclipse.jetty:jetty-security
+1	#DEP#javazoom:jlayer
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.eclipse.jetty.http2:http2-common
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.glassfish:javax.json
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.eclipse.jetty.http2:http2-client
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.eclipse.jetty:jetty-http
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.eclipse.jetty.http2:http2-http-client-transport
+1	#DEP#org.eclipse.jetty:jetty-client

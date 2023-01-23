@@ -1,0 +1,11 @@
+1	git://github.com/mattlogan/auto-value-firebase.git
+2	#DEP#com.google.auto.value:auto-value
+3	#DEP#com.google.auto:auto-common
+4	#DEP#com.jakewharton.auto.value:auto-value-annotations
+5	#DEP#com.google.testing.compile:compile-testing
+6	#DEP#com.squareup:javapoet
+7	#DEP#com.google.firebase:firebase-database
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.google.auto.service:auto-service
+11	#DEP#com.google.truth:truth

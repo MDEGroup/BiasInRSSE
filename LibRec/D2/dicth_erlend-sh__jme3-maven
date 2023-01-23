@@ -1,0 +1,16 @@
+1	git://github.com/erlend-sh/jme3-maven.git
+2	#DEP#com.jme3:minimal
+3	#DEP#com.jme3:jme3testdata
+4	#DEP#com.jme3:jme3test
+5	#DEP#com.jme3:parent
+6	#DEP#com.jme3:vorbisd
+7	#DEP#com.jme3:demo
+8	#DEP#com.jme3:bullet
+9	#DEP#com.jme3:oggd
+10	#DEP#com.jme3:stack-alloc
+11	#DEP#com.jme3:vecmath
+12	#DEP#com.jme3:jmonkeyengine3
+13	#DEP#com.jme3:lwjgl-natives
+14	#DEP#com.jme3:jbullet
+15	#DEP#com.jme3:lwjgl
+16	#DEP#junit:junit

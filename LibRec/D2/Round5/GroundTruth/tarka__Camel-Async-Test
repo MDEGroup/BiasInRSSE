@@ -1,0 +1,9 @@
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.activemq:activemq-pool
+1	#DEP#org.apache.xbean:xbean-spring
+1	#DEP#org.apache.camel:camel-jms
+1	#DEP#org.apache.camel:camel-spring
+1	#DEP#junit:junit
+1	#DEP#org.apache.activemq:activemq-core

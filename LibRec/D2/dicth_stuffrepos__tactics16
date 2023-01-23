@@ -1,0 +1,9 @@
+1	git://github.com/stuffrepos/tactics16.git
+2	#DEP#org.reflections:reflections
+3	#DEP#commons-cli:commons-cli
+4	#DEP#log4j:log4j
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.json:json
+7	#DEP#junit:junit
+8	#DEP#slick:slick
+9	#DEP#commons-lang:commons-lang

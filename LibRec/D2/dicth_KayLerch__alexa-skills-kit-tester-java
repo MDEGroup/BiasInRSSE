@@ -1,0 +1,10 @@
+1	git://github.com/KayLerch/alexa-skills-kit-tester-java.git
+2	#DEP#org.sonarsource.java:sonar-jacoco-listeners
+3	#DEP#com.amazon.alexa:alexa-skills-kit
+4	#DEP#com.amazonaws:aws-java-sdk-lambda
+5	#DEP#com.jayway.jsonpath:json-path
+6	#DEP#com.amazonaws:aws-java-sdk-s3
+7	#DEP#com.amazonaws:aws-lambda-java-log4j
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#com.esotericsoftware.yamlbeans:yamlbeans

@@ -1,0 +1,9 @@
+1	#DEP#org.jboss.resteasy:resteasy-jaxrs
+1	#DEP#virtualbox.binding.java:vboxjxpcom
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#junit:junit
+1	#DEP#de.tud.cs.rbg.vdi.commons:web
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin

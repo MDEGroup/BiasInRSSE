@@ -1,0 +1,13 @@
+56	#DEP#joda-time:joda-time
+57	#DEP#com.google.javascript:closure-compiler
+58	#DEP#de.agilecoders.wicket.webjars:de.agilecoders.wicket.webjars
+59	#DEP#org.antlr:org.antlr
+60	#DEP#org.webjars:typeaheadjs
+61	#DEP#org.eclipse.jetty.aggregate:jetty-all-server
+62	#DEP#org.apache.maven.plugin-tools:org.apache.maven.plugin-tools
+63	#DEP#org.webjars:x-editable-bootstrap
+64	#DEP#org.webjars:jquery-ui
+65	#DEP#org.apache.wicket:wicket-util
+66	#DEP#org.joda:org.joda
+67	#DEP#com.github.sommeri:less4j
+68	#DEP#org.mockito:mockito-core

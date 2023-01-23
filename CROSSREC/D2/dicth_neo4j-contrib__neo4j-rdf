@@ -1,0 +1,10 @@
+1	git://github.com/neo4j-contrib/neo4j-rdf.git
+2	#DEP#org.neo4j:parent-pom
+3	#DEP#org.neo4j:neo4j-graph-matching
+4	#DEP#org.apache.lucene:lucene-highlighter
+5	#DEP#org.neo4j:neo4j-utils
+6	#DEP#org.neo4j:neo4j-shell
+7	#DEP#org.neo4j:neo4j-meta-model
+8	#DEP#junit:junit
+9	#DEP#org.neo4j:neo4j-kernel
+10	#DEP#org.neo4j:neo4j-index

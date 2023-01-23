@@ -1,0 +1,5 @@
+1	#DEP#localjar:flexjson
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#localjar:gwt-svg
+1	#DEP#org.vaadin.addons:expandingtextarea
+1	#DEP#localjar:jsonwrapper

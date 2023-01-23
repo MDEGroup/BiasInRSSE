@@ -1,0 +1,13 @@
+1	git://github.com/Voltage825/AxonFramework3Demo.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.axonframework:axon-spring-boot-autoconfigure
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.axonframework:axon-core
+9	#DEP#org.springframework.boot:spring-boot-starter-test
+10	#DEP#org.projectlombok:lombok
+11	#DEP#org.jetbrains.kotlin:kotlin-test
+12	#DEP#org.axonframework:axon-test
+13	#DEP#com.h2database:h2

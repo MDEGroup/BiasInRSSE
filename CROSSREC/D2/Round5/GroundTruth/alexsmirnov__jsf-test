@@ -1,0 +1,16 @@
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.mortbay.jetty:start
+1	#DEP#net.sourceforge.htmlunit:htmlunit
+1	#DEP#net.sourceforge.nekohtml:nekohtml
+1	#DEP#javax.annotation:jsr250-api
+1	#DEP#dom4j:dom4j
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#javax.transaction:jta
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.jboss.test-jsf:jsf-test-stage
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.glassfish:javax.servlet
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.cssparser:cssparser
+1	#DEP#org.richfaces:richfaces-parent

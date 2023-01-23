@@ -1,0 +1,6 @@
+27	#DEP#org.mortbay.jetty:servlet-api
+28	#DEP#org.slf4j:slf4j-log4j12
+29	#DEP#com.yammer.metrics:metrics-core
+30	#DEP#commons-pool:commons-pool
+31	#DEP#log4j:log4j
+32	#DEP#org.osgi:osgi_R4_compendium

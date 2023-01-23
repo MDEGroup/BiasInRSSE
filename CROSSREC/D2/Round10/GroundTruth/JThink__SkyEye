@@ -1,0 +1,11 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.scala-lang:scala-compiler
+1	#DEP#javax.mail:mail
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.apache.spark:spark-streaming-kafka_${scala.binary.version}
+1	#DEP#:skyeye-collector
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.apache.spark:spark-streaming_${scala.binary.version}
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#:skyeye-data
+1	#DEP#junit:junit

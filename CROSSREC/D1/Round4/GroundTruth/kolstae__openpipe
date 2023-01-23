@@ -1,0 +1,8 @@
+33	#DEP#commons-lang:commons-lang
+34	#DEP#${project.groupId}:openpipe-solr
+35	#DEP#org.springframework:spring-context
+36	#DEP#org.slf4j:log4j-over-slf4j
+37	#DEP#postgresql:postgresql
+38	#DEP#org.apache.poi:poi-scratchpad
+39	#DEP#log4j:log4j
+40	#DEP#ch.qos.logback:logback-classic

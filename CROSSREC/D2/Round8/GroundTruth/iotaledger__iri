@@ -1,0 +1,9 @@
+1	#DEP#org.ini4j:ini4j
+1	#DEP#com.sanityinc:jargs
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#io.undertow:undertow-servlet
+1	#DEP#io.undertow:undertow-websockets-jsr
+1	#DEP#junit:junit
+1	#DEP#uk.co.froot.maven.enforcer:digest-enforcer-rules
+1	#DEP#org.rocksdb:rocksdbjni

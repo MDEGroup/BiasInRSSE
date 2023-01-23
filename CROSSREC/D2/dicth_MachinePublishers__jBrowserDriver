@@ -1,0 +1,10 @@
+1	git://github.com/MachinePublishers/jBrowserDriver.git
+2	#DEP#org.apache.httpcomponents:httpclient-cache
+3	#DEP#org.seleniumhq.selenium:selenium-server
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#io.github.lukehutch:fast-classpath-scanner
+6	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.guava:guava
+9	#DEP#org.seleniumhq.selenium:selenium-api
+10	#DEP#org.zeroturnaround:zt-process

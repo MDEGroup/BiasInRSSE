@@ -1,0 +1,6 @@
+1	#DEP#cglib:cglib-nodep
+1	#DEP#javax.servlet.jsp:jsp-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.glassfish.web:jstl-impl
+1	#DEP#com.h2database:h2

@@ -1,0 +1,6 @@
+26	#DEP#com.heroku.api:heroku-http-jersey-client
+27	#DEP#com.google.inject:guice
+28	#DEP#org.jmockit:jmockit
+29	#DEP#org.scala-lang:scala-library
+30	#DEP#com.heroku.api:heroku-json-gson
+31	#DEP#com.heroku.api:heroku-json-jackson

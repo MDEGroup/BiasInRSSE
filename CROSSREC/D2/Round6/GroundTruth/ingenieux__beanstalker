@@ -1,0 +1,17 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.maven.shared:maven-invoker
+1	#DEP#br.com.ingenieux:beanstalker-common
+1	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.sonatype.plexus:plexus-build-api
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#br.com.ingenieux:beanstalker
+1	#DEP#log4j:log4j
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.flipkart.zjsonpatch:zjsonpatch
+1	#DEP#junit:junit

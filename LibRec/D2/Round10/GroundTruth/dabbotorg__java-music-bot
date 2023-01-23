@@ -1,0 +1,7 @@
+1	#DEP#org.jsoup:jsoup
+1	#DEP#net.dv8tion:JDA
+1	#DEP#me.bramhaag:owo-java
+1	#DEP#com.moandjiezana.toml:toml4j
+1	#DEP#com.getsentry.raven:raven-log4j
+1	#DEP#com.sedmelluq:lavaplayer
+1	#DEP#junit:junit

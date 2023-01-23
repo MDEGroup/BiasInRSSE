@@ -1,0 +1,5 @@
+23	#DEP#org.apache.commons:org.apache.commons
+24	#DEP#com.esotericsoftware:com.esotericsoftware
+25	#DEP#com.graphaware.neo4j:writer
+26	#DEP#com.graphaware.integration.es:elasticsearch-tests-integration
+27	#DEP#junit:junit

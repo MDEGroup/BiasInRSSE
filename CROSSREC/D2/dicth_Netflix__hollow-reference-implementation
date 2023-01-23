@@ -1,0 +1,9 @@
+1	git://github.com/Netflix/hollow-reference-implementation.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.netflix.hollow:hollow-explorer-ui
+4	#DEP#com.amazonaws:aws-java-sdk-dynamodb
+5	#DEP#org.eclipse.jetty:jetty-server
+6	#DEP#com.amazonaws:aws-java-sdk-s3
+7	#DEP#com.netflix.hollow:hollow
+8	#DEP#com.netflix.hollow:hollow-diff-ui
+9	#DEP#junit:junit

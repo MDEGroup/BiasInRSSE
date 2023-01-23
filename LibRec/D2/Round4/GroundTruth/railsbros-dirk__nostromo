@@ -1,0 +1,14 @@
+1	#DEP#org.apache.axis2:axis2-integration
+1	#DEP#org.apache.ws.commons.axiom:axiom-c14n
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.axis2:axis2-jaxws
+1	#DEP#spy:spy
+1	#DEP#org.apache.ws.commons.axiom:axiom-impl
+1	#DEP#org.apache.axis2:axis2-saaj-api
+1	#DEP#org.mockito:mockito-core
+1	#DEP#log4j:log4j
+1	#DEP#org.jyaml:jyaml
+1	#DEP#junit:junit
+1	#DEP#org.apache.axis2:axis2-saaj
+1	#DEP#org.apache.activemq:activemq-core
+1	#DEP#spy:memcached

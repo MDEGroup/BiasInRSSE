@@ -1,0 +1,9 @@
+1	git://github.com/YuChang45/WeatherMvp.git
+2	#DEP#com.squareup.retrofit:adapter-rxjava
+3	#DEP#com.squareup.retrofit:retrofit
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.squareup.retrofit:converter-gson
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#io.reactivex:rxandroid

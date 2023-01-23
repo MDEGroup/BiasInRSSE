@@ -1,0 +1,15 @@
+1	git://github.com/martinhbramwell/Monetary-Ontology-Walkabout.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.tinkerpop.blueprints:blueprints-core
+4	#DEP#org.jmock:jmock-junit4
+5	#DEP#com.tinkerpop:rexster
+6	#DEP#org.neo4j:neo4j-kernel
+7	#DEP#com.hp.hpl.jena:jena
+8	#DEP#commons-configuration:commons-configuration
+9	#DEP#org.apache.ivy:ivy
+10	#DEP#org.codehaus.groovy:groovy
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#net.sf.json-lib:json-lib
+13	#DEP#commons-fileupload:commons-fileupload
+14	#DEP#junit:junit
+15	#DEP#com.sun.jersey:jersey-server

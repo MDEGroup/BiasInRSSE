@@ -1,0 +1,13 @@
+1	git://github.com/criminy/example-springmvc-osgi-app.git
+2	#DEP#org.springframework:org.springframework.web.servlet
+3	#DEP#org.springframework.osgi:org.springframework.osgi.web
+4	#DEP#net.sheenobu:net.sheenobu.osgi.tutorial.modules.web.spring.support.osgi
+5	#DEP#org.apache.felix:org.osgi.core
+6	#DEP#org.springframework.osgi:org.springframework.osgi.core
+7	#DEP#org.ops4j.pax.web-extender:pax-web-ex-whiteboard
+8	#DEP#net.sheenobu:net.sheenobu.osgi.tutorial.modules
+9	#DEP#org.osgi:org.osgi.compendium
+10	#DEP#org.ops4j.pax.web:pax-web-jsp
+11	#DEP#javax.servlet:com.springsource.javax.servlet
+12	#DEP#org.ops4j.pax.web:pax-web-service
+13	#DEP#net.sheenobu:net.sheenobu.osgi.tutorial

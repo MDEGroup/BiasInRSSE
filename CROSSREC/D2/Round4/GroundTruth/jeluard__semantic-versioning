@@ -1,0 +1,7 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.semver:parent
+1	#DEP#com.github.jeluard:oss-parent
+1	#DEP#org.ow2.asm:asm-commons
+1	#DEP#junit:junit
+1	#DEP#org.semver:api
+1	#DEP#org.apache.maven:maven-artifact

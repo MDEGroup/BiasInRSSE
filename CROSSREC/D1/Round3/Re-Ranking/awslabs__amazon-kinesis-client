@@ -1,0 +1,10 @@
+#DEP#com.google.guava:guava	1.0
+#DEP#junit:junit	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#com.amazonaws:aws-java-sdk-sns	1.0
+#DEP#org.eluder.logback:logback-ext-dynamodb-appender	1.0
+#DEP#org.eluder:eluder-parent	1.0
+#DEP#com.amazonaws:aws-java-sdk-logs	1.0
+#DEP#org.eluder.logback:logback-ext-aws-core	1.0
+#DEP#org.eluder.logback:logback-ext-sqs-appender	1.0
+#DEP#org.eluder.logback:logback-ext-lmax-appender	1.0

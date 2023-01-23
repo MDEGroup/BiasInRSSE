@@ -1,0 +1,9 @@
+36	#DEP#org.apache.pdfbox:pdfbox
+37	#DEP#org.slf4j:jcl-over-slf4j
+38	#DEP#org.apache.tomcat:tomcat-catalina
+39	#DEP#org.springframework:spring-context-support
+40	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-guava
+41	#DEP#org.hamcrest:hamcrest-all
+42	#DEP#javax.servlet:jstl
+43	#DEP#org.elasticsearch.plugin:delete-by-query
+44	#DEP#junit:junit

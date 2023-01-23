@@ -1,0 +1,10 @@
+1	#DEP#group:artifact
+1	#DEP#org.apache.commons:com.springsource.org.apache.commons.beanutils
+1	#DEP#biz.aQute.bnd:biz.aQute.bnd.maven
+1	#DEP#group-parent:artifact-parent
+1	#DEP#org.apache.felix:org.apache.felix.http.jetty
+1	#DEP#org.apache.felix:org.apache.felix.configadmin
+1	#DEP#org.apache.aries.async:org.apache.aries.async
+1	#DEP#biz.aQute.bnd-test:test
+1	#DEP#org.apache.felix:org.apache.felix.scr
+1	#DEP#${pom.groupId}:org.osgi.core

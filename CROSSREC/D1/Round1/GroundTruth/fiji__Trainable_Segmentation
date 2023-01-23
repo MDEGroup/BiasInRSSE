@@ -1,0 +1,3 @@
+12	#DEP#sc.fiji:VIB-lib
+13	#DEP#net.imagej:ij
+14	#DEP#junit:junit

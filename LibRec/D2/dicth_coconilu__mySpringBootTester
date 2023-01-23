@@ -1,0 +1,13 @@
+1	git://github.com/coconilu/mySpringBootTester.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#org.springframework.boot:spring-boot-starter-web
+6	#DEP#org.springframework.boot:spring-boot-starter-remote-shell
+7	#DEP#org.springframework.boot:spring-boot-starter-test
+8	#DEP#org.springframework.boot:spring-boot-devtools
+9	#DEP#org.springframework.hateoas:spring-hateoas
+10	#DEP#org.springframework.boot:spring-boot-starter-aop
+11	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc
+12	#DEP#org.springframework.boot:spring-boot-starter-actuator
+13	#DEP#com.h2database:h2

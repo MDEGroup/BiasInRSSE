@@ -1,0 +1,10 @@
+1	git://github.com/novoda/android-demos.git
+2	#DEP#com.actionbarsherlock:actionbarsherlock
+3	#DEP#Google Inc.:Google APIs
+4	#DEP#com.eyeem.chips:library
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.novoda:tokenautocomplete
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit
+10	#DEP#com.google.android.gms:play-services

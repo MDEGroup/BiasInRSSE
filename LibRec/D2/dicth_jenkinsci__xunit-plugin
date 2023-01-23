@@ -1,0 +1,13 @@
+1	git://github.com/jenkinsci/xunit-plugin.git
+2	#DEP#xmlunit:xmlunit
+3	#DEP#org.jenkins-ci.plugins:junit
+4	#DEP#org.jenkins-ci.lib:dry-run-lib
+5	#DEP#org.mockito:mockito-all
+6	#DEP#org.jenkins-ci.lib.dtkit:dtkit-metrics-hudson-api
+7	#DEP#org.jenkins-ci.plugins:plugin
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+9	#DEP#org.jenkins-ci.lib.dtkit:dtkit-metrics-model
+10	#DEP#junit:junit
+11	#DEP#net.sourceforge.saxon:saxon
+12	#DEP#org.jenkins-ci.modules:sshd
+13	#DEP#org.jenkins-ci.lib.dtkit:dtkit-metrics-util

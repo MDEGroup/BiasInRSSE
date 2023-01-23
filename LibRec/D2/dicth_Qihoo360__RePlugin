@@ -1,0 +1,16 @@
+1	git://github.com/Qihoo360/RePlugin.git
+2	#DEP#commons-io:commons-io
+3	#DEP#javassist:javassist
+4	#DEP#com.squareup:javapoet
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.tools.build:transform-api
+7	#DEP#com.qihoo360.replugin:replugin-host-lib
+8	#DEP#org.codehaus.groovy:groovy
+9	#DEP#net.dongliu:apk-parser
+10	#DEP#com.android.support:support-v4
+11	#DEP#org.json:json
+12	#DEP#com.google.gradle:osdetector-gradle-plugin
+13	#DEP#junit:junit
+14	#DEP#com.android.tools.build:gradle
+15	#DEP#com.parse.bolts:bolts-android
+16	#DEP#com.qihoo360.replugin:replugin-plugin-lib

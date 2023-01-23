@@ -1,0 +1,5 @@
+20	#DEP#com.threerings:tripleplay-demo-core
+21	#DEP#com.threerings:tripleplay-ios
+22	#DEP#com.threerings:tripleplay-tools
+23	#DEP#org.scala-lang:scala-library
+24	#DEP#${project.groupId}:tripleplay

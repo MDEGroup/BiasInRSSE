@@ -1,0 +1,10 @@
+#DEP#org.apache.hive:hive-exec	1.0
+#DEP#org.apache.hive:hive-metastore	1.0
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.apache.hbase:hbase	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.apache.hive:hive-serde	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#log4j:log4j	1.0
+#DEP#net.openhft:compiler	1.0

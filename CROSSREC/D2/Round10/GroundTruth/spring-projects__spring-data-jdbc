@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.testcontainers:mysql
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.testcontainers:postgresql
+1	#DEP#org.springframework.data.build:spring-data-parent
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#org.hsqldb:hsqldb

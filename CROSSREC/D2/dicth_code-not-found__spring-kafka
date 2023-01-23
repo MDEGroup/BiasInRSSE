@@ -1,0 +1,14 @@
+1	git://github.com/code-not-found/spring-kafka.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#com.twitter:bijection-avro_2.11
+4	#DEP#org.springframework.boot:spring-boot-starter
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.kafka:spring-kafka-test
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-integration
+9	#DEP#org.springframework.boot:spring-boot-starter-test
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.apache.avro:avro
+12	#DEP#org.springframework.kafka:spring-kafka
+13	#DEP#org.springframework.integration:spring-integration-kafka
+14	#DEP#junit:junit

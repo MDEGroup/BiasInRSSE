@@ -1,0 +1,5 @@
+1	#DEP#com.portofrotterdam:versiondebt-shared
+1	#DEP#junit:junit
+1	#DEP#com.portofrotterdam:versiondebt
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#joda-time:joda-time

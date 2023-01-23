@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.msgpack:msgpack-core	1.0
+#DEP#io.protostuff:protostuff-json	1.0
+#DEP#io.protostuff:protostuff-runtime-md	1.0

@@ -1,0 +1,12 @@
+1	git://github.com/Prototik/HoloEverywhere.git
+2	#DEP#org.holoeverywhere:library
+3	#DEP#:addons
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.holoeverywhere:addons
+6	#DEP#com.android.support:support-v4
+7	#DEP#org.holoeverywhere:parent
+8	#DEP#com.nineoldandroids:library
+9	#DEP#org.holoeverywhere:addon-preferences
+10	#DEP#android:android
+11	#DEP#org.holoeverywhere:addon-slider
+12	#DEP#com.google.android.gms:play-services

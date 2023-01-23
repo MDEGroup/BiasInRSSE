@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.apache.mina:mina-core	1.0
+#DEP#com.wu-man:orientdb-android-client	1.0
+#DEP#com.wu-man:orientdb-android-tools	1.0
+#DEP#com.wu-man:orient-android-commons	1.0
+#DEP#com.wu-man:orientdb-android-nativeos	1.0

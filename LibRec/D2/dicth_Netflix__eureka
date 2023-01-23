@@ -1,0 +1,16 @@
+1	git://github.com/Netflix/eureka.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#com.jcraft:jzlib
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.github.vlsi.compactmap:compactmap
+7	#DEP#org.codehaus.jettison:jettison
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.glassfish.jersey.connectors:jersey-apache-connector
+10	#DEP#javax.ws.rs:jsr311-api
+11	#DEP#javax.mail:mail
+12	#DEP#org.mockito:mockito-core
+13	#DEP#yyyy-MM-dd'T'HH:mm
+14	#DEP#xerces:xercesImpl
+15	#DEP#com.netflix.netflix-commons:netflix-eventbus
+16	#DEP#org.glassfish.jersey.core:jersey-client

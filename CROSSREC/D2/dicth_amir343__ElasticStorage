@@ -1,0 +1,15 @@
+1	git://github.com/amir343/ElasticStorage.git
+2	#DEP#commons-io:commons-io
+3	#DEP#se.sics.kompics.basic:kompics-component-mina-network
+4	#DEP#org.apache.commons:commons-math
+5	#DEP#com.google.collections:google-collections
+6	#DEP#eu.hansolo:SteelSeries
+7	#DEP#commons-lang:commons-lang
+8	#DEP#se.sics.kompics:kompics-core
+9	#DEP#org.pushing-pixels:trident
+10	#DEP#se.sics.kompics.basic:kompics-component-java-timer
+11	#DEP#org.scalatest:scalatest_2.9.0
+12	#DEP#commons-collections:commons-collections
+13	#DEP#jfree:jfreechart
+14	#DEP#xstream:xstream
+15	#DEP#se.sics.kompics.launcher:kompics-local-process-launcher

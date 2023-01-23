@@ -1,0 +1,14 @@
+1	git://github.com/nuxeo-archives/nuxeo-android.git
+2	#DEP#org.nuxeo.android:nuxeo-android-connector-ui
+3	#DEP#com.jayway.android.robotium:robotium-solo
+4	#DEP#com.google.android:android
+5	#DEP#com.google.android:android-test
+6	#DEP#org.nuxeo.ecm.distribution:nuxeo-distribution-tomcat
+7	#DEP#org.nuxeo.android:nuxeo-android-connector
+8	#DEP#org.nuxeo.android:nuxeo-android-parent
+9	#DEP#org.nuxeo.android:nuxeo-automation-sample
+10	#DEP#org.nuxeo:nuxeo-ftest
+11	#DEP#com.android.support:support-v4
+12	#DEP#org.nuxeo.ecm.automation:nuxeo-automation-thin-client
+13	#DEP#com.smartnsoft:droid4me
+14	#DEP#junit:junit

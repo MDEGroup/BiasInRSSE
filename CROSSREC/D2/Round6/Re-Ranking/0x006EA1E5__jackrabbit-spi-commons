@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#xerces:xercesImpl	1.0
+#DEP#org.silverpeas:silverpeas-project	1.0

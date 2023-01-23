@@ -1,0 +1,14 @@
+1	#DEP#org.eclipse.aether:aether-util
+1	#DEP#org.apache.ant:ant
+1	#DEP#org.apache.maven:maven-embedder
+1	#DEP#org.apache.maven.wagon:wagon-provider-api
+1	#DEP#org.jenkins-ci:jenkins
+1	#DEP#com.google.inject:guice
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#com.mycompany.app:my-app
+1	#DEP#org.eclipse.aether:aether-impl
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.aether:aether-api
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#org.eclipse.aether:aether-transport-wagon

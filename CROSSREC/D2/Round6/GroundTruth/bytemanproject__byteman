@@ -1,0 +1,13 @@
+1	#DEP#org.jboss.byteman:byteman-jigsaw
+1	#DEP#org.ow2.asm:asm-all
+1	#DEP#org.jboss.byteman:byteman
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.jboss.byteman:byteman-jboss-modules-plugin
+1	#DEP#org.jboss.byteman:byteman-jboss-modules
+1	#DEP#org.jboss.byteman:byteman-docs
+1	#DEP#org.jboss.byteman:byteman-root
+1	#DEP#org.jboss.byteman:byteman-install
+1	#DEP#org.jboss.byteman:byteman-dtest
+1	#DEP#org.ow2.asm:asm-debug-all
+1	#DEP#junit:junit
+1	#DEP#org.jboss.byteman:byteman-layer

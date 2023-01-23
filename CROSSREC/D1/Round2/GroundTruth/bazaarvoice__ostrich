@@ -1,0 +1,6 @@
+25	#DEP#ch.qos.logback:logback-classic
+26	#DEP#com.bazaarvoice.curator:recipes
+27	#DEP#com.bazaarvoice.ostrich.zookeeper:ostrich-zookeeper-discovery
+28	#DEP#junit:junit
+29	#DEP#com.bazaarvoice.ostrich.examples.calculator:calculator
+30	#DEP#io.dropwizard:dropwizard-core

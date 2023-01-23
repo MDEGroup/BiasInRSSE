@@ -1,0 +1,11 @@
+1	git://github.com/topjohnwu/MagiskManager.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.atlassian.commonmark:commonmark
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.github.topjohnwu:libsu
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#org.kamranzafar:jtar

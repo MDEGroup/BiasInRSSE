@@ -1,0 +1,13 @@
+1	git://github.com/six2six/fixture-factory.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#commons-beanutils:commons-beanutils
+5	#DEP#org.hamcrest:hamcrest-core
+6	#DEP#commons-lang:commons-lang
+7	#DEP#org.hibernate:hibernate-core
+8	#DEP#org.mockito:mockito-core
+9	#DEP#com.thoughtworks.paranamer:paranamer
+10	#DEP#net.vidageek:mirror
+11	#DEP#br.com.six2six:bfgex
+12	#DEP#junit:junit
+13	#DEP#com.rubiconproject.oss:jchronic

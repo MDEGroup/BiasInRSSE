@@ -1,0 +1,10 @@
+1	#DEP#commons-jexl:commons-jexl
+1	#DEP#jakarta-regexp:jakarta-regexp
+1	#DEP#log4j:log4j
+1	#DEP#com.esotericsoftware:reflectasm
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#com.esotericsoftware:minlog
+1	#DEP#io.s4.comm:comm
+1	#DEP#org.apache.bcel:bcel
+1	#DEP#org.apache.hadoop:avro

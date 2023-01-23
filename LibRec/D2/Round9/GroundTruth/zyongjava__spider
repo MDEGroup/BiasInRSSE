@@ -1,0 +1,16 @@
+1	#DEP#com.dangdang:elastic-job-core
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework.boot:spring-boot
+1	#DEP#us.codecraft:webmagic-extension
+1	#DEP#com.google.code.gson:gson
+1	#DEP#us.codecraft:webmagic-core
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#junit:junit

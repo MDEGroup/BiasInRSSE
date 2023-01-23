@@ -1,0 +1,14 @@
+1	#DEP#org.eclipse.uomo.examples:org.eclipse.uomo.examples.units
+1	#DEP#tec.uom.lib:uom-lib-common
+1	#DEP#org.eclipse:osgi
+1	#DEP#com.ibm.icu:icu4j
+1	#DEP#org.eclipse.uomo:org.eclipse.uomo.business
+1	#DEP#org.unitsofmeasurement:unit-api
+1	#DEP#org.eclipse.uomo:org.eclipse.uomo.util
+1	#DEP#com.google.android:android
+1	#DEP#org.eclipse.uomo:org.eclipse.uomo.units
+1	#DEP#org.eclipse.uomo:org.eclipse.uomo.features
+1	#DEP#javax.measure:unit-api
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.uomo:org.eclipse.uomo.bundles

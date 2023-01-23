@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jmock:jmock	1.0
+#DEP#com.gemserk.commons.gdx:commons-gdx-core	1.0
+#DEP#org.jmock:jmock-legacy	1.0
+#DEP#org.jmock:jmock-junit4	1.0
+#DEP#${project.groupId}:taken-core	1.0
+#DEP#com.gemserk.vecmath:vecmath	1.0
+#DEP#com.gemserk.commons.gdx:commons-gdx-resources	1.0
+#DEP#com.gemserk.games.taken:taken	1.0
+#DEP#com.gamadu.artemis:artemis	1.0

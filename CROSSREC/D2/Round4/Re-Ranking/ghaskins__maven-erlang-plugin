@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.apache.maven.reporting:maven-reporting-impl	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.maven.doxia:doxia-sink-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.dtangler:dtangler-core	1.0
+#DEP#emma.test:it03	1.0

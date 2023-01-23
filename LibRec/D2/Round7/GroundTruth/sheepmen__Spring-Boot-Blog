@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-velocity
+1	#DEP#org.jetbrains:annotations
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#com.enigmabridge:hibernate4-sqlite-dialect
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

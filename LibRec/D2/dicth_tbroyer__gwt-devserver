@@ -1,0 +1,10 @@
+1	git://github.com/tbroyer/gwt-devserver.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.google.gwt:gwt
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.google.gwt:gwt-dev
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.eclipse.jetty:jetty-proxy
+8	#DEP#junit:junit
+9	#DEP#com.squareup.okhttp3:mockwebserver
+10	#DEP#com.google.truth:truth

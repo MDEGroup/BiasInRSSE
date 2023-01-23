@@ -1,0 +1,6 @@
+1	#DEP#com.google.dexmaker:dexmaker
+1	#DEP#com.google.firebase:firebase-crash
+1	#DEP#junit:junit
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

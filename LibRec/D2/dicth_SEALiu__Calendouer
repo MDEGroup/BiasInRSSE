@@ -1,0 +1,11 @@
+1	git://github.com/SEALiu/Calendouer.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.google.android.gms:play-services-ads
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:support-vector-drawable
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design

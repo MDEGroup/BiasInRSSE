@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:slf4j-ext
+1	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-signature
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#org.soluvas.socmed:tumblej
+1	#DEP#org.apache.camel:camel-test

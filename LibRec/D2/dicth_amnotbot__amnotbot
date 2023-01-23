@@ -1,0 +1,15 @@
+1	git://github.com/amnotbot/amnotbot.git
+2	#DEP#jivesoftware:smack
+3	#DEP#org.schwering:irclib
+4	#DEP#net.sourceforge.jweather:jweather
+5	#DEP#org.xerial:sqlite-jdbc
+6	#DEP#org.htmlparser:htmllexer
+7	#DEP#org.htmlparser:htmlparser
+8	#DEP#commons-configuration:commons-configuration
+9	#DEP#net.sf.delicious-java:delicious
+10	#DEP#org.twitter4j:twitter4j-core
+11	#DEP#org.json:json
+12	#DEP#junit:junit
+13	#DEP#org.hsqldb:hsqldb
+14	#DEP#org.htmlparser:thumbelina
+15	#DEP#jivesoftware:smackx

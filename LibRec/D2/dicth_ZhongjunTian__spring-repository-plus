@@ -1,0 +1,9 @@
+1	git://github.com/ZhongjunTian/spring-repository-plus.git
+2	#DEP#org.springframework.data:spring-data-jpa
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.h2database:h2

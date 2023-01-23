@@ -1,0 +1,5 @@
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven.shared:maven-invoker
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#com.beust:jcommander

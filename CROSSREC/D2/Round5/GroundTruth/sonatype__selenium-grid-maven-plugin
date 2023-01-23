@@ -1,0 +1,5 @@
+1	#DEP#org.apache.maven:maven-project
+1	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.openqa.selenium.grid:selenium-grid-tools
+1	#DEP#org.apache.maven:maven-core

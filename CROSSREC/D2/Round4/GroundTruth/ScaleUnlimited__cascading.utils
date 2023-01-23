@@ -1,0 +1,11 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#cascading:cascading-local
+1	#DEP#ant-eclipse:ant-eclipse-jvm1.2
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#args4j:args4j
+1	#DEP#org.apache.ftpserver:ftplet-api
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#org.apache.hadoop:hadoop-minicluster
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit

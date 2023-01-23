@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#net.sf.proguard:proguard-parent	1.0
+#DEP#org.apache.ant:ant	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#cz.habarta.typescript-generator:typescript-generator-core	1.0

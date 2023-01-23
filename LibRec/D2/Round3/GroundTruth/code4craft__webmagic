@@ -1,0 +1,16 @@
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.python:jython
+1	#DEP#com.github.dreamhead:moco-core
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#us.codecraft:webmagic-extension
+1	#DEP#us.codecraft:webmagic-core
+1	#DEP#net.sf.saxon:Saxon-HE
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.jsoup:jsoup
+1	#DEP#log4j:log4j
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit

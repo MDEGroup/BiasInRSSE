@@ -1,0 +1,4 @@
+1	#DEP#log4j:log4j
+1	#DEP#org.testng:testng
+1	#DEP#com.google.guava:guava
+1	#DEP#org.mockito:mockito-all

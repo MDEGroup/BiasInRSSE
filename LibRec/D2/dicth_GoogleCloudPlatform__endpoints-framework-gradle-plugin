@@ -1,0 +1,14 @@
+1	git://github.com/GoogleCloudPlatform/endpoints-framework-gradle-plugin.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.google.endpoints:endpoints-framework
+4	#DEP#commons-io:commons-io
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#scm:https
+7	#DEP#scm:git
+8	#DEP#com.google.appengine:appengine-api-1.0-sdk
+9	#DEP#org.mockito:mockito-core
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#com.google.guava:guava
+12	#DEP#com.google.api-client:google-api-client
+13	#DEP#junit:junit
+14	#DEP#com.google.endpoints:endpoints-framework-tools

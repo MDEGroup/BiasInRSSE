@@ -1,0 +1,10 @@
+#DEP#org.jboss.logging:jboss-logging	1.0
+#DEP#junit:junit	1.0
+#DEP#org.jboss.arquillian.junit:arquillian-junit-container	1.0
+#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec	1.0
+#DEP#org.jboss.spec.javax.faces:jboss-jsf-api_2.2_spec	1.0

@@ -1,0 +1,15 @@
+1	git://github.com/realxujiang/itweet-boot.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+5	#DEP#org.springframework.boot:spring-boot-starter
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#javax.servlet:jstl
+12	#DEP#commons-fileupload:commons-fileupload
+13	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+14	#DEP#org.springframework.boot:spring-boot-devtools
+15	#DEP#org.springframework.boot:spring-boot-starter-aop

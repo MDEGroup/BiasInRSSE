@@ -1,0 +1,17 @@
+1	#DEP#org.eclipse.jetty:jetty-servlet
+1	#DEP#org.sonatype.sisu:sisu-inject-bean
+1	#DEP#org.sonatype.restsimple:restsimple-api
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#asm:asm
+1	#DEP#org.sonatype.spice:jersey-ahc-client
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.sonatype.restsimple:restsimple
+1	#DEP#asm:asm-util
+1	#DEP#com.google.inject:guice
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.sonatype.restsimple:restsimple-webdriver
+1	#DEP#org.sonatype.plexus.template:plexus-template
+1	#DEP#aopalliance:aopalliance
+1	#DEP#org.sonatype.restsimple:restsimple-jaxrs
+1	#DEP#com.sun.jersey:jersey-server

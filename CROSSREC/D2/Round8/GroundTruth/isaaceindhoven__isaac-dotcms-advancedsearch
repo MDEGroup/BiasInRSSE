@@ -1,0 +1,6 @@
+1	#DEP#com.dotcms.lib:dot.tika-app
+1	#DEP#com.dotcms.lib:dot.log4j-api
+1	#DEP#com.dotcms.lib:dot.commons-io
+1	#DEP#com.dotcms.lib:dot.org.apache.felix.http.bundle
+1	#DEP#com.dotcms.lib:dot.portlet
+1	#DEP#com.dotcms.lib:dot.log4j-core

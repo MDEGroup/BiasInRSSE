@@ -1,0 +1,12 @@
+1	git://github.com/frogermcs/Dagger2Recipes-InjectEverything.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#org.glassfish:javax.annotation
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.auto.factory:auto-factory
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#org.immutables:gson
+10	#DEP#io.reactivex:rxjava
+11	#DEP#com.google.dagger:dagger
+12	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,14 @@
+1	git://github.com/jenkinsci/hubot-steps-plugin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.assertj:assertj-core
+4	#DEP#com.squareup.retrofit2:adapter-rxjava
+5	#DEP#com.github.tomakehurst:wiremock
+6	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.squareup.retrofit2:converter-jackson
+9	#DEP#org.jenkins-ci.plugins:plugin
+10	#DEP#org.powermock:powermock-api-mockito
+11	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+12	#DEP#com.squareup.retrofit2:retrofit
+13	#DEP#org.projectlombok:lombok
+14	#DEP#junit:junit

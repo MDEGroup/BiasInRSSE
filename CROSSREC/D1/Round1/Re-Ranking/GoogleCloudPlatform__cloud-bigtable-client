@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.auth:google-auth-library-oauth2-http	1.0
+#DEP#${project.groupId}:google-cloud-dns	1.0
+#DEP#com.google.api:gax-grpc	1.0
+#DEP#com.google.apis:google-api-services-dns	1.0
+#DEP#${project.groupId}:google-cloud-translate	1.0
+#DEP#${project.groupId}:google-cloud-bigtable	1.0
+#DEP#${project.groupId}:google-cloud-examples	1.0
+#DEP#com.google.cloud:google-cloud-errorreporting	1.0
+#DEP#${project.groupId}:google-cloud-language	1.0

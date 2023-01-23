@@ -1,0 +1,12 @@
+1	git://github.com/Doccrazy/keycloak-protocol-cas.git
+2	#DEP#org.jboss.logging:jboss-logging-annotations
+3	#DEP#org.keycloak:keycloak-services
+4	#DEP#org.keycloak:keycloak-server-spi
+5	#DEP#org.jboss.logging:jboss-logging-processor
+6	#DEP#org.keycloak:keycloak-saml-core
+7	#DEP#org.keycloak:keycloak-core
+8	#DEP#com.jayway.jsonpath:json-path
+9	#DEP#org.jboss.logging:jboss-logging
+10	#DEP#org.xmlunit:xmlunit-core
+11	#DEP#junit:junit
+12	#DEP#org.keycloak:keycloak-server-spi-private

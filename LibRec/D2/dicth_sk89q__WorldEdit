@@ -1,0 +1,14 @@
+1	git://github.com/sk89q/WorldEdit.git
+2	#DEP#com.sk89q:jchronic
+3	#DEP#com.sk89q:dummypermscompat
+4	#DEP#org.spongepowered:spongeapi
+5	#DEP#org.yaml:snakeyaml
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#com.sk89q.lib:jlibnoise
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.bukkit:bukkit
+10	#DEP#rhino:js
+11	#DEP#org.mockito:mockito-core
+12	#DEP#com.thoughtworks.paranamer:paranamer
+13	#DEP#com.google.guava:guava
+14	#DEP#de.schlichtherle:truezip

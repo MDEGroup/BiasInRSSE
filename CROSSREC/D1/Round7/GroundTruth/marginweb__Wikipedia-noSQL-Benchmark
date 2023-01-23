@@ -1,0 +1,4 @@
+19	#DEP#log4j:log4j
+20	#DEP#jdom:jdom
+21	#DEP#commons-httpclient:commons-httpclient
+22	#DEP#org.antlr:antlr

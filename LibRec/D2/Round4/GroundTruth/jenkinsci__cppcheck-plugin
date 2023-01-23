@@ -1,0 +1,4 @@
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#org.mockito:mockito-all
+1	#DEP#de.java2html:java2html
+1	#DEP#junit:junit

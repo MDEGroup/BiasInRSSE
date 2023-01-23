@@ -1,0 +1,17 @@
+1	git://github.com/GeoLatte/geolatte-mapserver.git
+2	#DEP#jaxen:jaxen
+3	#DEP#org.jvnet.ogc:wms-v_1_3_0-schema
+4	#DEP#com.sun.media:jai_codec
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.geotools:gt-referencing
+7	#DEP#dom4j:dom4j
+8	#DEP#com.jayway.restassured:rest-assured
+9	#DEP#javax.media:jai_core
+10	#DEP#org.mockito:mockito-all
+11	#DEP#org.geotools:gt-epsg-hsql
+12	#DEP#log4j:log4j
+13	#DEP#org.eclipse.jetty:jetty-webapp
+14	#DEP#junit:junit
+15	#DEP#org.geolatte:geolatte-geom
+16	#DEP#org.jvnet.ogc:wms-v_1_1_1-schema
+17	#DEP#org.geolatte:mapserver

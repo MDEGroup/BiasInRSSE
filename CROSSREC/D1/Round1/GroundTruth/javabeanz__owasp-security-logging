@@ -1,0 +1,3 @@
+12	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+13	#DEP#junit:junit
+14	#DEP#org.apache.logging.log4j:log4j-api

@@ -1,0 +1,17 @@
+1	#DEP#net.nan21.dnet:nan21.dnet.module.fi
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#net.nan21.dnet:nan21.dnet.module.md.domain
+1	#DEP#net.nan21.dnet:nan21.dnet.module.hr
+1	#DEP#net.nan21.dnet:nan21.dnet.core.api
+1	#DEP#org.springframework:org.springframework.aop
+1	#DEP#net.nan21.dnet:nan21.dnet.modules
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa
+1	#DEP#net.nan21.dnet:nan21.dnet.module.fi.domain
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#net.nan21.dnet:nan21.dnet.module.ad.business.api
+1	#DEP#javax.mail:com.springsource.javax.mail
+1	#DEP#net.nan21.dnet:nan21.dnet.module.fi.business.api
+1	#DEP#net.nan21.dnet:nan21.dnet.module.md
+1	#DEP#org.springframework:org.springframework.transaction
+1	#DEP#org.springframework:org.springframework.web
+1	#DEP#net.nan21.dnet:nan21.dnet.module.hr.domain

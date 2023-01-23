@@ -1,0 +1,5 @@
+20	#DEP#org.springframework.boot:spring-boot-starter-logging
+21	#DEP#io.ratpack:ratpack-guice
+22	#DEP#org.springframework.boot:spring-boot-autoconfigure
+23	#DEP#io.ratpack:ratpack-spring-boot
+24	#DEP#io.ratpack:ratpack-rx

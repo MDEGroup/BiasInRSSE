@@ -1,0 +1,4 @@
+16	#DEP#org.codehaus.groovy:groovy
+17	#DEP#net.sf.json-lib:json-lib
+18	#DEP#net.minidev:json-smart
+19	#DEP#junit:junit

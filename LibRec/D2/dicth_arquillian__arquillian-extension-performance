@@ -1,0 +1,14 @@
+1	git://github.com/arquillian/arquillian-extension-performance.git
+2	#DEP#javax.annotation:jsr250-api
+3	#DEP#org.jboss.arquillian.core:arquillian-core-api
+4	#DEP#javax.persistence:persistence-api
+5	#DEP#javax.enterprise:cdi-api
+6	#DEP#org.jboss.arquillian.extension:arquillian-performance-parent
+7	#DEP#org.jboss:jboss-parent
+8	#DEP#org.jboss.arquillian:arquillian-build
+9	#DEP#org.jboss.arquillian.test:arquillian-test-spi
+10	#DEP#org.jboss.arquillian:arquillian-bom
+11	#DEP#org.jboss.arquillian.core:arquillian-core-spi
+12	#DEP#org.jboss.arquillian.junit:arquillian-junit-standalone
+13	#DEP#junit:junit
+14	#DEP#org.jboss.arquillian.extension:arquillian-performance-api

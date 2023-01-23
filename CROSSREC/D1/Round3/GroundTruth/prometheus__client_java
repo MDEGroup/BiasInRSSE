@@ -1,0 +1,7 @@
+30	#DEP#log4j:log4j
+31	#DEP#javax.servlet:javax.servlet-api
+32	#DEP#ch.qos.logback:logback-classic
+33	#DEP#org.hamcrest:hamcrest-all
+34	#DEP#junit:junit
+35	#DEP#org.springframework.boot:spring-boot-starter-aop
+36	#DEP#org.openjdk.jmh:jmh-core

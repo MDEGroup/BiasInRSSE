@@ -1,0 +1,5 @@
+1	#DEP#com.elmakers.mine.bukkit.plugins:Spells
+1	#DEP#com.elmakers.mine.bukkit.plugins.gameplay:Gameplay
+1	#DEP#com.elmakers.mine.bukkit.plugins.persistence:Persistence
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#org.bukkit:minecraft-server

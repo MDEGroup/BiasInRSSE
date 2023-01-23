@@ -1,0 +1,5 @@
+1	#DEP#com.github.ZieIony:LandscapeView
+1	#DEP#com.jakewharton.rxbinding2:rxbinding
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.android.databinding:compiler
+1	#DEP#com.github.ZieIony:randomdata

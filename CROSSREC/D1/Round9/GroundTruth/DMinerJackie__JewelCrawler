@@ -1,0 +1,5 @@
+23	#DEP#log4j:log4j
+24	#DEP#javax.servlet:servlet-api
+25	#DEP#org.json:json
+26	#DEP#com.github.jai-imageio:jai-imageio-core
+27	#DEP#junit:junit

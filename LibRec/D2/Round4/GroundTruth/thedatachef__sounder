@@ -1,0 +1,4 @@
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr
+1	#DEP#joda-time:joda-time

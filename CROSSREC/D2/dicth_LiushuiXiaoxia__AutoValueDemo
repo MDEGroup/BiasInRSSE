@@ -1,0 +1,12 @@
+1	git://github.com/LiushuiXiaoxia/AutoValueDemo.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.google.auto.value:auto-value
+4	#DEP#com.ryanharter.auto.value:auto-value-parcel
+5	#DEP#com.ryanharter.auto.value:auto-value-gson
+6	#DEP#javax.annotation:javax.annotation-api
+7	#DEP#com.squareup.retrofit2:retrofit
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.google.auto.factory:auto-factory
+11	#DEP#junit:junit
+12	#DEP#com.squareup.retrofit2:converter-gson

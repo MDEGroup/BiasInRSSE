@@ -1,0 +1,10 @@
+1	git://github.com/UnitedID/shibboleth-idp-mongodb-connector.git
+2	#DEP#org.mongodb:mongo-java-driver
+3	#DEP#org.springframework:spring-web
+4	#DEP#org.opensaml:opensaml
+5	#DEP#edu.internet2.middleware:shibboleth-identityprovider
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#org.springframework:spring-beans
+8	#DEP#edu.internet2.middleware:shibboleth-common
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.springframework:spring-core

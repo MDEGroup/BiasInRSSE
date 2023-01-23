@@ -1,0 +1,10 @@
+1	git://github.com/dwdyer/watchmaker.git
+2	#DEP#${project.groupId}:watchmaker-framework
+3	#DEP#org.uncommons.watchmaker:watchmaker
+4	#DEP#org.uncommons.maths:uncommons-maths
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.testng:testng
+7	#DEP#jfree:jfreechart
+8	#DEP#org.easytesting:fest-swing
+9	#DEP#com.google.collections:google-collections
+10	#DEP#${project.groupId}:watchmaker-swing

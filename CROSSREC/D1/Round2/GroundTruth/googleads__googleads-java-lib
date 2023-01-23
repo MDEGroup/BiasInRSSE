@@ -1,0 +1,8 @@
+32	#DEP#log4j:log4j
+33	#DEP#commons-collections:commons-collections
+34	#DEP#org.hamcrest:hamcrest-all
+35	#DEP#com.google.api-ads:ads-lib
+36	#DEP#junit:junit
+37	#DEP#com.google.http-client:google-http-client
+38	#DEP#com.google.inject.extensions:guice-multibindings
+39	#DEP#com.google.api-ads:ads-lib-appengine

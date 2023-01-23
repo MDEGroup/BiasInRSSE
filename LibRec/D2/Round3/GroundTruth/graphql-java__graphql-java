@@ -1,0 +1,7 @@
+1	#DEP#org.antlr:antlr4
+1	#DEP#cglib:cglib-nodep
+1	#DEP#com.graphql-java:java-dataloader
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.awaitility:awaitility-groovy
+1	#DEP#org.antlr:antlr4-runtime

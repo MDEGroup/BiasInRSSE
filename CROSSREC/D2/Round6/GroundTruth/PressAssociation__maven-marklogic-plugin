@@ -1,0 +1,8 @@
+1	#DEP#com.intellij:annotations
+1	#DEP#org.jfrog.maven.annomojo:maven-plugin-anno
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#org.apache.maven.shared:file-management
+1	#DEP#com.google.guava:guava
+1	#DEP#org.json:json
+1	#DEP#com.marklogic:marklogic-xcc
+1	#DEP#junit:junit

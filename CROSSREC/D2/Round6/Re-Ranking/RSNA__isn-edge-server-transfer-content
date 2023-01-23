@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#dcm4che:dcm4che-imageio	1.0
+#DEP#dcm4che:dcm4che-image	1.0
+#DEP#dcm4che:dcm4che	1.0
+#DEP#com.rectang.javautil:javautil-compression	1.0
+#DEP#org.headsupdev.support:java-support	1.0
+#DEP#com.rectang.xsm:xsm-web	1.0
+#DEP#dcm4che:dcm4che-iod	1.0
+#DEP#dcm4che:dcm4che-net	1.0

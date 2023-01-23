@@ -1,0 +1,15 @@
+1	git://github.com/sonatype/AsyncHttpClient-Test-Suite.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.eclipse.jetty:jetty-security
+4	#DEP#org.sonatype.http-testing-harness:server-provider
+5	#DEP#org.testng:testng
+6	#DEP#commons-logging:commons-logging
+7	#DEP#commons-lang:commons-lang
+8	#DEP#org.sonatype.http-testing-harness:testng-runner
+9	#DEP#com.ning:async-http-client
+10	#DEP#org.eclipse.jetty:jetty-servlets
+11	#DEP#log4j:log4j
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#org.eclipse.jetty:jetty-server
+14	#DEP#commons-httpclient:commons-httpclient
+15	#DEP#org.eclipse.jetty:jetty-servlet

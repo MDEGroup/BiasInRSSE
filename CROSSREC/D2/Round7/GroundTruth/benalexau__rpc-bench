@@ -1,0 +1,7 @@
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#au.com.acegi:rpc-bench
+1	#DEP#org.hdrhistogram:HdrHistogram
+1	#DEP#com.google.guava:guava
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#io.aeron:aeron-all
+1	#DEP#au.com.acegi:acegi-standard-project

@@ -1,0 +1,10 @@
+1	#DEP#com.google.dexmaker:dexmaker-mockito
+1	#DEP#com.squareup.spoon:spoon-client
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#com.android.support.test:runner
+1	#DEP#io.reactivex:rxjava
+1	#DEP#org.springframework.android:spring-android-rest-template
+1	#DEP#com.android.support.test.espresso:espresso-core

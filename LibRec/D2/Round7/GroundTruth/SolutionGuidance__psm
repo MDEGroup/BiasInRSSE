@@ -1,0 +1,4 @@
+1	#DEP#org.glassfish.jaxb:jaxb-runtime
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit
+1	#DEP#net.serenity-bdd:serenity-cucumber

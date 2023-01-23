@@ -1,0 +1,9 @@
+1	git://github.com/operando/Android-Studio-Sample-Projects.git
+2	#DEP#com.google.android.gms:play-services-ads
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.android.support:support-v4
+5	#DEP#com.android.support:support-vector-drawable
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.google.android.gms:play-services

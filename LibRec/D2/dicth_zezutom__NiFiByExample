@@ -1,0 +1,12 @@
+1	git://github.com/zezutom/NiFiByExample.git
+2	#DEP#org.apache.nifi:nifi-mock
+3	#DEP#org.zezutom:nifi-processors
+4	#DEP#org.apache.nifi:nifi-ssl-context-service-api
+5	#DEP#org.zezutom:nifi-by-example
+6	#DEP#org.apache.nifi:nifi-api
+7	#DEP#org.apache.nifi:nifi-standard-services-api-nar
+8	#DEP#org.apache.nifi:nifi-processor-utils
+9	#DEP#com.jayway.jsonpath:json-path
+10	#DEP#org.slf4j:slf4j-simple
+11	#DEP#junit:junit
+12	#DEP#org.apache.nifi:nifi-nar-bundles

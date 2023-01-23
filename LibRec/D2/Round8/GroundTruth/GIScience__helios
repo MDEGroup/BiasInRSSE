@@ -1,0 +1,9 @@
+1	#DEP#org.jmonkeyengine:jme3-core
+1	#DEP#org.jmonkeyengine:jme3-lwjgl
+1	#DEP#org.geotools:gt-image
+1	#DEP#org.geotools:gt-epsg-hsql
+1	#DEP#org.jmonkeyengine:jme3-desktop
+1	#DEP#com.google.guava:guava
+1	#DEP#gov.nist.math:jama
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator

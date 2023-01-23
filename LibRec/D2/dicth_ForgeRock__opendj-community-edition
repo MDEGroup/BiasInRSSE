@@ -1,0 +1,14 @@
+1	git://github.com/ForgeRock/opendj-community-edition.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.forgerock.opendj:opendj-server2x-adapter
+4	#DEP#org.forgerock.opendj:opendj-rest2ldap-servlet
+5	#DEP#org.testng:testng
+6	#DEP#org.glassfish.grizzly:grizzly-http-servlet
+7	#DEP#org.forgerock.opendj:opendj-project
+8	#DEP#org.forgerock.ce.opendj:opendj-server
+9	#DEP#javax.mail:mail
+10	#DEP#org.forgerock.opendj:build-tools
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.forgerock.ce.opendj:opendj-project
+13	#DEP#javax.servlet:javax.servlet-api
+14	#DEP#com.sleepycat:je

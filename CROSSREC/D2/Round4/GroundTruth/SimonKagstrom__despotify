@@ -1,0 +1,6 @@
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#org.domdrides:domdrides-jpa
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#commons-pool:commons-pool
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit

@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-webflux
+1	#DEP#org.freemarker:freemarker
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.data:spring-data-commons

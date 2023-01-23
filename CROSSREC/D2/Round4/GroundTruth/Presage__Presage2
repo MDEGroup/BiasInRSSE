@@ -1,0 +1,11 @@
+1	#DEP#uk.ac.imperial.presage2:presage2-core
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#org.drools:drools-compiler
+1	#DEP#log4j:log4j
+1	#DEP#org.jmock:jmock
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#uk.ac.imperial.presage2:presage2-util
+1	#DEP#com.google.inject.extensions:guice-multibindings
+1	#DEP#uk.ac.imperial.presage2:presage2
+1	#DEP#org.drools:drools-core

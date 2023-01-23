@@ -1,0 +1,13 @@
+1	git://github.com/cyfonly/nettice.git
+2	#DEP#io.netty:netty-all
+3	#DEP#org.aeonbits.owner:owner
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#dom4j:dom4j
+6	#DEP#com.github.cyfonly:nettice-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.alibaba:fastjson
+9	#DEP#com.github.cyfonly:nettice
+10	#DEP#commons-codec:commons-codec
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#org.apache.httpcomponents:httpcore

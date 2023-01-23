@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#com.github.jsonld-java:jsonld-java

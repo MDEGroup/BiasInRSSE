@@ -1,0 +1,6 @@
+1	#DEP#com.squareup:javapoet
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#junit:junit
+1	#DEP#com.luojilab.ddcomponent:componentlib
+1	#DEP#com.android.tools.build:gradle

@@ -1,0 +1,6 @@
+1	#DEP#com.google.dagger:dagger-android-processor
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.dagger:dagger-android
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.google.dagger:dagger

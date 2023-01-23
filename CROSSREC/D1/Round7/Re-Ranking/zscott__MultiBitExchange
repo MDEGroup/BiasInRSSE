@@ -1,0 +1,10 @@
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.hibernate:hibernate-validator	1.0
+#DEP#junit:junit	1.0
+#DEP#org.projectlombok:lombok	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.glassfish.web:el-impl	1.0
+#DEP#io.netty:netty	1.0
+#DEP#com.yammer.dropwizard:dropwizard-testing	1.0
+#DEP#org.hibernate:hibernate-validator-cdi	1.0
+#DEP#org.axonframework:axon-integration	1.0

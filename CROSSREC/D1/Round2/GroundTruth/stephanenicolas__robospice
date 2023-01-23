@@ -1,0 +1,10 @@
+43	#DEP#com.fasterxml.jackson.core:jackson-databind
+44	#DEP#com.google.code.gson:gson
+45	#DEP#com.fasterxml.jackson.core:com.fasterxml.jackson.core
+46	#DEP#com.google.mockwebserver:mockwebserver
+47	#DEP#com.tojc.ormlite.android:ormlite-content-provider-library
+48	#DEP#com.octo.android.robospice:robospice-ormlite
+49	#DEP#org.apache.commons:org.apache.commons
+50	#DEP#com.squareup.retrofit:com.squareup.retrofit
+51	#DEP#com.squareup.okhttp:com.squareup.okhttp
+52	#DEP#com.google.http-client:google-http-client

@@ -1,0 +1,4 @@
+18	#DEP#com.android.support.test.espresso:espresso-intents
+19	#DEP#com.android.support.test:runner
+20	#DEP#com.android.support.test.espresso:espresso-core
+21	#DEP#io.reactivex:rxandroid

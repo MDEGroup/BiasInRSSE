@@ -1,0 +1,15 @@
+1	#DEP#com.adobe.flex.framework:playerglobal
+1	#DEP#org.ops4j.pax.exam:pax-exam-container-native
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.ops4j.pax.logging:pax-logging-service
+1	#DEP#com.adobe.flex.framework:flex
+1	#DEP#org.apache.felix:org.apache.felix.ipojo.annotations
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+1	#DEP#org.apache.felix:org.apache.felix.http.jetty
+1	#DEP#org.apache.felix:org.apache.felix.configadmin
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.graniteds-osgi:granite-gravity
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+1	#DEP#org.graniteds:granite-swc
+1	#DEP#junit:junit
+1	#DEP#org.apache.felix:org.apache.felix.ipojo

@@ -1,0 +1,12 @@
+1	#DEP#javassist:javassist
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.dbunit:dbunit
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#com.sun.jersey.contribs:jersey-spring
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.springframework:org.springframework.web
+1	#DEP#org.springframework:org.springframework.transaction
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#cglib:cglib

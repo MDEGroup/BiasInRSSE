@@ -1,0 +1,9 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#org.springframework.security:spring-security-test
+1	#DEP#org.springframework.boot:spring-boot-starter-mobile
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.webjars.bower:angular-route
+1	#DEP#org.webjars:jquery
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#com.h2database:h2

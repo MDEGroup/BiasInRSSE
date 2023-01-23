@@ -1,0 +1,15 @@
+1	git://github.com/shinetech/GWT-Spring-Hibernate-Maven2-ReferenceProject.git
+2	#DEP#org.springframework:spring
+3	#DEP#org.hibernate:hibernate-commons-annotations
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.shinetech:shine-reference-common
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.hibernate:hibernate-annotations
+8	#DEP#net.sf.gwt-widget:gwt-widgets-server
+9	#DEP#hsqldb:hsqldb
+10	#DEP#javax.transaction:jta
+11	#DEP#com.google.gwt:gwt-servlet
+12	#DEP#org.hibernate:hibernate
+13	#DEP#log4j:log4j
+14	#DEP#org.springframework:spring-webmvc
+15	#DEP#junit:junit

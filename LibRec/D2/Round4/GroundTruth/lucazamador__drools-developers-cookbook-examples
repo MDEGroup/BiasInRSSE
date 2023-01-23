@@ -1,0 +1,16 @@
+1	#DEP#drools.cookbook:chapter04
+1	#DEP#javax.xml.bind:jaxb-api
+1	#DEP#org.drools:drools-spring
+1	#DEP#drools.cookbook:chapter07
+1	#DEP#org.drools:drools-camel
+1	#DEP#org.opensymphony.quartz:quartz
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.apache.activemq:activemq-camel
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.codehaus.btm:btm
+1	#DEP#org.drools:drools-verifier
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#org.apache.camel:camel-jms
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2
+1	#DEP#org.apache.activemq:activemq-core

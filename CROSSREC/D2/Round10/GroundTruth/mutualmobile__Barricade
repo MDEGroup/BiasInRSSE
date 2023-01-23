@@ -1,0 +1,5 @@
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.google.truth:truth
+1	#DEP#com.android.support.test.espresso:espresso-core

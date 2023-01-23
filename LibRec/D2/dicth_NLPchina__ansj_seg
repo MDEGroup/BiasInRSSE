@@ -1,0 +1,11 @@
+1	git://github.com/NLPchina/ansj_seg.git
+2	#DEP#org.apache.lucene:lucene-analyzers-common
+3	#DEP#org.apache.lucene:lucene-highlighter
+4	#DEP#org.apache.lucene:lucene-core
+5	#DEP#org.ansj:ansj_lucene4_plug
+6	#DEP#org.apache.lucene:lucene-queryparser
+7	#DEP#org.ansj:ansj_plugin
+8	#DEP#org.apache.lucene:lucene-queries
+9	#DEP#org.ansj:ansj_seg
+10	#DEP#junit:junit
+11	#DEP#org.nlpcn:nlp-lang

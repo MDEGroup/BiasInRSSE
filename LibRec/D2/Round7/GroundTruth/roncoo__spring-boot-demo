@@ -1,0 +1,17 @@
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.springframework.boot:spring-boot-starter-mail
+1	#DEP#org.springframework.boot:spring-boot-starter-log4j2
+1	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+1	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.alibaba:druid
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.webjars:jquery
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2

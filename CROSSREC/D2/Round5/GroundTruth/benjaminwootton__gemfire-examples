@@ -1,0 +1,5 @@
+1	#DEP#org.springframework:org.springframework.web
+1	#DEP#gemfire:gemfire
+1	#DEP#org.springframework:org.springframework.core
+1	#DEP#taglibs:standard
+1	#DEP#junit:junit

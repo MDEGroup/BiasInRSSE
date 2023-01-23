@@ -1,0 +1,6 @@
+1	#DEP#net.dean.jraw:JRAW
+1	#DEP#org.rapidoid:rapidoid-web
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#org.apache.commons:commons-text
+1	#DEP#org.apache.httpcomponents:fluent-hc
+1	#DEP#com.demod.factorio:FactorioDataWrapper

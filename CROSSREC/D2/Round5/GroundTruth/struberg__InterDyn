@@ -1,0 +1,7 @@
+1	#DEP#at.struct.devtools.cdi.interdyn:interdyn
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+1	#DEP#org.apache.geronimo.specs:geronimo-interceptor_1.1_spec
+1	#DEP#org.apache.geronimo.specs:geronimo-servlet_2.5_spec
+1	#DEP#org.apache.openwebbeans:openwebbeans-spi
+1	#DEP#org.apache.openwebbeans:openwebbeans-impl

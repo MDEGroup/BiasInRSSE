@@ -1,0 +1,12 @@
+1	git://github.com/mrmitew/RxWifiP2pManager.git
+2	#DEP#com.squareup.leakcanary:leakcanary-android
+3	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.pixplicity.sharp:library
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.cantrowitz:rxbroadcast
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#io.reactivex:rxjava
+12	#DEP#io.reactivex:rxandroid

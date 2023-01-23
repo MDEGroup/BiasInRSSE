@@ -1,0 +1,8 @@
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.webjars:jquery
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.ehcache:ehcache

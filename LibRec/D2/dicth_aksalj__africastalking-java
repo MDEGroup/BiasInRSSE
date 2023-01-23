@@ -1,0 +1,15 @@
+1	git://github.com/aksalj/africastalking-java.git
+2	#DEP#com.squareup.retrofit2:converter-scalars
+3	#DEP#com.sparkjava:spark-template-handlebars
+4	#DEP#io.grpc:grpc-protobuf
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#io.grpc:grpc-netty
+7	#DEP#io.netty:netty-tcnative-boringssl-static
+8	#DEP#io.grpc:grpc-stub
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.squareup.retrofit2:converter-gson
+11	#DEP#com.sparkjava:spark-core
+12	#DEP#com.squareup.okhttp3:logging-interceptor
+13	#DEP#org.valid4j:valid4j
+14	#DEP#com.squareup.retrofit2:retrofit
+15	#DEP#junit:junit

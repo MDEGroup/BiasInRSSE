@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#jivesoftware:smackx	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#jivesoftware:smackx-debug	1.0
+#DEP#org.socialblend.eliza:Parent	1.0
+#DEP#hayden:Eliza	1.0

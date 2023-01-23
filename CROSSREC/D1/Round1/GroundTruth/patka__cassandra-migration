@@ -1,0 +1,3 @@
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit
+16	#DEP#org.springframework.boot:spring-boot-test-autoconfigure

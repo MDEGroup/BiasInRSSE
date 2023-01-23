@@ -1,0 +1,13 @@
+1	git://github.com/codeconsole/roo-addon-sitemesh.git
+2	#DEP#org.springframework.roo:org.springframework.roo.support
+3	#DEP#org.springframework.roo:org.springframework.roo.model
+4	#DEP#org.springframework.roo:org.springframework.roo.file.monitor
+5	#DEP#org.apache.felix:org.apache.felix.scr.annotations
+6	#DEP#org.springframework.roo:org.springframework.roo.bootstrap
+7	#DEP#org.springframework.roo:org.springframework.roo.addon.web.mvc.controller
+8	#DEP#org.springframework.roo:org.springframework.roo.metadata
+9	#DEP#org.osgi:org.osgi.compendium
+10	#DEP#org.springframework.roo:org.springframework.roo.process.manager
+11	#DEP#org.springframework.roo:org.springframework.roo.project
+12	#DEP#org.springframework.roo:org.springframework.roo.shell
+13	#DEP#org.osgi:org.osgi.core

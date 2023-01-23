@@ -1,0 +1,17 @@
+1	git://github.com/mbogoevici/spring-cloud-stream-binder-kstream.git
+2	#DEP#org.springframework.cloud:spring-cloud-stream-codec
+3	#DEP#org.apache.kafka:kafka-clients
+4	#DEP#org.springframework.cloud:spring-cloud-stream-binder-kstream
+5	#DEP#org.springframework.cloud:spring-cloud-stream-binder-kstream-parent
+6	#DEP#org.apache.kafka:kafka-streams
+7	#DEP#org.springframework.cloud:spring-cloud-stream
+8	#DEP#org.springframework.cloud:spring-cloud-build
+9	#DEP#org.springframework.boot:spring-boot-configuration-processor
+10	#DEP#org.springframework.kafka:spring-kafka-test
+11	#DEP#org.springframework.cloud:spring-cloud-stream-binder-kafka-core
+12	#DEP#org.apache.kafka:kafka_2.11
+13	#DEP#org.springframework.cloud.samples.kstream:kstream-samples
+14	#DEP#org.springframework.cloud:spring-cloud-stream-binder-test
+15	#DEP#org.springframework.kafka:spring-kafka
+16	#DEP#org.springframework.cloud:spring-cloud-stream-dependencies
+17	#DEP#org.springframework.integration:spring-integration-kafka

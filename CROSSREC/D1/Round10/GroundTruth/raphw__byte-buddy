@@ -1,0 +1,5 @@
+23	#DEP#org.ow2.asm:asm-commons
+24	#DEP#junit:junit
+25	#DEP#org.openjdk.jmh:jmh-core
+26	#DEP#org.ow2.asm:asm-util
+27	#DEP#org.eclipse.aether:aether-api

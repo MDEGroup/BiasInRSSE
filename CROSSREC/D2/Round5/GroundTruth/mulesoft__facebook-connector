@@ -1,0 +1,7 @@
+1	#DEP#com.sun.jersey.contribs:jersey-multipart
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#org.mule.modules:mule-module-as2
+1	#DEP#org.mule.modules:mule-module-spring-config
+1	#DEP#org.mule.tools.devkit:mule-devkit-parent
+1	#DEP#com.restfb:restfb
+1	#DEP#org.mule.modules:mule-module-facebook

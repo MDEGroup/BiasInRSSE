@@ -1,0 +1,11 @@
+1	#DEP#yyyy-MM-dd'T'HH:mm
+1	#DEP#com.googlecode.d2j:dex-writer
+1	#DEP#com.googlecode.d2j:dex-ir
+1	#DEP#org.ow2.asm:asm-debug-all
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#com.googlecode.d2j:d2j-base-cmd
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr
+1	#DEP#com.googlecode.d2j:d2j-smali
+1	#DEP#org.antlr:antlr4-runtime
+1	#DEP#org.smali:baksmali

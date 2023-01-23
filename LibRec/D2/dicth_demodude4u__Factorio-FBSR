@@ -1,0 +1,12 @@
+1	git://github.com/demodude4u/Factorio-FBSR.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.demod.dcba:DiscordCoreBotApple
+5	#DEP#com.google.guava:guava
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#net.dean.jraw:JRAW
+8	#DEP#org.rapidoid:rapidoid-web
+9	#DEP#net.sf.jopt-simple:jopt-simple
+10	#DEP#org.apache.commons:commons-text
+11	#DEP#org.apache.httpcomponents:fluent-hc
+12	#DEP#com.demod.factorio:FactorioDataWrapper

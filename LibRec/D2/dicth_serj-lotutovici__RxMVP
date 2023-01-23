@@ -1,0 +1,16 @@
+1	git://github.com/serj-lotutovici/RxMVP.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#com.github.pedrovgs:renderers
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#org.glassfish:javax.annotation
+7	#DEP#org.robolectric:robolectric
+8	#DEP#com.squareup.moshi:moshi
+9	#DEP#org.mockito:mockito-all
+10	#DEP#com.serjltt.moshi:moshi-lazy-adapters
+11	#DEP#net.orfjackal.retrolambda:retrolambda
+12	#DEP#com.f2prateek.rx.preferences:rx-preferences
+13	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+14	#DEP#junit:junit
+15	#DEP#com.github.akarnokd:rxjava2-interop
+16	#DEP#com.squareup.okio:okio

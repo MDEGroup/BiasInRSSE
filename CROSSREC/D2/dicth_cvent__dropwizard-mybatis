@@ -1,0 +1,9 @@
+1	git://github.com/cvent/dropwizard-mybatis.git
+2	#DEP#org.mybatis:mybatis-typehandlers-jsr310
+3	#DEP#org.apache.tomcat:tomcat-jdbc
+4	#DEP#org.junit.jupiter:junit-jupiter-api
+5	#DEP#com.cvent:pangaea
+6	#DEP#org.mybatis:mybatis
+7	#DEP#io.dropwizard:dropwizard-db
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.cvent:cvent-parent

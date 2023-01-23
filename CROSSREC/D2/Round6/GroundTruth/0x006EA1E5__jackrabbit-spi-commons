@@ -1,0 +1,5 @@
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.jackrabbit:jackrabbit-spi
+1	#DEP#junit:junit
+1	#DEP#javax.jcr:jcr

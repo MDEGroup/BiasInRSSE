@@ -1,0 +1,17 @@
+1	git://github.com/jenkinsci/subversion-plugin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.jenkins-ci.plugins.icon-shim:icon-shim
+4	#DEP#org.jenkins-ci.plugins:envinject
+5	#DEP#org.jenkins-ci.plugins:scm-api
+6	#DEP#org.tmatesoft.svnkit:svnkit
+7	#DEP#org.jenkins-ci.plugins:ssh-credentials
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+9	#DEP#org.tmatesoft.svnkit:svnkit-cli
+10	#DEP#org.jenkins-ci.plugins:plugin
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.jenkins-ci.plugins:credentials
+13	#DEP#org.powermock:powermock-api-mockito
+14	#DEP#org.jenkins-ci.plugins.workflow:workflow-aggregator
+15	#DEP#org.jenkins-ci.plugins:matrix-project
+16	#DEP#org.jenkins-ci.plugins:mapdb-api
+17	#DEP#org.jenkins-ci.plugins:matrix-auth

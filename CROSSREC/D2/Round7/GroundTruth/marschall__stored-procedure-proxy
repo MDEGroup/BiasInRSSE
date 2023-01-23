@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.firebirdsql.jdbc:jaybird-jdk18
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.junit.jupiter:junit-jupiter-params
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.h2database:h2

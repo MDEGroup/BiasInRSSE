@@ -1,0 +1,7 @@
+1	#DEP#com.google.dagger:dagger
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jetbrains:annotations-java5
+1	#DEP#nl.jqno.equalsverifier:equalsverifier
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.factory:auto-factory

@@ -1,0 +1,9 @@
+1	git://github.com/got5/tapestry5-training.git
+2	#DEP#org.apache.tapestry:tapestry-core
+3	#DEP#org.got5:tapestry5-jquery
+4	#DEP#net.atos.tapestry:tapestry5-kawwa-components
+5	#DEP#org.testng:testng
+6	#DEP#org.easymock:easymock
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#org.apache.tapestry:tapestry-yuicompressor
+9	#DEP#org.apache.tapestry:tapestry-test

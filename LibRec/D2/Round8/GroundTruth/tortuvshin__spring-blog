@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.vaadin:vaadin-bom
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#com.vaadin:vaadin-spring-boot-starter
+1	#DEP#com.vaadin:vaadin-client-compiled

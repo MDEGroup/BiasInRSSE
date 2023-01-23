@@ -1,0 +1,5 @@
+1	#DEP#org.easymock:easymock
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#commons-lang:commons-lang

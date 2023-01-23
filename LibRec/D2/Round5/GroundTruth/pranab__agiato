@@ -1,0 +1,5 @@
+1	#DEP#org.testng:testng
+1	#DEP#org.codehaus.jackson:jackson-core-lgpl
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#com.eaio.uuid:uuid

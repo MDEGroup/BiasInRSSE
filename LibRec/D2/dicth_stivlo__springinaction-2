@@ -1,0 +1,10 @@
+1	git://github.com/stivlo/springinaction-2.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.springframework:spring
+4	#DEP#org.springframework:spring-aop
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.springframework:spring-beans
+7	#DEP#junit:junit
+8	#DEP#org.springframework:spring-core
+9	#DEP#org.aspectj:aspectjrt
+10	#DEP#org.aspectj:aspectjweaver

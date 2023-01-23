@@ -1,0 +1,7 @@
+1	#DEP#javax.mail:mail
+1	#DEP#javax.activation:activation
+1	#DEP#dnsjava:dnsjava
+1	#DEP#org.apache.james.protocols:protocols-impl
+1	#DEP#org.jboss.netty:netty
+1	#DEP#junit:junit
+1	#DEP#org.apache.camel:camel-test

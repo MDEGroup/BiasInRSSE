@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#org.clojure:tools.nrepl	1.0

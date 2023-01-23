@@ -1,0 +1,15 @@
+1	git://github.com/bingoogolapple/BGAUpdate-Android.git
+2	#DEP#com.trello:rxlifecycle-android
+3	#DEP#pub.devrel:easypermissions
+4	#DEP#com.squareup.retrofit2:adapter-rxjava
+5	#DEP#com.android.support:support-core-utils
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#cn.bingoogolapple:bga-update
+8	#DEP#cn.bingoogolapple:bga-progressbar
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#com.android.support:cardview-v7
+11	#DEP#com.trello:rxlifecycle
+12	#DEP#com.trello:rxlifecycle-components
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

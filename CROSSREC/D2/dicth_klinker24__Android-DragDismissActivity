@@ -1,0 +1,9 @@
+1	git://github.com/klinker24/Android-DragDismissActivity.git
+2	#DEP#org.powermock:powermock-module-junit4-rule
+3	#DEP#org.powermock:powermock-classloading-xstream
+4	#DEP#org.robolectric:robolectric
+5	#DEP#org.apache.maven:maven-ant-tasks
+6	#DEP#org.powermock:powermock-mockito-release-full
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	git://github.com/blox/blox.git
+2	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.springframework:spring-context
+5	#DEP#com.amazonaws:aws-java-sdk-opensdk
+6	#DEP#:data-service
+7	#DEP#software.amazon.awssdk:ecs
+8	#DEP#com.amazonaws:aws-lambda-java-core
+9	#DEP#org.springframework:spring-core
+10	#DEP#:end-to-end-tests
+11	#DEP#org.reflections:reflections
+12	#DEP#:scheduling-manager
+13	#DEP#:frontend-service
+14	#DEP#com.github.briandilley.jsonrpc4j:jsonrpc4j
+15	#DEP#org.projectlombok:lombok
+16	#DEP#software.amazon.awssdk:cloudformation
+17	#DEP#junit:junit

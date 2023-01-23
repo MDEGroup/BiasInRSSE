@@ -1,0 +1,6 @@
+24	#DEP#javax.servlet:jstl
+25	#DEP#com.sun.xml.bind:jaxb-impl
+26	#DEP#org.apache.derby:derby
+27	#DEP#org.apache.tomcat:servlet-api
+28	#DEP#ke.co.idadi:griaulefingerprintmanager
+29	#DEP#junit:junit

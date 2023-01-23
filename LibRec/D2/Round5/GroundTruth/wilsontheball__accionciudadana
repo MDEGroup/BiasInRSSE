@@ -1,0 +1,12 @@
+1	#DEP#ar.com.thinksoft.ac:repository
+1	#DEP#org.apache.wicket:wicket
+1	#DEP#ar.com.thinksoft.ac:wilsond
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.mortbay.jetty:jetty-management
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#ar.com.thinksoft.ac:intac
+1	#DEP#com.visural:visural-common
+1	#DEP#log4j:log4j
+1	#DEP#jdom:jdom
+1	#DEP#junit:junit
+1	#DEP#org.apache.wicket:wicket-extensions

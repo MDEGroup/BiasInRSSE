@@ -1,0 +1,17 @@
+1	git://github.com/maxpower47/PinDroid.git
+2	#DEP#com.android.support:support-v13
+3	#DEP#com.iangclifton.android:floatlabel
+4	#DEP#org.robolectric:shadows-httpclient
+5	#DEP#org.assertj:assertj-core
+6	#DEP#com.google.android.apps.dashclock:dashclock-api
+7	#DEP#com.android.support:support-annotations
+8	#DEP#org.robolectric:robolectric
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.artemzin.assert-parcelable:assert-parcelable
+11	#DEP#com.melnykov:floatingactionbutton
+12	#DEP#org.khronos:opengl-api
+13	#DEP#org.robolectric:shadows-support-v4
+14	#DEP#com.android.support:support-v4
+15	#DEP#com.android.support.test:rules
+16	#DEP#junit:junit
+17	#DEP#com.android.support.test:runner

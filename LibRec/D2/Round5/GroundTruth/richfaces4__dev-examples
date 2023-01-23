@@ -1,0 +1,14 @@
+1	#DEP#org.richfaces.examples:richfaces-example-parent
+1	#DEP#org.atmosphere:atmosphere-runtime
+1	#DEP#org.richfaces.examples:template
+1	#DEP#org.richfaces:richfaces-root-parent
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#com.drewnoakes:metadata-extractor
+1	#DEP#org.richfaces.ui.dnd:richfaces-ui-dnd-api
+1	#DEP#org.richfaces:richfaces-bom
+1	#DEP#org.richfaces.ui.output:richfaces-ui-output-ui
+1	#DEP#org.richfaces.ui:richfaces-components-ui
+1	#DEP#org.richfaces.ui.validator:richfaces-ui-validator-ui
+1	#DEP#junit:junit
+1	#DEP#org.richfaces:richfaces-parent

@@ -1,0 +1,9 @@
+1	git://github.com/daveayan/maven-in-polyglot-space.git
+2	#DEP#org.codehaus.mojo:jruby-maven-plugin
+3	#DEP#org.scala-lang:scala-library
+4	#DEP#org.apache.maven:maven-project
+5	#DEP#org.scala-tools:scala-mojo-support
+6	#DEP#org.apache.maven:maven-plugin-api
+7	#DEP#org.codehaus.groovy.maven:gmaven-mojo
+8	#DEP#org.apache.maven:maven-artifact
+9	#DEP#org.codehaus.groovy.maven.runtime:gmaven-runtime-default

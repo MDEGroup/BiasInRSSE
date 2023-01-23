@@ -1,0 +1,4 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.baronzhang.android:router-annotation
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service

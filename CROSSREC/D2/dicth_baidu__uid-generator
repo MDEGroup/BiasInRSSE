@@ -1,0 +1,16 @@
+1	git://github.com/baidu/uid-generator.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.slf4j:log4j-over-slf4j
+5	#DEP#org.springframework:spring-beans
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.springframework:spring-core
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.alibaba:druid
+11	#DEP#org.springframework:spring-test
+12	#DEP#org.mybatis:mybatis
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#commons-collections:commons-collections
+15	#DEP#junit:junit
+16	#DEP#org.mybatis:mybatis-spring

@@ -1,0 +1,10 @@
+1	git://github.com/pstoellberger/s4-latin.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#commons-vfs:commons-vfs
+4	#DEP#pentaho.kettle:kettle-core
+5	#DEP#pentaho.kettle:kettle-db
+6	#DEP#rhino:js
+7	#DEP#com.sun.jmx:jmxri
+8	#DEP#io.s4:s4-core
+9	#DEP#commons-httpclient:commons-httpclient
+10	#DEP#pentaho.kettle:kettle-engine

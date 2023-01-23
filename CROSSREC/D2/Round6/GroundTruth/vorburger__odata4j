@@ -1,0 +1,6 @@
+1	#DEP#javax.persistence:javax.persistence
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#junit:junit
+1	#DEP#org.core4j:core4j
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#org.slf4j:slf4j-jdk14

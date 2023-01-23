@@ -1,0 +1,10 @@
+1	git://github.com/wolfking0608/MobileVideo.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.roughike:bottom-bar
+6	#DEP#fm.jiecao:jiecaovideoplayer
+7	#DEP#com.android.support.constraint:constraint-layout
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.jakewharton:butterknife

@@ -1,0 +1,11 @@
+1	git://github.com/yeyincai/grpc-demo.git
+2	#DEP#io.grpc:grpc-protobuf
+3	#DEP#com.yyc.grpc:grpc-contract
+4	#DEP#io.netty:netty-buffer
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#com.yyc.grpc:grpc-demo
+7	#DEP#io.grpc:grpc-netty
+8	#DEP#io.netty:netty-tcnative-boringssl-static
+9	#DEP#io.grpc:grpc-stub
+10	#DEP#io.netty:netty-tcnative
+11	#DEP#com.linkedin.parseq:parseq

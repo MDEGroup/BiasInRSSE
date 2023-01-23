@@ -1,0 +1,11 @@
+47	#DEP#org.codehaus.jackson:jackson-core-asl
+48	#DEP#org.apache.commons:commons-lang3
+49	#DEP#${project.groupId}:reef-poison
+50	#DEP#net.jcip:jcip-annotations
+51	#DEP#${project.groupId}:reef-utils
+52	#DEP#${project.groupId}:reef-examples
+53	#DEP#org.mockito:mockito-core
+54	#DEP#org.apache.hadoop:hadoop-client
+55	#DEP#org.apache.avro:avro
+56	#DEP#${project.groupId}:reef-utils-hadoop
+57	#DEP#org.apache.mesos:mesos

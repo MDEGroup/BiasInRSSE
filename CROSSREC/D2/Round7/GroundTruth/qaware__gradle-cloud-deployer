@@ -1,0 +1,5 @@
+1	#DEP#com.github.tomakehurst:wiremock
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#io.fabric8:kubernetes-client
+1	#DEP#junit:junit

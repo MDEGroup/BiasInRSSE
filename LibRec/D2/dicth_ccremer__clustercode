@@ -1,0 +1,13 @@
+1	git://github.com/ccremer/clustercode.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.google.jimfs:jimfs
+5	#DEP#com.owlike:genson
+6	#DEP#io.logz:guice-jersey
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.jgroups:jgroups
+9	#DEP#org.slf4j:slf4j-ext
+10	#DEP#com.google.guava:guava
+11	#DEP#org.projectlombok:lombok
+12	#DEP#io.swagger:swagger-annotations
+13	#DEP#junit:junit

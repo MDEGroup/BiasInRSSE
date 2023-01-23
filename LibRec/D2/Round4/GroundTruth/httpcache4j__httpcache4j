@@ -1,0 +1,10 @@
+1	#DEP#org.codehaus.httpcache4j.uribuilder:uribuilder
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.codehaus.httpcache4j:httpcache4j-core
+1	#DEP#org.asynchttpclient:async-http-client
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.codehaus.httpcache4j.resolvers:resolvers-ning-async
+1	#DEP#org.codehaus.httpcache4j:httpcache4j
+1	#DEP#org.codehaus.httpcache4j.resolvers:resolvers-okhttp

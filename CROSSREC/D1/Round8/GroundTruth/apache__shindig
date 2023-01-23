@@ -1,0 +1,10 @@
+44	#DEP#findbugs:annotations
+45	#DEP#org.eclipse.persistence:eclipselink
+46	#DEP#javax.persistence:persistence-api
+47	#DEP#commons-betwixt:commons-betwixt
+48	#DEP#log4j:log4j
+49	#DEP#org.apache.shindig:shindig-server
+50	#DEP#xerces:xercesImpl
+51	#DEP#javax.servlet:servlet-api
+52	#DEP#aopalliance:aopalliance
+53	#DEP#net.oauth:core

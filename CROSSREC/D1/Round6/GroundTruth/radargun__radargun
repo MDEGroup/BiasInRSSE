@@ -1,0 +1,9 @@
+40	#DEP#org.infinispan:infinispan-persistence-soft-index
+41	#DEP#org.radargun:radargun-core
+42	#DEP#org.infinispan:infinispan-jcache
+43	#DEP#org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec
+44	#DEP#org.infinispan:infinispan-client-hotrod
+45	#DEP#org.infinispan:infinispan-remote-query-server
+46	#DEP#org.radargun:plugin-infinispan4
+47	#DEP#org.radargun:plugin-process
+48	#DEP#org.infinispan:infinispan-query

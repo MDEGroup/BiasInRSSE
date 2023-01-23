@@ -1,0 +1,5 @@
+24	#DEP#log4j:log4j
+25	#DEP#com.sun.jersey.contribs.jersey-oauth:oauth-server
+26	#DEP#com.sun.xml.bind:jaxb-impl
+27	#DEP#junit:junit
+28	#DEP#cglib:cglib

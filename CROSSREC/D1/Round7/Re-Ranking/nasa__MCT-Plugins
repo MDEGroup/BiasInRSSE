@@ -1,0 +1,10 @@
+#DEP#net.sf.jung:jung-api	1.0
+#DEP#org.apache.xmlgraphics:batik-swing	1.0
+#DEP#de.tinloaf.snbreadtree:snbreadtree	1.0
+#DEP#net.sf.jung:jung-io	1.0
+#DEP#junit:junit	1.0
+#DEP#net.sf.jung:jung-graph-impl	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.yaml:snakeyaml	1.0
+#DEP#net.sf.jung:jung2	1.0
+#DEP#com.xhochy.carameldb:carameldb	1.0

@@ -1,0 +1,12 @@
+1	git://github.com/applidium/CandyCrushSolver.git
+2	#DEP#com.github.JakeWharton:timber
+3	#DEP#org.apache.commons:commons-io
+4	#DEP#com.google.dagger:dagger-compiler
+5	#DEP#com.android.support:palette-v7
+6	#DEP#com.viewpagerindicator:library
+7	#DEP#javax.annotation:javax.annotation-api
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#:libs
+10	#DEP#junit:junit
+11	#DEP#net.hockeyapp.android:HockeySDK
+12	#DEP#com.google.dagger:dagger

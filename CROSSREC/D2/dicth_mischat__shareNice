@@ -1,0 +1,12 @@
+1	git://github.com/mischat/shareNice.git
+2	#DEP#org.eclipse.jetty.http2:http2-server
+3	#DEP#commons-io:commons-io
+4	#DEP#org.eclipse.jetty:jetty-servlets
+5	#DEP#org.mortbay.jetty.alpn:alpn-boot
+6	#DEP#org.eclipse.jetty:jetty-server
+7	#DEP#com.google.guava:guava
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.eclipse.jetty:jetty-util
+10	#DEP#org.eclipse.jetty:jetty-alpn-server
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.eclipse.jetty:jetty-servlet

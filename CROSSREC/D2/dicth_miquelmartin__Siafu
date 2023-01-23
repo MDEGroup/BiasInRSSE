@@ -1,0 +1,9 @@
+1	git://github.com/miquelmartin/Siafu.git
+2	#DEP#commons-configuration:commons-configuration
+3	#DEP#Siafu:MavenParent
+4	#DEP#swt:jface
+5	#DEP#commons-collections:commons-collections
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.eclipse.swt:${swt.artifactId}
+8	#DEP#Siafu:Siafu
+9	#DEP#commons-lang:commons-lang

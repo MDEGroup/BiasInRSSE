@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#de.jensd:fontawesomefx-materialstackicons	1.0
+#DEP#com.netopyr.reduxfx:reduxfx-view	1.0
+#DEP#com.netopyr.reduxfx:reduxfx-parent	1.0
+#DEP#com.netopyr.reduxfx:reduxfx-fxml	1.0
+#DEP#com.netopyr.reduxfx:reduxfx-all	1.0
+#DEP#com.netopyr.reduxfx:reduxfx-store	1.0
+#DEP#de.jensd:fontawesomefx-commons	1.0
+#DEP#com.netopyr.reduxfx:reduxfx-jfoenix	1.0

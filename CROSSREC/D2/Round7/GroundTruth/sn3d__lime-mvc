@@ -1,0 +1,14 @@
+1	#DEP#org.zdevra.lime:lime
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#org.zdevra.lime:lime-freemarker
+1	#DEP#org.zdevra.lime:lime-velocity
+1	#DEP#org.mortbay.jetty:jetty-plus
+1	#DEP#com.google.inject:guice
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.zdevra.lime:lime-jsilver
+1	#DEP#aopalliance:aopalliance
+1	#DEP#junit:junit
+1	#DEP#com.google.inject.extensions:guice-multibindings

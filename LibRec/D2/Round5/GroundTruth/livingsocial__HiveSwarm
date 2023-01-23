@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-math
+1	#DEP#ua_parser:ua-parser
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.jruby:jruby-complete

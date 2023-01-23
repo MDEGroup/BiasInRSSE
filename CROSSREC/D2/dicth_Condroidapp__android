@@ -1,0 +1,9 @@
+1	git://github.com/Condroidapp/android.git
+2	#DEP#com.actionbarsherlock:actionbarsherlock
+3	#DEP#com.commonsware.cwac:endless
+4	#DEP#com.squareup.retrofit:retrofit
+5	#DEP#com.android.support:support-v4
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.astuetz:pagerslidingtabstrip
+8	#DEP#com.github.rtyley:roboguice-sherlock
+9	#DEP#joda-time:joda-time

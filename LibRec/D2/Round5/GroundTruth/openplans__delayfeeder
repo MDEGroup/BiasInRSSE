@@ -1,0 +1,10 @@
+1	#DEP#com.sun.jersey:jersey-json
+1	#DEP#org.springframework:spring-web
+1	#DEP#cglib:cglib-nodep
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#rome:rome
+1	#DEP#com.sun.jersey:jersey-spring
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.sun.jersey:jersey-server

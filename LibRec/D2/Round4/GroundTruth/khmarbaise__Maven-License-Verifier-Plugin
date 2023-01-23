@@ -1,0 +1,14 @@
+1	#DEP#org.antlr:antlr
+1	#DEP#org.apache.maven.shared:maven-dependency-tree
+1	#DEP#xml-apis:xml-apis
+1	#DEP#org.apache.maven.reporting:maven-reporting-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven.doxia:doxia-module-xhtml
+1	#DEP#opensymphony:quartz
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#doxia:doxia-sink-api
+1	#DEP#org.apache.maven.plugins:maven-invoker-plugin
+1	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#log4j:log4j	1.0
+#DEP#my.opencolor.spectro:spectro.spi	1.0
+#DEP#org.netbeans.api:org-openide-compat	1.0
+#DEP#my.opencolor.spectro.datacolor:spectro.dci-common	1.0
+#DEP#my.opencolor.spectro.xrite:spectro.xr8xxx	1.0
+#DEP#my.opencolor.spectro.hunter:spectro.hunter.common	1.0

@@ -1,0 +1,11 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#io.rest-assured:rest-assured
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#com.h2database:h2

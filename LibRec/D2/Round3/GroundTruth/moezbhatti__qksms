@@ -1,0 +1,11 @@
+1	#DEP#com.google.android.gms:play-services-analytics
+1	#DEP#com.klinkerapps:android-chips
+1	#DEP#com.melnykov:floatingactionbutton
+1	#DEP#com.googlecode.ez-vcard:ez-vcard
+1	#DEP#com.mcxiaoke.volley:library
+1	#DEP#com.koushikdutta.ion:ion
+1	#DEP#com.vdurmont:emoji-java
+1	#DEP#com.android.support:multidex
+1	#DEP#org.ligi:snackengage
+1	#DEP#me.leolin:ShortcutBadger
+1	#DEP#com.pushbullet:android-extensions

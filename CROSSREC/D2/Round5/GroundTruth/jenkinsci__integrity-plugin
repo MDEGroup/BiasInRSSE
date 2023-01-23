@@ -1,0 +1,8 @@
+1	#DEP#com.google.code.findbugs:annotations
+1	#DEP#org.jenkins-ci.plugins:script-security
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+1	#DEP#org.apache.commons:commons-pool2
+1	#DEP#org.apache.commons:commons-digester3
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps

@@ -1,0 +1,9 @@
+1	#DEP#com.kyleduo.switchbutton:library
+1	#DEP#com.soundcloud.android:android-crop
+1	#DEP#com.google.zxing:android-integration
+1	#DEP#org.jitsi:org.otr4j
+1	#DEP#com.wefika:flowlayout
+1	#DEP#org.sufficientlysecure:openpgp-api
+1	#DEP#com.google.zxing:core
+1	#DEP#me.leolin:ShortcutBadger
+1	#DEP#org.gnu.inet:libidn

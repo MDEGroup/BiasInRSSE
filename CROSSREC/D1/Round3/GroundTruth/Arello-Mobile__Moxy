@@ -1,0 +1,3 @@
+16	#DEP#com.j256.ormlite:ormlite-core
+17	#DEP#io.reactivex:rxjava
+18	#DEP#io.reactivex:rxandroid

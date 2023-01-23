@@ -1,0 +1,12 @@
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.springframework:spring-context
+1	#DEP#com.github.liuzhengyang:simple-spring
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+1	#DEP#com.github.liuzhengyang:simple-rpc
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.apache.curator:curator-framework
+1	#DEP#org.springframework.boot:spring-boot-starter-logging
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

@@ -1,0 +1,9 @@
+1	git://github.com/stormpath/stormpath-spring-boot-react-example.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+4	#DEP#com.stormpath.spring:stormpath-default-spring-boot-starter
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.projectlombok:lombok
+7	#DEP#org.springframework.boot:spring-boot-devtools
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.h2database:h2

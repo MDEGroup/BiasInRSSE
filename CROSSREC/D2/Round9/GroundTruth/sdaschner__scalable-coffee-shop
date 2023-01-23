@@ -1,0 +1,4 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.apache.johnzon:jsonb-api
+1	#DEP#javax:javaee-api

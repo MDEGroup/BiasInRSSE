@@ -1,0 +1,12 @@
+1	#DEP#org.scijava:scripting-jruby
+1	#DEP#org.scijava:scijava-common
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.codehaus.groovy:groovy-json
+1	#DEP#com.github.twosigma.beakerx:beaker-kernel-base
+1	#DEP#net.imagej:imagej
+1	#DEP#org.scijava:scripting-java
+1	#DEP#org.knowm.xchart:xchart
+1	#DEP#com.github.jai-imageio:jai-imageio-core
+1	#DEP#org.scijava:scripting-renjin
+1	#DEP#junit:junit
+1	#DEP#org.scijava:scripting-jython

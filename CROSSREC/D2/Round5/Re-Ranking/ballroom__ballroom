@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.gwt.inject:gin	1.0
+#DEP#com.google.inject.extensions:guice-assistedinject	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.json:json	1.0
+#DEP#org.jboss.as:console-spi	1.0
+#DEP#org.jboss.as:jboss-as-console-core	1.0

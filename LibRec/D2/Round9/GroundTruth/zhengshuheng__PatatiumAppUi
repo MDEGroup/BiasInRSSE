@@ -1,0 +1,6 @@
+1	#DEP#com.github.sanjusoftware:yamlbeans
+1	#DEP#dom4j:dom4j
+1	#DEP#org.testng:testng
+1	#DEP#org.jodd:jodd-http
+1	#DEP#org.json:json
+1	#DEP#net.sourceforge.jexcelapi:jxl

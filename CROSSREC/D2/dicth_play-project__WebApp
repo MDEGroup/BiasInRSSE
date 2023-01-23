@@ -1,0 +1,15 @@
+1	git://github.com/play-project/WebApp.git
+2	#DEP#org.ow2.play:governance-metadata-client
+3	#DEP#org.ow2.play:play-eventadapter-abstractrdfreceiver
+4	#DEP#org.ow2.play:play-platformservices-api
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.ow2.play:play-commons-eventtypes
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#org.ow2.play:play-commons-eventformat
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#org.apache.cxf:cxf-bundle
+11	#DEP#fr.inria.eventcloud:eventcloud-webservices-core
+12	#DEP#org.ow2.play:play-parent
+13	#DEP#org.ow2.play:play-eventadapter-abstractrdfsender
+14	#DEP#org.ow2.play:play-commons-constants
+15	#DEP#org.ow2.play:governance-api

@@ -1,0 +1,13 @@
+1	git://github.com/http-builder-ng/http-builder-ng.git
+2	#DEP#xml-resolver:xml-resolver
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#org.spockframework:spock-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.stehno.vanilla:vanilla-core
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#com.burgstaller:okhttp-digest
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.apache.httpcomponents:httpmime
+13	#DEP#org.asciidoctor:asciidoclet

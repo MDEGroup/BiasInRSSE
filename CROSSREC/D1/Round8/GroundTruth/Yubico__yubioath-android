@@ -1,0 +1,3 @@
+14	#DEP#junit:junit
+15	#DEP#com.journeyapps:zxing-android-embedded
+16	#DEP#org.jetbrains.anko:anko-sdk15

@@ -1,0 +1,5 @@
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.ow2.asm:asm
+1	#DEP#org.codehaus.plexus:plexus-archiver
+1	#DEP#org.apache.maven:maven-core

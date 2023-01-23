@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#ru.sberned.statemachine:state-machine-samples-simple
+1	#DEP#org.springframework:spring-tx
+1	#DEP#ru.sberned.statemachine:state-machine-loading
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#com.google.guava:guava
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.h2database:h2

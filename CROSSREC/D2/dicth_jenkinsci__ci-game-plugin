@@ -1,0 +1,15 @@
+1	git://github.com/jenkinsci/ci-game-plugin.git
+2	#DEP#org.jvnet.hudson.plugins:checkstyle
+3	#DEP#org.jenkins-ci.main:jenkins-test-harness
+4	#DEP#org.apache.ant:ant
+5	#DEP#org.jenkins-ci.plugins:junit
+6	#DEP#org.jenkins-ci.plugins:structs
+7	#DEP#org.jvnet.hudson.plugins:warnings
+8	#DEP#org.jvnet.hudson.plugins:pmd
+9	#DEP#org.jvnet.hudson.plugins:analysis-core
+10	#DEP#org.jvnet.hudson.plugins:findbugs
+11	#DEP#org.jenkins-ci.plugins:jacoco
+12	#DEP#org.jvnet.hudson.plugins:tasks
+13	#DEP#org.jenkins-ci.plugins:plugin
+14	#DEP#org.mockito:mockito-core
+15	#DEP#org.jvnet.hudson.plugins:violations

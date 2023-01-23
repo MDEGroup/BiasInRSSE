@@ -1,0 +1,10 @@
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.jakewharton.timber:timber	1.0
+#DEP#com.squareup.retrofit:retrofit	1.0
+#DEP#com.squareup.okhttp:okhttp-urlconnection	1.0
+#DEP#com.squareup.okhttp:okhttp	1.0
+#DEP#com.jakewharton.madge:madge	1.0
+#DEP#com.squareup.retrofit:retrofit-mock	1.0
+#DEP#com.github.lukaspili.autodagger2:autodagger2	1.0
+#DEP#com.jakewharton.scalpel:scalpel	1.0
+#DEP#com.github.lukaspili.autodagger2:autodagger2-compiler	1.0

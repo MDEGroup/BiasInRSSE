@@ -1,0 +1,5 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.grails:grails-spring
+1	#DEP#org.grails:grails-web
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-log4j12

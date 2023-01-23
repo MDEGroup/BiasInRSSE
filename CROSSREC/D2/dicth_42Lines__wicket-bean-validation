@@ -1,0 +1,14 @@
+1	git://github.com/42Lines/wicket-bean-validation.git
+2	#DEP#net.ftlines.wicket-bean-validation:core
+3	#DEP#org.mortbay.jetty:jetty
+4	#DEP#org.apache.wicket:wicket-core
+5	#DEP#javax.validation:validation-api
+6	#DEP#org.hibernate:hibernate-validator
+7	#DEP#org.sonatype.oss:oss-parent
+8	#DEP#org.mortbay.jetty:jetty-util
+9	#DEP#org.mortbay.jetty:jetty-management
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#net.ftlines.metagen:metagen-core
+12	#DEP#net.ftlines.wicket-bean-validation:parent
+13	#DEP#log4j:log4j
+14	#DEP#junit:junit

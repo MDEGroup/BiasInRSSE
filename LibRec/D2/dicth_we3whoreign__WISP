@@ -1,0 +1,10 @@
+1	git://github.com/we3whoreign/WISP.git
+2	#DEP#WISP:WISP
+3	#DEP#org.we3whoreign:WISP
+4	#DEP#org.apache.wicket:wicket-core
+5	#DEP#org.we3whoreign:wisp-data
+6	#DEP#WISP:wisp-data
+7	#DEP#org.jdom:jdom
+8	#DEP#junit:junit
+9	#DEP#com.cooldatasoft:wicket-menu
+10	#DEP#org.slf4j:slf4j-log4j12

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.antlr:antlr-runtime	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#jline:jline	1.0
+#DEP#org.apache.cassandra:cassandra	1.0
+#DEP#jsonsimple:jsonsimple	1.0
+#DEP#flexjson:flexjson	1.0

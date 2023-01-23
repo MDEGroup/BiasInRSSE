@@ -1,0 +1,11 @@
+1	git://github.com/BertrandDechoux/OrganicBuilder.git
+2	#DEP#org.springframework:spring-expression
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework:spring-aop
+5	#DEP#org.easytesting:fest-assert
+6	#DEP#org.springframework:spring-test
+7	#DEP#com.google.guava:guava
+8	#DEP#org.springframework:spring-beans
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#org.springframework:spring-core

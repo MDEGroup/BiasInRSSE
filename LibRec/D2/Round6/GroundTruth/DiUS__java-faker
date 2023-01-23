@@ -1,0 +1,6 @@
+1	#DEP#org.yaml:snakeyaml
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#commons-validator:commons-validator

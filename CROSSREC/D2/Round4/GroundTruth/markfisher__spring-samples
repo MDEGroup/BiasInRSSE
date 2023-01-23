@@ -1,0 +1,9 @@
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.springframework:spring-aspects
+1	#DEP#org.springframework.data:spring-data-neo4j
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-jms
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework.amqp:spring-rabbit
+1	#DEP#junit:junit
+1	#DEP#org.apache.activemq:activemq-core

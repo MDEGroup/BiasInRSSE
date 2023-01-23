@@ -1,0 +1,4 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.jgroups:jgroups
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#com.jayway.awaitility:awaitility

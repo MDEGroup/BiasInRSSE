@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#args4j:args4j	1.0
+#DEP#org.apache.poi:poi	1.0
+#DEP#org.apache.poi:poi-ooxml	1.0
+#DEP#org.apache.lucene:lucene-queryparser	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#com.madgag.spongycastle:prov	1.0
+#DEP#com.exigeninsurance.x4j.analytic:x4j-analytic	1.0

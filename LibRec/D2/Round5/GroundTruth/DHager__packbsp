@@ -1,0 +1,9 @@
+1	#DEP#org.swinglabs:swing-layout
+1	#DEP#log4j:log4j
+1	#DEP#net.java.dev.appframework:appframework
+1	#DEP#com.technofovea:hl2parse-binary
+1	#DEP#net.sf.jung:jung-graph-impl
+1	#DEP#junit:junit
+1	#DEP#net.sf.jung:jung-api
+1	#DEP#org.swinglabs:swing-worker
+1	#DEP#com.technofovea:hl2parse-parsers

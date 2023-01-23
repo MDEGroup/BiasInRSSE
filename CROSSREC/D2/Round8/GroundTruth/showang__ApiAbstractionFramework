@@ -1,0 +1,5 @@
+1	#DEP#com.github.bumptech.glide:volley-integration
+1	#DEP#com.android.volley:volley
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#junit:junit

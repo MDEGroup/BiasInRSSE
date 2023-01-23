@@ -1,0 +1,11 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#javax.transaction:jta
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.jboss.javaee:jboss-jacc-api_JDK4
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.hibernate:hibernate-parent
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib
+1	#DEP#com.h2database:h2

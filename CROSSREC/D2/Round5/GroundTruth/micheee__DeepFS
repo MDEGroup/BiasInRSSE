@@ -1,0 +1,4 @@
+1	#DEP#com.drewnoakes:metadata-extractor
+1	#DEP#junit:junit
+1	#DEP#org.basex:basex
+1	#DEP#com.sun.mail:javax.mail

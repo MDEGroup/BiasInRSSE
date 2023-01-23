@@ -1,0 +1,11 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.sparkjava:spark-core
+1	#DEP#org.apache.curator:curator-framework
+1	#DEP#org.apache.spark:spark-streaming-kafka-0-10_2.11
+1	#DEP#io.dropwizard.metrics:metrics-jvm
+1	#DEP#io.dropwizard:dropwizard-core
+1	#DEP#org.springframework.cloud:spring-cloud-starter-Consul-all
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#io.dropwizard.metrics:metrics-graphite
+1	#DEP#org.apache.spark:spark-streaming_2.11

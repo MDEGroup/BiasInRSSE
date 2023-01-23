@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava-gwt	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.gwt.inject:gin	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.google.gwt.maps:gwt-maps3-0.2b	1.0
+#DEP#com.google.gwt.google-apis:gwt-ajaxloader	1.0
+#DEP#com.teklabs.gwt-i18n-server:gwt-i18n-server	1.0
+#DEP#${project.groupId}:batik-slideshow	1.0

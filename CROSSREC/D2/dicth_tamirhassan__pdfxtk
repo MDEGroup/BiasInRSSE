@@ -1,0 +1,16 @@
+1	git://github.com/tamirhassan/pdfxtk.git
+2	#DEP#xerces:xerces
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.pdfbox:pdfbox-app
+5	#DEP#commons-logging:commons-logging
+6	#DEP#${project.groupId}:pdfXtk
+7	#DEP#com.touchgraph:TGWikiBrowser
+8	#DEP#org.apache.pdfbox:fontbox
+9	#DEP#javax.media.jai:com.springsource.javax.media.jai.core
+10	#DEP#commons-lang:commons-lang
+11	#DEP#org.apache.pdfbox:pdfbox
+12	#DEP#log4j:log4j
+13	#DEP#commons-collections:commons-collections
+14	#DEP#javax.media.jai:com.springsource.javax.media.jai.codec
+15	#DEP#xstream:xstream
+16	#DEP#junit:junit

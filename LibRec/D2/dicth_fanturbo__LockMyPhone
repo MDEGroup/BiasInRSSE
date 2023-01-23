@@ -1,0 +1,13 @@
+1	git://github.com/fanturbo/LockMyPhone.git
+2	#DEP#com.jakewharton:butterknife-compiler
+3	#DEP#cn.jiguang.sdk:jcore
+4	#DEP#com.tencent.bugly:nativecrashreport
+5	#DEP#cn.leancloud.android:avoscloud-sdk
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#cn.leancloud.android:avoscloud-statistics
+8	#DEP#cn.leancloud.android:avoscloud-feedback
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#cn.jiguang.sdk:jpush
+11	#DEP#com.tencent.bugly:crashreport
+12	#DEP#com.android.support.constraint:constraint-layout
+13	#DEP#junit:junit

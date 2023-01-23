@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#com.jayway.awaitility:awaitility
+1	#DEP#org.sonatype.nexus:nexus-proxy
+1	#DEP#org.sonatype.nexus.plugins:nexus-plugins-parent

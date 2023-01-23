@@ -1,0 +1,15 @@
+1	#DEP#org.codehaus.plexus:org.codehaus.plexus
+1	#DEP#com.tinkerpop.blueprints:blueprints-sail-graph
+1	#DEP#org.neo4j:neo4j
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.apache.maven.shared:org.apache.maven.shared
+1	#DEP#org.apache.httpcomponents:org.apache.httpcomponents
+1	#DEP#org.neo4j:neo4j-graphviz
+1	#DEP#log4j:log4j
+1	#DEP#org.openrdf.sesame:sesame-repository-sail
+1	#DEP#org.sonatype.sisu:org.sonatype.sisu
+1	#DEP#com.tinkerpop.blueprints:blueprints-graph-sail
+1	#DEP#junit:junit
+1	#DEP#cuke4duke:cuke4duke
+1	#DEP#com.sun.jersey:jersey-server

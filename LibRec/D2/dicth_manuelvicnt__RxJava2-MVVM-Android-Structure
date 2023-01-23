@@ -1,0 +1,13 @@
+1	git://github.com/manuelvicnt/RxJava2-MVVM-Android-Structure.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.android.support:design
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+13	#DEP#junit:junit

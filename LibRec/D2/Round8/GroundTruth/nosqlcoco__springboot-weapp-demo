@@ -1,0 +1,10 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-redis
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

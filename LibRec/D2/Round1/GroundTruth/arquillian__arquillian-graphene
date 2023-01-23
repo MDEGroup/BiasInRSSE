@@ -1,0 +1,17 @@
+1	#DEP#org.jboss.arquillian.extension:arquillian-drone-webdriver-depchain
+1	#DEP#org.jboss.arquillian.extension:arquillian-drone-configuration
+1	#DEP#org.jboss.arquillian.extension:arquillian-drone-impl
+1	#DEP#org.jboss.arquillian.test:arquillian-test-impl-base
+1	#DEP#org.jboss.arquillian.graphene:graphene-webdriver-api
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#org.arquillian.extension:arquillian-recorder-screenshooter-spi
+1	#DEP#org.arquillian.extension:arquillian-recorder-screenshooter-impl-base
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#org.seleniumhq.selenium:selenium-server
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jboss.arquillian.extension:arquillian-drone-spi
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian.core:arquillian-core-impl-base
+1	#DEP#org.jboss.arquillian.graphene:graphene-webdriver-spi
+1	#DEP#org.jboss.arquillian.graphene:graphene-webdriver-impl

@@ -1,0 +1,11 @@
+1	git://github.com/amedia/adama-tools.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#no.api.opensource:adama-tools
+4	#DEP#org.slf4j:jcl-over-slf4j
+5	#DEP#commons-io:commons-io
+6	#DEP#no.api.opensource.adama-tools:adama-core
+7	#DEP#org.apache.httpcomponents:httpclient
+8	#DEP#net.wimpi:jamod
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

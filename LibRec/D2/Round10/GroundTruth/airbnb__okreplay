@@ -1,0 +1,8 @@
+1	#DEP#com.squareup.retrofit2:converter-moshi
+1	#DEP#com.android.support:multidex
+1	#DEP#com.squareup.retrofit2:adapter-rxjava2
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.ryanharter.auto.value:auto-value-moshi-annotations
+1	#DEP#com.squareup.okio:okio

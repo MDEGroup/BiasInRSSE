@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.dagger:dagger	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#org.powermock:powermock-module-junit4	1.0
+#DEP#com.squareup.okhttp3:okhttp-android-support	1.0
+#DEP#net.simonvt.schematic:schematic-compiler	1.0
+#DEP#net.simonvt.schematic:schematic	1.0

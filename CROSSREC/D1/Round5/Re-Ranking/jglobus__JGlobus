@@ -1,0 +1,10 @@
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.italiangrid:voms-container	1.0

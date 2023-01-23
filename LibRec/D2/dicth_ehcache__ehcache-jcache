@@ -1,0 +1,12 @@
+1	git://github.com/ehcache/ehcache-jcache.git
+2	#DEP#org.ehcache:jcache
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#log4j:log4j
+6	#DEP#net.sf.ehcache:ehcache
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#javax.cache:cache-tests
+9	#DEP#javax.transaction:jta
+10	#DEP#javax.cache:cache-api
+11	#DEP#junit:junit
+12	#DEP#org.ehcache:ehcache-jcache-parent

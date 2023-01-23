@@ -1,0 +1,3 @@
+12	#DEP#junit:junit
+13	#DEP#cglib:cglib
+14	#DEP#com.thoughtworks.qdox:qdox

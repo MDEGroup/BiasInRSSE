@@ -1,0 +1,10 @@
+1	git://github.com/animotron/core.git
+2	#DEP#jgroups:jgroups
+3	#DEP#org.neo4j:neo4j
+4	#DEP#org.neo4j.build:neo4j-berkeleydb-je-index
+5	#DEP#org.clapper:javautil
+6	#DEP#javolution:javolution
+7	#DEP#org.jetlang:jetlang
+8	#DEP#junit:junit
+9	#DEP#joda-time:joda-time
+10	#DEP#com.eaio.uuid:uuid

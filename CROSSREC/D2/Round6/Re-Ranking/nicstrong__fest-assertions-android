@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.jayway.android.robotium:robotium-solo	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.testng:testng	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#com.madgag:lazy-drawables-parent	1.0
+#DEP#com.madgag:lazy-drawables	1.0

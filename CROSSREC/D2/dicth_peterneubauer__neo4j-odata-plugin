@@ -1,0 +1,14 @@
+1	git://github.com/peterneubauer/neo4j-odata-plugin.git
+2	#DEP#org.neo4j:parent-pom
+3	#DEP#org.codehaus.jackson:jackson-xc
+4	#DEP#org.neo4j:neo4j
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#org.neo4j:server-api
+7	#DEP#org.codehaus.jackson:jackson-core-asl
+8	#DEP#org.neo4j.app:neo4j-server
+9	#DEP#org.codehaus.jackson:jackson-jaxrs
+10	#DEP#org.codehaus.jackson:jackson-mapper-asl
+11	#DEP#org.neo4j:neo4j-kernel
+12	#DEP#org.odata4j:odata4j
+13	#DEP#junit:junit
+14	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,11 @@
+1	git://github.com/henyojess/spring-data-jpa-trial.git
+2	#DEP#org.springframework.data:spring-data-jpa
+3	#DEP#org.springframework:spring-instrument
+4	#DEP#org.slf4j:jcl-over-slf4j
+5	#DEP#org.springframework:spring-test
+6	#DEP#log4j:log4j
+7	#DEP#org.eclipse.persistence:eclipselink
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#hsqldb:hsqldb
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

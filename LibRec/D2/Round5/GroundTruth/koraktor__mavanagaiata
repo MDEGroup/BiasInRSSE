@@ -1,0 +1,5 @@
+1	#DEP#org.apache.maven.shared:maven-filtering
+1	#DEP#org.apache.maven:maven-project
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit

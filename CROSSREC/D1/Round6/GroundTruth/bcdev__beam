@@ -1,0 +1,11 @@
+46	#DEP#javax.help:javahelp
+47	#DEP#org.htmlparser:htmlparser
+48	#DEP#edu.ucar:opendap
+49	#DEP#com.bc.ceres:ceres-core
+50	#DEP#Jama:Jama
+51	#DEP#javax.media.jai:jai-codec
+52	#DEP#ncsa.hdf:jhdf5
+53	#DEP#com.fasterxml.jackson.core:jackson-databind
+54	#DEP#org.esa.beam:beam-envisat-reader
+55	#DEP#com.bc.ceres:ceres-binio
+56	#DEP#com.bc.ceres:ceres-binding

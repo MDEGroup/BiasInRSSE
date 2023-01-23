@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.goldmansachs:gs-collections-api	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#com.carrotsearch:hppc-template-processor	1.0

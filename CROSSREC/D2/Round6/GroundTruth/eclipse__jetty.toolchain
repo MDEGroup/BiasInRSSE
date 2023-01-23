@@ -1,0 +1,15 @@
+1	#DEP#com.google.code.javaparser:javaparser
+1	#DEP#org.apache.maven:maven-plugin-tools-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.eclipse.jetty.toolchain:jetty-jsp-osgi
+1	#DEP#org.apache.maven.enforcer:enforcer-api
+1	#DEP#org.eclipse.jetty.toolchain:jetty-jsp-jdt
+1	#DEP#org.hdrhistogram:HdrHistogram
+1	#DEP#org.eclipse.jetty.toolchain.setuid:jetty-setuid-parent
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.eclipse.jetty:jetty-parent
+1	#DEP#org.eclipse.jetty.toolchain.setuid:jetty-setuid-native
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper
+1	#DEP#org.apache.maven:maven-artifact

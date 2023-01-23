@@ -1,0 +1,4 @@
+1	#DEP#com.github.timeu.gwt-libs.geneviewer:geneviewer
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#com.github.timeu.gwt-libs.geneviewer:geneviewer-parent
+1	#DEP#junit:junit

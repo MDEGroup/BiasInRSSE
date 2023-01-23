@@ -1,0 +1,3 @@
+12	#DEP#log4j:log4j
+13	#DEP#org.clojure:clojure-contrib
+14	#DEP#ch.qos.logback:logback-classic

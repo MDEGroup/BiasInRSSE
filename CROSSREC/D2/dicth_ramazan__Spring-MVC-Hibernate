@@ -1,0 +1,11 @@
+1	git://github.com/ramazan/Spring-MVC-Hibernate.git
+2	#DEP#org.hibernate:hibernate-c3p0
+3	#DEP#org.springframework:spring-expression
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.hibernate:hibernate-core
+6	#DEP#org.springframework:spring-aop
+7	#DEP#org.hibernate:hibernate-entitymanager
+8	#DEP#org.springframework:spring-context-support
+9	#DEP#org.springframework:spring-orm
+10	#DEP#org.apache.commons:commons-dbcp2
+11	#DEP#org.springframework:spring-tx

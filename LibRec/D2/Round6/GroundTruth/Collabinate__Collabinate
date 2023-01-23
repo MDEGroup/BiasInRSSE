@@ -1,0 +1,8 @@
+1	#DEP#org.restlet.jse:org.restlet.ext.slf4j
+1	#DEP#org.restlet.jse:org.restlet
+1	#DEP#org.restlet.jse:org.restlet.ext.jetty
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#junit:junit
+1	#DEP#org.restlet.jse:org.restlet.ext.jackson

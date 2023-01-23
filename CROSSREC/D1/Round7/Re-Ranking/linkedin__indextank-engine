@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.lucene:lucene-highlighter	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.apache.lucene:lucene-spellchecker	1.0
+#DEP#org.apache.activemq:activemq-web	1.0
+#DEP#org.apache.lucene:lucene-regex	1.0
+#DEP#org.apache.tika:tika	1.0

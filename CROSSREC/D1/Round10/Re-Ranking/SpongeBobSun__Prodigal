@@ -1,0 +1,10 @@
+#DEP#com.android.support:design	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.squareup.okhttp3:okhttp	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.zhy:okhttputils	1.0
+#DEP#com.github.ybq:Android-SpinKit	1.0
+#DEP#com.mani:ThinDownloadManager	1.0
+#DEP#com.bigkoo:convenientbanner	1.0

@@ -1,0 +1,4 @@
+18	#DEP#com.google.code.findbugs:annotations
+19	#DEP#commons-collections:commons-collections
+20	#DEP#junit:junit
+21	#DEP#com.google.inject.extensions:guice-multibindings

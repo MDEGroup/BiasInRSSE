@@ -1,0 +1,12 @@
+1	git://github.com/ivargrimstad/snoopee.git
+2	#DEP#eu.agilejava:snoopee-root
+3	#DEP#org.glassfish:javax.json
+4	#DEP#eu.agilejava:snoopee-client
+5	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+6	#DEP#org.wildfly.swarm:cdi
+7	#DEP#eu.agilejava:snoopee-discovery
+8	#DEP#eu.agilejava:snoopee-config
+9	#DEP#eu.agilejava:snoopee
+10	#DEP#javax:javaee-web-api
+11	#DEP#eu.agilejava:snoopee-config-client
+12	#DEP#org.wildfly.swarm:ejb

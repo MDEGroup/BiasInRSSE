@@ -1,0 +1,2 @@
+11	#DEP#org.ros.rosjava_messages:diagnostic_msgs
+12	#DEP#org.ros.rosjava_core:rosjava

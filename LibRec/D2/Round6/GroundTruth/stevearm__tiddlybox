@@ -1,0 +1,7 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#oauth.signpost:signpost-core

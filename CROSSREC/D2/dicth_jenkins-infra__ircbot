@@ -1,0 +1,11 @@
+1	git://github.com/jenkins-infra/ircbot.git
+2	#DEP#org.jenkins-ci:test-annotations
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.jenkins-ci:jenkins
+5	#DEP#commons-io:commons-io
+6	#DEP#org.powermock:powermock-api-mockito
+7	#DEP#pircbot:pircbot
+8	#DEP#org.kohsuke:github-api
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#org.jenkins-ci:jira-api

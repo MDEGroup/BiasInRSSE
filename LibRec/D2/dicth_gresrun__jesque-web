@@ -1,0 +1,16 @@
+1	git://github.com/gresrun/jesque-web.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.tuckey:urlrewritefilter
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#redis.clients:jedis
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#taglibs:standard
+8	#DEP#net.greghaines:jesque
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#org.springframework:spring-webmvc
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#javax.servlet:jstl
+14	#DEP#junit:junit
+15	#DEP#org.springframework:spring-framework-bom
+16	#DEP#org.aspectj:aspectjrt

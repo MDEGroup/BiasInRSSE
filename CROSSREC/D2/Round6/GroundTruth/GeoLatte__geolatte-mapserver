@@ -1,0 +1,8 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.geotools:gt-epsg-hsql
+1	#DEP#log4j:log4j
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#org.geolatte:geolatte-geom
+1	#DEP#org.jvnet.ogc:wms-v_1_1_1-schema
+1	#DEP#org.geolatte:mapserver

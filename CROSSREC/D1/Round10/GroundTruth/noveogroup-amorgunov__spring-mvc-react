@@ -1,0 +1,3 @@
+12	#DEP#javax.servlet:javax.servlet-api
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#javax.servlet:jstl

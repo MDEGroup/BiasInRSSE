@@ -1,0 +1,10 @@
+1	git://github.com/zekroTJA/DiscordBot.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#net.dv8tion:JDA
+4	#DEP#com.mashape.unirest:unirest-java
+5	#DEP#com.moandjiezana.toml:toml4j
+6	#DEP#fr.bmartel:jspeedtest
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.brunocvcunha.jiphy:jiphy
+10	#DEP#com.sedmelluq:lavaplayer

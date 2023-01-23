@@ -1,0 +1,5 @@
+1	#DEP#org.seasar.container:s2-framework
+1	#DEP#org.easymock:easymock
+1	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+1	#DEP#junit:junit
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_3.0_spec

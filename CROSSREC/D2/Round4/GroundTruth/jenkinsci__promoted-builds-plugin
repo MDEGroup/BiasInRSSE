@@ -1,0 +1,8 @@
+1	#DEP#org.jvnet.hudson:xstream
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.main:maven-plugin
+1	#DEP#org.jenkins-ci.plugins:job-dsl
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#hudson.plugins:project-inheritance
+1	#DEP#org.jenkins-ci.plugins:matrix-auth

@@ -1,0 +1,9 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.sonatype.aether:aether-spi
+1	#DEP#org.sonatype.aether:aether-impl
+1	#DEP#org.sonatype.aether:aether-util
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#org.apache.maven:maven-artifact

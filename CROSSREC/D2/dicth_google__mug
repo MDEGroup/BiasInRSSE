@@ -1,0 +1,11 @@
+1	git://github.com/google/mug.git
+2	#DEP#com.google.guava:guava-testlib
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.junit.jupiter:junit-jupiter-api
+5	#DEP#com.google.mug:mug-root
+6	#DEP#com.google.guava:guava
+7	#DEP#org.powermock:powermock-api-mockito2
+8	#DEP#${project.groupId}:mug
+9	#DEP#com.google.caliper:caliper
+10	#DEP#junit:junit
+11	#DEP#com.google.truth:truth

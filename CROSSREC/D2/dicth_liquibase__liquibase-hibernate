@@ -1,0 +1,15 @@
+1	git://github.com/liquibase/liquibase-hibernate.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.hibernate:hibernate-entitymanager
+6	#DEP#org.springframework:spring-beans
+7	#DEP#org.springframework:spring-orm
+8	#DEP#org.springframework:spring-jdbc
+9	#DEP#org.hibernate:hibernate-envers
+10	#DEP#org.hibernate:hibernate-core
+11	#DEP#org.liquibase:liquibase-core
+12	#DEP#org.springframework:spring-test
+13	#DEP#junit:junit
+14	#DEP#org.hsqldb:hsqldb
+15	#DEP#com.h2database:h2

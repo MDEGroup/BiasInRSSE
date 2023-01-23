@@ -1,0 +1,7 @@
+1	#DEP#uk.org.lidalia:lidalia-slf4j-ext
+1	#DEP#${project.groupId}:jutils
+1	#DEP#uk.ac.ebi.fg.biosd:biosd_deploy
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

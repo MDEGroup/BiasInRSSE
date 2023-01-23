@@ -1,0 +1,2 @@
+10	#DEP#org.eclipse.jetty:jetty-client
+11	#DEP#org.eclipse.jetty:jetty-servlet

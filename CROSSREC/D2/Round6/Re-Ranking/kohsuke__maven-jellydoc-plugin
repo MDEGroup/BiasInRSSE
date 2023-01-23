@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#${project.groupId}:${project.artifactId}	1.0
+#DEP#org.liquibase.samples:liquibase-ext-sqlgenerator	1.0
+#DEP#net.erdfelt.android.sdkfido:sdkfido	1.0
+#DEP#org.liquibase.samples:liquibase-ext-change	1.0
+#DEP#net.erdfelt.android.sdkfido:sdkfido-parent	1.0

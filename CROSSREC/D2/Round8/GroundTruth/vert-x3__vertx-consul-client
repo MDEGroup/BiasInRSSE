@@ -1,0 +1,11 @@
+1	#DEP#io.vertx:vertx-lang-ruby
+1	#DEP#io.vertx:vertx-core
+1	#DEP#io.vertx:vertx-lang-js
+1	#DEP#io.vertx:vertx-web-client
+1	#DEP#com.pszymczyk.consul:embedded-consul
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-lang-groovy
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.vertx:vertx-ext-parent
+1	#DEP#org.slf4j:slf4j-jdk14

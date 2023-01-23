@@ -1,0 +1,11 @@
+1	git://github.com/games647/Minefana.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#org.spigotmc:spigot-api
+4	#DEP#io.github.protocolsupport:protocolsupport
+5	#DEP#org.spongepowered:spongeapi
+6	#DEP#net.md-5:bungeecord-api
+7	#DEP#com.google.guava:guava
+8	#DEP#net.md-5:bungeecord-config
+9	#DEP#org.influxdb:influxdb-java
+10	#DEP#com.maxmind.geoip2:geoip2
+11	#DEP#org.slf4j:slf4j-jdk14

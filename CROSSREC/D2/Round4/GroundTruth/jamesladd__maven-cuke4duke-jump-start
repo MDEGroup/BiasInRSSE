@@ -1,0 +1,4 @@
+1	#DEP#hsqldb:hsqldb
+1	#DEP#junit:junit
+1	#DEP#org.seleniumhq.selenium:selenium-chrome-driver
+1	#DEP#cuke4duke:cuke4duke

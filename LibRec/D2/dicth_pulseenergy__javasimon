@@ -1,0 +1,12 @@
+1	git://github.com/pulseenergy/javasimon.git
+2	#DEP#org.springframework:spring-aop
+3	#DEP#org.javasimon:javasimon-parent
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.javasimon:javasimon-jdbc4
+6	#DEP#org.testng:testng
+7	#DEP#org.aspectj:aspectjrt
+8	#DEP#org.javasimon:javasimon-core
+9	#DEP#org.springframework:spring-core
+10	#DEP#org.mvel:mvel2
+11	#DEP#com.h2database:h2
+12	#DEP#javax:javaee-api

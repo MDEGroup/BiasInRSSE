@@ -1,0 +1,9 @@
+36	#DEP#io.netty:netty-buffer
+37	#DEP#org.apache.poi:poi
+38	#DEP#org.jumbune:examples-usregionportouts
+39	#DEP#javax.servlet:servlet-api
+40	#DEP#org.jumbune:jumbune-debugger
+41	#DEP#org.jumbune:jumbune-rumen
+42	#DEP#commons-fileupload:commons-fileupload
+43	#DEP#org.jumbune:jumbune-examples
+44	#DEP#junit:junit

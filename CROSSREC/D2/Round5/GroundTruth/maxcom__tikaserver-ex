@@ -1,0 +1,7 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+1	#DEP#com.sun.jersey:jersey-server

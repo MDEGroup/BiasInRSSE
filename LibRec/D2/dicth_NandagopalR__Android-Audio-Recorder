@@ -1,0 +1,9 @@
+1	git://github.com/NandagopalR/Android-Audio-Recorder.git
+2	#DEP#com.android.support:preference-v14
+3	#DEP#org.apache.commons:commons-math3
+4	#DEP#com.github.axet:android-library
+5	#DEP#com.google.android.gms:play-services-appindexing
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

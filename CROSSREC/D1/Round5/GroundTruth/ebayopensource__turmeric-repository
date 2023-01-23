@@ -1,0 +1,14 @@
+59	#DEP#org.wso2.carbon:org.wso2.carbon.logging
+60	#DEP#org.apache.felix:org.osgi.core
+61	#DEP#org.osgi.core:org.osgi.core
+62	#DEP#org.eclipse.jetty:jetty-server
+63	#DEP#net.sf.saxon:saxon-xqj
+64	#DEP#org.wso2.carbon:wso2carbon-core
+65	#DEP#org.eclipse.jetty:jetty-servlet
+66	#DEP#org.wso2.carbon:org.wso2.carbon.tomcat
+67	#DEP#org.ebayopensource.turmeric.runtime:soa-server
+68	#DEP#org.slf4j:slf4j-log4j12
+69	#DEP#org.apache.ws.commons.axiom:axiom-impl
+70	#DEP#org.ebayopensource.turmeric.typelib:common-type-library
+71	#DEP#org.apache.xalan:xalan
+72	#DEP#org.ebayopensource.turmeric.repository:repository-service-support

@@ -1,0 +1,10 @@
+1	git://github.com/lexburner/zuul-gateway-demo.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+5	#DEP#org.springframework.cloud:spring-cloud-dependencies
+6	#DEP#com.sinosoft:zuul-gateway-demo
+7	#DEP#com.googlecode.log4jdbc:log4jdbc
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.springframework.boot:spring-boot-starter-web

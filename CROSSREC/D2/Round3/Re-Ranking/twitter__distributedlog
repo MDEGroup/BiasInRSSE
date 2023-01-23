@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#org.eclipse.jetty:jetty-servlet	1.0
+#DEP#com.twitter.common:stats-jvm	1.0
+#DEP#com.twitter.common:stats-time-series	1.0

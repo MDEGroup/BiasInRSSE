@@ -1,0 +1,9 @@
+1	git://github.com/proninyaroslav/libretorrent.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.takisoft.fix:preference-v7
+4	#DEP#com.github.aakira:expandable-layout
+5	#DEP#com.github.clans:fab
+6	#DEP#com.github.yukuku:ambilwarna
+7	#DEP#junit:junit
+8	#DEP#com.faendir:acra
+9	#DEP#net.grandcentrix.tray:tray

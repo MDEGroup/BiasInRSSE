@@ -1,0 +1,7 @@
+31	#DEP#org.openrdf.sesame:sesame-sail-memory
+32	#DEP#com.fasterxml.jackson.core:jackson-databind
+33	#DEP#org.openrdf.sesame:sesame-rio-rdfxml
+34	#DEP#com.tinkerpop.blueprints:blueprints-sparksee-graph
+35	#DEP#com.tinkerpop.rexster:rexster-core
+36	#DEP#org.openrdf.sesame:sesame-repository-sail
+37	#DEP#org.openrdf.sesame:sesame-queryparser-sparql

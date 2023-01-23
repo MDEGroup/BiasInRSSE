@@ -1,0 +1,2 @@
+11	#DEP#bouncycastle:bcprov-jdk15
+12	#DEP#junit:junit

@@ -1,0 +1,4 @@
+1	#DEP#com.orhanobut:hawk
+1	#DEP#com.android.support.test:runner
+1	#DEP#joda-time:joda-time
+1	#DEP#io.paperdb:paperdb

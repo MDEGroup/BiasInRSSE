@@ -1,0 +1,8 @@
+1	#DEP#com.alibaba:druid
+1	#DEP#net.sourceforge.csvjdbc:csvjdbc
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#com.microsoft.sqlserver:sqljdbc4
+1	#DEP#com.oracle:ojdbc14
+1	#DEP#cglib:cglib

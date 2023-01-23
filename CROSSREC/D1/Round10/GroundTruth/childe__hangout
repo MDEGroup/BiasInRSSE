@@ -1,0 +1,5 @@
+23	#DEP#org.jruby.jcodings:jcodings
+24	#DEP#org.scala-lang:scala-library
+25	#DEP#ctrip:hangout-filters-add
+26	#DEP#commons-collections:commons-collections
+27	#DEP#org.elasticsearch.client:transport

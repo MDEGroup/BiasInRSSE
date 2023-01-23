@@ -1,0 +1,6 @@
+1	#DEP#org.skyscreamer:jsonassert
+1	#DEP#net.javacrumbs.json-unit:json-unit-fluent
+1	#DEP#org.projectlombok:lombok
+1	#DEP#io.springfox:springfox-swagger2
+1	#DEP#com.lordofthejars:nosqlunit-mongodb
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,2 @@
+10	#DEP#io.jsonwebtoken:jjwt
+11	#DEP#com.h2database:h2

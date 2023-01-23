@@ -1,0 +1,10 @@
+1	git://github.com/trotzig/Taco.git
+2	#DEP#com.google.appengine:appengine-api-1.0-sdk
+3	#DEP#org.apache.lucene:lucene-snowball
+4	#DEP#com.google.gwt:gwt
+5	#DEP#com.google.gwt:gwt-user
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#commons-fileupload:commons-fileupload
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit

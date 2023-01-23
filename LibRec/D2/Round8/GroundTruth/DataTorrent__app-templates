@@ -1,0 +1,12 @@
+1	#DEP#org.apache.apex:malhar-kafka
+1	#DEP#commons-dbutils:commons-dbutils
+1	#DEP#info.batey.kafka:kafka-unit
+1	#DEP#com.github.fge:json-schema-validator
+1	#DEP#org.apache.kafka:kafka_2.11
+1	#DEP#org.codehaus.janino:janino
+1	#DEP#net.sf.supercsv:super-csv
+1	#DEP#org.jooq:jooq
+1	#DEP#org.apache.apex:apex-common
+1	#DEP#org.apache.apex:apex-engine
+1	#DEP#org.apache.kafka:kafka_2.8.2
+1	#DEP#junit:junit

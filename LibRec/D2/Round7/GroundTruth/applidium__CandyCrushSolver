@@ -1,0 +1,6 @@
+1	#DEP#javax.annotation:javax.annotation-api
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#:libs
+1	#DEP#junit:junit
+1	#DEP#net.hockeyapp.android:HockeySDK
+1	#DEP#com.google.dagger:dagger

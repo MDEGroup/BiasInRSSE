@@ -1,0 +1,17 @@
+1	git://github.com/Collabinate/Collabinate.git
+2	#DEP#org.apache.logging.log4j:log4j-core
+3	#DEP#commons-beanutils:commons-beanutils
+4	#DEP#com.google.code.gson:gson
+5	#DEP#joda-time:joda-time
+6	#DEP#com.lmax:disruptor
+7	#DEP#commons-configuration:commons-configuration
+8	#DEP#com.tinkerpop.blueprints:blueprints-neo4j2-graph
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#org.restlet.jse:org.restlet.ext.slf4j
+11	#DEP#org.restlet.jse:org.restlet
+12	#DEP#org.restlet.jse:org.restlet.ext.jetty
+13	#DEP#org.apache.commons:commons-collections4
+14	#DEP#com.google.guava:guava
+15	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+16	#DEP#junit:junit
+17	#DEP#org.restlet.jse:org.restlet.ext.jackson

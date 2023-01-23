@@ -1,0 +1,16 @@
+1	git://github.com/kohsuke/github-api.git
+2	#DEP#org.kohsuke:pom
+3	#DEP#commons-io:commons-io
+4	#DEP#com.infradna.tool:bridge-method-annotation
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.mockito:mockito-all
+7	#DEP#commons-lang:commons-lang
+8	#DEP#org.eclipse.jgit:org.eclipse.jgit
+9	#DEP#commons-codec:commons-codec
+10	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+11	#DEP#com.google.code.findbugs:annotations
+12	#DEP#org.kohsuke.stapler:stapler-jetty
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#junit:junit
+15	#DEP#org.kohsuke:wordnet-random-name
+16	#DEP#com.squareup.okhttp:okhttp-urlconnection

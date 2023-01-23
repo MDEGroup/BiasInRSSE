@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#junit:junit	1.0
+#DEP#org.apache.hbase:hbase	1.0
+#DEP#commons-httpclient:commons-httpclient	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#terrastore-javaclient:terrastore-javaclient	1.0
+#DEP#org.clojars.amit:riak-client	1.0
+#DEP#com.ericsson.otp.erlang:otperlang	1.0

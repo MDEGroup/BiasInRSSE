@@ -1,0 +1,15 @@
+1	git://github.com/databricks/learning-spark.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#org.apache.spark:spark-mllib_2.10
+4	#DEP#com.datastax.spark:spark-cassandra-connector_2.10
+5	#DEP#org.scalatest:scalatest_${scala.binary.version}
+6	#DEP#org.apache.spark:spark-core_2.10
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#org.apache.spark:spark-streaming-kafka_2.10
+10	#DEP#org.apache.spark:spark-streaming_2.10
+11	#DEP#org.elasticsearch:elasticsearch-hadoop-mr
+12	#DEP#org.apache.spark:spark-sql_2.10
+13	#DEP#com.datastax.spark:spark-cassandra-connector-java_2.10
+14	#DEP#org.apache.spark:spark-hive_2.10
+15	#DEP#org.eclipse.jetty:jetty-client

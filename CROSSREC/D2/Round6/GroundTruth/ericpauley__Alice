@@ -1,0 +1,4 @@
+1	#DEP#gnu.getopt:java-getopt
+1	#DEP#net.java.jogl:jogl
+1	#DEP#jython:jython
+1	#DEP#org.objectweb.joram:jftp

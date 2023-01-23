@@ -1,0 +1,10 @@
+1	#DEP#org.jenkins-ci:jenkins
+1	#DEP#com.google.code.findbugs:annotations
+1	#DEP#args4j:args4j
+1	#DEP#org.jvnet.hudson:test-annotations
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.mojo:animal-sniffer-annotations

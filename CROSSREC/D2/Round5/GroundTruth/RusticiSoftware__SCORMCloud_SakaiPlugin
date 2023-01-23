@@ -1,0 +1,16 @@
+1	#DEP#easymock:easymock
+1	#DEP#taglibs:standard
+1	#DEP#com.rusticisoftware.scormcloud:scormcloud-api
+1	#DEP#org.sakaiproject:generic-dao
+1	#DEP#org.sakaiproject:sakai-jsp-adapter
+1	#DEP#org.sakaiproject:sakai-assignment-api
+1	#DEP#com.rusticisoftware.hostedengine.client:scormcloud-java-lib
+1	#DEP#org.sakaiproject.kernel:sakai-component-manager
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.rusticisoftware.scormcloud:scormcloud-impl
+1	#DEP#javax.servlet:jstl
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.sakaiproject.entitybroker:entitybroker-utils
+1	#DEP#org.sakaiproject.edu-services.gradebook:gradebook-service-api
+1	#DEP#org.sakaiproject.kernel:sakai-kernel-api

@@ -1,0 +1,12 @@
+1	#DEP#org.glassfish.jersey.core:jersey-client
+1	#DEP#net.sf.openymsg:openymsg
+1	#DEP#xmlrpc:xmlrpc
+1	#DEP#org.xmpp:jnsapi
+1	#DEP#javax.sip:jain-sip-api
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#dwr:dwr
+1	#DEP#org.picocontainer:picocontainer
+1	#DEP#org.igniterealtime.openfire:parent
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.json:json
+1	#DEP#junit:junit

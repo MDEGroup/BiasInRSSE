@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.security:spring-security-web
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.springframework.ldap:spring-ldap-core
+1	#DEP#org.jahia.modules:jahia-modules
+1	#DEP#org.springframework.data:spring-data-commons

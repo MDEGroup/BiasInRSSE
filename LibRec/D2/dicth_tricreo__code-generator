@@ -1,0 +1,12 @@
+1	git://github.com/tricreo/code-generator.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#commons-io:commons-io
+4	#DEP#freemarker:freemarker
+5	#DEP#org.apache.velocity:velocity
+6	#DEP#org.mockito:mockito-core
+7	#DEP#net.arnx.jsonic:jsonic
+8	#DEP#velocity-tools:velocity-tools-generic
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#junit:junit
+12	#DEP#commons-lang:commons-lang

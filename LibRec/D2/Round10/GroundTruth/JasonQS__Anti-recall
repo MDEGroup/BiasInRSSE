@@ -1,0 +1,7 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+1	#DEP#com.android.support.test.espresso:espresso-core

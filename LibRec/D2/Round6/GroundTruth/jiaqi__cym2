@@ -1,0 +1,12 @@
+1	#DEP#dom4j:dom4j
+1	#DEP#com.amazonaws:aws-java-sdk-s3
+1	#DEP#org.apache.maven.wagon:wagon-provider-api
+1	#DEP#org.apache.maven:maven-plugin-tools-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#classworlds:classworlds
+1	#DEP#org.apache.maven.wagon:wagon-provider-test
+1	#DEP#velocity:velocity-dep
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.cyclopsgroup:caff
+1	#DEP#com.amazonaws:aws-java-sdk-core
+1	#DEP#junit:junit

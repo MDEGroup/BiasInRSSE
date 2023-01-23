@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.javassist:javassist	1.0
+#DEP#com.adobe.flex.framework:flex-framework	1.0
+#DEP#com.samskivert:depot	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#com.threerings:aspirin	1.0
+#DEP#com.threerings:gwt-utils	1.0
+#DEP#com.adobe:as3corelib	1.0
+#DEP#org.osflash:signals	1.0

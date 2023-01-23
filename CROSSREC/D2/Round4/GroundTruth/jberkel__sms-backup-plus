@@ -1,0 +1,6 @@
+1	#DEP#com.squareup:otto
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#com.github.jberkel.k-9:k9mail-library
+1	#DEP#com.android.support:preference-v7
+1	#DEP#com.google.truth:truth

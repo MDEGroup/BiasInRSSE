@@ -1,0 +1,11 @@
+1	git://github.com/prabhakar267/aware.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.google.android.gms:play-services-location
+5	#DEP#com.github.rey5137:material
+6	#DEP#com.google.android.gms:play-services-places
+7	#DEP#com.google.android.gms:play-services-maps
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#me.itangqi.waveloadingview:library
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design

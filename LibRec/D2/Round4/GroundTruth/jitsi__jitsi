@@ -1,0 +1,17 @@
+1	#DEP#org.abstractj.libmatthew:unix
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#${project.groupId}:jitsi-util
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#${project.groupId}:jitsi-protocol-media
+1	#DEP#${project.groupId}:ice4j
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.abstractj.libmatthew:hexdump
+1	#DEP#org.abstractj.libmatthew:libunix
+1	#DEP#org.opentelecoms.sdp:java-sdp-nist-bridge
+1	#DEP#com.yuvimasory:orange-extensions
+1	#DEP#org.jitsi:jitsi-universe
+1	#DEP#net.java.dev.laf-widget:laf-widget
+1	#DEP#org.igniterealtime.smack:smack
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.felix:org.apache.felix.main
+1	#DEP#org.igniterealtime.smack:smackx

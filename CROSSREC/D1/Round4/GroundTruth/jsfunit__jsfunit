@@ -1,0 +1,14 @@
+59	#DEP#org.jboss.jsfunit:icefaces-demo-address
+60	#DEP#org.jboss.spec.javax.faces:jboss-jsf-api_2.1_spec
+61	#DEP#org.jboss.arquillian.container:arquillian-container-test-spi
+62	#DEP#cactus:cactus
+63	#DEP#net.sourceforge.nekohtml:nekohtml
+64	#DEP#org.hibernate:hibernate-validator
+65	#DEP#org.jboss.jsfunit:jsfunit-cactus
+66	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+67	#DEP#org.slf4j:slf4j-log4j12
+68	#DEP#maven-taglib:maven-taglib-plugin
+69	#DEP#de.odysseus.juel:juel
+70	#DEP#xerces:xercesImpl
+71	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+72	#DEP#commons-digester:commons-digester

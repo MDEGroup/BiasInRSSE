@@ -1,0 +1,10 @@
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.lucene:lucene-core	1.0
+#DEP#edu.washington.cs.knowitall:opennlp-sent-models	1.0
+#DEP#edu.washington.cs.knowitall:reverb-models	1.0
+#DEP#edu.washington.cs.knowitall:common-java	1.0
+#DEP#edu.washington.cs.knowitall:morpha-stemmer	1.0

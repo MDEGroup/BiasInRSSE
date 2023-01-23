@@ -1,0 +1,15 @@
+1	git://github.com/Fob/Commons-SSH.git
+2	#DEP#commons-logging:commons-logging
+3	#DEP#sshtools:j2ssh-core
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#com.jcraft:jsch
+6	#DEP#org.bouncycastle:bcprov-jdk16
+7	#DEP#org.slf4j:slf4j-jcl
+8	#DEP#commons-lang:commons-lang
+9	#DEP#ch.ethz.ganymed:ganymed-ssh2
+10	#DEP#commons-codec:commons-codec
+11	#DEP#com.intellij:annotations
+12	#DEP#org.hamcrest:hamcrest-all
+13	#DEP#org.apache.sshd:sshd-core
+14	#DEP#junit:junit
+15	#DEP#org.apache.commons:commons-vfs2

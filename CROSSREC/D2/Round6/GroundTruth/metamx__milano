@@ -1,0 +1,6 @@
+1	#DEP#com.metamx:milano
+1	#DEP#jline:jline
+1	#DEP#org.apache.pig:pig
+1	#DEP#log4j:log4j
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

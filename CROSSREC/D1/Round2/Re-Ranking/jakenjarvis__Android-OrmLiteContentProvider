@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.roboguice:roboguice	1.0
+#DEP#com.octo.android.robospice:robospice-spring-android	1.0
+#DEP#com.octo.android.robospice:robospice-ui-spicelist	1.0
+#DEP#com.octo.android.robospice:robospice-retrofit	1.0
+#DEP#com.actionbarsherlock:actionbarsherlock	1.0
+#DEP#com.octo.android.robospice:robospice-okhttp	1.0
+#DEP#com.octo.android.robospice:robospice-ormlite	1.0
+#DEP#com.jakewharton:notificationcompat2	1.0

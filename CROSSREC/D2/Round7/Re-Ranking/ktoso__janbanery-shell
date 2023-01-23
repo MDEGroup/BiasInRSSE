@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.eclipse.jetty:jetty-server	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#jnotify:jnotify	1.0

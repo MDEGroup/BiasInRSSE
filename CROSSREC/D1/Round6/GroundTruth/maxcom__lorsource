@@ -1,0 +1,14 @@
+59	#DEP#org.springframework:spring-beans
+60	#DEP#com.fasterxml.jackson.core:jackson-databind
+61	#DEP#org.scala-lang:scala-reflect
+62	#DEP#org.apache.activemq:activemq-client
+63	#DEP#org.springframework:spring-web
+64	#DEP#org.jsoup:jsoup
+65	#DEP#org.springframework:spring-context-support
+66	#DEP#javax.servlet:javax.servlet-api
+67	#DEP#commons-fileupload:commons-fileupload
+68	#DEP#javax.servlet:jstl
+69	#DEP#org.webjars:jquery
+70	#DEP#org.ow2.asm:asm-commons
+71	#DEP#org.apache.commons:commons-text
+72	#DEP#com.typesafe.scala-logging:scala-logging_${scala.suffix}

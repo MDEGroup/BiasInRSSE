@@ -1,0 +1,9 @@
+1	git://github.com/timtebeek/graphql-jpa-spring-boot-starter.git
+2	#DEP#com.graphql-java:graphql-java
+3	#DEP#com.crygier:graphql-jpa
+4	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.projectlombok:lombok
+7	#DEP#io.spring.platform:platform-bom
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.hsqldb:hsqldb

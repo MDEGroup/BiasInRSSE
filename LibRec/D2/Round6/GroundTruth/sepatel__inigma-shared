@@ -1,0 +1,13 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#com.google.guava:guava
+1	#DEP#com.jolbox:bonecp
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.inigma.shared:inigma-web
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.springframework.data:spring-data-mongodb
+1	#DEP#org.springframework:spring-core
+1	#DEP#${project.groupId}:inigma-jdbc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

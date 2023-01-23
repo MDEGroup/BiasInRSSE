@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.guava:guava
+1	#DEP#com.google.collections:google-collections
+1	#DEP#org.antlr:antlr
+1	#DEP#com.google.protobuf:protobuf-java

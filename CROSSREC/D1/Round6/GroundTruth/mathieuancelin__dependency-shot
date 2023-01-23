@@ -1,0 +1,7 @@
+31	#DEP#org.swinglabs:swing-layout
+32	#DEP#org.apache.felix:org.apache.felix.bundlerepository
+33	#DEP#org.apache.felix:org.apache.felix.shell
+34	#DEP#org.apache.felix.gogo:org.apache.felix.gogo.commands
+35	#DEP#javax.servlet:servlet-api
+36	#DEP#javax.servlet:jstl
+37	#DEP#aopalliance:aopalliance

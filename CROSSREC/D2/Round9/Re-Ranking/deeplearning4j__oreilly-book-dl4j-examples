@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.commons:commons-math3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.deeplearning4j:deeplearning4j-core	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.deeplearning4j:deeplearning4j-parallel-wrapper_${scala.binary.version}	1.0
+#DEP#org.campagnelab.dl:variation-analysis	1.0

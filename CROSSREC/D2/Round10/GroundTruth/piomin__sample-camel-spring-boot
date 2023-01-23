@@ -1,0 +1,5 @@
+1	#DEP#org.apache.camel:camel-netty4-http
+1	#DEP#pl.piomin.services:sample-camel-spring-boot
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.apache.camel:camel-consul-starter
+1	#DEP#org.apache.camel:camel-http

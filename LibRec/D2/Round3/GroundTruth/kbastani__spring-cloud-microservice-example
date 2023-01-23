@@ -1,0 +1,14 @@
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+1	#DEP#com.vaadin:vaadin-spring-boot-starter
+1	#DEP#joda-time:joda-time
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.cloud:spring-cloud-consul-config
+1	#DEP#org.springframework.data:spring-data-neo4j
+1	#DEP#org.springframework.cloud:spring-cloud-netflix-sidecar
+1	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+1	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard
+1	#DEP#org.springframework.cloud:spring-cloud-config-server
+1	#DEP#org.springframework.hateoas:spring-hateoas
+1	#DEP#org.springframework.cloud:spring-cloud-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

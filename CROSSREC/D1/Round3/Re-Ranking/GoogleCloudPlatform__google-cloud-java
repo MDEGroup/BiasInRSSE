@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.google.api-client:google-api-client	1.0
+#DEP#com.google.http-client:google-http-client	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.apache.beam:beam-sdks-java-io-hbase	1.0
+#DEP#org.apache.beam:beam-sdks-java-core	1.0
+#DEP#org.apache.beam:beam-sdks-java-io-hadoop-file-system	1.0
+#DEP#org.apache.hbase:hbase-mapreduce	1.0
+#DEP#${project.groupId}:bigtable-hbase	1.0
+#DEP#com.google.cloud.bigtable:bigtable-client-core-parent	1.0

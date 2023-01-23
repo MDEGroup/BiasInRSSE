@@ -1,0 +1,13 @@
+1	git://github.com/androidthings/drivers-samples.git
+2	#DEP#com.google.android.things.contrib:driver-gps
+3	#DEP#com.google.android.things.contrib:driver-ht16k33
+4	#DEP#com.google.android.things.contrib:driver-bmx280
+5	#DEP#com.google.android.things.contrib:driver-apa102
+6	#DEP#com.google.android.things:androidthings
+7	#DEP#com.google.android.things.contrib:driver-pwmservo
+8	#DEP#com.google.android.things.contrib:driver-cap12xx
+9	#DEP#com.google.android.things.contrib:driver-matrixkeypad
+10	#DEP#com.google.android.things.contrib:driver-tm1637
+11	#DEP#com.google.android.things.contrib:driver-pwmspeaker
+12	#DEP#com.google.android.things.contrib:driver-mma7660fc
+13	#DEP#com.google.android.things.contrib:driver-ssd1306

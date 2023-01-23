@@ -1,0 +1,13 @@
+1	git://github.com/endymuhardin/belajar-spring.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#commons-logging:commons-logging
+4	#DEP#org.slf4j:log4j-over-slf4j
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.aspectj:aspectjweaver
+9	#DEP#cglib:cglib-nodep
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#junit:junit
+13	#DEP#org.aspectj:aspectjrt

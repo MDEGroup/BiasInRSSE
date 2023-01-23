@@ -1,0 +1,6 @@
+1	#DEP#org.powermock:powermock-classloading-xstream
+1	#DEP#net.praqma:praqma-parent
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#net.praqma:praqmajutils
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,11 @@
+1	#DEP#org.eclipse.rdf4j:rdf4j-model
+1	#DEP#org.eclipse.rdf4j:rdf4j-repository-sail
+1	#DEP#${project.groupId}:halyard-common
+1	#DEP#org.eclipse.rdf4j:rdf4j-rio-ntriples
+1	#DEP#org.apache.hadoop:hadoop-yarn-server-resourcemanager
+1	#DEP#org.apache.hive.hcatalog:hive-hcatalog-core
+1	#DEP#${project.groupId}:halyard-sdk
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.json:json
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-hs

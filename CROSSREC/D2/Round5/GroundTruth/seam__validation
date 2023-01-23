@@ -1,0 +1,13 @@
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#org.jboss.spec.javax.el:jboss-el-api_2.2_spec
+1	#DEP#org.jboss.seam.validation:seam-validation-api
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.jboss.seam:seam-bom
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#org.mortbay.jetty:jetty-plus
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss.seam.validation:seam-validation-reference-guide
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	git://github.com/remind101/auto-value-realm.git
+2	#DEP#com.google.auto.value:auto-value
+3	#DEP#com.google.auto:auto-common
+4	#DEP#com.google.testing.compile:compile-testing
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.auto.service:auto-service
+8	#DEP#junit:junit
+9	#DEP#com.google.truth:truth

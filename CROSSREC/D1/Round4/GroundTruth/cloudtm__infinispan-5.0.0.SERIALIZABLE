@@ -1,0 +1,16 @@
+66	#DEP#org.hibernate:hibernate-annotations
+67	#DEP#commons-dbcp:commons-dbcp
+68	#DEP#org.springframework:spring-expression
+69	#DEP#org.hibernate:hibernate-core
+70	#DEP#mc4j:org-mc4j-ems
+71	#DEP#com.intellij:forms_rt
+72	#DEP#org.jboss:jboss-common-core
+73	#DEP#org.infinispan:infinispan-client-hotrod
+74	#DEP#${project.groupId}:infinispan-server-core
+75	#DEP#org.rhq:rhq-core-domain
+76	#DEP#net.jcip:jcip-annotations
+77	#DEP#${project.groupId}:infinispan-core
+78	#DEP#commons-pool:commons-pool
+79	#DEP#javax.servlet:servlet-api
+80	#DEP#javax.servlet:jstl
+81	#DEP#${project.groupId}:infinispan-client-hotrod

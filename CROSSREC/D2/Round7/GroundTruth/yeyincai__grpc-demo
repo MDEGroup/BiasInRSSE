@@ -1,0 +1,5 @@
+1	#DEP#io.grpc:grpc-netty
+1	#DEP#io.netty:netty-tcnative-boringssl-static
+1	#DEP#io.grpc:grpc-stub
+1	#DEP#io.netty:netty-tcnative
+1	#DEP#com.linkedin.parseq:parseq

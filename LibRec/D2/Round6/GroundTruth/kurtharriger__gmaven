@@ -1,0 +1,14 @@
+1	#DEP#org.codehaus.gmaven.examples:gmaven-examples
+1	#DEP#org.codehaus.gmaven.runtime:gmaven-runtime-api
+1	#DEP#org.codehaus.gmaven:gmaven
+1	#DEP#org.codehaus.plexus:plexus-digest
+1	#DEP#org.codehaus.gmaven:gmaven-mojo
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.codehaus.gmaven.it.gmaven-plugin.compile:common
+1	#DEP#org.codehaus.gmaven.feature:gmaven-feature-api
+1	#DEP#org.codehaus.gmaven.runtime:gmaven-runtime-support
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.gmaven.archetypes:gmaven-archetypes
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#org.apache.maven:maven-plugin-descriptor
+1	#DEP#org.codehaus.groovy:groovy-all-minimal

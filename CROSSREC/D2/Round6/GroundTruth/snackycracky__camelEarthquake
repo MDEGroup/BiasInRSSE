@@ -1,0 +1,5 @@
+1	#DEP#org.apache.camel:camel-rss
+1	#DEP#org.apache.camel:camel-spring
+1	#DEP#org.apache.activemq:activemq-camel
+1	#DEP#org.apache.camel:camel-http
+1	#DEP#org.apache.activemq:activemq-core

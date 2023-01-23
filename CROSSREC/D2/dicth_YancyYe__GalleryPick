@@ -1,0 +1,9 @@
+1	git://github.com/YancyYe/GalleryPick.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.facebook.fresco:fresco
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.yalantis:ucrop
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit

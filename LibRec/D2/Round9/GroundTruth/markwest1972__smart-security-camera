@@ -1,0 +1,5 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.amazonaws:aws-java-sdk-ses
+1	#DEP#junit:junit
+1	#DEP#com.amazonaws:aws-lambda-java-core
+1	#DEP#com.sun.mail:javax.mail

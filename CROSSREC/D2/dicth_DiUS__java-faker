@@ -1,0 +1,12 @@
+1	git://github.com/DiUS/java-faker.git
+2	#DEP#org.reflections:reflections
+3	#DEP#com.github.mifmif:generex
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.yaml:snakeyaml
+8	#DEP#org.slf4j:slf4j-simple
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#junit:junit
+12	#DEP#commons-validator:commons-validator

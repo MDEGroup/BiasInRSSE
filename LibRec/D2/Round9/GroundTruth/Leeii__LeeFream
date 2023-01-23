@@ -1,0 +1,4 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.leeiidesu:permission-helper
+1	#DEP#junit:junit
+1	#DEP#org.simple:androideventbus

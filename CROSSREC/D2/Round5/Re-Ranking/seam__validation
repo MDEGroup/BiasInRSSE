@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jboss.arquillian.junit:arquillian-junit-container	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.jboss.seam:seam-bom	1.0
+#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven	1.0
+#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec	1.0
+#DEP#org.jboss.weld:weld-core	1.0
+#DEP#javax.validation:validation-api	1.0
+#DEP#org.jboss.spec.javax.el:jboss-el-api_2.2_spec	1.0
+#DEP#org.jboss.seam.persistence:seam-persistence-api	1.0

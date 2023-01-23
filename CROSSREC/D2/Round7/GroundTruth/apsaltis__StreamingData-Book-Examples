@@ -1,0 +1,6 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.clearspring.analytics:stream
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.storm:storm-kafka-client
+1	#DEP#org.rocksdb:rocksdbjni

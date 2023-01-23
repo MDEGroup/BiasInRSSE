@@ -1,0 +1,9 @@
+1	git://github.com/SolutionGuidance/psm.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#javax.xml.bind:jaxb-api
+4	#DEP#org.spockframework:spock-core
+5	#DEP#org.glassfish.jaxb:jaxb-xjc
+6	#DEP#org.glassfish.jaxb:jaxb-runtime
+7	#DEP#org.codehaus.groovy:groovy-all
+8	#DEP#junit:junit
+9	#DEP#net.serenity-bdd:serenity-cucumber

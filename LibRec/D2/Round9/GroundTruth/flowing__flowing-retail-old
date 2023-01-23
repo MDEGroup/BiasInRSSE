@@ -1,0 +1,11 @@
+1	#DEP#org.apache.kafka:kafka_2.11
+1	#DEP#org.glassfish:javax.json
+1	#DEP#io.flowing.retail:flowing-retail-shop
+1	#DEP#io.flowing.retail:flowing-retail-inventory
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.camunda.bpm:camunda-engine
+1	#DEP#io.flowing.retail:flowing-retail-payment
+1	#DEP#org.webjars:sockjs-client
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.webjars:jquery
+1	#DEP#com.h2database:h2

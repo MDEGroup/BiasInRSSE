@@ -1,0 +1,10 @@
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-jooq
+1	#DEP#org.jooq:joor
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.hibernate:hibernate-search-orm
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

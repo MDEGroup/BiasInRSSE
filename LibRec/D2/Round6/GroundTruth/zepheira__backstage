@@ -1,0 +1,9 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.openrdf.sesame:sesame-repository-api
+1	#DEP#com.whirlycott:whirlycache
+1	#DEP#org.openrdf.sesame:sesame-rio-api
+1	#DEP#edu.mit.simile:babel-engine
+1	#DEP#org.openrdf.sesame:sesame-rio-n3
+1	#DEP#edu.mit.simile:backstage-container
+1	#DEP#org.openrdf.sesame:sesame-repository-sail
+1	#DEP#edu.mit.simile:butterfly

@@ -1,0 +1,11 @@
+1	git://github.com/lishid/OpenInv.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#com.lishid:openinvparent
+4	#DEP#org.bukkit:craftbukkit
+5	#DEP#com.lishid:openinvpluginv1_10_r1
+6	#DEP#com.lishid:openinvinternal
+7	#DEP#org.spigotmc:spigot-api
+8	#DEP#com.lishid:openinvcommon
+9	#DEP#com.lishid:openinvplugin
+10	#DEP#org.spigotmc:spigot
+11	#DEP#com.lishid:openinvapi

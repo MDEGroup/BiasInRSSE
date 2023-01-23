@@ -1,0 +1,16 @@
+1	git://github.com/seratch/taskun.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.seasar.container:s2-extension
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.apache.geronimo.specs:geronimo-servlet_2.4_spec
+6	#DEP#org.mockito:mockito-all
+7	#DEP#org.springframework:spring-core
+8	#DEP#com.github.seratch.taskun:taskun-log4j-extension
+9	#DEP#com.google.inject:guice
+10	#DEP#com.github.seratch.taskun:taskun-servlet-extension
+11	#DEP#org.seasar.container:s2-tiger
+12	#DEP#org.seasar.container:s2-framework
+13	#DEP#org.springframework:spring-context-support
+14	#DEP#log4j:log4j
+15	#DEP#junit:junit
+16	#DEP#com.github.seratch.taskun:taskun-scheduler

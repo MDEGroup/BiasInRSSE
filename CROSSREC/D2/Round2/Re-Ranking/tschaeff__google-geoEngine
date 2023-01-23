@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.http-client:google-http-client	1.0
+#DEP#uk.co.inetria.appstart:appstart-common	1.0
+#DEP#uk.co.inetria.appstart:appstart-frontend	1.0
+#DEP#uk.co.inetria.appstart:appstart-backend	1.0

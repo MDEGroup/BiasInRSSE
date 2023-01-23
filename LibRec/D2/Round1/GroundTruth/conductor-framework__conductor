@@ -1,0 +1,7 @@
+1	#DEP#org.seleniumhq.selenium:selenium-ie-driver
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.seleniumhq.selenium:selenium-support
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.seleniumhq.selenium:selenium-safari-driver

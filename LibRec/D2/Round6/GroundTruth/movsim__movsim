@@ -1,0 +1,11 @@
+1	#DEP#org.movsim:MovsimXsd
+1	#DEP#org.jdom:jdom
+1	#DEP#log4j:log4j
+1	#DEP#org.movsim:MovsimCore
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#org.movsim:Movsim
+1	#DEP#org.movsim:MovsimCommon
+1	#DEP#org.movsim:MovsimConsumption
+1	#DEP#junit:junit
+1	#DEP#net.sf.jgrapht:jgrapht

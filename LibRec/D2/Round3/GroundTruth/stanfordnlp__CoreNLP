@@ -1,0 +1,9 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#org.glassfish:javax.json
+1	#DEP#com.io7m.xom:xom
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.apple:AppleJavaExtensions
+1	#DEP#de.jollyday:jollyday
+1	#DEP#junit:junit
+1	#DEP#com.pholser:junit-quickcheck-core

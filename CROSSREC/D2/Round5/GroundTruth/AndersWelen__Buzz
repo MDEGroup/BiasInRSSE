@@ -1,0 +1,6 @@
+1	#DEP#jboss:jboss-system
+1	#DEP#org.hibernate:hibernate-entitymanager
+1	#DEP#org.jboss.msc:jboss-msc
+1	#DEP#log4j:log4j
+1	#DEP#net.sf.jnrpe:jnrpe-lib
+1	#DEP#junit:junit

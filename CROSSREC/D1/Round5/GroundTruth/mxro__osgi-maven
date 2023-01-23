@@ -1,0 +1,6 @@
+28	#DEP#com.sun:tools
+29	#DEP#de.mxro.thrd.gwtuser24:thrdGWTUser24
+30	#DEP#msv:relaxngDatatype
+31	#DEP#org.w3c.tidy:jtidy
+32	#DEP#com.seanchenxi.gwt:gwt-storage
+33	#DEP#log4j:log4j

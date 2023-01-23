@@ -1,0 +1,9 @@
+1	#DEP#org.apache.openwebbeans:openwebbeans-web
+1	#DEP#org.apache.geronimo.specs:geronimo-interceptor_1.1_spec
+1	#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+1	#DEP#org.apache.myfaces.core:myfaces-impl
+1	#DEP#org.apache.openwebbeans:openwebbeans-spi
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.openwebbeans:openwebbeans-resource
+1	#DEP#org.apache.openwebbeans:openwebbeans-impl
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_3.0_spec

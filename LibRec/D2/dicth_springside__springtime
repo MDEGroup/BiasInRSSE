@@ -1,0 +1,17 @@
+1	git://github.com/springside/springtime.git
+2	#DEP#org.eclipse.jetty.http2:http2-server
+3	#DEP#org.assertj:assertj-core
+4	#DEP#io.springfox:springfox-swagger-ui
+5	#DEP#org.springframework.boot:spring-boot-starter-jetty
+6	#DEP#io.swagger:swagger-jaxrs
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#io.springfox:springfox-swagger2
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#io.swagger:swagger-core
+12	#DEP#com.google.guava:guava
+13	#DEP#org.apache.httpcomponents:fluent-hc
+14	#DEP#junit:junit
+15	#DEP#io.springside.springtime:springtime
+16	#DEP#org.springframework.boot:spring-boot-starter-actuator
+17	#DEP#cglib:cglib

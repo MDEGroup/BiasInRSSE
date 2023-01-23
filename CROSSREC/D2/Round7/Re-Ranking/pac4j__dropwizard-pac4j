@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.pac4j:pac4j-openid	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.pac4j:pac4j-oidc	1.0
+#DEP#org.pac4j:pac4j-cas	1.0
+#DEP#org.pac4j:pac4j-saml	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.pac4j:pac4j-mongo	1.0
+#DEP#org.pac4j:spring-security-pac4j	1.0

@@ -1,0 +1,4 @@
+1	#DEP#aspectj:aspectjrt
+1	#DEP#ajdttest:aspect
+1	#DEP#org.sonatype.forge:forge-parent
+1	#DEP#org.apache.maven:maven-core

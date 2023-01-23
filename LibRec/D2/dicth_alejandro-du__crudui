@@ -1,0 +1,17 @@
+1	git://github.com/alejandro-du/crudui.git
+2	#DEP#org.glassfish:javax.el
+3	#DEP#javax.validation:validation-api
+4	#DEP#org.apache.geronimo.specs:geronimo-validation_1.0_spec
+5	#DEP#org.hibernate:hibernate-validator
+6	#DEP#com.vaadin:vaadin-server
+7	#DEP#org.slf4j:slf4j-simple
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#commons-beanutils:commons-beanutils
+10	#DEP#com.vaadin:vaadin-client-compiled
+11	#DEP#org.hibernate:hibernate-core
+12	#DEP#com.vaadin:vaadin-themes
+13	#DEP#javax.servlet:javax.servlet-api
+14	#DEP#org.vaadin.jetty:jetty-vaadin
+15	#DEP#junit:junit
+16	#DEP#org.apache.bval:org.apache.bval.bundle
+17	#DEP#com.h2database:h2

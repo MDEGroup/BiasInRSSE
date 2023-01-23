@@ -1,0 +1,6 @@
+1	#DEP#com.espertech:esper
+1	#DEP#commons-dbutils:commons-dbutils
+1	#DEP#org.apache.storm:storm-kafka
+1	#DEP#com.alibaba.jstorm:jstorm-core
+1	#DEP#org.apache.kafka:kafka_2.11
+1	#DEP#ch.qos.logback:logback-classic

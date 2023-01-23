@@ -1,0 +1,6 @@
+1	#DEP#org.opensolaris.opengrok:jrcs
+1	#DEP#${project.groupId}:opengrok-indexer
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.bcel:bcel
+1	#DEP#org.opensolaris.opengrok:opengrok

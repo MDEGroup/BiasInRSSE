@@ -1,0 +1,5 @@
+1	#DEP#tv.danmaku.ijk.media:ijkplayer-x86
+1	#DEP#tv.danmaku.ijk.media:ijkplayer-armv5
+1	#DEP#com.android.support:multidex
+1	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+1	#DEP#junit:junit

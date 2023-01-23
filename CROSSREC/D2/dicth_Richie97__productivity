@@ -1,0 +1,9 @@
+1	git://github.com/Richie97/productivity.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.mindorks:placeholderview
+7	#DEP#junit:junit
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#com.google.dagger:dagger

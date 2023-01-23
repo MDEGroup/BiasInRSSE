@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-beans
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.elasticsearch:elasticsearch

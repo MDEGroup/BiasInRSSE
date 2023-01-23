@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.protobuf:protobuf-java	1.0
+#DEP#io.netty:netty-tcnative-boringssl-static	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.springframework.boot:spring-boot-starter	1.0
+#DEP#com.github.saturnism.spring-boot-starter-grpc:grpc-client-starter	1.0

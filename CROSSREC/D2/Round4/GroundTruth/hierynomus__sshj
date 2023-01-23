@@ -1,0 +1,7 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#yyyy-MM-dd'T'HH:mm
+1	#DEP#com.hierynomus:sshj
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#net.i2p.crypto:eddsa
+1	#DEP#org.apache.sshd:sshd-core
+1	#DEP#junit:junit

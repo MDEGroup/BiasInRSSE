@@ -1,0 +1,3 @@
+13	#DEP#junit:junit
+14	#DEP#nu.staldal.lsp:lsp-compiler
+15	#DEP#org.apache.bcel:bcel

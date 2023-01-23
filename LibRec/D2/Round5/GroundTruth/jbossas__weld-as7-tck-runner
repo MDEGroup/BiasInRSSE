@@ -1,0 +1,14 @@
+1	#DEP#org.jboss.arquillian.container:arquillian-container-spi
+1	#DEP#org.jboss.arquillian.core:arquillian-core-spi
+1	#DEP#org.jboss.jbossas.as7-cdi-tck:jbossas-container
+1	#DEP#org.jboss.weld:weld-core-bom
+1	#DEP#org.jboss.jsr299.tck:jsr299-tck-impl
+1	#DEP#org.jboss.arquillian.test:arquillian-test-impl-base
+1	#DEP#com.sun.facelets:jsf-facelets
+1	#DEP#org.jboss.as:jboss-as-arquillian-container-remote
+1	#DEP#org.jboss.test-harness:jboss-test-harness-api
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.test-harness:jboss-test-harness
+1	#DEP#org.glassfish.web:el-impl
+1	#DEP#org.jboss.arquillian.core:arquillian-core-impl-base

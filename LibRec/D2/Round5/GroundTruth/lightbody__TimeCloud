@@ -1,0 +1,5 @@
+1	#DEP#net.lightbody.timecloud:timecloud-api
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#net.lightbody.timecloud:parent
+1	#DEP#org.eclipse.jetty:jetty-servlet

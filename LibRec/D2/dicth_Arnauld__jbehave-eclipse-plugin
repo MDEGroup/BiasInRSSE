@@ -1,0 +1,9 @@
+1	git://github.com/Arnauld/jbehave-eclipse-plugin.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.jbehave:jbehave-core
+4	#DEP#org.functionaljava:functionaljava
+5	#DEP#commons-io:commons-io
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.testng:testng
+8	#DEP#com.google.guava:guava
+9	#DEP#org.mockito:mockito-all

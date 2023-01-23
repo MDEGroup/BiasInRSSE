@@ -1,0 +1,9 @@
+1	git://github.com/kinow/selenium2-base.git
+2	#DEP#commons-configuration:commons-configuration
+3	#DEP#org.tap4j:tap4j
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.seleniumhq.selenium:selenium-server
+6	#DEP#org.testng:testng
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#net.sourceforge.jexcelapi:jxl
+9	#DEP#org.slf4j:slf4j-log4j12

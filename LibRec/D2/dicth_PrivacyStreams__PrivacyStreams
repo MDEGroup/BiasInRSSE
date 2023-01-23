@@ -1,0 +1,12 @@
+1	git://github.com/PrivacyStreams/PrivacyStreams.git
+2	#DEP#com.google.android.gms:play-services-location
+3	#DEP#com.android.support:support-vector-drawable
+4	#DEP#org.greenrobot:eventbus
+5	#DEP#com.dropbox.core:dropbox-core-sdk
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.android.gms:play-services-vision
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design
+11	#DEP#com.android.databinding:compiler
+12	#DEP#com.google.android.gms:play-services

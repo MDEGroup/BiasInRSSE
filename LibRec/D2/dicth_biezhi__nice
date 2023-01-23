@@ -1,0 +1,9 @@
+1	git://github.com/biezhi/nice.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.alibaba:druid
+4	#DEP#com.bladejava:blade-mvc
+5	#DEP#com.bladejava:blade-jdbc
+6	#DEP#org.apache.commons:commons-email
+7	#DEP#org.projectlombok:lombok
+8	#DEP#com.bladejava:blade-validator
+9	#DEP#com.bladejava:blade-template-jetbrick

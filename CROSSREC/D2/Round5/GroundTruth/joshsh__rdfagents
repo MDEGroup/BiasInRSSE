@@ -1,0 +1,13 @@
+1	#DEP#net.fortytwo.rdfagents:rdfagents-demos
+1	#DEP#org.openrdf.sesame:sesame-rio-turtle
+1	#DEP#org.openrdf.sesame:sesame-sail-memory
+1	#DEP#net.fortytwo.rdfagents:rdfagents-core
+1	#DEP#org.openrdf.sesame:sesame-rio-trix
+1	#DEP#com.tilab.jade:jade
+1	#DEP#org.openrdf.sesame:sesame-rio-rdfxml
+1	#DEP#net.fortytwo:linked-data-sail
+1	#DEP#net.fortytwo.rdfagents:rdfagents-jade
+1	#DEP#org.openrdf.sesame:sesame-rio-rdfjson
+1	#DEP#com.tilab.jade:xmpp-mtp
+1	#DEP#junit:junit
+1	#DEP#org.openrdf.sesame:sesame-queryparser-sparql

@@ -1,0 +1,3 @@
+16	#DEP#org.apache.xbean:xbean-spring
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#org.apache.camel:camel-spring

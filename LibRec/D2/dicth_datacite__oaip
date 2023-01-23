@@ -1,0 +1,10 @@
+1	git://github.com/datacite/oaip.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#xalan:xalan
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#net.sourceforge.saxon:saxon
+7	#DEP#junit:junit
+8	#DEP#org.apache.solr:solr-solrj
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang

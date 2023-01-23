@@ -1,0 +1,10 @@
+1	git://github.com/edanuff/CassandraIndexedCollections.git
+2	#DEP#org.perf4j:perf4j
+3	#DEP#org.apache.cassandra:cassandra-all
+4	#DEP#log4j:log4j
+5	#DEP#me.prettyprint:hector-core
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#com.github.stephenc.eaio-uuid:uuid
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.apache.cassandra:cassandra-javautils

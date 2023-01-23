@@ -1,0 +1,10 @@
+1	git://github.com/ronbadur/maven-artifacts-uploader.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.google.inject:guice
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.hamcrest:hamcrest-all
+7	#DEP#junit:junit
+8	#DEP#org.apache.maven.shared:maven-invoker
+9	#DEP#org.apache.logging.log4j:log4j-api
+10	#DEP#com.beust:jcommander

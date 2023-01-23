@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#javax.websocket:javax.websocket-api	1.0
+#DEP#org.eclipse.jetty:jetty-webapp	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#org.cometd.java:cometd-java-websocket-javax-client	1.0
+#DEP#org.cometd.javascript:cometd-examples-angular	1.0
+#DEP#org.cometd.java:cometd-java-server	1.0
+#DEP#org.cometd.java:cometd-java-oort	1.0

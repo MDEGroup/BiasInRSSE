@@ -1,0 +1,14 @@
+1	git://github.com/zanata/tennera.git
+2	#DEP#org.apache.ant:ant
+3	#DEP#org.fedorahosted.tennera:tennera
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.jboss.logging:jboss-logging-spi
+6	#DEP#javax.el:el-api
+7	#DEP#javax.servlet.jsp:jsp-api
+8	#DEP#org.fedorahosted.tennera:jgettext
+9	#DEP#org.infinitest:infinitest
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#org.fedorahosted.openprops:openprops
+12	#DEP#org.apache.ant:ant-testutil
+13	#DEP#junit:junit
+14	#DEP#org.fedorahosted.tennera:webgettext

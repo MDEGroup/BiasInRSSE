@@ -1,0 +1,14 @@
+1	git://github.com/RobertoEstrada/WLANAudit-Android.git
+2	#DEP#com.actionbarsherlock:actionbarsherlock
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.google.android:android
+5	#DEP#com.google.code.findbugs:jsr305
+6	#DEP#com.google.android:annotations
+7	#DEP#com.nineoldandroids:library
+8	#DEP#com.github.espiandev:showcaseview-parent
+9	#DEP#com.google.android.gms:play-services
+10	#DEP#com.readystatesoftware.systembartint:systembartint
+11	#DEP#org.roboguice:roboguice
+12	#DEP#com.github.espiandev:showcaseview-library
+13	#DEP#com.google.android:support-v4
+14	#DEP#com.android.support:support-v4

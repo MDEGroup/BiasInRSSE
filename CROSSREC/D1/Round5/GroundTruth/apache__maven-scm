@@ -1,0 +1,9 @@
+36	#DEP#org.apache.maven.scm:maven-scm-provider-gitexe
+37	#DEP#org.apache.maven.scm:maven-scm-provider-bazaar
+38	#DEP#org.apache.maven:maven-plugin-api
+39	#DEP#ch.ethz.ganymed:ganymed-ssh2
+40	#DEP#org.apache.maven.scm:maven-scm-provider-jazz
+41	#DEP#com.mks.api:mksapi-jar
+42	#DEP#org.apache.maven.scm:maven-scm-provider-hg
+43	#DEP#org.mockito:mockito-core
+44	#DEP#org.apache.maven.scm:maven-scm-provider-svnexe

@@ -1,0 +1,6 @@
+1	#DEP#net.arnx.jsonic:jsonic
+1	#DEP#velocity-tools:velocity-tools-generic
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

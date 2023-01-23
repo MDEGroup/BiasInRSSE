@@ -1,0 +1,13 @@
+1	git://github.com/hotchemi/tiamat.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#commons-io:commons-io
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.dagger:dagger
+8	#DEP#com.google.dagger:dagger-compiler
+9	#DEP#com.jakewharton.rxbinding:rxbinding
+10	#DEP#com.google.testing.compile:compile-testing
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

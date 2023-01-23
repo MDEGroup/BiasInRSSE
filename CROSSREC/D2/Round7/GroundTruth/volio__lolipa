@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#junit:junit
+1	#DEP#com.sun.mail:javax.mail

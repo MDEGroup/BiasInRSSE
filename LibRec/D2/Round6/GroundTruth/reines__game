@@ -1,0 +1,8 @@
+1	#DEP#org.lwjgl:lwjgl-util
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#com.jamierf.game:game-graphics
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#com.jamierf.game:game-common
+1	#DEP#org.jmock:jmock
+1	#DEP#junit:junit
+1	#DEP#org.lwjgl:lwjgl

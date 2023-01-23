@@ -1,0 +1,7 @@
+1	#DEP#org.scalatest:scalatest_2.10.0
+1	#DEP#org.maven.ide.eclipse.scala:m2eclipse-scala
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.scala-tools.testing:specs_2.8.0.Beta1
+1	#DEP#junit:junit
+1	#DEP#example:parent
+1	#DEP#com.h2database:h2

@@ -1,0 +1,12 @@
+1	git://github.com/orfjackal/idea-sbt-plugin.git
+2	#DEP#com.intellij:extensions
+3	#DEP#com.intellij:annotations
+4	#DEP#com.intellij:util
+5	#DEP#net.orfjackal.idea-sbt-plugin:sbt
+6	#DEP#com.intellij:idea
+7	#DEP#com.miglayout:miglayout
+8	#DEP#com.intellij:jdom
+9	#DEP#com.intellij:openapi
+10	#DEP#junit:junit
+11	#DEP#net.orfjackal.idea-sbt-plugin:sbt-plugin
+12	#DEP#commons-lang:commons-lang

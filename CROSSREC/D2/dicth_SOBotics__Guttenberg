@@ -1,0 +1,10 @@
+1	git://github.com/SOBotics/Guttenberg.git
+2	#DEP#org.sobotics:redunda-lib
+3	#DEP#fr.tunaki.stackoverflow:chatexchange
+4	#DEP#org.apache.tika:tika-langdetect
+5	#DEP#info.debatty:java-string-similarity
+6	#DEP#com.google.apis:google-api-services-customsearch
+7	#DEP#com.optimaize.languagedetector:language-detector
+8	#DEP#javax.json:javax.json-api
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-lang:commons-lang

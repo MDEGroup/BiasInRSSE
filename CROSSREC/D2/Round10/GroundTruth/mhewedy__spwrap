@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#commons-dbutils:commons-dbutils
+1	#DEP#cglib:cglib-nodep
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

@@ -1,0 +1,12 @@
+1	git://github.com/pinguo-zhouwei/RetrofitRxJavaDemo.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.squareup.retrofit2:retrofit
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#io.reactivex:rxjava
+11	#DEP#io.reactivex:rxandroid
+12	#DEP#com.nostra13.universalimageloader:universal-image-loader

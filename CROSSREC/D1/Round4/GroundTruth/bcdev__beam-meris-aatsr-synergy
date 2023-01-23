@@ -1,0 +1,4 @@
+19	#DEP#org.esa.beam:beam-envisat-reader
+20	#DEP#org.esa.beam:beam-meris-brr
+21	#DEP#org.esa.beam.synergy:beam-meris-aatsr-synergy-aerosol-retrieval
+22	#DEP#com.bc.ceres:ceres-binding

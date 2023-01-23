@@ -1,0 +1,4 @@
+20	#DEP#com.microsoft.azure:azure-mgmt-network
+21	#DEP#com.microsoft.azure:azure-mgmt-resources
+22	#DEP#com.microsoft.azure:azure-client-authentication
+23	#DEP#com.fasterxml.jackson.core:jackson-databind

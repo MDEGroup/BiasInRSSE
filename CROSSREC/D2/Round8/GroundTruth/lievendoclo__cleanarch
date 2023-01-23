@@ -1,0 +1,11 @@
+1	#DEP#io.spring.platform:platform-bom
+1	#DEP#org.junit.vintage:junit-vintage-engine
+1	#DEP#org.jdbi:jdbi
+1	#DEP#com.jayway.restassured:spring-mock-mvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#com.github.briandilley.jsonrpc4j:jsonrpc4j
+1	#DEP#org.apache.ant:ant-junit
+1	#DEP#com.graphql-java:graphiql-spring-boot-starter
+1	#DEP#junit:junit
+1	#DEP#org.mongodb.morphia:morphia

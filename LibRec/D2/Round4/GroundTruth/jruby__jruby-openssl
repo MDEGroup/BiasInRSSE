@@ -1,0 +1,5 @@
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#rubygems:mocha
+1	#DEP#rubygems:jar-dependencies
+1	#DEP#org.bouncycastle:bctls-jdk15on
+1	#DEP#junit:junit

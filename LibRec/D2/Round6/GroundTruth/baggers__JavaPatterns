@@ -1,0 +1,4 @@
+1	#DEP#org.sonatype.oss:oss-parent
+1	#DEP#com.sun:tools
+1	#DEP#com.google.collections:google-collections
+1	#DEP#junit:junit

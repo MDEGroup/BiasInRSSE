@@ -1,0 +1,6 @@
+1	#DEP#org.objectweb.howl:howl
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+1	#DEP#junit:junit
+1	#DEP#org.apache.geronimo.components:geronimo-txmanager-parent

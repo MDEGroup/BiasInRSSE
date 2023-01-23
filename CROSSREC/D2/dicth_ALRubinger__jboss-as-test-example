@@ -1,0 +1,9 @@
+1	git://github.com/ALRubinger/jboss-as-test-example.git
+2	#DEP#org.jboss.as:jboss-as-arquillian-container-managed
+3	#DEP#org.jboss:jboss-parent
+4	#DEP#org.jboss.as:jboss-as-parent
+5	#DEP#org.jboss.as:jboss-as-api
+6	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+7	#DEP#org.jboss.as:jboss-as-build
+8	#DEP#org.jboss.as:jboss-as-dist
+9	#DEP#junit:junit

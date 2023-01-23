@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.amazonaws:amazon-kinesis-connectors	1.0
+#DEP#com.amazonaws:aws-java-sdk-logs	1.0
+#DEP#com.amazonaws:aws-java-sdk-bom	1.0
+#DEP#net.librec:librec	1.0

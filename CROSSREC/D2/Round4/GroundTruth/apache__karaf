@@ -1,0 +1,14 @@
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#test:test-check-dependencies
+1	#DEP#org.apache.karaf.features:enterprise
+1	#DEP#org.ops4j.pax.web:pax-web-features
+1	#DEP#org.apache.cxf.karaf:apache-cxf
+1	#DEP#test:test-check-dependencies-failure
+1	#DEP#org.apache.karaf.features:standard
+1	#DEP#test:dependency-module-a
+1	#DEP#test:dependency-module-b
+1	#DEP#test:dependency-bundle-b
+1	#DEP#test:dependency-module-c
+1	#DEP#test:dependency-module-d
+1	#DEP#junit:junit
+1	#DEP#org.apache.karaf.features:spring

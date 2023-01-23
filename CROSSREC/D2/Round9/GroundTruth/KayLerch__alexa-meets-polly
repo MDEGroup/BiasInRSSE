@@ -1,0 +1,11 @@
+1	#DEP#com.amazonaws:aws-lambda-java-core
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.jooq:joox
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#com.amazonaws:aws-java-sdk-sts
+1	#DEP#net.bramp.ffmpeg:ffmpeg
+1	#DEP#io.klerch:alexa-skills-kit-tellask-java
+1	#DEP#junit:junit
+1	#DEP#io.klerch:alexa-skills-kit-tester-java

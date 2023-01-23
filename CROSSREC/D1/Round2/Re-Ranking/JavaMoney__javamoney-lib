@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.apache.karaf.features:org.apache.karaf.features.core	1.0
+#DEP#${project.groupId}:hibernate-validator-osgi-karaf-features	1.0
+#DEP#fish.payara.arquillian:arquillian-payara-server-4-managed	1.0

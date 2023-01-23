@@ -1,0 +1,10 @@
+1	git://github.com/NathanWolf/BukkitPlugins.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.bukkit:craftbukkit
+4	#DEP#com.nijikokun.bukkit.Permissions:Permissions
+5	#DEP#com.elmakers.mine.bukkit.plugins.nether:nethergate
+6	#DEP#com.elmakers.mine.bukkit.plugins:Spells
+7	#DEP#com.elmakers.mine.bukkit.plugins.gameplay:Gameplay
+8	#DEP#com.elmakers.mine.bukkit.plugins.persistence:Persistence
+9	#DEP#org.xerial:sqlite-jdbc
+10	#DEP#org.bukkit:minecraft-server

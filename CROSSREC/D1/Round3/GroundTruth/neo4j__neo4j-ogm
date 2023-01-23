@@ -1,0 +1,6 @@
+26	#DEP#org.mockito:mockito-core
+27	#DEP#ch.qos.logback:logback-core
+28	#DEP#org.neo4j:neo4j-ogm-bolt-driver
+29	#DEP#ch.qos.logback:logback-classic
+30	#DEP#org.neo4j:neo4j-ha
+31	#DEP#junit:junit

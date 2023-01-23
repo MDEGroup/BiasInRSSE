@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.apache.logging.log4j:log4j-api	1.0
+#DEP#org.apache.logging.log4j:log4j-slf4j-impl	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#org.sweble.wikitext:swc-engine	1.0
+#DEP#org.codehaus.woodstox:stax2-api	1.0

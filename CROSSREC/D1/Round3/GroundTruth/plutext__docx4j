@@ -1,0 +1,5 @@
+20	#DEP#com.google.guava:guava
+21	#DEP#org.antlr:antlr-runtime
+22	#DEP#org.apache.xmlgraphics:xmlgraphics-commons
+23	#DEP#junit:junit
+24	#DEP#com.thedeanda:lorem

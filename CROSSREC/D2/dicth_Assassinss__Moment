@@ -1,0 +1,14 @@
+1	git://github.com/Assassinss/Moment.git
+2	#DEP#com.umeng.analytics:analytics
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.google.code.findbugs:jsr305
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.android.apps.muzei:muzei-api
+7	#DEP#com.android.support:design
+8	#DEP#com.tbruyelle.rxpermissions:rxpermissions
+9	#DEP#com.trello:rxlifecycle
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#com.trello:rxlifecycle-components
+12	#DEP#com.github.GrenderG:Toasty
+13	#DEP#junit:junit
+14	#DEP#io.reactivex:rxandroid

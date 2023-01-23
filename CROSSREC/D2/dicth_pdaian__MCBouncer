@@ -1,0 +1,9 @@
+1	git://github.com/pdaian/MCBouncer.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#com.googlecode.json-simple:json-simple
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.yaml:snakeyaml
+6	#DEP#commons-logging:commons-logging
+7	#DEP#commons-collections:commons-collections
+8	#DEP#com.google.guava:guava
+9	#DEP#junit:junit

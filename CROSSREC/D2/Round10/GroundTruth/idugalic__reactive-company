@@ -1,0 +1,4 @@
+1	#DEP#io.projectreactor.addons:reactor-test
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#io.gatling.highcharts:gatling-charts-highcharts
+1	#DEP#org.springframework.boot:spring-boot-starter-webflux

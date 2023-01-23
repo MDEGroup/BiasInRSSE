@@ -1,0 +1,11 @@
+1	git://github.com/alibaba/vlayout.git
+2	#DEP#com.android.support:support-compat
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.android.support:support-annotations
+5	#DEP#com.android.support:support-core-ui
+6	#DEP#com.crittercism.dexmaker:dexmaker
+7	#DEP#com.squareup.picasso:picasso
+8	#DEP#com.android.support:recyclerview-v7
+9	#DEP#org.robolectric:robolectric
+10	#DEP#com.android.support:support-v4
+11	#DEP#com.android.support:appcompat-v7

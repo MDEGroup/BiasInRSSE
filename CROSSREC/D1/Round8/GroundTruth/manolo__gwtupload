@@ -1,0 +1,6 @@
+27	#DEP#com.google.gwt:gwt-servlet
+28	#DEP#log4j:log4j
+29	#DEP#javax.servlet:servlet-api
+30	#DEP#commons-fileupload:commons-fileupload
+31	#DEP#org.eclipse.jetty:jetty-webapp
+32	#DEP#junit:junit

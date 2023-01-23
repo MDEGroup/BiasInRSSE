@@ -1,0 +1,11 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.immutables:value
+1	#DEP#com.crittercism.dexmaker:dexmaker
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.github.niltonvasques:Fluxxan
+1	#DEP#com.crittercism.dexmaker:dexmaker-dx
+1	#DEP#com.snappydb:snappydb-lib
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-guava
+1	#DEP#com.google.guava:guava
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit

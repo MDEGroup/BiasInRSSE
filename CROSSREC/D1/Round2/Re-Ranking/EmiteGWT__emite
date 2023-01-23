@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#javax.validation:validation-api	1.0
+#DEP#com.google.gwt.maps:gwt-maps3-0.2b	1.0
+#DEP#com.github.gwtbootstrap:gwt-bootstrap	1.0
+#DEP#com.google.gwt.google-apis:gwt-ajaxloader	1.0
+#DEP#com.github.gwtd3:gwt-d3-api	1.0
+#DEP#com.github.detro:phantomjsdriver	1.0
+#DEP#com.github.gwtd3:gwt-d3-js	1.0

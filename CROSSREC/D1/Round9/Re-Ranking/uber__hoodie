@@ -1,0 +1,10 @@
+#DEP#org.apache.hive:hive-exec	1.0
+#DEP#org.apache.hadoop:hadoop-mapreduce-client-common	1.0
+#DEP#org.apache.hadoop:hadoop-client	1.0
+#DEP#org.apache.hive:hive-jdbc	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.apache.hbase:hbase-client	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#org.apache.avro:avro	1.0
+#DEP#org.apache.thrift:libthrift	1.0
+#DEP#de.vandermeer:asciitable	1.0

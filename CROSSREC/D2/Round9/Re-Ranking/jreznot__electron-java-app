@@ -1,0 +1,10 @@
+#DEP#com.vaadin:vaadin-client-compiled	1.0
+#DEP#junit:junit	1.0
+#DEP#com.vaadin:vaadin-client	1.0
+#DEP#com.vaadin:vaadin-push	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#com.vaadin:vaadin-cdi	1.0
+#DEP#com.vaadin:vaadin-testbench	1.0
+#DEP#com.vaadin:vaadin-testbench-api	1.0
+#DEP#org.vaadin.addons:headertags	1.0
+#DEP#com.vaadin:vaadin-client-compiler	1.0

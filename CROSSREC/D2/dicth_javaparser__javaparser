@@ -1,0 +1,15 @@
+1	git://github.com/javaparser/javaparser.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.jbehave:jbehave-core
+4	#DEP#org.assertj:assertj-core
+5	#DEP#org.junit.jupiter:junit-jupiter-api
+6	#DEP#com.squareup.okhttp3:okhttp
+7	#DEP#com.github.javaparser:javaparser-symbol-solver-logic
+8	#DEP#com.github.javaparser:javaparser-parent
+9	#DEP#com.github.javaparser:javaparser-symbol-solver-model
+10	#DEP#com.github.valfirst:jbehave-junit-runner
+11	#DEP#com.github.javaparser:javaparser-core
+12	#DEP#org.mockito:mockito-core
+13	#DEP#com.google.guava:guava
+14	#DEP#com.github.javaparser:javaparser-symbol-solver-core
+15	#DEP#junit:junit

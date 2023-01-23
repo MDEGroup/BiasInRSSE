@@ -1,0 +1,14 @@
+1	git://github.com/magnayn/jpivot.git
+2	#DEP#javax.servlet:jsp-api
+3	#DEP#jpivot:jpivot
+4	#DEP#xalan:xalan
+5	#DEP#jpivot:jpivot-war
+6	#DEP#org.codehaus.groovy:groovy-all
+7	#DEP#jpivot:pom
+8	#DEP#wcf:wcf-war
+9	#DEP#wcf:wcf
+10	#DEP#pentaho:mondrian
+11	#DEP#jfree:jfreechart
+12	#DEP#xerces:xercesImpl
+13	#DEP#junit:junit
+14	#DEP#fop:fop

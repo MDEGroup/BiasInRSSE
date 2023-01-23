@@ -1,0 +1,4 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.kitteh:tagapi
+1	#DEP#net.milkbowl.vault:Vault

@@ -1,0 +1,12 @@
+1	git://github.com/greenlaw110/greenscript.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#commons-cli:commons-cli
+4	#DEP#com.asual.lesscss:lesscss-engine
+5	#DEP#com.google.code.maven-play-plugin:play-module-default-parent
+6	#DEP#com.google.code.maven-play-plugin.com.github.yeungda.jcoffeescript:jcoffeescript-dep
+7	#DEP#junit:junit
+8	#DEP#com.github.greenlaw110.greenscript:greenscript-core
+9	#DEP#com.google.code.maven-play-plugin.com.yahoo.platform.yui:yuicompressor
+10	#DEP#com.google.javascript:closure-compiler
+11	#DEP#com.google.code.maven-play-plugin.org.playframework:play
+12	#DEP#commons-lang:commons-lang

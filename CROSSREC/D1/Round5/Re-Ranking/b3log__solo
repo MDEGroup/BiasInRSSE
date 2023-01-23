@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#org.jsoup:jsoup	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-runtime	1.0

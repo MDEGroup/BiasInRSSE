@@ -1,0 +1,4 @@
+17	#DEP#uk.ac.ncl.intbio:sbol-data-core
+18	#DEP#junit:junit
+19	#DEP#org.apache.jena:jena-tdb
+20	#DEP#uk.ac.ncl.intbio:sbol-data-io-RDF

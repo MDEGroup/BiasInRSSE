@@ -1,0 +1,12 @@
+1	git://github.com/hibernate/hibernate-orm.git
+2	#DEP#org.hibernate:hibernate-envers
+3	#DEP#org.hibernate:hibernate-core
+4	#DEP#org.apache.karaf.shell:org.apache.karaf.shell.console
+5	#DEP#org.hibernate.build.gradle:gradle-animalSniffer-plugin
+6	#DEP#org.osgi:org.osgi.enterprise
+7	#DEP#org.hibernate.build.gradle:hibernate-matrix-testing
+8	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+9	#DEP#org.slf4j:slf4j-simple
+10	#DEP#junit:junit
+11	#DEP#org.osgi:org.osgi.core
+12	#DEP#com.h2database:h2

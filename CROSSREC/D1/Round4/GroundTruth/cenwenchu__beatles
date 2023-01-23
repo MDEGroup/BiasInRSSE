@@ -1,0 +1,4 @@
+17	#DEP#org.jboss.netty:netty
+18	#DEP#commons-httpclient:commons-httpclient
+19	#DEP#junit:junit
+20	#DEP#jfreechart:jfreechart

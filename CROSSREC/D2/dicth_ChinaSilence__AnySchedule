@@ -1,0 +1,12 @@
+1	git://github.com/ChinaSilence/AnySchedule.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+4	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+5	#DEP#org.apache.zookeeper:zookeeper
+6	#DEP#org.mariadb.jdbc:mariadb-java-client
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.projectlombok:lombok
+9	#DEP#com.google.code.gson:gson
+10	#DEP#org.springframework.boot:spring-boot-configuration-processor
+11	#DEP#org.springframework.boot:spring-boot-starter-web
+12	#DEP#commons-lang:commons-lang

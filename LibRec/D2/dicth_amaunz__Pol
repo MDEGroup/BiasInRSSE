@@ -1,0 +1,9 @@
+1	git://github.com/amaunz/Pol.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#xom:xom
+4	#DEP#org.dbunit:dbunit
+5	#DEP#net.idea:modbcum-c
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.wink:wink-common
+8	#DEP#junit:junit
+9	#DEP#org.apache.wink:wink-server

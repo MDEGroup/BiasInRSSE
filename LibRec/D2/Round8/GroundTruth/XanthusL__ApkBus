@@ -1,0 +1,11 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.google.guava:guava
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#cn.finalteam:galleryfinal
+1	#DEP#junit:junit
+1	#DEP#me.codeboy.android:align-text-view
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,14 @@
+1	git://github.com/orika/tcc-framework.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework:spring
+4	#DEP#com.netease:tcc_api
+5	#DEP#org.apache.zookeeper:zookeeper
+6	#DEP#commons-dbcp:commons-dbcp
+7	#DEP#com.netease:tcc
+8	#DEP#com.netease:tcc_demo
+9	#DEP#com.github.sgroschupf:zkclient
+10	#DEP#com.alibaba:dubbo
+11	#DEP#log4j:log4j
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.netease:tcc_demo_api
+14	#DEP#junit:junit

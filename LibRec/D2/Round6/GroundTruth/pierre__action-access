@@ -1,0 +1,6 @@
+1	#DEP#org.testng:testng
+1	#DEP#com.google.guava:guava
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.eclipse.jetty:jetty-http
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl

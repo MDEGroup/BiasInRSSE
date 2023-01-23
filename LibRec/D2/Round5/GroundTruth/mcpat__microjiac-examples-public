@@ -1,0 +1,10 @@
+1	#DEP#de.jiac.micro:microjiac-base-impl
+1	#DEP#com.github.mcpat.libxjava:libxjava-jse5
+1	#DEP#org.prolog4j:prolog4j-api
+1	#DEP#de.jiac.micro.examples:microjiac-examples
+1	#DEP#com.github.mcpat.apistubs:midp-2.0-stub
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#de.jiac.micro.platforms.cldc:microjiac-midlet-platform
+1	#DEP#com.github.mcpat.libxjava:libxjava-cdc
+1	#DEP#de.jiac.micro.platforms.cldc:microjiac-midp-extensions
+1	#DEP#de.jiac.micro.platforms.java6:microjiac-java6-platform

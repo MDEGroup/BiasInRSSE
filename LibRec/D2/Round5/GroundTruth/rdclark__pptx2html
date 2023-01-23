@@ -1,0 +1,4 @@
+1	#DEP#org.antlr:antlr4-maven-plugin
+1	#DEP#org.antlr:ST4
+1	#DEP#org.antlr:antlr4
+1	#DEP#org.hamcrest:hamcrest-core

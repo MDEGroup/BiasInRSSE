@@ -1,0 +1,8 @@
+1	#DEP#net.dongliu:apk-parser
+1	#DEP#com.android.support:support-v4
+1	#DEP#org.json:json
+1	#DEP#com.google.gradle:osdetector-gradle-plugin
+1	#DEP#junit:junit
+1	#DEP#com.android.tools.build:gradle
+1	#DEP#com.parse.bolts:bolts-android
+1	#DEP#com.qihoo360.replugin:replugin-plugin-lib

@@ -1,0 +1,10 @@
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.hamcrest:hamcrest-library	1.0
+#DEP#org.apache.hadoop:hadoop-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.hadoop:hadoop-common	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.dmilne:weka-wrapper	1.0
+#DEP#org.dmilne:xjsf	1.0
+#DEP#com.jcabi:jcabi-ssh	1.0

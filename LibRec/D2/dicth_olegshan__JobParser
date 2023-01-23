@@ -1,0 +1,10 @@
+1	git://github.com/olegshan/JobParser.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.springframework.boot:spring-boot-starter-mail
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+7	#DEP#org.springframework.boot:spring-boot-starter-social-twitter
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.projectlombok:lombok
+10	#DEP#org.springframework.boot:spring-boot-starter-web

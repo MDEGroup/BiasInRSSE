@@ -1,0 +1,13 @@
+1	git://github.com/Temoa/Startor.git
+2	#DEP#com.jude:rollviewpager
+3	#DEP#com.liulishuo.filedownloader:library
+4	#DEP#fm.jiecao:jiecaovideoplayer
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.android.support:design
+8	#DEP#com.github.bumptech.glide:glide
+9	#DEP#com.mcxiaoke.volley:library
+10	#DEP#com.android.support:support-v4
+11	#DEP#junit:junit
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

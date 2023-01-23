@@ -1,0 +1,6 @@
+28	#DEP#com.rabbitmq:rabbitmq-client
+29	#DEP#org.scala-lang:scala-library
+30	#DEP#javax.servlet:servlet-api
+31	#DEP#org.apache.derby:derby
+32	#DEP#com.sdicons.jsontools:jsontools-core
+33	#DEP#junit:junit

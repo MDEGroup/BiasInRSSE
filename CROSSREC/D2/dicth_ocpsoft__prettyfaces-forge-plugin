@@ -1,0 +1,9 @@
+1	git://github.com/ocpsoft/prettyfaces-forge-plugin.git
+2	#DEP#org.jboss.forge:forge-shell
+3	#DEP#org.jboss.forge:forge-shell-api
+4	#DEP#org.jboss.forge:forge-javaee-api
+5	#DEP#org.jboss.forge:forge-javaee-impl
+6	#DEP#com.ocpsoft:ocpsoft-parent
+7	#DEP#org.jboss.forge:forge-test-harness
+8	#DEP#com.ocpsoft:prettyfaces-jsf2
+9	#DEP#org.jboss.forge:forge-scaffold-api

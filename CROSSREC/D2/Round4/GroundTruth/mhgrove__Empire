@@ -1,0 +1,7 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#com.complexible.common:cp-openrdf-utils
+1	#DEP#aopalliance:aopalliance
+1	#DEP#org.apache.jena:jena-tdb
+1	#DEP#org.ow2.spec.ee:ow2-jpa-1.0-spec
+1	#DEP#com.google.inject.extensions:guice-multibindings

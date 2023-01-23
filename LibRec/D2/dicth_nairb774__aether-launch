@@ -1,0 +1,11 @@
+1	git://github.com/nairb774/aether-launch.git
+2	#DEP#org.apache.maven.wagon:wagon-file
+3	#DEP#org.no-ip.bca:aether-launch-parent
+4	#DEP#org.sonatype.aether:aether-connector-wagon
+5	#DEP#org.sonatype.aether:aether-api
+6	#DEP#org.apache.maven:maven-aether-provider
+7	#DEP#org.sonatype.aether:aether-impl
+8	#DEP#org.sonatype.aether:aether-util
+9	#DEP#junit:junit-dep
+10	#DEP#org.no-ip.bca:aether-runner
+11	#DEP#org.apache.maven.wagon:wagon-http-lightweight

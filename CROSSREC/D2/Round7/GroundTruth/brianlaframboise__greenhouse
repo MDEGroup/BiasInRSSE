@@ -1,0 +1,10 @@
+1	#DEP#org.apache.wicket:wicket-spring
+1	#DEP#info.cukes:gherkin
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#info.cukes:cucumber-java
+1	#DEP#org.wicketstuff:wicketstuff-annotation
+1	#DEP#junit:junit
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#cuke4duke:cuke4duke

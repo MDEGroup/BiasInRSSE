@@ -1,0 +1,16 @@
+1	git://github.com/bobxwang/bbspring-thrift-starter.git
+2	#DEP#org.springframework.cloud:spring-cloud-starter-consul-all
+3	#DEP#com.netflix.hystrix:hystrix-core
+4	#DEP#org.springframework.cloud:spring-cloud-commons
+5	#DEP#org.springframework.cloud:spring-cloud-consul-dependencies
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#com.bb.experiment:thrift-definition
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-actuator
+10	#DEP#org.springframework.cloud:spring-cloud-starter-sleuth
+11	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+12	#DEP#org.springframework.boot:spring-boot-starter-test
+13	#DEP#org.apache.commons:commons-pool2
+14	#DEP#org.apache.thrift:libthrift
+15	#DEP#com.bb.experiment:bb-spring-related
+16	#DEP#com.bb.experiment:bbspring-thrift-starter

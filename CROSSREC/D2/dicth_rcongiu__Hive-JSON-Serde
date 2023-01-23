@@ -1,0 +1,9 @@
+1	git://github.com/rcongiu/Hive-JSON-Serde.git
+2	#DEP#org.apache.hive:hive-exec
+3	#DEP#org.openx.data:${serde.shim}
+4	#DEP#org.apache.hive:hive-serde
+5	#DEP#org.openx.data:json
+6	#DEP#org.openx.data:json-serde-parent
+7	#DEP#org.apache.hadoop:${hadoop.dependency}
+8	#DEP#junit:junit
+9	#DEP#org.openx.data:json-serde

@@ -1,0 +1,10 @@
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.pushtorefresh.storio:content-resolver-annotations
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.pushtorefresh.storio:sqlite-annotations
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.squareup.okio:okio
+1	#DEP#io.reactivex:rxandroid

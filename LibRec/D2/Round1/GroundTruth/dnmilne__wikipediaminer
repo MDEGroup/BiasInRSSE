@@ -1,0 +1,10 @@
+1	#DEP#net.sf.trove4j:trove4j
+1	#DEP#log4j:log4j
+1	#DEP#org.wikipedia-miner:wikipedia-miner-core
+1	#DEP#com.sleepycat:je
+1	#DEP#org.apache.avro:avro
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.avro:avro-mapred
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#junit:junit
+1	#DEP#org.mapdb:mapdb

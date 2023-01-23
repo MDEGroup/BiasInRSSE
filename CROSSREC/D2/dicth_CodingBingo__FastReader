@@ -1,0 +1,9 @@
+1	git://github.com/CodingBingo/FastReader.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#org.greenrobot:greendao
+4	#DEP#cn.leancloud.android:avoscloud-sdk
+5	#DEP#org.greenrobot:eventbus
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#cn.leancloud.android:avoscloud-statistics
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

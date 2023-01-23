@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.springframework:spring-test
+1	#DEP#nz.net.catalyst:mobile-dds
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.apache.commons:commons-jci-fam
+1	#DEP#org.apache.commons:commons-jci-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#net.sourceforge.wurfl:wurfl

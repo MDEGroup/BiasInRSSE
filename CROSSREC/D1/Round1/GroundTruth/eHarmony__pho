@@ -1,0 +1,4 @@
+18	#DEP#commons-collections:commons-collections
+19	#DEP#com.google.guava:guava
+20	#DEP#org.apache.hbase:hbase-annotations
+21	#DEP#org.apache.httpcomponents:httpcore

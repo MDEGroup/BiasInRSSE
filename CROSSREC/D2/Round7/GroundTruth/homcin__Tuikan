@@ -1,0 +1,10 @@
+1	#DEP#com.bartoszlipinski.recyclerviewheader:library
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.yqritc:recyclerview-flexibledivider
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#net.orfjackal.retrolambda:retrolambda
+1	#DEP#junit:junit
+1	#DEP#com.ashokvarma.android:bottom-navigation-bar
+1	#DEP#com.github.chrisbanes:PhotoView

@@ -1,0 +1,15 @@
+1	git://github.com/sgargan/camel-avro.git
+2	#DEP#org.apache.avro:avro-ipc
+3	#DEP#org.apache.camel:camel-core
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#commons-logging:commons-logging
+6	#DEP#org.apache.camel:camel-parent
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.netty
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#org.apache.camel:camel-jetty
+12	#DEP#log4j:log4j
+13	#DEP#org.apache.avro:avro
+14	#DEP#junit:junit
+15	#DEP#org.apache.camel:camel-test

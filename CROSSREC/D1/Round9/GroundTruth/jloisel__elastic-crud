@@ -1,0 +1,10 @@
+41	#DEP#org.springframework:spring-context
+42	#DEP#com.jeromeloisel:db-repository-elasticsearch
+43	#DEP#org.springframework.boot:spring-boot-starter
+44	#DEP#com.fasterxml.jackson.core:jackson-databind
+45	#DEP#com.jeromeloisel:db-conversion-api
+46	#DEP#org.mockito:mockito-core
+47	#DEP#log4j:log4j
+48	#DEP#org.apache.commons:org.apache.commons
+49	#DEP#org.springframework.boot:spring-boot-autoconfigure
+50	#DEP#javax.xml.bind:javax.xml.bind

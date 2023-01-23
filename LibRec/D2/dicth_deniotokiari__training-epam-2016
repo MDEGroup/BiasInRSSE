@@ -1,0 +1,15 @@
+1	git://github.com/deniotokiari/training-epam-2016.git
+2	#DEP#com.google.appengine:appengine-java-sdk
+3	#DEP#com.android.support:percent
+4	#DEP#com.google.code.findbugs:jsr305
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.android.support:design
+8	#DEP#com.google.appengine:appengine-api-1.0-sdk
+9	#DEP#com.squareup.picasso:picasso
+10	#DEP#com.google.appengine:appengine-endpoints
+11	#DEP#org.mockito:mockito-core
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#com.google.appengine:appengine-endpoints-deps
+14	#DEP#org.json:json
+15	#DEP#junit:junit

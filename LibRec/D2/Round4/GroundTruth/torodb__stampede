@@ -1,0 +1,8 @@
+1	#DEP#com.google.code.findbugs:annotations
+1	#DEP#com.torodb.engine.backend:backend-derby
+1	#DEP#com.typesafe.akka:akka-slf4j_2.12
+1	#DEP#com.torodb.engine.backend:backend-postgresql
+1	#DEP#com.torodb.stampede:stampede-main
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#junit:junit
+1	#DEP#com.torodb.stampede:stampede-service

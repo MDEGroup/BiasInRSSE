@@ -1,0 +1,6 @@
+1	#DEP#info.ata4.disunity:disunity-core
+1	#DEP#info.ata4.disunity:disunity-cli
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.github.ata4:lzmajio
+1	#DEP#com.beust:jcommander

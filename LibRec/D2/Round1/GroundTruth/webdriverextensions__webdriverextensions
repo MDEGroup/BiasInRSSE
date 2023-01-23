@@ -1,0 +1,6 @@
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.seleniumhq.selenium:htmlunit-driver
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#junit:junit
+1	#DEP#com.googlecode.lambdaj:lambdaj

@@ -1,0 +1,14 @@
+1	#DEP#net.sf.ehcache:ehcache-core
+1	#DEP#com.hazelcast:hazelcast-hibernate
+1	#DEP#javassist:javassist
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.springframework:spring-orm
+1	#DEP#com.google.code.gson:gson
+1	#DEP#jboss:jboss-cache
+1	#DEP#com.hazelcast:hazelcast-spring
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#log4j:log4j
+1	#DEP#org.jboss.cache:jbosscache-core
+1	#DEP#opensymphony:oscache
+1	#DEP#junit:junit
+1	#DEP#jgroups:jgroups-all

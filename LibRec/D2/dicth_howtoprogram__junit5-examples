@@ -1,0 +1,12 @@
+1	git://github.com/howtoprogram/junit5-examples.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.junit.jupiter:junit-jupiter-api
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.junit.platform:junit-platform-launcher
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#junit:junit
+8	#DEP#org.junit.platform:junit-platform-engine
+9	#DEP#org.junit.vintage:junit-vintage-engine
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#org.springframework.boot:spring-boot-starter-actuator
+12	#DEP#org.junit.platform:junit-platform-runner

@@ -1,0 +1,8 @@
+1	#DEP#com.github.hotchemi:permissionsdispatcher-processor
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#io.reactivex:rxandroid

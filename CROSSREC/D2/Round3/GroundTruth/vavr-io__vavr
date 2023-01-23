@@ -1,0 +1,8 @@
+1	#DEP#org.jetbrains:annotations
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.eclipse.collections:eclipse-collections
+1	#DEP#org.pcollections:pcollections
+1	#DEP#org.functionaljava:functionaljava-java8
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:vavr
+1	#DEP#io.usethesource:capsule

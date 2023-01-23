@@ -1,0 +1,14 @@
+1	git://github.com/opencredo/opencredo-couchdb.git
+2	#DEP#commons-logging:commons-logging
+3	#DEP#org.mockito:mockito-all
+4	#DEP#org.codehaus.jackson:jackson-mapper-asl
+5	#DEP#org.springframework.integration:spring-integration-http
+6	#DEP#org.aspectj:aspectjweaver
+7	#DEP#org.springframework:spring-test
+8	#DEP#org.springframework:spring-webmvc
+9	#DEP#log4j:log4j
+10	#DEP#org.opencredo:opencredo-master-pom
+11	#DEP#org.hamcrest:hamcrest-all
+12	#DEP#junit:junit
+13	#DEP#org.springframework.integration:spring-integration-core
+14	#DEP#org.aspectj:aspectjrt

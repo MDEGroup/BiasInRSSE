@@ -1,0 +1,7 @@
+30	#DEP#org.springframework:spring-beans
+31	#DEP#org.hornetq.rest:hornetq-rest
+32	#DEP#org.jboss.javaee:jboss-ejb-api
+33	#DEP#log4j:log4j
+34	#DEP#javax.servlet:servlet-api
+35	#DEP#org.jboss.integration:jboss-transaction-spi
+36	#DEP#jboss.jbossts:jbossts-common

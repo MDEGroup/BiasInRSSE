@@ -1,0 +1,4 @@
+19	#DEP#org.ardverk:ardverk-dht-http
+20	#DEP#org.apache.httpcomponents:httpmime
+21	#DEP#junit:junit
+22	#DEP#org.hsqldb:hsqldb

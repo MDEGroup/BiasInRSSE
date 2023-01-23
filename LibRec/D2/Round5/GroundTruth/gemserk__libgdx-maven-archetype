@@ -1,0 +1,5 @@
+1	#DEP#org.jmock:jmock
+1	#DEP#org.jmock:jmock-junit4
+1	#DEP#com.badlogic.gdx:gdx-backend-android
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#junit:junit

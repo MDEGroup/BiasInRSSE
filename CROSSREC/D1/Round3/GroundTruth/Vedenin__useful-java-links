@@ -1,0 +1,7 @@
+28	#DEP#edu.stanford.nlp:stanford-corenlp
+29	#DEP#org.mapstruct:mapstruct-jdk8
+30	#DEP#org.mapstruct:mapstruct
+31	#DEP#org.apache.opennlp:opennlp-tools
+32	#DEP#junit:junit
+33	#DEP#co.paralleluniverse:quasar-core
+34	#DEP#org.nd4j:nd4j-x86

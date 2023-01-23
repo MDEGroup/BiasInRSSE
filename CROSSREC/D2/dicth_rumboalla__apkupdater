@@ -1,0 +1,16 @@
+1	git://github.com/rumboalla/apkupdater.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#eu.chainfire:libsuperuser
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.android.support:design
+8	#DEP#com.android.support:preference-v7
+9	#DEP#org.jsoup:jsoup
+10	#DEP#com.android.support:cardview-v7
+11	#DEP#info.cukes:cucumber-android
+12	#DEP#com.squareup:otto
+13	#DEP#uy.kohesive.injekt:injekt-core
+14	#DEP#junit:junit
+15	#DEP#com.github.yeriomin:play-store-api
+16	#DEP#com.android.support.test.espresso:espresso-core

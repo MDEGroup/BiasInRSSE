@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.arangodb:velocypack	1.0

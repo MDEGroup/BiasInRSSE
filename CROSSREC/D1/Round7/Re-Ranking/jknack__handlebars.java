@@ -1,0 +1,10 @@
+#DEP#org.powermock:powermock-module-junit4	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.beust:jcommander	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.powermock:powermock-api-easymock	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.amazonaws:aws-java-sdk-logs	1.0
+#DEP#com.amazonaws:aws-java-sdk-cloudwatch	1.0
+#DEP#com.amazonaws:aws-java-sdk-bom	1.0

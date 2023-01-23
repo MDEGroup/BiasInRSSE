@@ -1,0 +1,8 @@
+1	#DEP#rubygems:jruby-jars
+1	#DEP#rubygems:rdoc
+1	#DEP#org.jruby.warbler:integration-tests
+1	#DEP#rubygems:ruby-maven
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#rubygems:rspec

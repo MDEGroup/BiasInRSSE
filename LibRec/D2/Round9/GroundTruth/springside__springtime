@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#io.swagger:swagger-core
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:fluent-hc
+1	#DEP#junit:junit
+1	#DEP#io.springside.springtime:springtime
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#cglib:cglib

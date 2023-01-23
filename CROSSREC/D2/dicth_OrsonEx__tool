@@ -1,0 +1,9 @@
+1	git://github.com/OrsonEx/tool.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.thoughtworks.xstream:xstream
+6	#DEP#javax.servlet:javax.servlet-api
+7	#DEP#commons-beanutils:commons-beanutils
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#commons-lang:commons-lang

@@ -1,0 +1,17 @@
+1	git://github.com/yongjhih/mismeter.git
+2	#DEP#com.trello:rxlifecycle-android
+3	#DEP#com.trello:rxlifecycle-kotlin
+4	#DEP#org.adw.library:discrete-seekbar
+5	#DEP#org.assertj:assertj-core
+6	#DEP#com.larswerkman:lobsterpicker
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.trello:rxlifecycle
+9	#DEP#com.trello:rxlifecycle-components
+10	#DEP#org.mockito:mockito-core
+11	#DEP#com.trello:rxlifecycle-navi
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.android.support:multidex
+14	#DEP#com.android.support.constraint:constraint-layout
+15	#DEP#com.github.JakeWharton:kotterknife
+16	#DEP#junit:junit
+17	#DEP#io.reactivex:rxjava

@@ -1,0 +1,15 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jenkins-ci.main:maven-plugin
+1	#DEP#org.jenkins-ci.main:cli
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.codehaus.sonar:sonar-testing-harness
+1	#DEP#org.codehaus.sonar-plugins:parent
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+1	#DEP#org.sonarsource.parent:parent
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.seleniumhq.selenium:selenium-server
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+1	#DEP#org.sonarsource.orchestrator:sonar-orchestrator

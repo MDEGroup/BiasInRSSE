@@ -1,0 +1,11 @@
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#org.bstats:bstats-bukkit
+1	#DEP#com.github.shynixn.petblocks:petblocks-api
+1	#DEP#org.mockito:mockito-core
+1	#DEP#net:minecraft110R1
+1	#DEP#com.github.shynixn.petblocks:root
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#com.sk89q:worldguard
+1	#DEP#me.minebuilders:clearlag-core
+1	#DEP#com.github.shynixn.petblocks:petblocks-bukkit-lib
+1	#DEP#org.slf4j:slf4j-jdk14

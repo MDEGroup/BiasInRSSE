@@ -1,0 +1,8 @@
+35	#DEP#log4j:log4j
+36	#DEP#xerces:xercesImpl
+37	#DEP#org.isatools:ISAtabErrorReporter
+38	#DEP#junit:junit
+39	#DEP#org.apache.axis:axis-jaxrpc
+40	#DEP#com.h2database:h2
+41	#DEP#org.apache.axis:axis-saaj
+42	#DEP#com.sun.jersey:jersey-server

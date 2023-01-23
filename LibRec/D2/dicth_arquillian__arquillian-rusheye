@@ -1,0 +1,16 @@
+1	git://github.com/arquillian/arquillian-rusheye.git
+2	#DEP#org.arquillian.rusheye:rusheye-root-parent
+3	#DEP#net.java.dev.msv:msv-core
+4	#DEP#org.arquillian.rusheye:rusheye-impl
+5	#DEP#commons-io:commons-io
+6	#DEP#dom4j:dom4j
+7	#DEP#org.testng:testng
+8	#DEP#javassist:javassist
+9	#DEP#org.mockito:mockito-all
+10	#DEP#org.arquillian.rusheye:rusheye-api
+11	#DEP#commons-lang:commons-lang
+12	#DEP#org.jboss:jboss-parent
+13	#DEP#net.sf:jargs
+14	#DEP#org.codehaus.woodstox:woodstox-core-lgpl
+15	#DEP#com.google.guava:guava
+16	#DEP#com.beust:jcommander

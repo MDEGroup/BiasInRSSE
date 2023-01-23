@@ -1,0 +1,11 @@
+1	git://github.com/Salaboy/Solr-Advert.git
+2	#DEP#org.apache.solr:solr-core
+3	#DEP#org.drools:drools-compiler
+4	#DEP#org.drools:drools-spring
+5	#DEP#org.easymock:easymock
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.drools:knowledge-api
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#janino:janino
+11	#DEP#org.drools:drools-core

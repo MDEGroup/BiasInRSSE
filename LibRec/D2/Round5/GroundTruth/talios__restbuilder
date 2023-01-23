@@ -1,0 +1,12 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#com.sun.codemodel:codemodel
+1	#DEP#com.google.inject:guice
+1	#DEP#org.parboiled:parboiled-java
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#com.ning:async-http-client
+1	#DEP#com.noelios.restlet:com.noelios.restlet
+1	#DEP#com.theoryinpractise.restbuilder:restbuilder
+1	#DEP#com.google.guava:guava
+1	#DEP#org.restlet:org.restlet
+1	#DEP#com.theoryinpractise.restbuilder:restbuilder-codegen-restlet
+1	#DEP#com.theoryinpractise.restbuilder:restbuilder-codegen-base

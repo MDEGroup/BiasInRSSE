@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.projectlombok:lombok	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.springframework:org.springframework.spring-library	1.0
+#DEP#redstone.xmlrpc:xmlrpc	1.0

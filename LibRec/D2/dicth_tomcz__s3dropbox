@@ -1,0 +1,14 @@
+1	git://github.com/tomcz/s3dropbox.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#commons-io:commons-io
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#com.amazonaws:aws-java-sdk-s3
+6	#DEP#com.jgoodies:looks
+7	#DEP#joda-time:joda-time
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#com.googlecode.windowlicker:windowlicker-swing
+11	#DEP#com.jgoodies:forms
+12	#DEP#org.mockito:mockito-core
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#junit:junit

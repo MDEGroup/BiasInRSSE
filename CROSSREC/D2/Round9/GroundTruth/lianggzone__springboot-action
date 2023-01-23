@@ -1,0 +1,13 @@
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+1	#DEP#joda-time:joda-time
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.alibaba:druid
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#org.springframework.statemachine:spring-statemachine-core
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

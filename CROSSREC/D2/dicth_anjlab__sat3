@@ -1,0 +1,9 @@
+1	git://github.com/anjlab/sat3.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#com.anjlab:3-sat-core
+4	#DEP#colt:colt
+5	#DEP#log4j:log4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.anjlab:3-sat
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12

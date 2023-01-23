@@ -1,0 +1,11 @@
+1	git://github.com/akquinet/android-archetypes.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.apache.maven.shared:maven-verifier
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.google.android:android
+6	#DEP#${groupId}:${rootArtifactId}-parent
+7	#DEP#com.google.android:android-test
+8	#DEP#${groupId}:${rootArtifactId}
+9	#DEP#de.akquinet.android.archetypes:android-archetype-project
+10	#DEP#net.jarlehansen.android.gcm:gcm-client-utils
+11	#DEP#junit:junit

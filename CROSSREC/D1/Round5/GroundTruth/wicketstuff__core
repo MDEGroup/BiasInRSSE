@@ -1,0 +1,7 @@
+29	#DEP#${project.groupId}:wicketstuff-console-engine
+30	#DEP#${project.groupId}:wicketstuff-console-templates
+31	#DEP#org.mockito:mockito-core
+32	#DEP#javax.servlet:javax.servlet-api
+33	#DEP#log4j:log4j
+34	#DEP#${project.groupId}:wicketstuff-htmlcompressor
+35	#DEP#org.hsqldb:hsqldb

@@ -1,0 +1,12 @@
+1	git://github.com/jenkinsci/warnings-plugin.git
+2	#DEP#org.jvnet.hudson.plugins:analysis-test
+3	#DEP#org.jvnet.hudson.plugins:analysis-pom
+4	#DEP#org.jenkins-ci.plugins:git
+5	#DEP#org.jenkins-ci.plugins:promoted-builds
+6	#DEP#org.apache.commons:commons-digester3
+7	#DEP#org.jenkins-ci.plugins.workflow:workflow-multibranch
+8	#DEP#org.jenkins-ci.plugins:violations
+9	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+10	#DEP#org.jenkins-ci.modules:sshd
+11	#DEP#org.jvnet.hudson.plugins:analysis-core
+12	#DEP#org.jenkins-ci.plugins:parameterized-trigger

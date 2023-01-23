@@ -1,0 +1,9 @@
+1	git://github.com/Unidata/thredds.git
+2	#DEP#${project.groupId}:opendap
+3	#DEP#httpunit:httpunit
+4	#DEP#javax.servlet:javax.servlet-api
+5	#DEP#yyyy-MM-dd'T'HH:mm
+6	#DEP#:opendap
+7	#DEP#:dap4
+8	#DEP#edu.ucar:thredds-parent
+9	#DEP#${project.groupId}:cdm

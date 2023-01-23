@@ -1,0 +1,14 @@
+1	#DEP#org.apache.logging.log4j:log4j-jcl
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#javax.transaction:jta
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.glassfish.grizzly:grizzly-framework
+1	#DEP#org.glassfish.grizzly:grizzly-websockets-server
+1	#DEP#org.hibernate:hibernate-validator-annotation-processor
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

@@ -1,0 +1,17 @@
+1	git://github.com/auselit/lorestore.git
+2	#DEP#net.metadata.chico:chico.mvc
+3	#DEP#org.semweb4j:rdf2go.api
+4	#DEP#commons-io:commons-io
+5	#DEP#org.easymock:easymock
+6	#DEP#net.metadata.chico:chico
+7	#DEP#net.metadata.chico:chico.config
+8	#DEP#org.semweb4j:rdf2go.impl.sesame23
+9	#DEP#net.metadata.emmet:emmet.servlet
+10	#DEP#org.springframework:spring-test
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#log4j:log4j
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#rome:rome
+15	#DEP#commons-fileupload:commons-fileupload
+16	#DEP#commons-httpclient:commons-httpclient
+17	#DEP#junit:junit

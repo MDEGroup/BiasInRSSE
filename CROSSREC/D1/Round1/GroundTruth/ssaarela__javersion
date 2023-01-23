@@ -1,0 +1,9 @@
+38	#DEP#org.javersion:javersion-jdbc
+39	#DEP#ch.qos.logback:logback-classic
+40	#DEP#org.springframework.boot:spring-boot-autoconfigure
+41	#DEP#org.hamcrest:hamcrest-all
+42	#DEP#nl.jqno.equalsverifier:equalsverifier
+43	#DEP#junit:junit
+44	#DEP#org.openjdk.jmh:jmh-core
+45	#DEP#com.mysema.querydsl:querydsl-sql-codegen
+46	#DEP#com.h2database:h2

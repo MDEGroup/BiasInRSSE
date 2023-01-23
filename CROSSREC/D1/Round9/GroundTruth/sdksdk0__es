@@ -1,0 +1,3 @@
+12	#DEP#org.springframework:spring-test
+13	#DEP#org.springframework:spring-webmvc
+14	#DEP#junit:junit

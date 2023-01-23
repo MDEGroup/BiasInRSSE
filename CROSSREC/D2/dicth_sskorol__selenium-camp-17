@@ -1,0 +1,16 @@
+1	git://github.com/sskorol/selenium-camp-17.git
+2	#DEP#io.javaslang:javaslang
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.javamoney:moneta
+5	#DEP#io.github.bonigarcia:webdrivermanager
+6	#DEP#org.testng:testng
+7	#DEP#one.util:streamex
+8	#DEP#commons-beanutils:commons-beanutils
+9	#DEP#org.awaitility:awaitility
+10	#DEP#org.aspectj:aspectjweaver
+11	#DEP#org.jsoup:jsoup
+12	#DEP#org.apache.commons:commons-configuration2
+13	#DEP#ru.yandex.qatools.allure:allure-testng-adaptor
+14	#DEP#org.seleniumhq.selenium:selenium-java
+15	#DEP#org.jooq:joor
+16	#DEP#org.projectlombok:lombok

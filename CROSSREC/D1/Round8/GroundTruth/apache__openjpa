@@ -1,0 +1,9 @@
+40	#DEP#commons-pool:commons-pool
+41	#DEP#log4j:log4j
+42	#DEP#org.apache.geronimo.specs:geronimo-validation_1.1_spec
+43	#DEP#commons-collections:commons-collections
+44	#DEP#javax.servlet:servlet-api
+45	#DEP#com.sun.xml.bind:jaxb-impl
+46	#DEP#org.apache.derby:derby
+47	#DEP#org.apache.openjpa:openjpa-lib
+48	#DEP#junit:junit

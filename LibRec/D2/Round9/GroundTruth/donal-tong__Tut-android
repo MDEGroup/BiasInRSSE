@@ -1,0 +1,15 @@
+1	#DEP#top.zibin:Luban
+1	#DEP#com.afollestad.material-dialogs:core
+1	#DEP#com.facebook.fresco:fresco
+1	#DEP#de.greenrobot:greendao-generator
+1	#DEP#com.bigkoo:svprogresshud
+1	#DEP#com.alibaba:fastjson
+1	#DEP#com.lzy.net:okrx
+1	#DEP#com.google.code.gson:gson
+1	#DEP#de.greenrobot:eventbus
+1	#DEP#pl.droidsonroids.gif:android-gif-drawable
+1	#DEP#com.afollestad.material-dialogs:commons
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.theartofdev.edmodo:android-image-cropper
+1	#DEP#com.github.razerdp:BasePopup
+1	#DEP#com.android.support:multidex

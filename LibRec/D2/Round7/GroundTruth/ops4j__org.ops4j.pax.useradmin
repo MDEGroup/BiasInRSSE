@@ -1,0 +1,10 @@
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.osgi:org.osgi.enterprise
+1	#DEP#org.osgi:org.osgi.service.useradmin
+1	#DEP#org.ops4j:master
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.openspml:openspml
+1	#DEP#${project.groupId}:org.ops4j.pax.useradmin.provider.ldap
+1	#DEP#${project.groupId}:org.ops4j.pax.useradmin.provider.jpa
+1	#DEP#junit:junit
+1	#DEP#org.osgi:org.osgi.core

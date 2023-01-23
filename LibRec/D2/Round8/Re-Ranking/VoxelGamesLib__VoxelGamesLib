@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.sparkjava:spark-core	1.0
+#DEP#org.bukkit:craftbukkit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.palmergames.bukkit.towny:Towny	1.0
+#DEP#com.massivecraft.factions:Factions	1.0
+#DEP#com.bekvon.bukkit.residence:Residence	1.0

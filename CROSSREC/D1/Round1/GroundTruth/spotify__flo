@@ -1,0 +1,8 @@
+33	#DEP#com.spotify:flo-workflow
+34	#DEP#com.spotify:flo-cli
+35	#DEP#org.mockito:mockito-core
+36	#DEP#ch.qos.logback:logback-classic
+37	#DEP#org.scala-lang:scala-library
+38	#DEP#com.google.testing.compile:compile-testing
+39	#DEP#junit:junit
+40	#DEP#com.google.http-client:google-http-client

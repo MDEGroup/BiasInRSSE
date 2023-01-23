@@ -1,0 +1,12 @@
+1	git://github.com/xiaoyaoyou1212/XSnow.git
+2	#DEP#com.vise.xiaoyaoyou:viseutils
+3	#DEP#com.android.support:support-annotations
+4	#DEP#io.reactivex.rxjava2:rxandroid
+5	#DEP#com.github.bumptech.glide:glide
+6	#DEP#org.greenrobot:greendao
+7	#DEP#com.facebook.fresco:fresco
+8	#DEP#com.squareup.retrofit2:adapter-rxjava2
+9	#DEP#com.android.support:support-v4
+10	#DEP#com.squareup.retrofit2:retrofit
+11	#DEP#com.android.support:design
+12	#DEP#com.squareup.retrofit2:converter-gson

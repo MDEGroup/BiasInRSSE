@@ -1,0 +1,10 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-data-elasticsearch
+1	#DEP#com.alibaba:druid
+1	#DEP#io.dubbo.springboot:spring-boot-starter-dubbo
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-redis
+1	#DEP#org.springframework.boot:spring-boot-starter-webflux
+1	#DEP#com.h2database:h2

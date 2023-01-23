@@ -1,0 +1,8 @@
+1	#DEP#com.google.android:support-v4
+1	#DEP#${project.groupId}:dagger
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.google.guava:guava
+1	#DEP#com.squareup.dagger:dagger-parent
+1	#DEP#com.squareup.dagger.example:dagger-example-parent
+1	#DEP#junit:junit

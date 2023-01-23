@@ -1,0 +1,5 @@
+1	#DEP#com.sun.xml.bind:jaxb-xjc
+1	#DEP#org.ebayopensource.turmeric:turmeric-parent
+1	#DEP#junit:junit
+1	#DEP#org.ebayopensource.turmeric.impl:TurmericErrorIdServiceV1Impl
+1	#DEP#org.ebayopensource.turmeric.intf:TurmericErrorIdServiceV1

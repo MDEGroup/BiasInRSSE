@@ -1,0 +1,17 @@
+1	git://github.com/Tesco/mewbase.git
+2	#DEP#io.vertx:vertx-web
+3	#DEP#com.typesafe:config
+4	#DEP#org.postgresql:postgresql
+5	#DEP#io.nats:java-nats-streaming
+6	#DEP#de.undercouch:bson4jackson
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.lmdbjava:lmdbjava
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#io.mewbase:mewbase
+12	#DEP#io.vertx:vertx-core
+13	#DEP#com.fasterxml.jackson.core:jackson-core
+14	#DEP#io.rest-assured:rest-assured
+15	#DEP#io.vertx:vertx-auth-common
+16	#DEP#junit:junit
+17	#DEP#io.vertx:vertx-unit

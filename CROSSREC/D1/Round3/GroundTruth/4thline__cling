@@ -1,0 +1,5 @@
+21	#DEP#javax.enterprise:cdi-api
+22	#DEP#org.seamless:seamless-xml
+23	#DEP#org.seamless:seamless-util
+24	#DEP#org.fourthline.cling:cling-core
+25	#DEP#org.eclipse.jetty:jetty-client

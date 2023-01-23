@@ -1,0 +1,11 @@
+1	git://github.com/BotMill/fb-botmill.git
+2	#DEP#org.glassfish.web:javax.el
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#org.apache.httpcomponents:httpmime
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit
+11	#DEP#co.aurasphere.botmill:botmill-core

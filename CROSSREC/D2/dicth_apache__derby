@@ -1,0 +1,13 @@
+1	git://github.com/apache/derby.git
+2	#DEP#commons-discovery:commons-discovery
+3	#DEP#axis:axis-wsdl4j
+4	#DEP#ant:ant
+5	#DEP#org.apache:apache
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.apache.derby:derby-project
+8	#DEP#javax.mail:mail
+9	#DEP#javax.activation:activation
+10	#DEP#org.apache.derby:derby
+11	#DEP#org.apache.axis:axis
+12	#DEP#org.apache.axis:axis-jaxrpc
+13	#DEP#org.apache.axis:axis-saaj

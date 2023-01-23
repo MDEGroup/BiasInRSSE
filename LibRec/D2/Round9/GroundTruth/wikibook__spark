@@ -1,0 +1,4 @@
+1	#DEP#org.apache.spark:spark-graphx_2.11
+1	#DEP#junit:junit
+1	#DEP#org.apache.spark:spark-mllib_2.11
+1	#DEP#org.apache.spark:spark-streaming_2.11

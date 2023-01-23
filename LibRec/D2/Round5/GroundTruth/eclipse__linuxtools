@@ -1,0 +1,4 @@
+1	#DEP#org.eclipse.linuxtools.cdt.libhover:linuxtools-libhover-parent
+1	#DEP#org.eclipse.linuxtools.releng:linuxtools-releng-parent
+1	#DEP#org.eclipse.linuxtools.gprof:linuxtools-gprof-parent
+1	#DEP#org.eclipse.linuxtools.javadocs:linuxtools-javadocs-parent

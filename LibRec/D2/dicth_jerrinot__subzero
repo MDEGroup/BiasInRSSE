@@ -1,0 +1,14 @@
+1	git://github.com/jerrinot/subzero.git
+2	#DEP#info.jerrinot:subzero-core
+3	#DEP#org.assertj:assertj-core
+4	#DEP#info.jerrinot:subzero
+5	#DEP#de.javakaffee:kryo-serializers
+6	#DEP#com.hazelcast:hazelcast-client
+7	#DEP#org.mockito:mockito-all
+8	#DEP#joda-time:joda-time
+9	#DEP#log4j:log4j
+10	#DEP#info.jerrinot:subzero-all
+11	#DEP#info.jerrinot:subzero-it-base
+12	#DEP#com.hazelcast:hazelcast
+13	#DEP#com.esotericsoftware:kryo
+14	#DEP#junit:junit

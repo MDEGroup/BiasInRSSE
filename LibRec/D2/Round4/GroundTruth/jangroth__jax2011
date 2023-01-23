@@ -1,0 +1,7 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.dbunit:dbunit
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jboss.logging:jboss-logging
+1	#DEP#org.primefaces.themes:ui-lightness
+1	#DEP#com.h2database:h2

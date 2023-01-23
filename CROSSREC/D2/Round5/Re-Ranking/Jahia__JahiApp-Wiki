@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#xml-apis:xml-apis	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#xalan:xalan	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.xwiki.platform:xwiki-core-rendering-api	1.0

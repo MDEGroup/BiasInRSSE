@@ -1,0 +1,4 @@
+20	#DEP#com.android.support:support-v4
+21	#DEP#junit:junit
+22	#DEP#com.nononsenseapps:filepicker
+23	#DEP#com.android.support.test.espresso:espresso-core

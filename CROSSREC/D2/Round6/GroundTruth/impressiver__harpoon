@@ -1,0 +1,7 @@
+1	#DEP#cglib:cglib-nodep
+1	#DEP#com.thoughtworks.proxytoys:proxytoys
+1	#DEP#com.google.inject:guice
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#com.google.inject.extensions:guice-multibindings
+1	#DEP#org.eclipse.jetty:jetty-servlet

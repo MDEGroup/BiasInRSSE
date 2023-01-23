@@ -1,0 +1,11 @@
+1	git://github.com/skizz/maven_demo.git
+2	#DEP#com.tw.component2:D
+3	#DEP#Component1:A
+4	#DEP#com.tw.maven_demo.component1:parent
+5	#DEP#com.tw.maven_demo.component1:a
+6	#DEP#com.tw.maven_demo.component1:b
+7	#DEP#com.tw.component2:E
+8	#DEP#Component2:F
+9	#DEP#junit:junit
+10	#DEP#com.tw:Component2
+11	#DEP#com.tw:B

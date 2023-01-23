@@ -1,0 +1,10 @@
+1	git://github.com/koral--/android-gif-drawable.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.khronos:opengl-api
+4	#DEP#com.squareup.leakcanary:leakcanary-android
+5	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.robolectric:robolectric
+8	#DEP#net.jodah:concurrentunit
+9	#DEP#junit:junit
+10	#DEP#com.squareup.okhttp3:mockwebserver

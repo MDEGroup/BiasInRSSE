@@ -1,0 +1,11 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.zsmartsystems.zigbee:com.zsmartsystems.zigbee.dongle.conbee
+1	#DEP#com.zsmartsystems.zigbee:com.zsmartsystems.zigbee.dongle.ember
+1	#DEP#com.zsmartsystems.zigbee:com.zsmartsystems.zigbee
+1	#DEP#javax.portlet:portlet-api
+1	#DEP#com.zsmartsystems.zigbee:com.zsmartsystems.zigbee.dongle.cc2531
+1	#DEP#log4j:log4j
+1	#DEP#com.zsmartsystems:zigbee
+1	#DEP#junit:junit
+1	#DEP#com.zsmartsystems.zigbee:zigbee
+1	#DEP#com.zsmartsystems.zigbee:com.zsmartsystems.zigbee.serial

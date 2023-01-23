@@ -1,0 +1,9 @@
+1	git://github.com/jenkinsci/htmlpublisher-plugin.git
+2	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+3	#DEP#org.jenkins-ci.plugins:plugin
+4	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+5	#DEP#com.infradna.tool:bridge-method-annotation
+6	#DEP#org.jenkins-ci:annotation-indexer
+7	#DEP#org.jenkins-ci.plugins:matrix-project
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+9	#DEP#org.jenkins-ci.plugins.workflow:workflow-job

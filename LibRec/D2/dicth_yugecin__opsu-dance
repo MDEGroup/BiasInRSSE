@@ -1,0 +1,15 @@
+1	git://github.com/yugecin/opsu-dance.git
+2	#DEP#org.tukaani:xz
+3	#DEP#net.java.dev.jna:jna-platform
+4	#DEP#org.lwjgl.lwjgl:lwjgl
+5	#DEP#net.java.dev.jna:jna
+6	#DEP#org.xerial:sqlite-jdbc
+7	#DEP#org.apache.commons:commons-compress
+8	#DEP#org.slick2d:slick2d-core
+9	#DEP#com.googlecode.soundlibs:mp3spi
+10	#DEP#net.lingala.zip4j:zip4j
+11	#DEP#com.github.jponge:lzma-java
+12	#DEP#org.json:json
+13	#DEP#gov.nist.math:jama
+14	#DEP#org.jcraft:jorbis
+15	#DEP#org.apache.maven:maven-artifact

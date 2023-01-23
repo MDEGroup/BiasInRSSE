@@ -1,0 +1,12 @@
+1	git://github.com/bonigarcia/webdrivermanager-examples.git
+2	#DEP#com.codeborne:phantomjsdriver
+3	#DEP#org.seleniumhq.selenium:selenium-java
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.seleniumhq.selenium:selenium-server
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#io.github.bonigarcia:webdrivermanager
+8	#DEP#org.testng:testng
+9	#DEP#org.springframework.boot:spring-boot-dependencies
+10	#DEP#org.slf4j:slf4j-api
+11	#DEP#junit:junit
+12	#DEP#org.springframework.boot:spring-boot-starter-web

@@ -1,0 +1,11 @@
+1	git://github.com/jenkinsci/envinject-plugin.git
+2	#DEP#org.jenkins-ci.plugins:ant
+3	#DEP#org.jenkins-ci.plugins:envinject-api
+4	#DEP#org.jenkins-ci.plugins.icon-shim:icon-shim
+5	#DEP#org.jenkins-ci.plugins:script-security
+6	#DEP#org.jenkins-ci.plugins:plugin
+7	#DEP#org.mockito:mockito-core
+8	#DEP#org.jenkins-ci.plugins:matrix-project
+9	#DEP#org.jenkins-ci.plugins:ivy
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#org.jenkins-ci.plugins:matrix-auth

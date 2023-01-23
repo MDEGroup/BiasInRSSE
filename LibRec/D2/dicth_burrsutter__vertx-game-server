@@ -1,0 +1,13 @@
+1	git://github.com/burrsutter/vertx-game-server.git
+2	#DEP#io.vertx:vertx-dropwizard-metrics
+3	#DEP#org.assertj:assertj-core
+4	#DEP#io.vertx:vertx-web
+5	#DEP#io.vertx:vertx-service-discovery-bridge-kubernetes
+6	#DEP#io.vertx:vertx-dependencies
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#io.vertx:vertx-core
+9	#DEP#io.vertx:vertx-hazelcast
+10	#DEP#junit:junit
+11	#DEP#io.vertx:vertx-unit
+12	#DEP#io.vertx:vertx-lang-groovy
+13	#DEP#com.jayway.awaitility:awaitility

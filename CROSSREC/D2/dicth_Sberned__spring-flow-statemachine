@@ -1,0 +1,16 @@
+1	git://github.com/Sberned/spring-flow-statemachine.git
+2	#DEP#ru.sberned.statemachine:spring-flow-state-machine
+3	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+4	#DEP#ru.sberned.statemachine:state-machine-core
+5	#DEP#org.springframework.boot:spring-boot-starter
+6	#DEP#ru.sberned.statemachine:state-machine-samples
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#ru.sberned.statemachine:spring-flow-state-machine-starter
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#ru.sberned.statemachine:state-machine-samples-simple
+11	#DEP#org.springframework:spring-tx
+12	#DEP#ru.sberned.statemachine:state-machine-loading
+13	#DEP#org.springframework.boot:spring-boot-starter-test
+14	#DEP#com.google.guava:guava
+15	#DEP#org.hsqldb:hsqldb
+16	#DEP#com.h2database:h2

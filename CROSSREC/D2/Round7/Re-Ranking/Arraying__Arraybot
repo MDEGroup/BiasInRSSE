@@ -1,0 +1,10 @@
+#DEP#org.jsoup:jsoup	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#com.sedmelluq:lavaplayer	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.jfxtras:jfxtras-window	1.0
+#DEP#me.bramhaag:owo-java	1.0
+#DEP#com.datadoghq:java-dogstatsd-client	1.0
+#DEP#com.github.almasb:fxgl	1.0
+#DEP#com.getsentry.raven:raven-log4j	1.0
+#DEP#com.github.austinv11:Discord4j	1.0

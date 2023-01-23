@@ -1,0 +1,11 @@
+1	git://github.com/nielsutrecht/spring-async.git
+2	#DEP#org.springframework.boot:spring-boot-starter-test
+3	#DEP#ch.qos.logback:logback-core
+4	#DEP#com.github.tomakehurst:wiremock
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#com.squareup.okhttp:okhttp
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.projectlombok:lombok
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#org.springframework.boot:spring-boot-starter-web

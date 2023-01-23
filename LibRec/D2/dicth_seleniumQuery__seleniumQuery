@@ -1,0 +1,11 @@
+1	git://github.com/seleniumQuery/seleniumQuery.git
+2	#DEP#org.hamcrest:hamcrest-junit
+3	#DEP#com.codeborne:phantomjsdriver
+4	#DEP#org.seleniumhq.selenium:selenium-java
+5	#DEP#org.seleniumhq.selenium:htmlunit-driver
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+8	#DEP#org.unbescape:unbescape
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#net.sourceforge.cssparser:cssparser
+11	#DEP#junit:junit

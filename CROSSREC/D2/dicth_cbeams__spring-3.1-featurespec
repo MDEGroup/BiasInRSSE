@@ -1,0 +1,10 @@
+1	git://github.com/cbeams/spring-3.1-featurespec.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#org.springframework:spring-context
+4	#DEP#cglib:cglib-nodep
+5	#DEP#org.springframework:spring-test
+6	#DEP#log4j:log4j
+7	#DEP#commons-logging:commons-logging
+8	#DEP#hsqldb:hsqldb
+9	#DEP#junit:junit
+10	#DEP#org.springframework:spring-jdbc

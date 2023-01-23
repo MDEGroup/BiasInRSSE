@@ -1,0 +1,12 @@
+1	git://github.com/pbackx/PayPalIPNServlet.git
+2	#DEP#com.google.appengine:appengine-api-1.0-sdk
+3	#DEP#com.pow.paypal:pow-paypal
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.vaadin:vaadin-server
+6	#DEP#com.googlecode.objectify:objectify
+7	#DEP#com.vaadin:vaadin-themes
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#javax.transaction:jta
+10	#DEP#com.pow.paypal:pow-paypal-core
+11	#DEP#com.vaadin:vaadin-client-compiled
+12	#DEP#junit:junit

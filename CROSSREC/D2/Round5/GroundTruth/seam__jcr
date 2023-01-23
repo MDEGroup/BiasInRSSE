@@ -1,0 +1,9 @@
+1	#DEP#org.apache.jackrabbit:jackrabbit-core
+1	#DEP#org.jboss.seam.jcr:seam-jcr-parent
+1	#DEP#org.jboss.seam:seam-parent
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api-maven
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.modeshape:modeshape-jcr
+1	#DEP#junit:junit
+1	#DEP#javax.jcr:jcr
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven

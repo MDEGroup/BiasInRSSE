@@ -1,0 +1,6 @@
+1	#DEP#org.pac4j:jax-rs-pac4j
+1	#DEP#org.pac4j:j2e-pac4j
+1	#DEP#io.dropwizard:dropwizard-bom
+1	#DEP#io.dropwizard:dropwizard-testing
+1	#DEP#org.pac4j:pac4j-core
+1	#DEP#io.dropwizard:dropwizard-core

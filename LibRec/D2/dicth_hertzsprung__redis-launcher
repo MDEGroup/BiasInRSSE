@@ -1,0 +1,11 @@
+1	git://github.com/hertzsprung/redis-launcher.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#uk.co.datumedge:datumedge-base
+4	#DEP#org.apache.commons:commons-exec
+5	#DEP#org.hamcrest:hamcrest-library
+6	#DEP#redis.clients:jedis
+7	#DEP#com.google.guava:guava
+8	#DEP#org.jmock:jmock-junit4
+9	#DEP#org.jmock:jmock-legacy
+10	#DEP#junit:junit
+11	#DEP#org.hamcrest:hamcrest-core

@@ -1,0 +1,10 @@
+1	git://github.com/carrotsearch/smartsprites.git
+2	#DEP#org.apache.commons:commons-math3
+3	#DEP#org.assertj:assertj-core
+4	#DEP#org.apache.ant:ant
+5	#DEP#commons-io:commons-io
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#args4j:args4j
+8	#DEP#com.google.guava:guava
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#junit:junit

@@ -1,0 +1,14 @@
+1	#DEP#org.eclipse.mylyn:org.eclipse.mylyn-parent
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore
+1	#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext.confluence
+1	#DEP#org.eclipse.mylyn.docs:epub.ui
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.eclipse.mylyn.docs:wikitext.core
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#org.eclipse.emf:org.eclipse.emf.ecore.xmi
+1	#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.docs.epub.core
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.mylyn.docs:org.eclipse.mylyn.wikitext

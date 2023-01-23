@@ -1,0 +1,15 @@
+1	git://github.com/oldmanpushcart/greys-anatomy.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.commons:commons-lang3
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#net.sf.jopt-simple:jopt-simple
+6	#DEP#com.google.code.gson:gson
+7	#DEP#org.ow2.asm:asm
+8	#DEP#com.github.ompc.greys:greys
+9	#DEP#jline:jline
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#ognl:ognl
+13	#DEP#org.ow2.asm:asm-commons
+14	#DEP#junit:junit
+15	#DEP#org.ow2.asm:asm-util

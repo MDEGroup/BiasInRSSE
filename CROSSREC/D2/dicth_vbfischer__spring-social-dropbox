@@ -1,0 +1,15 @@
+1	git://github.com/vbfischer/spring-social-dropbox.git
+2	#DEP#org.springframework.social:spring-social-web
+3	#DEP#org.springframework.social:spring-social-test
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.springframework.security:spring-security-core
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.springframework:spring-core
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#org.springframework:spring-web
+11	#DEP#org.springframework.social:spring-social-core
+12	#DEP#commons-codec:commons-codec
+13	#DEP#com.fasterxml.jackson.core:jackson-core
+14	#DEP#org.springframework:spring-test
+15	#DEP#junit:junit

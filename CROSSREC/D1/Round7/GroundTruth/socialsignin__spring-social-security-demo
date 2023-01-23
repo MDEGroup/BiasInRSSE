@@ -1,0 +1,5 @@
+20	#DEP#javax.servlet:servlet-api
+21	#DEP#org.apache.httpcomponents:httpcore
+22	#DEP#org.springframework.security:spring-security-config
+23	#DEP#com.h2database:h2
+24	#DEP#org.springframework.social:spring-social-twitter

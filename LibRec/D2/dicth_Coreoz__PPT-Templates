@@ -1,0 +1,10 @@
+1	git://github.com/Coreoz/PPT-Templates.git
+2	#DEP#net.coobird:thumbnailator
+3	#DEP#com.coreoz:ppt-templates
+4	#DEP#org.assertj:assertj-core
+5	#DEP#org.apache.poi:poi-scratchpad
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.poi:poi-ooxml
+9	#DEP#org.projectlombok:lombok
+10	#DEP#junit:junit

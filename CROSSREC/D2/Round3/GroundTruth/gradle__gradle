@@ -1,0 +1,8 @@
+1	#DEP#org.sample:string-utils
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.gradle.webinar:webinar-parent
+1	#DEP#com.google.guava:guava
+1	#DEP#org.gradle.webinar:webinar-impl
+1	#DEP#junit:junit
+1	#DEP#org.antlr:antlr
+1	#DEP#org.gradle.webinar:nested-parent

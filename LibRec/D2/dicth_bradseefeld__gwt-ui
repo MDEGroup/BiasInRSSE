@@ -1,0 +1,10 @@
+1	git://github.com/bradseefeld/gwt-ui.git
+2	#DEP#javax.validation:validation-api
+3	#DEP#com.github.gwtbootstrap:gwt-bootstrap
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#com.google.gwt:gwt-user
+6	#DEP#com.google.gwt:gwt-dev
+7	#DEP#org.json:json
+8	#DEP#junit:junit
+9	#DEP#com.google.gwt:gwt-servlet
+10	#DEP#org.slf4j:slf4j-jdk14

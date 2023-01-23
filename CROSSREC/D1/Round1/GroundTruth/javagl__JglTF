@@ -1,0 +1,4 @@
+18	#DEP#org.jogamp.jogl:jogl-all-main
+19	#DEP#de.javagl:obj
+20	#DEP#de.javagl:jgltf-parent
+21	#DEP#de.javagl:jgltf-obj

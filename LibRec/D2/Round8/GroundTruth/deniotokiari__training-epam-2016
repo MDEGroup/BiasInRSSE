@@ -1,0 +1,7 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.google.appengine:appengine-endpoints
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.appengine:appengine-endpoints-deps
+1	#DEP#org.json:json
+1	#DEP#junit:junit

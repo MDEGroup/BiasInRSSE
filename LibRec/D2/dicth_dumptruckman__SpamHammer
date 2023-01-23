@@ -1,0 +1,9 @@
+1	git://github.com/dumptruckman/SpamHammer.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.getspout:spoutpluginapi
+5	#DEP#com.dumptruckman.minecraft:BukkitPlugin
+6	#DEP#org.powermock:powermock-api-mockito
+7	#DEP#org.easymock:easymock
+8	#DEP#org.powermock:powermock-api-easymock
+9	#DEP#junit:junit

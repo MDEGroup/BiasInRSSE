@@ -1,0 +1,9 @@
+1	git://github.com/abhijitvalluri/fitnotifications.git
+2	#DEP#org.mockito:mockito-core
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.heinrichreimersoftware:material-intro
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

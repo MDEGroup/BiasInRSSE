@@ -1,0 +1,14 @@
+1	git://github.com/jjdxmashl/jjdxm_demomvp.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.squareup.retrofit2:converter-scalars
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.dou361.customui:jjdxm-customui
+6	#DEP#com.dou361.retrofit2:jjdxm-retrofit-converter-fastjson
+7	#DEP#com.jakewharton:butterknife-compiler
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#junit:junit
+13	#DEP#io.reactivex:rxjava
+14	#DEP#io.reactivex:rxandroid

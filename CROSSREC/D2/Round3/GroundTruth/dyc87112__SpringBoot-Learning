@@ -1,0 +1,13 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#org.springframework.boot:spring-boot-starter-redis
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.springframework.boot:spring-boot-starter-mail
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

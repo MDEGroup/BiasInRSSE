@@ -1,0 +1,6 @@
+1	#DEP#com.j2html:j2html
+1	#DEP#net.lingala.zip4j:zip4j
+1	#DEP#net.sf.jtidy:jtidy
+1	#DEP#com.google.guava:guava
+1	#DEP#org.json:json
+1	#DEP#com.beust:jcommander

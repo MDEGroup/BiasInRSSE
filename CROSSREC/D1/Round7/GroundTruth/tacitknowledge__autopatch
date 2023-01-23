@@ -1,0 +1,4 @@
+18	#DEP#commons-digester:commons-digester
+19	#DEP#junit:junit
+20	#DEP#poi:poi
+21	#DEP#org.hsqldb:hsqldb

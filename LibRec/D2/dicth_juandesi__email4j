@@ -1,0 +1,9 @@
+1	git://github.com/juandesi/email4j.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.hamcrest:hamcrest-all
+4	#DEP#com.google.guava:guava
+5	#DEP#com.icegreen:greenmail
+6	#DEP#org.mockito:mockito-all
+7	#DEP#junit:junit
+8	#DEP#com.sun.mail:javax.mail
+9	#DEP#commons-lang:commons-lang

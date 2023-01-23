@@ -1,0 +1,14 @@
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#com.sun:tools
+1	#DEP#com.ibm.websphere:was-embeddableContainer
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.ibm.websphere:jgss-provider
+1	#DEP#org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-api-javaee
+1	#DEP#com.ibm.websphere:was-public
+1	#DEP#org.jboss.arquillian.container:arquillian-parent-was
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#com.ibm.websphere:was-endorsedAPIs
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#junit:junit

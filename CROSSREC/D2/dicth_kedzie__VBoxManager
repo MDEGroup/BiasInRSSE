@@ -1,0 +1,13 @@
+1	git://github.com/kedzie/VBoxManager.git
+2	#DEP#com.actionbarsherlock:actionbarsherlock
+3	#DEP#nf.fr.eraasoft:objectpool
+4	#DEP#com.github.kedzie.supportanimator:support-v4-animator
+5	#DEP#pl.polidea:treeview
+6	#DEP#com.nineoldandroids:library
+7	#DEP#com.squareup:fest-android
+8	#DEP#android:android
+9	#DEP#virtualbox:vbox-app
+10	#DEP#com.google.guava:guava
+11	#DEP#virtualbox:vbox-android-parent
+12	#DEP#commons-validator:commons-validator
+13	#DEP#android.test.uiautomator:uiautomator

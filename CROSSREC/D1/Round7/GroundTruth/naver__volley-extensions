@@ -1,0 +1,4 @@
+19	#DEP#org.powermock:powermock-api-mockito
+20	#DEP#com.android.volley:volley
+21	#DEP#junit:junit
+22	#DEP#com.jayway.awaitility:awaitility

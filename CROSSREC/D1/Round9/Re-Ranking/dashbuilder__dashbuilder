@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.pdfbox:pdfbox	1.0
+#DEP#org.apache.poi:poi	1.0
+#DEP#org.apache.commons:commons-jexl	1.0
+#DEP#org.apache.poi:ooxml-schemas	1.0
+#DEP#com.exigeninsurance.x4j.analytic:x4j-analytic	1.0

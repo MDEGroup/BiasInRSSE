@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.flink:flink-streaming-java_2.10	1.0
+#DEP#com.esotericsoftware:kryo	1.0
+#DEP#org.apache.flink:flink-streaming-java_2.11	1.0
+#DEP#org.apache.flink:flink-streaming-scala_2.11	1.0
+#DEP#org.apache.hadoop:hadoop-common	1.0
+#DEP#org.apache.flink:flink-table_2.11	1.0
+#DEP#org.apache.flink:flink-hbase_2.11	1.0
+#DEP#com.google.cloud.bigtable:bigtable-hbase-1.2	1.0

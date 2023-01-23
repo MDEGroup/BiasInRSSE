@@ -1,0 +1,11 @@
+1	git://github.com/tresorit/ZeroKit-Android-Sample.git
+2	#DEP#com.google.dagger:dagger-compiler
+3	#DEP#com.squareup.okhttp3:logging-interceptor
+4	#DEP#com.squareup.retrofit2:retrofit
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#javax.annotation:javax.annotation-api
+7	#DEP#org.greenrobot:eventbus
+8	#DEP#junit:junit
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#com.android.support.test.espresso:espresso-idling-resource
+11	#DEP#com.google.dagger:dagger

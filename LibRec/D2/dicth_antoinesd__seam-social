@@ -1,0 +1,17 @@
+1	git://github.com/antoinesd/seam-social.git
+2	#DEP#javax.faces:jsf-api
+3	#DEP#org.jboss.seam.solder:seam-solder
+4	#DEP#org.jboss.seam.social:seam-social-impl
+5	#DEP#org.jboss.seam.social:seam-social-parent
+6	#DEP#org.jboss.weld:weld-extensions-bom
+7	#DEP#org.codehaus.jackson:jackson-core-asl
+8	#DEP#org.jboss.seam:seam-bom
+9	#DEP#org.jboss.seam.config:seam-config-xml
+10	#DEP#org.jboss.seam.social:seam-social-api
+11	#DEP#org.scribe:scribe
+12	#DEP#org.codehaus.jackson:jackson-mapper-asl
+13	#DEP#javax.enterprise:cdi-api
+14	#DEP#org.glassfish.extras:glassfish-embedded-all
+15	#DEP#org.jboss.seam:seam-parent
+16	#DEP#org.jboss.logging:jboss-logging
+17	#DEP#org.jboss.seam.social:seam-social

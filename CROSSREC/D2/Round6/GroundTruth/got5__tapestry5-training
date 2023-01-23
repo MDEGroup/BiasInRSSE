@@ -1,0 +1,4 @@
+1	#DEP#org.easymock:easymock
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.tapestry:tapestry-yuicompressor
+1	#DEP#org.apache.tapestry:tapestry-test

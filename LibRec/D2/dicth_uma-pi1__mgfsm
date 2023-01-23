@@ -1,0 +1,12 @@
+1	git://github.com/uma-pi1/mgfsm.git
+2	#DEP#jdk.tools:jdk.tools
+3	#DEP#org.apache.commons:commons-compress
+4	#DEP#org.apache.mahout:mahout-math
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.apache.mahout:mahout-core
+7	#DEP#org.apache.commons:commons-math
+8	#DEP#org.apache.hadoop:hadoop-common
+9	#DEP#it.unimi.dsi:fastutil
+10	#DEP#org.apache.hadoop:hadoop-auth
+11	#DEP#junit:junit
+12	#DEP#org.apache.mahout:mahout-integration

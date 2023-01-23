@@ -1,0 +1,14 @@
+1	git://github.com/ChiralBehaviors/Jackal.git
+2	#DEP#com.hellblazer.jackal:jackal.app
+3	#DEP#org.springframework:spring-context
+4	#DEP#com.hellblazer:pinkie
+5	#DEP#org.springframework:spring-aop
+6	#DEP#org.springframework:spring-beans
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.mockito:mockito-all
+9	#DEP#cglib:cglib-nodep
+10	#DEP#com.hellblazer.jackal:jackal
+11	#DEP#org.slf4j:jcl-over-slf4j
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.fasterxml.uuid:java-uuid-generator
+14	#DEP#junit:junit

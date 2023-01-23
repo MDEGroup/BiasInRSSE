@@ -1,0 +1,9 @@
+1	git://github.com/derohimat/FirebaseAuthExample.git
+2	#DEP#com.google.firebase:firebase-auth
+3	#DEP#org.glassfish:javax.annotation
+4	#DEP#com.karumi:dexter
+5	#DEP#com.github.derohimat:android-base-mvp
+6	#DEP#org.greenrobot:eventbus
+7	#DEP#com.facebook.android:facebook-android-sdk
+8	#DEP#io.reactivex:rxjava
+9	#DEP#io.reactivex:rxandroid

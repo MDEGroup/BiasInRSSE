@@ -1,0 +1,7 @@
+30	#DEP#org.apache.cxf:cxf-rt-management
+31	#DEP#commons-collections:commons-collections
+32	#DEP#org.apache.cxf:cxf-rt-databinding-aegis
+33	#DEP#org.apache.cxf:cxf-rt-transports-local
+34	#DEP#junit:junit
+35	#DEP#org.apache.cxf:cxf-rt-core
+36	#DEP#com.h2database:h2

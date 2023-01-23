@@ -1,0 +1,9 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.ashokvarma.android:bottom-navigation-bar
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.bigkoo:pickerview
+1	#DEP#io.reactivex:rxandroid

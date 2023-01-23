@@ -1,0 +1,8 @@
+33	#DEP#org.eclipse.jetty:jetty-server
+34	#DEP#org.apache.velocity:velocity-tools
+35	#DEP#${project.groupId}:testdataexternalizer
+36	#DEP#${project.groupId}:datasource-html
+37	#DEP#org.apache.maven:maven-plugin-api
+38	#DEP#${project.groupId}:commandline
+39	#DEP#${project.groupId}:deployer-activevos9
+40	#DEP#org.apache.maven.shared:maven-plugin-testing-harness

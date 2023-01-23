@@ -1,0 +1,12 @@
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.eclipse.persistence:eclipselink
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.ocpsoft:prettyfaces-jsf2
+1	#DEP#br.gov.consegi:inscricao-core
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#br.gov.frameworkdemoiselle:demoiselle-minimal-parent
+1	#DEP#junit:junit
+1	#DEP#org.jboss.weld.servlet:weld-servlet
+1	#DEP#br.gov.frameworkdemoiselle:demoiselle-junit

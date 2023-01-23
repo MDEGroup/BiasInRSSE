@@ -1,0 +1,8 @@
+34	#DEP#com.codahale.metrics:metrics-core
+35	#DEP#org.jooq:joor
+36	#DEP#log4j:log4j
+37	#DEP#com.twitter.common:stats-jvm
+38	#DEP#org.apache.bookkeeper:hedwig-server-compat410
+39	#DEP#org.apache.derby:derby
+40	#DEP#org.apache.hadoop:hadoop-common
+41	#DEP#junit:junit

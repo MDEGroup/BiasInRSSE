@@ -1,0 +1,13 @@
+1	#DEP#org.apache.mahout:mahout-core
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.jmock:jmock-junit4
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#org.sleuthkit:sleuthkit-grep
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#org.sleuthkit:sleuthkit-textextraction
+1	#DEP#org.sleuthkit:sleuthkit-core
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#junit:junit

@@ -1,0 +1,8 @@
+1	#DEP#com.google.android.gms:play-services-analytics
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.networkbench.newlens.agent.android:nbs.newlens.agent
+1	#DEP#com.tencent.bugly:crashreport_upgrade
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.oasisfeng.condom:library
+1	#DEP#junit:junit
+1	#DEP#com.google.firebase:firebase-ads

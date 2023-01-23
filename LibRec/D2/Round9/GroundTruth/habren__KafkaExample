@@ -1,0 +1,6 @@
+1	#DEP#org.apache.kafka:kafka_2.11
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#com.jasongj.kafka:demokafka
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.101tec:zkclient

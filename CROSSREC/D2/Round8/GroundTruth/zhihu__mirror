@@ -1,0 +1,5 @@
+1	#DEP#com.davemorrissey.labs:subsampling-scale-image-view
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.facebook.fresco:imagepipeline-okhttp3
+1	#DEP#com.google.code.gson:gson
+1	#DEP#io.reactivex:rxjava

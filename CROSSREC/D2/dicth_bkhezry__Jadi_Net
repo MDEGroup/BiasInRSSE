@@ -1,0 +1,12 @@
+1	git://github.com/bkhezry/Jadi_Net.git
+2	#DEP#com.afollestad.material-dialogs:core
+3	#DEP#com.github.castorflex.smoothprogressbar:library
+4	#DEP#co.lujun:androidtagview
+5	#DEP#com.github.bkhezry:ExtraWebView
+6	#DEP#com.github.ViksaaSkool:AwesomeSplash
+7	#DEP#com.github.bkhezry:bottomnavigation
+8	#DEP#com.nightonke:boommenu
+9	#DEP#com.squareup.retrofit2:retrofit
+10	#DEP#junit:junit
+11	#DEP#uk.co.chrisjenx:calligraphy
+12	#DEP#com.squareup.retrofit2:converter-gson

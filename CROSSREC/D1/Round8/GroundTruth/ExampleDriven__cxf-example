@@ -1,0 +1,4 @@
+17	#DEP#javax.servlet:servlet-api
+18	#DEP#javax.servlet:jstl
+19	#DEP#org.springframework.security:spring-security-config
+20	#DEP#junit:junit

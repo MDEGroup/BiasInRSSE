@@ -1,0 +1,13 @@
+1	git://github.com/habren/KafkaExample.git
+2	#DEP#org.apache.kafka:kafka-clients
+3	#DEP#org.xerial.snappy:snappy-java
+4	#DEP#org.apache.kafka:kafka-streams
+5	#DEP#commons-io:commons-io
+6	#DEP#org.apache.zookeeper:zookeeper
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.apache.kafka:kafka_2.11
+9	#DEP#org.scala-lang:scala-library
+10	#DEP#com.jasongj.kafka:demokafka
+11	#DEP#com.google.guava:guava
+12	#DEP#junit:junit
+13	#DEP#com.101tec:zkclient

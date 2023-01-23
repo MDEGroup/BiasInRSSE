@@ -1,0 +1,11 @@
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-assembly
+1	#DEP#org.ops4j.pax.url:pax-url-wrap
+1	#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+1	#DEP#org.neo4j.build:parent-central
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#org.ops4j.pax.exam:pax-exam-container-paxrunner
+1	#DEP#${jta.groupId}:${jta.artifactId}
+1	#DEP#org.ops4j.pax.exam:pax-exam-testforge
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+1	#DEP#org.neo4j.build:osgi-build
+1	#DEP#org.osgi:org.osgi.core

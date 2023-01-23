@@ -1,0 +1,8 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.primefaces.themes:eggplant
+1	#DEP#org.primefaces:facestrace
+1	#DEP#org.primefaces.themes:glass-x
+1	#DEP#org.primefaces.themes:vader
+1	#DEP#org.hibernate:hibernate-jpamodelgen
+1	#DEP#junit:junit
+1	#DEP#org.primefaces.themes:flick

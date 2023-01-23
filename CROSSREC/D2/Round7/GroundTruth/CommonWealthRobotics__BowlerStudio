@@ -1,0 +1,11 @@
+1	#DEP#com.neuronrobotics:JavaCad
+1	#DEP#org.jsoup:jsoup
+1	#DEP#javax.media:jmf
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#org.dockfx:DockFX
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.neuronrobotics:CHDK-PTP-Java
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#gov.nist.math:jama
+1	#DEP#org.eclipse.jetty:jetty-servlet

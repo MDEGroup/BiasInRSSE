@@ -1,0 +1,14 @@
+1	git://github.com/microacup/microbbs.git
+2	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.dynamicreg.server
+3	#DEP#org.pegdown:pegdown
+4	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.common
+5	#DEP#io.spring.platform:platform-bom
+6	#DEP#org.jsoup:jsoup
+7	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.client
+8	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.dynamicreg.common
+9	#DEP#org.cache2k:cache2k-api
+10	#DEP#com.google.guava:guava
+11	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.resourceserver
+12	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.resourceserver-filter
+13	#DEP#org.apache.oltu.oauth2:org.apache.oltu.oauth2.authzserver
+14	#DEP#org.cache2k:cache2k-core

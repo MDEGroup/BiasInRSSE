@@ -1,0 +1,14 @@
+1	git://github.com/jcalaz/xmarket.git
+2	#DEP#com.jude:rollviewpager
+3	#DEP#com.afollestad.material-dialogs:core
+4	#DEP#com.orhanobut:logger
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.github.johnpersano:supertoasts
+7	#DEP#com.android.support:design
+8	#DEP#com.squareup.okhttp3:logging-interceptor
+9	#DEP#cn.finalteam.rxgalleryfinal:library
+10	#DEP#com.miguelcatalan:materialsearchview
+11	#DEP#com.github.shem8:material-login
+12	#DEP#org.projectlombok:lombok
+13	#DEP#junit:junit
+14	#DEP#com.ashokvarma.android:bottom-navigation-bar

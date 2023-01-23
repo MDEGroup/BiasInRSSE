@@ -1,0 +1,8 @@
+1	#DEP#org.seleniumhq.selenium:selenium-htmlunit-driver
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

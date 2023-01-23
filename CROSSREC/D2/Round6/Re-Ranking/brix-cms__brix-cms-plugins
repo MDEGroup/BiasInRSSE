@@ -1,0 +1,10 @@
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.apache.wicket:wicket-extensions	1.0
+#DEP#com.h2database:h2	1.0
+#DEP#org.springframework.boot:spring-boot-starter-security	1.0
+#DEP#org.wicketstuff:wicketstuff-inmethod-grid	1.0
+#DEP#org.brixcms:brix-modeshape	1.0
+#DEP#org.brixcms:brix-plugin-menu	1.0

@@ -1,0 +1,11 @@
+1	git://github.com/cyfer/Taverna_Provenance.git
+2	#DEP#uk.co.magus.fourstore:4store-client
+3	#DEP#uk.org.taverna.scufl2:scufl2-rdfxml
+4	#DEP#commons-io:commons-io
+5	#DEP#gnu.getopt:getopt
+6	#DEP#org.apache.xmlbeans:xmlbeans
+7	#DEP#net.sf.json-lib:json-lib
+8	#DEP#uk.org.taverna.scufl2:scufl2-api
+9	#DEP#junit:junit
+10	#DEP#uk.org.taverna.scufl2:scufl2-t2flow
+11	#DEP#org.biocatalogue:biocatalogue_api_classes

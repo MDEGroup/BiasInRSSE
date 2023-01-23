@@ -1,0 +1,11 @@
+1	#DEP#org.kohsuke.sorcerer:sorcerer-core
+1	#DEP#org.kohsuke.sorcerer:sorcerer-stapler
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.apache.maven.reporting:maven-reporting-impl
+1	#DEP#org.kohsuke.stapler:stapler
+1	#DEP#args4j:args4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#junit:junit
+1	#DEP#org.kohsuke.sorcerer:sorcerer-javac
+1	#DEP#com.smartgwt:smartgwt-skins

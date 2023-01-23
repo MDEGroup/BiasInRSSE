@@ -1,0 +1,13 @@
+55	#DEP#com.google.sitebricks:sitebricks-extensions
+56	#DEP#net.oauth.core:oauth
+57	#DEP#javax.mail:mail
+58	#DEP#org.eclipse.jetty:jetty-server
+59	#DEP#dom4j:dom4j
+60	#DEP#com.fasterxml.jackson.core:jackson-databind
+61	#DEP#net.jcip:jcip-annotations
+62	#DEP#org.seleniumhq.webdriver:webdriver-support
+63	#DEP#javax.servlet:servlet-api
+64	#DEP#commons-fileupload:commons-fileupload
+65	#DEP#org.eclipse.jetty:jetty-webapp
+66	#DEP#org.eclipse.jetty:jetty-util
+67	#DEP#com.google.inject.extensions:guice-multibindings

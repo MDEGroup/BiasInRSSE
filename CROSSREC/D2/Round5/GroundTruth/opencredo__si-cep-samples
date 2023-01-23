@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-jms
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.apache.activemq:activemq-all
+1	#DEP#org.opencredo:web-app-common
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.xbean:xbean-spring
+1	#DEP#org.opencredo:si-cep-samples
+1	#DEP#junit:junit
+1	#DEP#org.springframework.integration:spring-integration-core

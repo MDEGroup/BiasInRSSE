@@ -1,0 +1,11 @@
+1	git://github.com/neo4j-contrib/neo4j-rdf-sparql.git
+2	#DEP#external:openrdf-model
+3	#DEP#org.neo4j:parent-pom
+4	#DEP#external:rio
+5	#DEP#org.neo4j:neo4j-graph-matching
+6	#DEP#external:sparql-engine
+7	#DEP#junit:junit
+8	#DEP#external:openrdf-util
+9	#DEP#org.neo4j:neo4j-rdf
+10	#DEP#org.neo4j:neo4j-index
+11	#DEP#org.neo4j:neo4j-kernel

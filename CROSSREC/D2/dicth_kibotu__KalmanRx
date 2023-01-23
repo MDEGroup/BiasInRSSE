@@ -1,0 +1,11 @@
+1	git://github.com/kibotu/KalmanRx.git
+2	#DEP#br.com.zbra:android-linq
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#android.arch.lifecycle:extensions
+5	#DEP#com.android.support:multidex
+6	#DEP#com.jjoe64:graphview
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#android.arch.lifecycle:common-java8
+11	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,15 @@
+1	git://github.com/frayer/extensify.git
+2	#DEP#org.extensify:transform-extensions-groovy
+3	#DEP#xalan:xalan
+4	#DEP#commons-io:commons-io
+5	#DEP#xmlunit:xmlunit
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.mockito:mockito-all
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.codehaus.groovy.maven.runtime:gmaven-runtime-api
+11	#DEP#commons-lang:commons-lang
+12	#DEP#log4j:log4j
+13	#DEP#org.codehaus.groovy:groovy
+14	#DEP#junit:junit
+15	#DEP#org.extensify:transform-extensions-core

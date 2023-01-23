@@ -1,0 +1,6 @@
+1	#DEP#com.google.auto.factory:auto-factory
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#org.immutables:gson
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.google.dagger:dagger
+1	#DEP#io.reactivex:rxandroid

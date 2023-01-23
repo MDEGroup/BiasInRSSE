@@ -1,0 +1,11 @@
+1	git://github.com/airbnb/AirMapView.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#com.google.maps.android:android-maps-utils
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#org.hamcrest:hamcrest-integration
+7	#DEP#com.android.support:multidex
+8	#DEP#com.google.android.gms:play-services-maps
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#org.hamcrest:hamcrest-core

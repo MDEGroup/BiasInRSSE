@@ -1,0 +1,10 @@
+1	git://github.com/marssa/footprint.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-core
+4	#DEP#net.sf.flexjson:flexjson
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.jscience:jscience
+8	#DEP#org.osgi:core
+9	#DEP#junit:junit
+10	#DEP#c3p0:c3p0

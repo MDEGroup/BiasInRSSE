@@ -1,0 +1,12 @@
+1	git://github.com/CurrencyFair/OneSignal-Java-SDK.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#commons-io:commons-io
+4	#DEP#org.slf4j:jcl-over-slf4j
+5	#DEP#io.github.openfeign:feign-jackson
+6	#DEP#org.slf4j:log4j-over-slf4j
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#io.github.openfeign:feign-core
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#io.github.openfeign:feign-slf4j
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

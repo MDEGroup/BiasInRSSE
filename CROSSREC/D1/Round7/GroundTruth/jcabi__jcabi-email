@@ -1,0 +1,7 @@
+31	#DEP#org.slf4j:org.slf4j
+32	#DEP#org.apache.commons:org.apache.commons
+33	#DEP#com.icegreen:greenmail
+34	#DEP#org.aspectj:org.aspectj
+35	#DEP#junit:junit
+36	#DEP#javax.xml.bind:javax.xml.bind
+37	#DEP#com.jcabi:jcabi-aspects

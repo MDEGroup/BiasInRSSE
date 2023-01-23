@@ -1,0 +1,11 @@
+1	git://github.com/gengqiquan/HttpUtil.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#com.squareup.retrofit2:converter-scalars
+5	#DEP#io.reactivex.rxjava2:rxjava
+6	#DEP#com.squareup.okhttp3:okhttp
+7	#DEP#com.squareup.retrofit2:adapter-rxjava2
+8	#DEP#com.squareup.retrofit2:retrofit
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.squareup.okio:okio

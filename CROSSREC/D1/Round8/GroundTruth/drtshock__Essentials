@@ -1,0 +1,4 @@
+16	#DEP#net.ess3:UpdatedMetaProvider
+17	#DEP#org.projectlombok:lombok
+18	#DEP#junit:junit
+19	#DEP#net.ess3:EssentialsX

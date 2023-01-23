@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+1	#DEP#com.google.inject:guice
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+1	#DEP#junit:junit
+1	#DEP#org.lognet:grpc-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

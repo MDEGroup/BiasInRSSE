@@ -1,0 +1,10 @@
+#DEP#org.netbeans.api:org-openide-filesystems	1.0
+#DEP#org.netbeans.api:org-openide-util-lookup	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-projectuiapi	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-projectapi	1.0
+#DEP#org.netbeans.api:org-openide-util	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-editor-lib	1.0
+#DEP#org.netbeans.api:org-openide-dialogs	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-editor-lib2	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-options-api	1.0
+#DEP#org.netbeans.api:org-openide-actions	1.0

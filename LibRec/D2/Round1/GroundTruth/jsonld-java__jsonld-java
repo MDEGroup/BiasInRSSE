@@ -1,0 +1,9 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.apache.httpcomponents:httpcore-nio
+1	#DEP#org.apache.httpcomponents:fluent-hc
+1	#DEP#junit:junit
+1	#DEP#org.apache.httpcomponents:httpclient-osgi

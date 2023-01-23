@@ -1,0 +1,13 @@
+1	git://github.com/jt6211/hadoop-dns-mining.git
+2	#DEP#org.apache.commons:commons-jexl
+3	#DEP#org.apache.accumulo:cloudtrace
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.apache.zookeeper:zookeeper
+7	#DEP#com.google.collections:google-collections
+8	#DEP#com.maxmind:geo-ip
+9	#DEP#org.codehaus.jackson:jackson-mapper-asl
+10	#DEP#org.apache.accumulo:accumulo-core
+11	#DEP#dnsjava:dnsjava
+12	#DEP#junit:junit
+13	#DEP#org.apache.thrift:libthrift

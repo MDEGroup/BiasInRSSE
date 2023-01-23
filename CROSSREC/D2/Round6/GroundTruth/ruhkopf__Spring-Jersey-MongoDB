@@ -1,0 +1,8 @@
+1	#DEP#com.sun.jersey:jersey-json
+1	#DEP#org.springframework:spring-expression
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.sun.jersey.contribs:jersey-spring
+1	#DEP#org.glassfish.distributions:web-all
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#cglib:cglib

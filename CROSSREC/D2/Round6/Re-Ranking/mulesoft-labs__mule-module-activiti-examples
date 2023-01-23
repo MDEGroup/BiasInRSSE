@@ -1,0 +1,10 @@
+#DEP#org.mule.modules:mule-module-scripting	1.0
+#DEP#junit:junit	1.0
+#DEP#org.mule.modules:mule-module-spring-config	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.mule.transports:mule-transport-vm	1.0
+#DEP#org.mule.ibeans:ibeans-ri	1.0
+#DEP#org.ibeans:ibeans-annotation-api	1.0
+#DEP#org.mule.modules:mule-module-hbase	1.0
+#DEP#org.mule.tools:mule-cloud-connector-annotations	1.0
+#DEP#org.mule.tools:mule-cloud-connector-ibeans	1.0

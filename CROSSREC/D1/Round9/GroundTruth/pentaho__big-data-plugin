@@ -1,0 +1,8 @@
+33	#DEP#pentaho:pentaho-big-data-api-oozie
+34	#DEP#org.apache.oozie:oozie-core
+35	#DEP#pentaho:pentaho-big-data-api-jdbc
+36	#DEP#pentaho:pentaho-big-data-impl-shim-common
+37	#DEP#org.apache.hadoop:hadoop-client
+38	#DEP#pentaho-kettle:kettle-engine
+39	#DEP#pentaho:pentaho-metastore-locator-api
+40	#DEP#junit:junit

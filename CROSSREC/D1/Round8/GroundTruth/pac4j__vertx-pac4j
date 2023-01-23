@@ -1,0 +1,3 @@
+16	#DEP#org.projectlombok:lombok
+17	#DEP#junit:junit
+18	#DEP#com.nhaarman:mockito-kotlin

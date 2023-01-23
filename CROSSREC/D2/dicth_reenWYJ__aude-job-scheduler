@@ -1,0 +1,14 @@
+1	git://github.com/reenWYJ/aude-job-scheduler.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#io.netty:netty-all
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.springframework:spring-core
+7	#DEP#com.fasterxml.jackson.core:jackson-annotations
+8	#DEP#commons-lang:commons-lang
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.quartz-scheduler:quartz
+11	#DEP#org.springframework:spring-context-support
+12	#DEP#ch.qos.logback:logback-core
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#org.apache.thrift:libthrift

@@ -1,0 +1,17 @@
+1	git://github.com/redhat-developer-demos/kubernetes-lab.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.wildfly.swarm:jaxrs-cdi
+4	#DEP#io.vertx:vertx-web
+5	#DEP#org.apache.deltaspike.modules:deltaspike-data-module-impl
+6	#DEP#org.wildfly.swarm:jaxrs-jsonp
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.apache.deltaspike.modules:deltaspike-data-module-api
+9	#DEP#org.wildfly.swarm:jpa
+10	#DEP#org.apache.deltaspike.core:deltaspike-core-api
+11	#DEP#org.wildfly.swarm:bom
+12	#DEP#io.vertx:vertx-core
+13	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+14	#DEP#org.wildfly.swarm:undertow
+15	#DEP#org.apache.deltaspike.core:deltaspike-core-impl
+16	#DEP#org.wildfly.swarm:datasources
+17	#DEP#org.apache.deltaspike.distribution:distributions-bom

@@ -1,0 +1,10 @@
+#DEP#Jama:Jama	1.0
+#DEP#com.jidesoft:jide-components	1.0
+#DEP#org.xeustechnologies:jtar	1.0
+#DEP#ncsa.hdf:jhdf	1.0
+#DEP#com.jidesoft:jide-dock	1.0
+#DEP#javax.media.jai:mlibwrapper-jai	1.0
+#DEP#ncsa.hdf:jhdf5	1.0
+#DEP#com.jidesoft:jide-grids	1.0
+#DEP#com.googlecode.efficient-java-matrix-library:ejml	1.0
+#DEP#com.sun.media:jai-imageio	1.0

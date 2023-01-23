@@ -1,0 +1,9 @@
+1	git://github.com/JodaOrg/joda-beans.git
+2	#DEP#org.joda:joda-collect
+3	#DEP#org.mongodb:mongo-java-driver
+4	#DEP#org.joda:joda-convert
+5	#DEP#org.testng:testng
+6	#DEP#com.google.guava:guava
+7	#DEP#org.joda:joda-parent
+8	#DEP#com.esotericsoftware:kryo
+9	#DEP#org.freemarker:freemarker

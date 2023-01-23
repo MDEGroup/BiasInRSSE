@@ -1,0 +1,9 @@
+1	#DEP#android.arch.persistence.room:compiler
+1	#DEP#com.android.support.test.espresso.idling:idling-concurrent
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test.espresso:espresso-intents
+1	#DEP#android.arch.persistence.room:runtime
+1	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,10 @@
+1	git://github.com/vlsi/compactmap.git
+2	#DEP#com.github.krukow:clj-ds
+3	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+4	#DEP#com.github.andrewoma.dexx:dexx-collections
+5	#DEP#org.testng:testng
+6	#DEP#org.pcollections:pcollections
+7	#DEP#com.github.vlsi.compactmap:compactmap
+8	#DEP#org.openjdk.jol:jol-core
+9	#DEP#com.github.vlsi.compactmap:parent
+10	#DEP#org.openjdk.jmh:jmh-core

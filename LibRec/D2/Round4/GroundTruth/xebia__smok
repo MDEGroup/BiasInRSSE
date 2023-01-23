@@ -1,0 +1,11 @@
+1	#DEP#org.appfuse:appfuse-${dao.framework}
+1	#DEP#org.appfuse:appfuse-${web.framework}
+1	#DEP#org.codehaus.mojo:aspectj-maven-plugin
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#${jdbc.groupId}:${jdbc.artifactId}
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.subethamail:subethasmtp-wiser
+1	#DEP#jmock:jmock
+1	#DEP#com.xebia.xmok:SmokXmlReader
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

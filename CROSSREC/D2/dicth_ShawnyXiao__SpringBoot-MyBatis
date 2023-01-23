@@ -1,0 +1,13 @@
+1	git://github.com/ShawnyXiao/SpringBoot-MyBatis.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter
+4	#DEP#org.springframework.security.oauth:spring-security-oauth2
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.apache.commons:commons-collections4
+10	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+11	#DEP#org.projectlombok:lombok
+12	#DEP#org.springframework.boot:spring-boot-starter-aop
+13	#DEP#org.hsqldb:hsqldb

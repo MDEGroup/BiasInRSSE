@@ -1,0 +1,12 @@
+1	git://github.com/ZuInnoTe/hadoopoffice.git
+2	#DEP#org.apache.hadoop:hadoop-client
+3	#DEP#org.apache.flink:flink-java
+4	#DEP#org.apache.poi:poi
+5	#DEP#org.bouncycastle:bcprov-ext-jdk15on
+6	#DEP#org.bouncycastle:bcpkix-jdk15on
+7	#DEP#org.apache.hadoop:hadoop-common
+8	#DEP#org.apache.poi:poi-ooxml
+9	#DEP#org.apache.hadoop:hadoop-mapreduce-client-common
+10	#DEP#org.apache.santuario:xmlsec
+11	#DEP#com.github.zuinnote:hadoopoffice-fileformat
+12	#DEP#org.apache.logging.log4j:log4j-api

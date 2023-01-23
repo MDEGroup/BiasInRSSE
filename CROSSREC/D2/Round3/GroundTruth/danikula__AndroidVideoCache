@@ -1,0 +1,6 @@
+1	#DEP#org.slf4j:slf4j-android
+1	#DEP#org.androidannotations:androidannotations-api
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.viewpagerindicator:library
+1	#DEP#junit:junit
+1	#DEP#com.danikula:videocache

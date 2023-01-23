@@ -1,0 +1,8 @@
+1	#DEP#com.mandrillapp.wrapper.lutung:lutung
+1	#DEP#cglib:cglib-nodep
+1	#DEP#com.ecwid:maleorang
+1	#DEP#com.getsentry.raven:raven-logback
+1	#DEP#com.sun.xml.ws:jaxws-rt
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.rollbar:rollbar

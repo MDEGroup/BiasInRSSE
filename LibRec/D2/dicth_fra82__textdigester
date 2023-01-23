@@ -1,0 +1,14 @@
+1	git://github.com/fra82/textdigester.git
+2	#DEP#uk.ac.gate:gate-core
+3	#DEP#org.eclipse.jetty:jetty-jsp
+4	#DEP#edu.upc:freeling
+5	#DEP#org:boilerpipe
+6	#DEP#org.nd4j:nd4j-native-platform
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.velocity:velocity
+9	#DEP#ch.qos.logback:logback-core
+10	#DEP#org.deeplearning4j:deeplearning4j-nlp
+11	#DEP#ch.qos.logback:logback-classic
+12	#DEP#org.apache.velocity:velocity-tools
+13	#DEP#org.eclipse.jetty:jetty-webapp
+14	#DEP#edu.upf.taln.summa:summaupf

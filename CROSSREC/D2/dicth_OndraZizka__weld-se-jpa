@@ -1,0 +1,9 @@
+1	git://github.com/OndraZizka/weld-se-jpa.git
+2	#DEP#org.hibernate:hibernate-core
+3	#DEP#org.hibernate:hibernate-entitymanager
+4	#DEP#log4j:log4j
+5	#DEP#org.jboss.weld.se:weld-se-core
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.hsqldb:hsqldb
+9	#DEP#org.slf4j:slf4j-log4j12

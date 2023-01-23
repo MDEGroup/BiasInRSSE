@@ -1,0 +1,13 @@
+1	#DEP#org.mongodb:mongo-java-driver
+1	#DEP#eu.unicore.security:securityLibrary
+1	#DEP#net.sf.ehcache:ehcache-core
+1	#DEP#org.eclipse.jetty:jetty-security
+1	#DEP#org.eclipse.jetty:jetty-deploy
+1	#DEP#eu.eu-emi:xmltypes
+1	#DEP#eu.unicore:maven-bugsreporter-annotations
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#log4j:log4j
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#com.h2database:h2

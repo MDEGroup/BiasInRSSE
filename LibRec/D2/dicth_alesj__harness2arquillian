@@ -1,0 +1,9 @@
+1	git://github.com/alesj/harness2arquillian.git
+2	#DEP#org.jboss:jboss-parent
+3	#DEP#org.jboss.test-harness:jboss-test-harness
+4	#DEP#org.jboss.arquillian:arquillian-spi
+5	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+6	#DEP#javassist:javassist
+7	#DEP#org.jboss.test-harness:jboss-test-harness-api
+8	#DEP#org.jboss.arquillian:arquillian-impl-base
+9	#DEP#junit:junit

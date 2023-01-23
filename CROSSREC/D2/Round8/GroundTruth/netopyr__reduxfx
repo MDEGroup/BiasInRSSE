@@ -1,0 +1,14 @@
+1	#DEP#com.jfoenix:jfoenix
+1	#DEP#org.reactivestreams:reactive-streams
+1	#DEP#de.jensd:fontawesomefx-commons
+1	#DEP#io.reactivex.rxjava2:rxjava
+1	#DEP#de.jensd:fontawesomefx-controls
+1	#DEP#de.jensd:fontawesomefx-materialicons
+1	#DEP#com.netopyr.reduxfx:reduxfx-parent
+1	#DEP#eu.lestard:easy-di
+1	#DEP#com.netopyr.reduxfx:reduxfx-fxml
+1	#DEP#de.jensd:fontawesomefx-icons525
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#io.vavr:vavr
+1	#DEP#com.netopyr.reduxfx:reduxfx-fontawesomefx
+1	#DEP#com.netopyr.reduxfx:reduxfx-jfoenix

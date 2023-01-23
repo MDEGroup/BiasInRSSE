@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#net.sf.trove4j:trove4j	1.0
+#DEP#org.json:json	1.0
+#DEP#me.osm.gazetteer:ExternalSorting	1.0
+#DEP#com.strategicgains:RestExpress	1.0

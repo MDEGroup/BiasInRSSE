@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#com.thoughtworks.xstream:xstream	1.0
+#DEP#asm:asm	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.codehaus.gpars:gpars	1.0

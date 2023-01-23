@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#com.google.gwt:gwt-dev	1.0
+#DEP#com.google.appengine:appengine-api-stubs	1.0
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#com.google.appengine:appengine-api-labs	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#com.google.web.bindery:requestfactory	1.0

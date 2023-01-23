@@ -1,0 +1,10 @@
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#junit:junit	1.0
+#DEP#com.google.appengine:appengine-api-labs	1.0
+#DEP#com.google.appengine:appengine-endpoints	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.leanengine.server:leanengine-server-lib	1.0
+#DEP#uk.co.inetria.appstart:appstart-common	1.0
+#DEP#uk.co.inetria.appstart:appstart-backend	1.0

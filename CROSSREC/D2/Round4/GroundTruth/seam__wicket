@@ -1,0 +1,10 @@
+1	#DEP#org.apache.wicket:wicket
+1	#DEP#org.jboss.solder:solder-impl
+1	#DEP#org.jboss.arquillian.ajocado:arquillian-ajocado-junit
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api-maven
+1	#DEP#org.jboss.seam:seam-parent
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#junit:junit
+1	#DEP#org.jboss.weld:weld-api
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven

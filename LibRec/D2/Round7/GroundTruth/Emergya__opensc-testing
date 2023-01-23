@@ -1,0 +1,6 @@
+1	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+1	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-testng-helper
+1	#DEP#junit:junit
+1	#DEP#net.disy.htmlunit:htmlunit
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#net.sourceforge.collections:collections-generic

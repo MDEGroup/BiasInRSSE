@@ -1,0 +1,13 @@
+1	#DEP#com.thoughtworks.inproctester:inproctester-webdriver
+1	#DEP#com.thoughtworks.inproctester:inproctester-htmlunit
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#com.thoughtworks.inproctester:inproctester-project
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#com.thoughtworks.inproctester:inproctester-jersey
+1	#DEP#net.sourceforge.htmlunit:htmlunit
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#org.seleniumhq.selenium:selenium-htmlunit-driver
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.eclipse.jetty:jetty-http
+1	#DEP#com.sun.jersey:jersey-server

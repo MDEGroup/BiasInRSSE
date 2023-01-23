@@ -1,0 +1,12 @@
+1	git://github.com/padeoe/nju-lib-downloader.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#com.itextpdf:forms
+4	#DEP#org.zeroturnaround:zt-exec
+5	#DEP#com.itextpdf:font-asian
+6	#DEP#com.itextpdf:kernel
+7	#DEP#com.itextpdf:pdfa
+8	#DEP#com.itextpdf:layout
+9	#DEP#com.itextpdf:io
+10	#DEP#com.itextpdf:sign
+11	#DEP#junit:junit
+12	#DEP#com.itextpdf:pdftest

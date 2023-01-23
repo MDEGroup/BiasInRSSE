@@ -1,0 +1,9 @@
+1	#DEP#org.milyn.edi:unedifact-gen-aggregator
+1	#DEP#org.milyn.edi.unedifact:d01b-mapping
+1	#DEP#org.milyn.edi.unedifact:d03b-binding
+1	#DEP#org.milyn.edi.unedifact:d02a-mapping
+1	#DEP#org.milyn.edi.unedifact:d04a-mapping
+1	#DEP#log4j:log4j
+1	#DEP#org.milyn.edi.unedifact:d01c-mapping
+1	#DEP#org.milyn.edi.unedifact:d02b-mapping
+1	#DEP#junit:junit

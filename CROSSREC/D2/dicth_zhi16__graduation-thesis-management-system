@@ -1,0 +1,14 @@
+1	git://github.com/zhi16/graduation-thesis-management-system.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#c3p0:c3p0
+10	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+11	#DEP#commons-fileupload:commons-fileupload
+12	#DEP#com.google.guava:guava
+13	#DEP#org.springframework.boot:spring-boot-devtools
+14	#DEP#org.apache.poi:poi-ooxml

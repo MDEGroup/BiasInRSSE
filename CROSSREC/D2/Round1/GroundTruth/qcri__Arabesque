@@ -1,0 +1,5 @@
+1	#DEP#org.spockframework:spock-core
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-common
+1	#DEP#net.openhft:koloboke-api-jdk6-7
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

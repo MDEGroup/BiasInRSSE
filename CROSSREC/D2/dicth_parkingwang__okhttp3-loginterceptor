@@ -1,0 +1,9 @@
+1	git://github.com/parkingwang/okhttp3-loginterceptor.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.squareup.moshi:moshi
+4	#DEP#com.alibaba:fastjson
+5	#DEP#org.json:json
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson

@@ -1,0 +1,9 @@
+1	git://github.com/sail-y/spring-boot-jwt.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.alibaba:druid
+4	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+5	#DEP#com.github.pagehelper:pagehelper
+6	#DEP#commons-collections:commons-collections
+7	#DEP#com.google.guava:guava
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#io.jsonwebtoken:jjwt

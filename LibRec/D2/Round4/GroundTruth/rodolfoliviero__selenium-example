@@ -1,0 +1,9 @@
+1	#DEP#stryker:stryker
+1	#DEP#org.seleniumhq.selenium:selenium-htmlunit-driver
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#javax.servlet.jsp:jsp-api
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb

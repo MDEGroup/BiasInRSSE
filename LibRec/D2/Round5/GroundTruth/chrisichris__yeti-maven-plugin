@@ -1,0 +1,7 @@
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven.shared:maven-invoker
+1	#DEP#org.apache.maven.shared:maven-dependency-tree
+1	#DEP#org.apache.maven:maven-artifact

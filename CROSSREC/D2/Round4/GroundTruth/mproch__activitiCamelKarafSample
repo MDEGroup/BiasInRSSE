@@ -1,0 +1,10 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#pl.touk.wjug.activiti:parent
+1	#DEP#org.apache.aries.blueprint:org.apache.aries.blueprint
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.activiti:activiti-osgi
+1	#DEP#org.apache.karaf:apache-karaf
+1	#DEP#junit:junit
+1	#DEP#org.apache.servicemix.transaction:org.apache.servicemix.transaction
+1	#DEP#com.h2database:h2

@@ -1,0 +1,5 @@
+1	#DEP#com.github.rjeschke:txtmark
+1	#DEP#org.markdownj:markdownj-core
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.atlassian.commonmark:commonmark
+1	#DEP#org.parboiled:parboiled-core

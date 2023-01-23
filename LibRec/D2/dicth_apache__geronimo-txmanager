@@ -1,0 +1,12 @@
+1	git://github.com/apache/geronimo-txmanager.git
+2	#DEP#org.apache.geronimo.genesis:genesis-java6-flava
+3	#DEP#org.apache.geronimo.components:geronimo-connector
+4	#DEP#org.apache.geronimo.components:geronimo-transaction
+5	#DEP#org.apache.geronimo.specs:geronimo-validation_1.0_spec
+6	#DEP#org.apache.geronimo.specs:geronimo-j2ee-connector_1.6_spec
+7	#DEP#org.objectweb.howl:howl
+8	#DEP#org.slf4j:slf4j-simple
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.apache.geronimo.specs:geronimo-jta_1.1_spec
+11	#DEP#junit:junit
+12	#DEP#org.apache.geronimo.components:geronimo-txmanager-parent

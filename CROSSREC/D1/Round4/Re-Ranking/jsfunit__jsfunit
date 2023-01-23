@@ -1,0 +1,10 @@
+#DEP#org.jboss.el:jboss-el	1.0
+#DEP#javassist:javassist	1.0
+#DEP#org.jboss.seam:jboss-seam-ui	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#javax.faces:jsf-impl	1.0
+#DEP#commons-digester:commons-digester	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.hibernate:hibernate-commons-annotations	1.0
+#DEP#javax.transaction:jta	1.0
+#DEP#org.jboss.seam:jboss-seam-pdf	1.0

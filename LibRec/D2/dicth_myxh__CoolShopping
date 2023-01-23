@@ -1,0 +1,10 @@
+1	git://github.com/myxh/CoolShopping.git
+2	#DEP#cn.bmob.android:bmob-sdk
+3	#DEP#com.yolanda.nohttp:nohttp
+4	#DEP#cn.yipianfengye.android:zxing-library
+5	#DEP#com.facebook.fresco:fresco
+6	#DEP#com.alipay.euler:andfix
+7	#DEP#org.greenrobot:eventbus
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.android.support:design

@@ -1,0 +1,8 @@
+36	#DEP#javax.enterprise:cdi-api
+37	#DEP#io.vavr:vavr
+38	#DEP#javax.servlet:javax.servlet-api
+39	#DEP#org.scala-lang:scala-library
+40	#DEP#com.sun.xml.bind:jaxb-impl
+41	#DEP#org.springframework.hateoas:spring-hateoas
+42	#DEP#com.querydsl:querydsl-core
+43	#DEP#io.reactivex:rxjava

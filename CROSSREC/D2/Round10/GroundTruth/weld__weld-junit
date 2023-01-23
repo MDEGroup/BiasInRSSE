@@ -1,0 +1,5 @@
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#org.jboss.weld:weld-junit-parent
+1	#DEP#org.jboss.weld.se:weld-se-core
+1	#DEP#org.jboss.weld:weld-parent
+1	#DEP#junit:junit

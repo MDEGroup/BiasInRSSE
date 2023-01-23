@@ -1,0 +1,8 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#io.pristine:libjingle
+1	#DEP#org.timepedia.exporter:gwtexporter
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.android.support:multidex
+1	#DEP#junit:junit

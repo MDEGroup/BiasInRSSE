@@ -1,0 +1,9 @@
+1	git://github.com/DSRCorporation/imf-conversion.git
+2	#DEP#org.jvnet.jaxb2_commons:jaxb2-value-constructor
+3	#DEP#javax.xml.bind:jaxb-api
+4	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-annotate
+5	#DEP#com.sun.xml.bind:jaxb-impl
+6	#DEP#com.sun.xml.bind:jaxb-xjc
+7	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics
+8	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-ant
+9	#DEP#:imf-conversion-utility

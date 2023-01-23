@@ -1,0 +1,10 @@
+40	#DEP#jboss.seam.profiles:seam-nopersistence
+41	#DEP#${project.groupId}:caelum-stella-boleto
+42	#DEP#log4j:log4j
+43	#DEP#javax.servlet:javax.servlet-api
+44	#DEP#javax.servlet:servlet-api
+45	#DEP#javax.servlet:jstl
+46	#DEP#net.vidageek:mirror
+47	#DEP#${project.groupId}:caelum-stella-core
+48	#DEP#org.hsqldb:hsqldb
+49	#DEP#${project.groupId}:caelum-stella-hibernate-validator

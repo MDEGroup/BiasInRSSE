@@ -1,0 +1,14 @@
+1	git://github.com/yydcdut/PhotoNoter.git
+2	#DEP#com.umeng.analytics:analytics
+3	#DEP#org.glassfish:javax.annotation
+4	#DEP#org.greenrobot:eventbus
+5	#DEP#com.nineoldandroids:library
+6	#DEP#com.yydcdut:rxmarkdown
+7	#DEP#com.commit451:PhotoView
+8	#DEP#com.evernote:android-sdk
+9	#DEP#com.yydcdut.sdlv:sdlv
+10	#DEP#com.android.support:multidex
+11	#DEP#org.aspectj:aspectjtools
+12	#DEP#org.aspectj:aspectjrt
+13	#DEP#io.reactivex:rxjava
+14	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,11 @@
+1	git://github.com/sproutsocial/nsq-j.git
+2	#DEP#org.xerial.snappy:snappy-java
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#ch.qos.logback:logback-core
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.powermock:powermock-api-mockito
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.guava:guava
+9	#DEP#com.google.code.gson:gson
+10	#DEP#junit:junit
+11	#DEP#net.jcip:jcip-annotations

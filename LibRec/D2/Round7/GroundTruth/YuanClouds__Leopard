@@ -1,0 +1,7 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.trello:rxlifecycle
+1	#DEP#com.trello:rxlifecycle-components
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#de.greenrobot:greendao

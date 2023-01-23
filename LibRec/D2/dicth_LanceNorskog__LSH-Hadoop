@@ -1,0 +1,10 @@
+1	git://github.com/LanceNorskog/LSH-Hadoop.git
+2	#DEP#org.apache.hadoop:hadoop-core
+3	#DEP#org.apache.commons:commons-math
+4	#DEP#commons-logging:commons-logging
+5	#DEP#com.google.guava:guava
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.mahout.commons:commons-cli
+8	#DEP#org.apache.mahout:mahout-collections
+9	#DEP#org.slf4j:slf4j-jcl
+10	#DEP#commons-lang:commons-lang

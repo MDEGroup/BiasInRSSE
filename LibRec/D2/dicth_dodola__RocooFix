@@ -1,0 +1,10 @@
+1	git://github.com/dodola/RocooFix.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.javassist:javassist
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.dodola:rocoo
+8	#DEP#junit:junit
+9	#DEP#com.android.tools.build:gradle
+10	#DEP#org.ow2.asm:asm

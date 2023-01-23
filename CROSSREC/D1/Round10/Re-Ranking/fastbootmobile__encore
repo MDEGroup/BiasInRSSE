@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.squareup.okhttp:okhttp	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#de.greenrobot:eventbus	1.0
+#DEP#net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference	1.0
+#DEP#com.path:android-priority-jobqueue	1.0
+#DEP#org.powermock:powermock-api-mockito2	1.0

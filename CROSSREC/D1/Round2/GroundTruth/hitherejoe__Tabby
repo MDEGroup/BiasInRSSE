@@ -1,0 +1,3 @@
+12	#DEP#junit:junit
+13	#DEP#com.squareup.okhttp:okhttp-urlconnection
+14	#DEP#io.reactivex:rxandroid

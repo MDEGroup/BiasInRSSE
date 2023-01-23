@@ -1,0 +1,4 @@
+20	#DEP#org.jboss.seam.test:weld-ee-embedded-1.1
+21	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+22	#DEP#org.glassfish.web:el-impl
+23	#DEP#junit:junit

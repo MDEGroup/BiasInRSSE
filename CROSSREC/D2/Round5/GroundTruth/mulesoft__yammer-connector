@@ -1,0 +1,5 @@
+1	#DEP#org.mule.transports:mule-transport-axis
+1	#DEP#oauth.signpost:signpost-core
+1	#DEP#org.mule.modules:mule-module-jersey
+1	#DEP#org.mule.modules:mule-module-json
+1	#DEP#eclipse:eclipse-runtime

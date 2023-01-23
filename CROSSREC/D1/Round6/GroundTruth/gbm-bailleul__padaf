@@ -1,0 +1,3 @@
+12	#DEP#log4j:log4j
+13	#DEP#junit:junit
+14	#DEP#net.padaf:xmpbox-jdk15

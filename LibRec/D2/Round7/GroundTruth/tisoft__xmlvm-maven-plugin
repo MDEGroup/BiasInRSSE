@@ -1,0 +1,6 @@
+1	#DEP#jdom:jdom
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.xmlvm:xmlvm-main
+1	#DEP#junit:junit
+1	#DEP#org.xmlvm.dep:android-dx
+1	#DEP#org.apache.maven:maven-plugin-api

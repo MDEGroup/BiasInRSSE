@@ -1,0 +1,14 @@
+1	git://github.com/jenkinsci/analysis-core-plugin.git
+2	#DEP#org.jenkins-ci.plugins:structs
+3	#DEP#com.infradna.tool:bridge-method-annotation
+4	#DEP#org.jenkins-ci.plugins:git
+5	#DEP#org.easymock:easymock
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#de.java2html:java2html
+8	#DEP#joda-time:joda-time
+9	#DEP#com.avaloq.adt:base
+10	#DEP#org.jenkins-ci.plugins:ant
+11	#DEP#org.jvnet.hudson.plugins:analysis-pom
+12	#DEP#xerces:xercesImpl
+13	#DEP#org.jenkins-ci.plugins:antisamy-markup-formatter
+14	#DEP#org.apache.commons:commons-digester3

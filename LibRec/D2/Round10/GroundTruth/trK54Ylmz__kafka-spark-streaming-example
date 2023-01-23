@@ -1,0 +1,11 @@
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-servlet
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.test:test-common
+1	#DEP#com.test:kafka-spark-streaming
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.spark:spark-streaming-kafka-${kafka.version}_${scala.version}
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#junit:junit
+1	#DEP#org.apache.spark:spark-core_${scala.version}
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http

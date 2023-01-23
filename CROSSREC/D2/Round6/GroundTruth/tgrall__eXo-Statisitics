@@ -1,0 +1,6 @@
+1	#DEP#org.exoplatform.social:exo.social.component.core
+1	#DEP#org.exoplatform.social:exo.social.component.service
+1	#DEP#org.json:json
+1	#DEP#org.exoplatform.jcr:exo.jcr.framework.command
+1	#DEP#org.chromattic:chromattic.core
+1	#DEP#org.exoplatform.portal:exo.portal.webui.portal

@@ -1,0 +1,12 @@
+1	#DEP#org.springframework:spring-orm
+1	#DEP#io.github.benas:todolist-core
+1	#DEP#org.apache.tapestry:tapestry-spring
+1	#DEP#c3p0:c3p0
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.got5:tapestry5-jquery
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#commons-collections:commons-collections
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#cglib:cglib

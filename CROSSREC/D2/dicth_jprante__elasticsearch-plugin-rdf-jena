@@ -1,0 +1,11 @@
+1	git://github.com/jprante/elasticsearch-plugin-rdf-jena.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.apache.jena:jena-arq
+4	#DEP#org.apache.logging.log4j:log4j-core
+5	#DEP#org.hamcrest:hamcrest-all
+6	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#junit:junit
+9	#DEP#com.github.jsonld-java:jsonld-java
+10	#DEP#org.elasticsearch:elasticsearch
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations

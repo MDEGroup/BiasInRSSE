@@ -1,0 +1,17 @@
+1	git://github.com/amneris/tynamo-archetype.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-c3p0
+4	#DEP#org.apache.tapestry:tapestry-beanvalidator
+5	#DEP#org.apache.tapestry:tapestry-upload
+6	#DEP#org.apache.tapestry:tapestry-hibernate
+7	#DEP#org.tynamo:tapestry-model-hibernate
+8	#DEP#org.apache.tapestry:tapestry-ioc
+9	#DEP#org.tynamo:tapestry-security
+10	#DEP#org.apache.tapestry:tapestry-core
+11	#DEP#org.tynamo:tynamo-test
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#org.tynamo:tapestry-resteasy
+14	#DEP#org.apache.tapestry:tapestry-yuicompressor
+15	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+16	#DEP#org.tynamo:tapestry-routing
+17	#DEP#com.h2database:h2

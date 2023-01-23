@@ -1,0 +1,8 @@
+35	#DEP#org.springframework:spring-orm
+36	#DEP#postgresql:postgresql
+37	#DEP#org.slf4j:slf4j-log4j12
+38	#DEP#velocity:velocity
+39	#DEP#commons-pool:commons-pool
+40	#DEP#org.springframework:spring-context-support
+41	#DEP#log4j:log4j
+42	#DEP#javax.servlet:servlet-api

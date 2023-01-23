@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.sun.xml.bind:jaxb-xjc	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.commons:commons-io	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#com.ebay.kernel:uKernelCore	1.0
+#DEP#xmlunit:xmlunit	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#org.ebayopensource.turmeric.repository:repository-service-wso2	1.0
+#DEP#org.ebayopensource.turmeric.impl:SOAMetricsQueryServiceImpl	1.0

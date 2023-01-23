@@ -1,0 +1,17 @@
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#com.taobao.diamond:diamond-client
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.alibaba.datax:datax-common
+1	#DEP#com.alibaba.search.swift:swift_client
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.taobao.tddl:tddl-client
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.codehaus.janino:janino
+1	#DEP#com.alibaba:druid
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.alibaba.datax:datax-transformer
+1	#DEP#junit:junit

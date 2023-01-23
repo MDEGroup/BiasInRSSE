@@ -1,0 +1,8 @@
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-assembly
+1	#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+1	#DEP#org.livetribe:livetribe
+1	#DEP#org.ops4j.pax.exam:pax-exam-container-paxrunner
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+1	#DEP#org.ops4j.pax.exam:pax-exam-testforge
+1	#DEP#junit:junit
+1	#DEP#org.livetribe.slp:livetribe-slp-project

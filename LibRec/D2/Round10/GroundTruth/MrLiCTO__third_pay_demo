@@ -1,0 +1,15 @@
+1	#DEP#org.springframework.boot:spring-boot-actuator-docs
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.jdom:jdom2
+1	#DEP#org.springframework.boot:spring-boot-starter-mail
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-integration
+1	#DEP#com.alibaba:druid
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+1	#DEP#org.springframework.boot:spring-boot-starter-batch
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

@@ -1,0 +1,12 @@
+1	git://github.com/zsl131/spring-boot-test.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#commons-io:commons-io
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.boot:spring-boot-starter-mail
+7	#DEP#org.apache.poi:poi-scratchpad
+8	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+9	#DEP#org.apache.poi:poi
+10	#DEP#org.springframework.boot:spring-boot-starter-parent
+11	#DEP#commons-beanutils:commons-beanutils
+12	#DEP#org.springframework.boot:spring-boot-starter-web

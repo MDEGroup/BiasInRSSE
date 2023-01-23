@@ -1,0 +1,11 @@
+1	git://github.com/sidiqpermana/aroundyou.git
+2	#DEP#pub.devrel:easypermissions
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#de.hdodenhof:circleimageview
+5	#DEP#com.google.android.gms:play-services-awareness
+6	#DEP#com.android.support:support-v4
+7	#DEP#org.greenrobot:eventbus
+8	#DEP#com.google.android.gms:play-services-maps
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.google.android.gms:play-services-nearby
+11	#DEP#junit:junit

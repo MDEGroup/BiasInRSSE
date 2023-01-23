@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#de.greenrobot:eventbus
+1	#DEP#com.readystatesoftware.systembartint:systembartint

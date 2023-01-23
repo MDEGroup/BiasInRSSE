@@ -1,0 +1,10 @@
+1	git://github.com/rweng/hdfs-indexer.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.easytesting:fest-assert
+4	#DEP#org.apache.hadoop:hadoop-core
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#commons-logging:commons-logging
+7	#DEP#com.google.guava:guava
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#org.apache.hadoop:hadoop-test

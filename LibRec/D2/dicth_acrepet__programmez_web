@@ -1,0 +1,9 @@
+1	git://github.com/acrepet/programmez_web.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#javax.servlet.jsp:jsp-api
+4	#DEP#com.programmez.samples:gigreservation
+5	#DEP#org.springframework:spring-webmvc
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#javax.servlet:jstl
+8	#DEP#taglibs:standard
+9	#DEP#junit:junit

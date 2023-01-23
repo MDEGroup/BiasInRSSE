@@ -1,0 +1,10 @@
+1	git://github.com/forge/plugin-openshift.git
+2	#DEP#org.jboss.forge:forge-maven-api
+3	#DEP#org.jboss.forge:forge-shell
+4	#DEP#com.openshift:openshift-java-client
+5	#DEP#org.jboss.forge:forge-shell-api
+6	#DEP#com.jcraft:jsch
+7	#DEP#org.jboss.forge:forge-test-harness
+8	#DEP#log4j:apache-log4j-extras
+9	#DEP#org.jboss:jboss-dmr
+10	#DEP#org.eclipse.jgit:org.eclipse.jgit

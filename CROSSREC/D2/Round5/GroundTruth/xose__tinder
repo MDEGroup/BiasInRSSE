@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.igniterealtime:tinder
+1	#DEP#com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru
+1	#DEP#junit:junit
+1	#DEP#net.jcip:jcip-annotations

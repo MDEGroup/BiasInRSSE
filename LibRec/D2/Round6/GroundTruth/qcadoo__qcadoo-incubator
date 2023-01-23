@@ -1,0 +1,5 @@
+1	#DEP#com.qcadoo:qcadoo-security
+1	#DEP#com.qcadoo.mes:mes-plugins-orders
+1	#DEP#com.qcadoo.mes:mes-commercial-plugins-integration-cfc-simple
+1	#DEP#com.qcadoo:qcadoo-model
+1	#DEP#com.qcadoo.mes:mes-commercial-plugins

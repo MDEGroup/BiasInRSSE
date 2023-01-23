@@ -1,0 +1,5 @@
+22	#DEP#com.squareup.dagger:dagger-compiler
+23	#DEP#com.android.support:support-v4
+24	#DEP#junit:junit
+25	#DEP#com.willowtreeapps:oak-aspectratioview
+26	#DEP#com.actionbarsherlock:library

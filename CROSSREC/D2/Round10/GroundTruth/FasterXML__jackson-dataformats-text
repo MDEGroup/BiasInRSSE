@@ -1,0 +1,4 @@
+1	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformats-text
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

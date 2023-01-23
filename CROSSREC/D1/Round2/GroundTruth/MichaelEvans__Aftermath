@@ -1,0 +1,3 @@
+13	#DEP#com.android.support.test.espresso:espresso-intents
+14	#DEP#com.android.support.test:runner
+15	#DEP#com.android.support.test.espresso:espresso-core

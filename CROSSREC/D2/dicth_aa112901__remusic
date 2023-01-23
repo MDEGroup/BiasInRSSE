@@ -1,0 +1,10 @@
+1	git://github.com/aa112901/remusic.git
+2	#DEP#com.github.promeg:tinypinyin
+3	#DEP#com.facebook.fresco:fresco
+4	#DEP#com.squareup.retrofit:retrofit
+5	#DEP#com.squareup.okhttp:okhttp
+6	#DEP#com.github.ksoichiro:android-observablescrollview
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.squareup.okhttp:okhttp-urlconnection

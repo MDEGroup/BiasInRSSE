@@ -1,0 +1,11 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+1	#DEP#com.atlassian.commonmark:commonmark-ext-gfm-tables
+1	#DEP#com.vdurmont:emoji-java
+1	#DEP#org.springframework.boot:spring-boot-starter-websocket
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#com.atlassian.commonmark:commonmark
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.apache.logging.log4j:log4j-api

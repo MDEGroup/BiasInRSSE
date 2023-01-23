@@ -1,0 +1,9 @@
+36	#DEP#jug-asl:jug-asl
+37	#DEP#log4j:log4j
+38	#DEP#bouncycastle:bcprov-jdk14
+39	#DEP#org.apache.cxf:cxf-rt-management
+40	#DEP#org.apache.cxf:cxf-rt-databinding-aegis
+41	#DEP#commons-collections:commons-collections
+42	#DEP#com.sun.jndi:ldapbp
+43	#DEP#org.apache.cxf:cxf-rt-transports-local
+44	#DEP#org.apache.cxf:cxf-rt-core

@@ -1,0 +1,7 @@
+32	#DEP#${project.groupId}:thingml.ide
+33	#DEP#com.eclipsesource.minimal-json:minimal-json
+34	#DEP#org.thingml:compilers.debugGUI
+35	#DEP#org.webjars:jquery
+36	#DEP#junit:junit
+37	#DEP#org.webjars:ace
+38	#DEP#org.thingml:utilities

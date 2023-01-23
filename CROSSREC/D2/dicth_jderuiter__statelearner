@@ -1,0 +1,12 @@
+1	git://github.com/jderuiter/statelearner.git
+2	#DEP#net.automatalib:automata-commons-dotutil
+3	#DEP#de.learnlib:learnlib-parent
+4	#DEP#de.learnlib:learnlib-counterexamples
+5	#DEP#de.learnlib:learnlib-dhc
+6	#DEP#de.learnlib:learnlib-basic-eqtests
+7	#DEP#de.learnlib:learnlib-simulator
+8	#DEP#de.learnlib:learnlib-core
+9	#DEP#de.learnlib:learnlib-cache
+10	#DEP#de.learnlib:learnlib-kearns-vazirani
+11	#DEP#de.learnlib:learnlib-lstar-generic
+12	#DEP#de.learnlib:learnlib-ttt

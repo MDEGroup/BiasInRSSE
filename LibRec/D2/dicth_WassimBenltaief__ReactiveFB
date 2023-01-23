@@ -1,0 +1,10 @@
+1	git://github.com/WassimBenltaief/ReactiveFB.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#com.facebook.android:facebook-android-sdk
+10	#DEP#com.beltaief.reactivefb:reactivefb

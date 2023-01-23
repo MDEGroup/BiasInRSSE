@@ -1,0 +1,16 @@
+1	#DEP#com.googlecode.rocoto:rocoto
+1	#DEP#de.devsurf.injection.guice:extensions
+1	#DEP#asm:asm
+1	#DEP#de.devsurf.injection.guice:de.devsurf.injection.guice.aop
+1	#DEP#javax:javaee-api
+1	#DEP#com.google.inject:guice
+1	#DEP#de.devsurf.injection.guice:de.devsurf.injection.guice.annotations
+1	#DEP#org.sonatype.spice.inject:guice-bean-inject
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#de.devsurf.injection.guice:scanner
+1	#DEP#de.devsurf.injection.guice:de.devsurf.injection.guice.core
+1	#DEP#de.devsurf.injection.guice.scanner:de.devsurf.injection.guice.scanner.sonatype
+1	#DEP#aopalliance:aopalliance
+1	#DEP#junit:junit
+1	#DEP#de.devsurf.maven:de.devsurf.maven
+1	#DEP#com.google.inject.extensions:guice-multibindings

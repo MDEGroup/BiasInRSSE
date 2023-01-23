@@ -1,0 +1,17 @@
+1	#DEP#org.knowm.xchange:xchange-bitmex
+1	#DEP#org.knowm.xchange:xchange-gdax
+1	#DEP#io.reactivex.rxjava2:rxjava
+1	#DEP#io.netty:netty-codec-http
+1	#DEP#org.knowm.xchange:xchange-bitflyer
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.knowm.xchange:xchange-gemini
+1	#DEP#info.bitrich.xchange-stream:service-wamp
+1	#DEP#org.knowm.xchange:xchange-core
+1	#DEP#info.bitrich.xchange-stream:xchange-stream-parent
+1	#DEP#info.bitrich.xchange-stream:service-pubnub
+1	#DEP#org.mockito:mockito-core
+1	#DEP#info.bitrich.xchange-stream:service-core
+1	#DEP#org.knowm.xchange:xchange-bitfinex
+1	#DEP#org.knowm.xchange:xchange-coinmate
+1	#DEP#junit:junit
+1	#DEP#ws.wamp.jawampa:jawampa-netty

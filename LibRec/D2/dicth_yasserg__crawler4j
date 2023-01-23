@@ -1,0 +1,12 @@
+1	git://github.com/yasserg/crawler4j.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#edu.uci.ics:crawler4j-parent
+4	#DEP#com.github.tomakehurst:wiremock
+5	#DEP#org.apache.tika:tika-parsers
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#com.sleepycat:je
+8	#DEP#org.spockframework:spock-core
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#com.google.guava:guava
+11	#DEP#org.codehaus.groovy:groovy-all
+12	#DEP#junit:junit

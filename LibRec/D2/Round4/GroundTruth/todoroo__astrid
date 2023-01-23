@@ -1,0 +1,9 @@
+1	#DEP#android:android
+1	#DEP#com.actionbarsherlock:parent-sample
+1	#DEP#android.support:compatibility-v4
+1	#DEP#com.google.android:support-v4
+1	#DEP#com.actionbarsherlock:parent-test
+1	#DEP#com.viewpagerindicator:parent
+1	#DEP#junit:junit
+1	#DEP#com.actionbarsherlock:parent-plugins
+1	#DEP#com.actionbarsherlock:library

@@ -1,0 +1,9 @@
+1	git://github.com/chrisbanes/Android-PullToRefresh.git
+2	#DEP#${project.groupId}:library
+3	#DEP#com.google.android:support-v4
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.github.chrisbanes.pulltorefresh:parent
+6	#DEP#com.google.android:android
+7	#DEP#${project.groupId}:extra-viewpager
+8	#DEP#com.github.chrisbanes.pulltorefresh:extras
+9	#DEP#${project.groupId}:extra-listfragment

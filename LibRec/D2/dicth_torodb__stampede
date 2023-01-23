@@ -1,0 +1,16 @@
+1	git://github.com/torodb/stampede.git
+2	#DEP#com.torodb.stampede:stampede-pom
+3	#DEP#org.apache.logging.log4j:log4j-core
+4	#DEP#com.torodb.engine.backend:backend-mysql
+5	#DEP#com.torodb:parent-pom
+6	#DEP#com.torodb.engine:packaging-utils
+7	#DEP#com.torodb.engine.mongodb:repl
+8	#DEP#${project.groupId}:stampede-service
+9	#DEP#com.google.code.findbugs:annotations
+10	#DEP#com.torodb.engine.backend:backend-derby
+11	#DEP#com.typesafe.akka:akka-slf4j_2.12
+12	#DEP#com.torodb.engine.backend:backend-postgresql
+13	#DEP#com.torodb.stampede:stampede-main
+14	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+15	#DEP#junit:junit
+16	#DEP#com.torodb.stampede:stampede-service

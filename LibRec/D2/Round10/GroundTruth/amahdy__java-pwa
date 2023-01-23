@@ -1,0 +1,4 @@
+1	#DEP#com.vaadin:vaadin-push
+1	#DEP#org.vaadin.addons:headertags
+1	#DEP#com.vaadin:vaadin-bom
+1	#DEP#com.vaadin:vaadin-client-compiled

@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#log4j:log4j
+1	#DEP#org.opencredo:opencredo-master-pom
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#org.springframework.integration:spring-integration-core
+1	#DEP#org.aspectj:aspectjrt

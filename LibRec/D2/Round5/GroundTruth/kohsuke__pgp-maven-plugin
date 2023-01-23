@@ -1,0 +1,4 @@
+1	#DEP#net.java.dev.jna:jna
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.bouncycastle:bcpg-jdk15

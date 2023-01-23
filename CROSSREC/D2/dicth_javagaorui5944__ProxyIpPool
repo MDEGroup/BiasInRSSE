@@ -1,0 +1,13 @@
+1	git://github.com/javagaorui5944/ProxyIpPool.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#redis.clients:jedis
+4	#DEP#com.alibaba:fastjson
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.jsoup:jsoup
+8	#DEP#org.quartz-scheduler:quartz
+9	#DEP#log4j:log4j
+10	#DEP#opensymphony:quartz-all
+11	#DEP#commons-collections:commons-collections
+12	#DEP#edu.uci.ics:crawler4j
+13	#DEP#junit:junit

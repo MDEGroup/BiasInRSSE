@@ -1,0 +1,16 @@
+1	git://github.com/arquillian/arquillian-maven.git
+2	#DEP#org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-impl-javaee
+3	#DEP#org.jboss.arquillian.core:arquillian-core-api
+4	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+5	#DEP#org.jboss.arquillian.maven:arquillian-maven-plugin-parent
+6	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#org.jboss:jboss-parent
+9	#DEP#org.jboss.arquillian:arquillian-build
+10	#DEP#org.apache.maven:maven-compat
+11	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+12	#DEP#org.jboss.arquillian:arquillian-bom
+13	#DEP#org.jboss.arquillian.container:arquillian-container-spi
+14	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+15	#DEP#org.jboss.arquillian.core:arquillian-core-spi
+16	#DEP#junit:junit

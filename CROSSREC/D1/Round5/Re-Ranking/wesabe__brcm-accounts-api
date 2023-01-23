@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.codehaus.jackson:jackson-xc	1.0
+#DEP#com.codahale:shore	1.0
+#DEP#org.codehaus.jackson:jackson-jaxrs	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.bouncycastle:bcpg-jdk16	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.jboss:jboss-dmr	1.0

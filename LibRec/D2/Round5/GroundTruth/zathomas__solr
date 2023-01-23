@@ -1,0 +1,10 @@
+1	#DEP#org.apache.felix:org.apache.felix.scr.annotations
+1	#DEP#org.apache.sling:org.apache.sling.api
+1	#DEP#org.apache.sling:org.apache.sling.jcr.api
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.apache.sling:org.apache.sling.commons.osgi
+1	#DEP#org.apache.solr:solr-noggit
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.solr:solr-solrj
+1	#DEP#javax.jcr:jcr

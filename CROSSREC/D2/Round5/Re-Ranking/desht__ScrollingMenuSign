@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.sk89q:worldedit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#net.milkbowl.vault:VaultAPI	1.0
+#DEP#net.milkbowl.vault:Vault	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#me.desht:scrollingmenusign	1.0
+#DEP#org.spout:spoutplugin	1.0
+#DEP#me.desht:landslide	1.0
+#DEP#me.desht:chesspresso	1.0

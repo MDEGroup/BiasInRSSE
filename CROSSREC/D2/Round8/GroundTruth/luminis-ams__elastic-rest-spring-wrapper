@@ -1,0 +1,4 @@
+1	#DEP#org.elasticsearch.client:elasticsearch-rest-client-sniffer
+1	#DEP#org.jtwig:jtwig-core
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.apache.logging.log4j:log4j-api

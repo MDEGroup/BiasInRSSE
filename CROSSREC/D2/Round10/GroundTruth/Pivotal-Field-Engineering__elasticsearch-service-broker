@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.projectlombok:lombok
+1	#DEP#io.searchbox:jest
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#io.pivotal.ecosystem:elasticsearch-connector

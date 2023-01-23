@@ -1,0 +1,8 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton.auto.value:auto-value-annotations
+1	#DEP#android.arch.lifecycle:extensions
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#io.reactivex:rxjava

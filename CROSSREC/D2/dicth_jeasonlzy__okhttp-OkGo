@@ -1,0 +1,14 @@
+1	git://github.com/jeasonlzy/okhttp-OkGo.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.google.code.gson:gson
+6	#DEP#com.jakewharton:butterknife
+7	#DEP#com.github.bumptech.glide:glide
+8	#DEP#com.squareup.picasso:picasso
+9	#DEP#com.readystatesoftware.chuck:library
+10	#DEP#com.lzy.widget:view-core
+11	#DEP#com.lzy.widget:ninegridview
+12	#DEP#io.reactivex:rxjava
+13	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+14	#DEP#com.lzy.widget:imagepicker

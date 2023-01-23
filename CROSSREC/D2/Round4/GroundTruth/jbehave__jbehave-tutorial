@@ -1,0 +1,8 @@
+1	#DEP#org.codehaus.geb:geb-core
+1	#DEP#junit:junit-dep
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.jbehave:jbehave-spring
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.jbehave.site:jbehave-site-resources
+1	#DEP#org.jbehave.web:jbehave-web-selenium
+1	#DEP#org.jbehave.web:jbehave-web-runner

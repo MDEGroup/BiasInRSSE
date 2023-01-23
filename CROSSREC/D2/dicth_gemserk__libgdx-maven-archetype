@@ -1,0 +1,11 @@
+1	git://github.com/gemserk/libgdx-maven-archetype.git
+2	#DEP#${project.groupId}:libgdx-test-core
+3	#DEP#com.badlogic.gdx:gdx
+4	#DEP#com.google.android:android
+5	#DEP#com.badlogic.gdx:gdx-backend-lwjgl
+6	#DEP#com.gemserk.libgdxtest:libgdxtest
+7	#DEP#org.jmock:jmock
+8	#DEP#org.jmock:jmock-junit4
+9	#DEP#com.badlogic.gdx:gdx-backend-android
+10	#DEP#org.jmock:jmock-legacy
+11	#DEP#junit:junit

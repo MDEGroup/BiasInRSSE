@@ -1,0 +1,10 @@
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.springframework.boot:spring-boot-configuration-processor	1.0
+#DEP#org.springframework.boot:spring-boot-starter-mail	1.0
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.springframework.boot:spring-boot-starter-thymeleaf	1.0
+#DEP#org.springframework.boot:spring-boot-autoconfigure	1.0
+#DEP#io.springfox:springfox-bean-validators	1.0
+#DEP#org.springframework.boot:spring-boot-starter-undertow	1.0
+#DEP#org.springframework.security:spring-security-data	1.0

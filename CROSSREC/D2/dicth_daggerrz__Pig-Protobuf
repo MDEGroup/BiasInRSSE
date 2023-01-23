@@ -1,0 +1,10 @@
+1	git://github.com/daggerrz/Pig-Protobuf.git
+2	#DEP#org.apache.hadoop:hadoop-core
+3	#DEP#jline:jline
+4	#DEP#org.apache.pig:pig
+5	#DEP#log4j:log4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.guava:guava
+8	#DEP#com.google.collections:google-collections
+9	#DEP#org.antlr:antlr
+10	#DEP#com.google.protobuf:protobuf-java

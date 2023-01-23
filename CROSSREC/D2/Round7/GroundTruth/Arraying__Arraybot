@@ -1,0 +1,4 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#biz.paluch.redis:lettuce
+1	#DEP#com.github.Arraying:Zeus
+1	#DEP#commons-lang:commons-lang

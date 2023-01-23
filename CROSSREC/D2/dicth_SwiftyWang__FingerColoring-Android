@@ -1,0 +1,11 @@
+1	git://github.com/SwiftyWang/FingerColoring-Android.git
+2	#DEP#com.umeng.analytics:analytics
+3	#DEP#com.makeramen:roundedimageview
+4	#DEP#jp.wasabeef:recyclerview-animators
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.daimajia.androidanimations:library
+7	#DEP#com.android.support:support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#com.daimajia.easing:library
+11	#DEP#com.jakewharton:butterknife

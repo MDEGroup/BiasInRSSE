@@ -1,0 +1,14 @@
+57	#DEP#commons-io:commons-io
+58	#DEP#org.primefaces:primefaces
+59	#DEP#com.sun.faces:jsf-impl
+60	#DEP#org.springframework:spring-tx
+61	#DEP#org.shredzone.cilla:cilla-ws
+62	#DEP#org.springframework:spring-expression
+63	#DEP#org.hibernate:hibernate-core
+64	#DEP#org.apache.cxf:cxf-core
+65	#DEP#org.hibernate:hibernate-validator
+66	#DEP#org.springframework:spring-orm
+67	#DEP#org.slf4j:slf4j-log4j12
+68	#DEP#org.mockito:mockito-core
+69	#DEP#org.springframework:spring-context-support
+70	#DEP#commons-fileupload:commons-fileupload

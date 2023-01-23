@@ -1,0 +1,9 @@
+1	git://github.com/rdclark/pptx2html.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.hamcrest:hamcrest-integration
+5	#DEP#junit:junit
+6	#DEP#org.antlr:antlr4-maven-plugin
+7	#DEP#org.antlr:ST4
+8	#DEP#org.antlr:antlr4
+9	#DEP#org.hamcrest:hamcrest-core

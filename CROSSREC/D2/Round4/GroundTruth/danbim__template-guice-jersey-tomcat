@@ -1,0 +1,6 @@
+1	#DEP#com.google.inject.extensions:guice-servlet
+1	#DEP#org.codehaus.jackson:jackson-jaxrs
+1	#DEP#com.sun.jersey.contribs:jersey-guice
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server

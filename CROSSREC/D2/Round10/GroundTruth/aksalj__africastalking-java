@@ -1,0 +1,7 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.sparkjava:spark-core
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.valid4j:valid4j
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit

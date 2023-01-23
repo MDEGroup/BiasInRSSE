@@ -1,0 +1,8 @@
+1	#DEP#org.freemarker:freemarker
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.nanohttpd:nanohttpd
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#org.json:json
+1	#DEP#org.apache.derby:derby

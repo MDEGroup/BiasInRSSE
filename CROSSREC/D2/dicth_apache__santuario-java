@@ -1,0 +1,15 @@
+1	git://github.com/apache/santuario-java.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#xalan:xalan
+4	#DEP#com.fasterxml.woodstox:woodstox-core
+5	#DEP#xmlunit:xmlunit
+6	#DEP#org.apache:apache
+7	#DEP#org.bouncycastle:bcprov-jdk15on
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#commons-codec:commons-codec
+11	#DEP#org.eclipse.jetty:jetty-servlets
+12	#DEP#org.eclipse.jetty:jetty-server
+13	#DEP#xerces:xercesImpl
+14	#DEP#junit:junit
+15	#DEP#org.eclipse.jetty:jetty-servlet

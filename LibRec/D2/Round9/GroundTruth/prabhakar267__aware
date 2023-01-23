@@ -1,0 +1,5 @@
+1	#DEP#com.google.android.gms:play-services-maps
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#me.itangqi.waveloadingview:library
+1	#DEP#junit:junit
+1	#DEP#com.android.support:design

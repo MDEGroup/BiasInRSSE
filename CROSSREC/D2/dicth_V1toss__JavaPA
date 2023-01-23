@@ -1,0 +1,10 @@
+1	git://github.com/V1toss/JavaPA.git
+2	#DEP#JavaPA:JavaPA
+3	#DEP#part_6:part_6
+4	#DEP#part_7:part_7
+5	#DEP#part_4:part_4
+6	#DEP#part_5:part_5
+7	#DEP#vkaretko.servlets:part_9_servlets_jsp
+8	#DEP#junit:junit
+9	#DEP#part_3:part_3
+10	#DEP#part_2:part_2

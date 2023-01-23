@@ -1,0 +1,10 @@
+#DEP#com.google.guava:guava	1.0
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.eclipse.jetty:jetty-servlet	1.0
+#DEP#${project.groupId}:rest-client-driver	1.0
+#DEP#${project.groupId}:rest-driver-shared	1.0

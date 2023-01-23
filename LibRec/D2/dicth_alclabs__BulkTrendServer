@@ -1,0 +1,10 @@
+1	git://github.com/alclabs/BulkTrendServer.git
+2	#DEP#cglib:cglib-nodep
+3	#DEP#org.spockframework:spock-core
+4	#DEP#javax.servlet:servlet-api
+5	#DEP#org.json:json
+6	#DEP#com.controlj.green:addonsupport-api-addon
+7	#DEP#org.codehaus.groovy:groovy-all
+8	#DEP#junit:junit
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.controlj.green:directaccess-api-addon

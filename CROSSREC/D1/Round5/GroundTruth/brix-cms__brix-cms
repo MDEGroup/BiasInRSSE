@@ -1,0 +1,9 @@
+36	#DEP#org.apache.jackrabbit:jackrabbit-jcr-rmi
+37	#DEP#org.slf4j:jcl-over-slf4j
+38	#DEP#org.hibernate:hibernate-annotations
+39	#DEP#org.brixcms:brix-plugin-webdavurl
+40	#DEP#org.wicketstuff:wicketstuff-inmethod-grid
+41	#DEP#org.springframework:spring
+42	#DEP#org.slf4j:slf4j-log4j12
+43	#DEP#org.brixcms:brix-modeshape
+44	#DEP#org.apache.jackrabbit:jackrabbit-api

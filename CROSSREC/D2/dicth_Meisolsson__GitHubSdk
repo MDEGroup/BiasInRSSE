@@ -1,0 +1,14 @@
+1	git://github.com/Meisolsson/GitHubSdk.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.google.auto.value:auto-value
+5	#DEP#net.danlew:android.joda
+6	#DEP#com.ryanharter.auto.value:auto-value-parcel
+7	#DEP#com.ryanharter.auto.value:auto-value-moshi
+8	#DEP#com.squareup.okhttp3:logging-interceptor
+9	#DEP#com.squareup.retrofit2:converter-moshi
+10	#DEP#com.squareup.retrofit2:adapter-rxjava2
+11	#DEP#com.squareup.retrofit2:retrofit
+12	#DEP#com.ryanharter.auto.value:auto-value-parcel-adapter
+13	#DEP#junit:junit
+14	#DEP#com.ryanharter.auto.value:auto-value-moshi-annotations

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.httpcomponents:httpasyncclient	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.carrotsearch:junit-benchmarks	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.carrotsearch:hppc	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#eu.hlavki.text:jlemmagen	1.0
+#DEP#com.splunk:splunk	1.0

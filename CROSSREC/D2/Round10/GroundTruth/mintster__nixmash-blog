@@ -1,0 +1,16 @@
+1	#DEP#org.webjars:webjars-locator
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#joda-time:joda-time
+1	#DEP#org.webjars:jquery-ui-themes
+1	#DEP#org.jsoup:jsoup
+1	#DEP#org.webjars:bootstrap
+1	#DEP#--appurl=http://localhost
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework.social:spring-social-security
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.webjars:bootswatch
+1	#DEP#org.webjars:jquery
+1	#DEP#junit:junit
+1	#DEP#org.imgscalr:imgscalr-lib
+1	#DEP#org.jadira.usertype:usertype.extended
+1	#DEP#com.github.slugify:slugify

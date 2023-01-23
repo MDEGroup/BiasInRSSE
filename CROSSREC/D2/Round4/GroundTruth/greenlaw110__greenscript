@@ -1,0 +1,6 @@
+1	#DEP#junit:junit
+1	#DEP#com.github.greenlaw110.greenscript:greenscript-core
+1	#DEP#com.google.code.maven-play-plugin.com.yahoo.platform.yui:yuicompressor
+1	#DEP#com.google.javascript:closure-compiler
+1	#DEP#com.google.code.maven-play-plugin.org.playframework:play
+1	#DEP#commons-lang:commons-lang

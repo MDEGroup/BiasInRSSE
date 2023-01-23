@@ -1,0 +1,11 @@
+1	git://github.com/aecavac/spring-react-restful-example.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.hibernate:hibernate-core
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.springframework:spring-test
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.springframework:spring-orm
+10	#DEP#org.springframework:spring-core
+11	#DEP#org.springframework.boot:spring-boot-starter-web

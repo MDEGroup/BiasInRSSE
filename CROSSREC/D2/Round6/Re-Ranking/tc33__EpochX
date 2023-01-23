@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.codehaus.groovy:groovy-all	1.0
+#DEP#rubygems:bundler	1.0

@@ -1,0 +1,14 @@
+1	#DEP#org.springframework:spring-context
+1	#DEP#antlr:antlr
+1	#DEP#me.springframework:spring-me-maven-plugin
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#org.springframework:spring-beans
+1	#DEP#me.springframework:spring-me-api
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.springframework:spring-core
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.microemu:cldcapi11
+1	#DEP#org.microemu:midpapi20
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven.shared:maven-plugin-testing-harness

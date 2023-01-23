@@ -1,0 +1,16 @@
+1	git://github.com/alchemystar/Rider.git
+2	#DEP#io.netty:netty-all
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.lucene:lucene-core
+5	#DEP#dom4j:dom4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#joda-time:joda-time
+8	#DEP#commons-lang:commons-lang
+9	#DEP#com.alibaba:druid
+10	#DEP#org.apache.velocity:velocity
+11	#DEP#org.codehaus.groovy:groovy
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#org.apache.poi:poi-ooxml
+15	#DEP#junit:junit
+16	#DEP#org.osgi:org.osgi.core

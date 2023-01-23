@@ -1,0 +1,10 @@
+1	git://github.com/openengsb-domcon/openengsb-connector-git.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#org.openengsb.connector:openengsb-connector-parent
+4	#DEP#org.openengsb.framework:org.openengsb.framework.api
+5	#DEP#commons-io:commons-io
+6	#DEP#org.openengsb.framework:org.openengsb.framework.test
+7	#DEP#org.openengsb.domain:org.openengsb.domain.scm
+8	#DEP#org.hamcrest:hamcrest-all
+9	#DEP#org.openengsb.framework:org.openengsb.framework.common
+10	#DEP#org.eclipse.jgit:org.eclipse.jgit

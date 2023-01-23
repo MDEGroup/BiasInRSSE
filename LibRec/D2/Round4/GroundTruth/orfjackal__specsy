@@ -1,0 +1,12 @@
+1	#DEP#fi.jumi:jumi-launcher
+1	#DEP#org.specsy:specsy-groovy
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.specsy:specsy-java
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.specsy:specsy-core
+1	#DEP#org.specsy:specsy-junit
+1	#DEP#org.junit.platform:junit-platform-console
+1	#DEP#junit:junit
+1	#DEP#org.junit.platform:junit-platform-engine
+1	#DEP#org.specsy:specsy-scala-parent
+1	#DEP#org.specsy:specsy-scala_2.10

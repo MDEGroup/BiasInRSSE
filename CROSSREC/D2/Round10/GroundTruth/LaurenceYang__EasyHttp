@@ -1,0 +1,7 @@
+1	#DEP#com.jakewharton:butterknife-compiler
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#org.greenrobot:greendao
+1	#DEP#org.reactivestreams:reactive-streams
+1	#DEP#junit:junit

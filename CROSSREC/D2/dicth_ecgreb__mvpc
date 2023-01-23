@@ -1,0 +1,10 @@
+1	git://github.com/ecgreb/mvpc.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.khronos:opengl-api
+4	#DEP#com.google.dagger:dagger-compiler
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.robolectric:robolectric
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.google.dagger:dagger

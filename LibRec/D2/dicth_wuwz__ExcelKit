@@ -1,0 +1,10 @@
+1	git://github.com/wuwz/ExcelKit.git
+2	#DEP#jaxen:jaxen
+3	#DEP#xml-apis:xml-apis
+4	#DEP#org.apache.poi:poi-ooxml-schemas
+5	#DEP#javax.servlet:javax.servlet-api
+6	#DEP#log4j:log4j
+7	#DEP#dom4j:dom4j
+8	#DEP#xerces:xercesImpl
+9	#DEP#commons-beanutils:commons-beanutils
+10	#DEP#org.apache.poi:poi-ooxml

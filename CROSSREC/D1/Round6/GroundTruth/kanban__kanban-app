@@ -1,0 +1,5 @@
+24	#DEP#javax.servlet:jstl
+25	#DEP#org.eclipse.jetty:jetty-webapp
+26	#DEP#org.eclipse.jetty:jetty-util
+27	#DEP#net.sourceforge.jwebunit:jwebunit-core
+28	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin

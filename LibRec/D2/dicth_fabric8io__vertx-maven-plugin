@@ -1,0 +1,12 @@
+1	git://github.com/fabric8io/vertx-maven-plugin.git
+2	#DEP#io.vertx:vertx-core
+3	#DEP#io.vertx:vertx-infinispan
+4	#DEP#io.vertx:vertx-web
+5	#DEP#io.vertx:vertx-dependencies
+6	#DEP#io.vertx:vertx-jgroups
+7	#DEP#org.webjars:jquery
+8	#DEP#org.bouncycastle:bcprov-jdk16
+9	#DEP#io.vertx:vertx-web-templ-thymeleaf
+10	#DEP#junit:junit
+11	#DEP#io.vertx:vertx-jdbc-client
+12	#DEP#io.vertx:vertx-unit

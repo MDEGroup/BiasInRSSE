@@ -1,0 +1,10 @@
+#DEP#org.neo4j:neo4j-graph-algo	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#postgresql:postgresql	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#org.scala-lang:scala-library	1.0
+#DEP#org.neo4j:index-util	1.0
+#DEP#org.neo4j:neo	1.0
+#DEP#org.neo4j:neo4j-kernel-ha	1.0
+#DEP#org.neo4j:neo4j-commons	1.0
+#DEP#org.neo4j:neo4j-online-backup	1.0

@@ -1,0 +1,5 @@
+20	#DEP#com.squareup.retrofit2:retrofit
+21	#DEP#com.android.support.test:rules
+22	#DEP#junit:junit
+23	#DEP#com.android.support.test:runner
+24	#DEP#com.android.support.test.espresso:espresso-core

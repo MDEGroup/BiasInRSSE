@@ -1,0 +1,14 @@
+1	#DEP#net.sf.ehcache:ehcache-web
+1	#DEP#org.apache.ant:ant
+1	#DEP#org.tuckey:urlrewritefilter
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#jstl:jstl
+1	#DEP#dom4j:dom4j
+1	#DEP#org.jessma:jessma-ext-guice
+1	#DEP#javax:javaee-api
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.google.inject:guice
+1	#DEP#com.alibaba:druid
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.jessma:jessma-ext-rest
+1	#DEP#org.jessma:jessma-ext-spring

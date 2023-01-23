@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-core
+1	#DEP#de.occi:occi4java.core
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#de.occi:occi4java.http
+1	#DEP#org.libvirt:libvirt
+1	#DEP#de.occi:occi4java.infrastructure
+1	#DEP#de.occi:libvirt4occi.libvirt

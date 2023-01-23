@@ -1,0 +1,4 @@
+20	#DEP#junit:junit
+21	#DEP#com.android.support.test:runner
+22	#DEP#com.android.support.test.espresso:espresso-core
+23	#DEP#android.arch.persistence.room:runtime

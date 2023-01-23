@@ -1,0 +1,10 @@
+#DEP#org.spigotmc:spigot-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#blue.lapis.methodremapper:tweaker	1.0
+#DEP#io.github.protocolsupport:protocolsupport	1.0
+#DEP#org.spongepowered:mixin	1.0
+#DEP#net.md-5:bungeecord-config	1.0
+#DEP#com.sk89q:squirrelid	1.0
+#DEP#org.spongepowered:spongevanilla	1.0

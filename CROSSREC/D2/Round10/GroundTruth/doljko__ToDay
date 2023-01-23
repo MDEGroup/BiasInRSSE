@@ -1,0 +1,8 @@
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.google.android.gms:play-services
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#net.sf.supercsv:super-csv
+1	#DEP#com.github.baoyachi:StepView
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit

@@ -1,0 +1,5 @@
+1	#DEP#org.sonatype.oss:oss-parent
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty:test-jetty-servlet
+1	#DEP#org.hamcrest:hamcrest-core

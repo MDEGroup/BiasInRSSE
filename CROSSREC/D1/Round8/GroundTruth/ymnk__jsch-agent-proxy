@@ -1,0 +1,3 @@
+14	#DEP#org.newsclub:junixsocket
+15	#DEP#com.jcraft:jsch.agentproxy.svnkit-trilead-ssh2
+16	#DEP#com.jcraft:jsch.agentproxy.core

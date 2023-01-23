@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.google.firebase:firebase-database	1.0
+#DEP#com.google.firebase:firebase-auth	1.0
+#DEP#de.hdodenhof:circleimageview	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.github.HaarigerHarald:android-youtubeExtractor	1.0

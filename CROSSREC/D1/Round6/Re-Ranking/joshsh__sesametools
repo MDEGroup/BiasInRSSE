@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-rio-trix	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-sparql-testsuite	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-store-testsuite	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-rio-binary	1.0
+#DEP#com.franz:agraph-java-client	1.0
+#DEP#org.apache.directory.studio:org.apache.commons.pool	1.0

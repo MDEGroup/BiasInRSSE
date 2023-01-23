@@ -1,0 +1,12 @@
+1	git://github.com/google/google-java-format.git
+2	#DEP#com.google.errorprone:error_prone_annotations
+3	#DEP#com.google.guava:guava-testlib
+4	#DEP#com.google.errorprone:javac-shaded
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#com.google.testing.compile:compile-testing
+7	#DEP#com.google.guava:guava
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#com.google.googlejavaformat:google-java-format-parent
+10	#DEP#com.google.googlejavaformat:google-java-format
+11	#DEP#junit:junit
+12	#DEP#com.google.truth:truth

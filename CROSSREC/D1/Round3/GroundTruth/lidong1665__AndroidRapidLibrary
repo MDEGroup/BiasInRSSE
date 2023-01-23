@@ -1,0 +1,5 @@
+24	#DEP#junit:junit
+25	#DEP#com.getui:sdk
+26	#DEP#com.ashokvarma.android:bottom-navigation-bar
+27	#DEP#com.mani:thindownloadmanager
+28	#DEP#io.reactivex:rxjava

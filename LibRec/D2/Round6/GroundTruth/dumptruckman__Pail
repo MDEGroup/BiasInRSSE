@@ -1,0 +1,11 @@
+1	#DEP#jboss:jboss-system
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#log4j:log4j
+1	#DEP#javax.activation:activation
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#jboss:jboss-common
+1	#DEP#jboss:jboss-minimal
+1	#DEP#${project.groupId}:quartz-oracle
+1	#DEP#junit:junit
+1	#DEP#jboss:jboss-jmx
+1	#DEP#org.apache.openejb:javaee-api

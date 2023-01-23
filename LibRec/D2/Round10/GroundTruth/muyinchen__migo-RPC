@@ -1,0 +1,12 @@
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.apache.curator:curator-framework
+1	#DEP#com.nia.rpc:migo-rpc-provider
+1	#DEP#org.springframework.boot:spring-boot-starter-logging
+1	#DEP#io.protostuff:protostuff-runtime
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#io.protostuff:protostuff-core
+1	#DEP#org.apache.commons:commons-pool2
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

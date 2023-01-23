@@ -1,0 +1,16 @@
+1	#DEP#org.apache.hadoop:hadoop-hdfs
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#commons-cli:commons-cli
+1	#DEP#net.sourceforge.nekohtml:nekohtml
+1	#DEP#org.ow2.asm:asm-all
+1	#DEP#org.apache.hadoop:hadoop-mapreduce-client-jobclient
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.htmlparser:htmllexer
+1	#DEP#com.codepoetics:protonpack
+1	#DEP#com.googlecode.juniversalchardet:juniversalchardet
+1	#DEP#net.sf.trove4j:trove4j
+1	#DEP#jcuda:jcuda
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit

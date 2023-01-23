@@ -1,0 +1,14 @@
+1	git://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector.git
+2	#DEP#io.realm:android-adapters
+3	#DEP#com.github.kaichunlin.transition:core
+4	#DEP#io.freefair.injection:android-injection
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#io.freefair:slf4j-android
+7	#DEP#com.github.Stericson:RootShell
+8	#DEP#com.github.MKergall.osmbonuspack:OSMBonusPack
+9	#DEP#io.freefair.android-colors:material
+10	#DEP#org.projectlombok:lombok
+11	#DEP#io.freefair.android-util:function
+12	#DEP#junit:junit
+13	#DEP#au.com.bytecode:opencsv
+14	#DEP#io.freefair.injection:okhttp

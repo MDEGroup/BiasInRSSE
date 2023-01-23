@@ -1,0 +1,16 @@
+1	git://github.com/miyuexingchen/Swen.git
+2	#DEP#com.jude:rollviewpager
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#fm.jiecao:jiecaovideoplayer
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.android.support:design
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.github.bumptech.glide:glide
+12	#DEP#com.android.support:support-v4
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#junit:junit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#io.reactivex:rxandroid

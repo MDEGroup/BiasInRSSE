@@ -1,0 +1,10 @@
+#DEP#net.sf.jung:jung-algorithms	1.0
+#DEP#net.sf.jung:jung-api	1.0
+#DEP#net.sf.jung:jung-visualization	1.0
+#DEP#com.thoughtworks.xstream:xstream	1.0
+#DEP#javax.servlet:com.springsource.javax.servlet.jsp.jstl	1.0
+#DEP#org.springframework.security:org.springframework.security.web	1.0
+#DEP#org.springframework.security:org.springframework.security.taglibs	1.0
+#DEP#org.springframework:org.springframework.oxm	1.0
+#DEP#org.apache.commons:com.springsource.org.apache.commons.dbcp	1.0
+#DEP#org.junit:com.springsource.org.junit	1.0

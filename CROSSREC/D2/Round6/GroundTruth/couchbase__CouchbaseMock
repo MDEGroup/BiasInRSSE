@@ -1,0 +1,6 @@
+1	#DEP#org.mozilla:rhino
+1	#DEP#com.couchbase.client:couchbase-client
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.couchbase.client:java-client

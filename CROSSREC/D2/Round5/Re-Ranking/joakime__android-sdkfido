@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#net.nicoulaj.maven.plugins.checksum.test.projects:multi-module.artifacts.default	1.0
+#DEP#net.nicoulaj.maven.plugins.checksum.test.projects:multi-module.artifacts.no-fail-on-error	1.0
+#DEP#net.nicoulaj:parent	1.0

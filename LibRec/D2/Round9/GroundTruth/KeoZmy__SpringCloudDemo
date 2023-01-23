@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+1	#DEP#org.springframework.cloud:spring-cloud-starter-config
+1	#DEP#org.springframework.cloud:spring-cloud-config-server
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

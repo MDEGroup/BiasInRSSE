@@ -1,0 +1,12 @@
+50	#DEP#org.springframework:spring-expression
+51	#DEP#org.hibernate:hibernate-core
+52	#DEP#org.springframework.batch:spring-batch-test
+53	#DEP#org.springframework.plugin:spring-plugin-core
+54	#DEP#org.springframework.batch:spring-batch-admin-manager
+55	#DEP#com.fasterxml.jackson.core:jackson-databind
+56	#DEP#org.springframework.batch:spring-batch-core
+57	#DEP#org.springframework:spring-orm
+58	#DEP#org.slf4j:slf4j-log4j12
+59	#DEP#org.springframework:spring-context-support
+60	#DEP#javax.servlet:jstl
+61	#DEP#commons-fileupload:commons-fileupload

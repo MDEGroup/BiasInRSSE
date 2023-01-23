@@ -1,0 +1,7 @@
+1	#DEP#com.github.MKergall.osmbonuspack:OSMBonusPack
+1	#DEP#io.freefair.android-colors:material
+1	#DEP#org.projectlombok:lombok
+1	#DEP#io.freefair.android-util:function
+1	#DEP#junit:junit
+1	#DEP#au.com.bytecode:opencsv
+1	#DEP#io.freefair.injection:okhttp

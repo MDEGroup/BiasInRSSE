@@ -1,0 +1,9 @@
+36	#DEP#org.mortbay.jetty:jetty-embedded
+37	#DEP#ant-zip:ant-zip
+38	#DEP#jdom:jdom
+39	#DEP#javax.servlet:servlet-api
+40	#DEP#commons-fileupload:commons-fileupload
+41	#DEP#javax.servlet:jstl
+42	#DEP#junit:junit
+43	#DEP#org.mortbay.jetty:jsp-2.0
+44	#DEP#cglib:cglib

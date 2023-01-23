@@ -1,0 +1,11 @@
+45	#DEP#${project.groupId}:javafx7-mapview
+46	#DEP#com.fasterxml.jackson.core:jackson-databind
+47	#DEP#${project.groupId}:common-navigation
+48	#DEP#${project.groupId}:mapview
+49	#DEP#org.mapsforge:mapsforge-themes
+50	#DEP#slash.navigation:googlemaps
+51	#DEP#${project.groupId}:time-album-pro
+52	#DEP#com.graphhopper:graphhopper-reader-osm
+53	#DEP#org.apache.xmlgraphics:xmlgraphics-commons
+54	#DEP#jfreechart:jfreechart
+55	#DEP#slash.navigation:common-gui

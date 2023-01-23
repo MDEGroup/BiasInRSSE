@@ -1,0 +1,12 @@
+1	git://github.com/azagniotov/codahale-aggregated-metrics-cloudwatch-reporter.git
+2	#DEP#io.dropwizard.metrics:metrics-core
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.mockito:mockito-core
+5	#DEP#com.amazonaws:aws-java-sdk-cloudwatch
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#io.dropwizard.metrics:metrics-jvm
+8	#DEP#com.google.guava:guava
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit
+11	#DEP#org.hamcrest:hamcrest-core
+12	#DEP#com.google.truth:truth

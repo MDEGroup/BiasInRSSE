@@ -1,0 +1,4 @@
+20	#DEP#org.springframework:spring-orm
+21	#DEP#org.slf4j:slf4j-log4j12
+22	#DEP#log4j:log4j
+23	#DEP#com.h2database:h2

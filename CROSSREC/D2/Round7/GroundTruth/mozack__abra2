@@ -1,0 +1,4 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.beust:jcommander
+1	#DEP#com.github.samtools:htsjdk
+1	#DEP#com.intel.gkl:gkl

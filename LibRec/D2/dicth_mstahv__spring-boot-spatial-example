@@ -1,0 +1,16 @@
+1	git://github.com/mstahv/spring-boot-spatial-example.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.opengeo:geodb
+4	#DEP#org.hibernate:hibernate-spatial
+5	#DEP#org.vaadin:viritin
+6	#DEP#com.vaadin:vaadin-bom
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#com.vaadin:vaadin-spring-boot-starter
+9	#DEP#org.springframework.boot:spring-boot-configuration-processor
+10	#DEP#org.springframework.boot:spring-boot-starter-validation
+11	#DEP#com.vaadin:vaadin-context-menu
+12	#DEP#com.querydsl:querydsl-sql-spatial
+13	#DEP#org.springframework.boot:spring-boot-starter-test
+14	#DEP#org.springframework.boot:spring-boot-devtools
+15	#DEP#com.querydsl:querydsl-jpa
+16	#DEP#org.vaadin.addon:v-leaflet-editable

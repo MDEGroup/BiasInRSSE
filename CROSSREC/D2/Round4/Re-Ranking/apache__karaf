@@ -1,0 +1,10 @@
+#DEP#org.osgi:org.osgi.core	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-junit4	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-container-karaf	1.0
+#DEP#org.apache.felix:org.apache.felix.framework	1.0
+#DEP#org.apache.aries.proxy:org.apache.aries.proxy.api	1.0

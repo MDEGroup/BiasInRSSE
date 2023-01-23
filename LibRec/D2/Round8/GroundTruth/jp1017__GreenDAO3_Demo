@@ -1,0 +1,4 @@
+1	#DEP#net.zetetic:android-database-sqlcipher
+1	#DEP#junit:junit
+1	#DEP#com.mikepenz:fastadapter-commons
+1	#DEP#com.jakewharton:butterknife

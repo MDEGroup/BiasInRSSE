@@ -1,0 +1,11 @@
+1	#DEP#ca.benow:jd
+1	#DEP#org.codehaus.janino:janino
+1	#DEP#dex2jar:dex2jar
+1	#DEP#eu.bibl:byteanalysis
+1	#DEP#org.bitbucket.mstrobel:procyon-core
+1	#DEP#com.fifesoft:rsyntaxtextarea
+1	#DEP#org.benf:cfr
+1	#DEP#org.jetbrains.java:decompiler
+1	#DEP#org.imgscalr:imgscalr-lib
+1	#DEP#org.jf:smali
+1	#DEP#org.smali:baksmali

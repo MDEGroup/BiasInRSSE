@@ -1,0 +1,15 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#com.sparkjava:spark-template-freemarker
+1	#DEP#org.twitter4j:twitter4j-stream
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#net.jodah:expiringmap
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#com.sparkjava:spark-core
+1	#DEP#org.jsoup:jsoup
+1	#DEP#net.dv8tion:JDA
+1	#DEP#com.eclipsesource.minimal-json:minimal-json
+1	#DEP#net.dean.jraw:JRAW
+1	#DEP#org.json:json
+1	#DEP#com.neovisionaries:nv-websocket-client
+1	#DEP#com.sedmelluq:lavaplayer

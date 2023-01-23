@@ -1,0 +1,4 @@
+18	#DEP#junit:junit
+19	#DEP#com.microsoft.azure:azure-keyvault
+20	#DEP#io.vertx:vertx-unit
+21	#DEP#io.reactivex:rxjava

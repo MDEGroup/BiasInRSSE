@@ -1,0 +1,15 @@
+1	git://github.com/andreschaffer/microservices-testing-examples.git
+2	#DEP#org.apache.kafka:kafka-clients
+3	#DEP#com.github.rest-driver:rest-client-driver
+4	#DEP#com.jayway.jsonpath:json-path-assert
+5	#DEP#microservices-testing-examples:microservices-testing-examples
+6	#DEP#org.subethamail:subethasmtp
+7	#DEP#io.dropwizard:dropwizard-testing
+8	#DEP#au.com.dius:pact-jvm-consumer-junit_2.11
+9	#DEP#io.dropwizard:dropwizard-client
+10	#DEP#org.awaitility:awaitility
+11	#DEP#com.github.charithe:kafka-junit
+12	#DEP#javax.mail:mail
+13	#DEP#au.com.dius:pact-jvm-provider-junit_2.11
+14	#DEP#junit:junit
+15	#DEP#io.dropwizard:dropwizard-core

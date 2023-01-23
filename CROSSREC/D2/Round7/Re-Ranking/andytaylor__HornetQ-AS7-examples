@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.hornetq:hornetq-core	1.0
+#DEP#org.hornetq:hornetq-jms	1.0
+#DEP#org.jboss.errai:errai-ioc-bus-support	1.0
+#DEP#org.hornetq:hornetq-pom	1.0
+#DEP#org.hornetq:hornetq-server	1.0

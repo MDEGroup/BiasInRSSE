@@ -1,0 +1,17 @@
+1	git://github.com/aestasit/akka-tutorial.git
+2	#DEP#se.scalablesolutions.akka:akka-typed-actor
+3	#DEP#commons-io:commons-io
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#org.codehaus.aspectwerkz:aspectwerkz
+6	#DEP#org.guiceyfruit:guice-all
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#com.google.protobuf:protobuf-java
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#voldemort.store.compress:h2-lzf
+12	#DEP#org.scala-lang:scala-library
+13	#DEP#com.aestas:akka-servlet
+14	#DEP#org.jboss.netty:netty
+15	#DEP#se.scalablesolutions.akka:akka-stm
+16	#DEP#aopalliance:aopalliance
+17	#DEP#net.debasishg:sjson_2.9.0.RC1

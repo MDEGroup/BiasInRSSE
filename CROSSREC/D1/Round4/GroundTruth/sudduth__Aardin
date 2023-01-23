@@ -1,0 +1,13 @@
+55	#DEP#org.springframework:spring-jdbc
+56	#DEP#org.aardin.logging:LoggingImpl
+57	#DEP#joda-time:joda-time
+58	#DEP#org.springframework:spring-jms
+59	#DEP#jaxen:jaxen
+60	#DEP#org.aardin.actions:ActionsService
+61	#DEP#org.aardin.accounts:AccountsAPI
+62	#DEP#org.testng:testng
+63	#DEP#commons-dbcp:commons-dbcp
+64	#DEP#org.hibernate:hibernate-core
+65	#DEP#org.aardin.oncall:OnCallService
+66	#DEP#com.fasterxml.jackson.core:jackson-databind
+67	#DEP#org.aardin.accounts:AccountsImpl

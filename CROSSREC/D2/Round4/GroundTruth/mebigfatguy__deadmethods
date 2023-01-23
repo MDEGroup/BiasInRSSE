@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.ow2.asm:asm
+1	#DEP#org.apache.maven:maven-core

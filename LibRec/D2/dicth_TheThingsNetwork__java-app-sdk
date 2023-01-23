@@ -1,0 +1,17 @@
+1	git://github.com/TheThingsNetwork/java-app-sdk.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.rabbitmq:amqp-client
+4	#DEP#org.thethingsnetwork:samples
+5	#DEP#${project.groupId}:data-amqp
+6	#DEP#io.grpc:grpc-all
+7	#DEP#io.netty:netty-tcnative-boringssl-static
+8	#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#${project.groupId}:account
+11	#DEP#com.google.protobuf:protobuf-java
+12	#DEP#${project.groupId}:data-mqtt
+13	#DEP#io.reactivex:rxjava
+14	#DEP#org.thethingsnetwork:data-common
+15	#DEP#org.thethingsnetwork:data
+16	#DEP#org.thethingsnetwork:app-sdk
+17	#DEP#${project.groupId}:management

@@ -1,0 +1,8 @@
+1	#DEP#org.nuxeo.runtime:nuxeo-runtime
+1	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-relations-api
+1	#DEP#org.nuxeo.common:nuxeo-common
+1	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-relations-jena-plugin
+1	#DEP#org.nuxeo.ecm.core:nuxeo-core-storage-sql
+1	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-convert
+1	#DEP#org.nuxeo.ecm.core:nuxeo-core-convert-api
+1	#DEP#org.nuxeo.ecm.platform:nuxeo-platform-annotations-api

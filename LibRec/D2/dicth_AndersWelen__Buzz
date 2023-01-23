@@ -1,0 +1,12 @@
+1	git://github.com/AndersWelen/Buzz.git
+2	#DEP#org.jboss.as:jboss-as-controller
+3	#DEP#org.jboss.as:jboss-as-server
+4	#DEP#org.hibernate:hibernate-core
+5	#DEP#org.jboss.as:jboss-as-controller-client
+6	#DEP#javax.mail:mail
+7	#DEP#jboss:jboss-system
+8	#DEP#org.hibernate:hibernate-entitymanager
+9	#DEP#org.jboss.msc:jboss-msc
+10	#DEP#log4j:log4j
+11	#DEP#net.sf.jnrpe:jnrpe-lib
+12	#DEP#junit:junit

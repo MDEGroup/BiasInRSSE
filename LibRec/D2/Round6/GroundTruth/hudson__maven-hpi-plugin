@@ -1,0 +1,5 @@
+1	#DEP#org.jvnet.hudson:hudson-parent
+1	#DEP#org.kohsuke.stapler:maven-stapler-plugin
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.jvnet.hudson.plugins:hudson-plugin-parent
+1	#DEP#org.apache.maven:maven-artifact

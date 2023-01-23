@@ -1,0 +1,17 @@
+1	#DEP#org.springframework.data:spring-data-jdbc-core
+1	#DEP#org.springframework:spring-oxm
+1	#DEP#org.apache.tomcat:tomcat-jdbc
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#com.googlecode.json-simple:json-simple
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#io.spring.platform:platform-bom
+1	#DEP#org.apache.taglibs:taglibs-standard-jstlel
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.webjars:jquery
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

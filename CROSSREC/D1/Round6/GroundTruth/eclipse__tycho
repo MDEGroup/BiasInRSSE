@@ -1,0 +1,4 @@
+19	#DEP#org.apache.maven:maven-compat
+20	#DEP#org.codehaus.plexus:plexus-compiler-manager
+21	#DEP#junit:junit
+22	#DEP#bcel:bcel

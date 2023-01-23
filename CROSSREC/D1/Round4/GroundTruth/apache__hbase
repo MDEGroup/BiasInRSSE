@@ -1,0 +1,17 @@
+72	#DEP#org.apache.hbase:hbase-backup
+73	#DEP#org.apache.hbase:hbase-spark-it
+74	#DEP#org.apache.hbase:hbase-hadoop2-compat
+75	#DEP#org.apache.spark:spark-sql_${scala.binary.version}
+76	#DEP#org.apache.hbase:hbase-procedure
+77	#DEP#org.apache.hbase:hbase-prefix-tree
+78	#DEP#org.apache.hbase:hbase-protocol-shaded
+79	#DEP#com.fasterxml.jackson.core:jackson-databind
+80	#DEP#org.apache.hbase:hbase-client
+81	#DEP#org.apache.hbase:hbase-shell
+82	#DEP#org.apache.hbase.thirdparty:hbase-shaded-netty
+83	#DEP#org.apache.curator:curator-framework
+84	#DEP#org.mockito:mockito-core
+85	#DEP#org.apache.hadoop:hadoop-client
+86	#DEP#org.apache.hbase:hbase-metrics-api
+87	#DEP#org.apache.hbase:hbase-rest
+88	#DEP#com.google.errorprone:javac

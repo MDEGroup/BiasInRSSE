@@ -1,0 +1,9 @@
+1	git://github.com/banshee/AndroidProguardScala.git
+2	#DEP#org.scala-lang:scala-xml
+3	#DEP#org.scala-lang:scala-parser-combinators
+4	#DEP#org.scala-lang:scala-library
+5	#DEP#com.google.guava:guava
+6	#DEP#junit:junit
+7	#DEP#com.restphone:com.restphone.androidproguardscala.parent
+8	#DEP#com.restphone:androidproguardscalalib_2.11
+9	#DEP#org.ow2.asm:asm

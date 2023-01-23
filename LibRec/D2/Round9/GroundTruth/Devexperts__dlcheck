@@ -1,0 +1,6 @@
+1	#DEP#com.devexperts.jagent:jagent-api
+1	#DEP#com.devexperts.jagent:jagent-impl
+1	#DEP#com.devexperts.dlcheck:transformer
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#com.devexperts.dlcheck:dlcheck

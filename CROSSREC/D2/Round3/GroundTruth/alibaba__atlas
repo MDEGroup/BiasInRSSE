@@ -1,0 +1,16 @@
+1	#DEP#com.taobao.android:dex_patch
+1	#DEP#org.smali:smali
+1	#DEP#io.reactivex.rxjava2:rxjava
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.taobao.android:preverify
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:design
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.dom4j:dom4j
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit

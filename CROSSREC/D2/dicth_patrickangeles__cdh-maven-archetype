@@ -1,0 +1,9 @@
+1	git://github.com/patrickangeles/cdh-maven-archetype.git
+2	#DEP#org.apache.hbase:hbase
+3	#DEP#com.cloudera.maven.archetype:parent
+4	#DEP#org.apache.hadoop.hive:hive-exec
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.apache.hadoop.hive:hive-common
+7	#DEP#org.apache.hadoop:hadoop-examples
+8	#DEP#junit:junit
+9	#DEP#org.apache.hadoop:hadoop-mrunit

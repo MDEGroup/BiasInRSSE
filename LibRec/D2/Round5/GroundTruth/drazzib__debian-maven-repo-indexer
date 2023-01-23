@@ -1,0 +1,4 @@
+1	#DEP#org.debian.maven:maven-debian-indexer
+1	#DEP#com.sun.jersey:jersey-server
+1	#DEP#javax.ejb:ejb-api
+1	#DEP#org.debian.maven:maven-debian-indexer-core

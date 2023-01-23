@@ -1,0 +1,8 @@
+1	#DEP#org.eclipse.collections:eclipse-collections-forkjoin
+1	#DEP#org.eclipse.collections:eclipse-collections
+1	#DEP#org.eclipse.collections:eclipse-collections-testutils
+1	#DEP#org.easytesting:fest-reflect
+1	#DEP#com.google.guava:guava
+1	#DEP#org.eclipse.collections:eclipse-collections-api
+1	#DEP#junit:junit
+1	#DEP#org.jetbrains.kotlin:kotlin-test

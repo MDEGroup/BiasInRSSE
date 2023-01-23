@@ -1,0 +1,13 @@
+1	git://github.com/jottinger/ci-bayes.git
+2	#DEP#${project.parent.groupId}:bayes
+3	#DEP#org.testng:testng
+4	#DEP#com.enigmastation.ml:ml-parent
+5	#DEP#commons-dbcp:commons-dbcp
+6	#DEP#org.infinispan:infinispan-core
+7	#DEP#org.apache.lucene:lucene-analyzers
+8	#DEP#com.github.stephenc.high-scale-lib:high-scale-lib
+9	#DEP#org.apache.commons:commons-compress
+10	#DEP#${project.parent.groupId}:common
+11	#DEP#${parent.groupId}:common
+12	#DEP#javatar:javatar
+13	#DEP#org.hsqldb:hsqldb

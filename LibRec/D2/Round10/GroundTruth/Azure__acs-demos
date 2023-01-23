@@ -1,0 +1,7 @@
+1	#DEP#org.gardler.biglittlechallenge:trials-ai
+1	#DEP#junit:junit
+1	#DEP#org.gardler.biglittlechallenge:trials-engine
+1	#DEP#org.gardler.biglittlechallenge:core
+1	#DEP#org.glassfish.jersey.containers:jersey-container-grizzly2-http
+1	#DEP#org.gardler.biglittlechallenge:trials-player
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson

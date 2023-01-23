@@ -1,0 +1,12 @@
+1	git://github.com/jwtk/jjwt.git
+2	#DEP#org.powermock:powermock-core
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.google.android:android
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.bouncycastle:bcprov-jdk15on
+8	#DEP#org.easymock:easymock
+9	#DEP#org.powermock:powermock-api-easymock
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#org.codehaus.groovy:groovy-all
+12	#DEP#junit:junit

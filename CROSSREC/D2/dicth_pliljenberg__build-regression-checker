@@ -1,0 +1,9 @@
+1	git://github.com/pliljenberg/build-regression-checker.git
+2	#DEP#org.jvnet.hudson.plugins:checkstyle
+3	#DEP#org.jenkins-ci.plugins:plugin
+4	#DEP#org.jenkins-ci.plugins:dashboard-view
+5	#DEP#junit:junit
+6	#DEP#org.jenkins-ci.plugins:cobertura
+7	#DEP#org.jvnet.hudson.plugins:pmd
+8	#DEP#org.jenkins-ci.plugins:jacoco
+9	#DEP#org.jvnet.hudson.plugins:findbugs

@@ -1,0 +1,8 @@
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#info.cukes:cucumber-android
+1	#DEP#com.squareup:otto
+1	#DEP#uy.kohesive.injekt:injekt-core
+1	#DEP#junit:junit
+1	#DEP#com.github.yeriomin:play-store-api
+1	#DEP#com.android.support.test.espresso:espresso-core

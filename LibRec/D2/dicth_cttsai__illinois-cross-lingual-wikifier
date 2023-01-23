@@ -1,0 +1,10 @@
+1	git://github.com/cttsai/illinois-cross-lingual-wikifier.git
+2	#DEP#edu.illinois.cs.cogcomp:wikipediaAPI-multilingual
+3	#DEP#edu.illinois.cs.cogcomp:illinois-tokenizer
+4	#DEP#edu.illinois.cs.cogcomp:illinois-xlwikifier-resources
+5	#DEP#edu.illinois.cs.cogcomp:JLIS-core
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#edu.illinois.cs.cogcomp:illinois-ner
+8	#DEP#org.mapdb:mapdb
+9	#DEP#com.google.http-client:google-http-client
+10	#DEP#org.springframework.boot:spring-boot-starter-web

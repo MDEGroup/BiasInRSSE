@@ -1,0 +1,5 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#commons-lang:commons-lang
+1	#DEP#groovy:groovy

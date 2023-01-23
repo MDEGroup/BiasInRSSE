@@ -1,0 +1,15 @@
+1	#DEP#com.jakewharton.timber:timber
+1	#DEP#com.github.jasminb:jsonapi-converter
+1	#DEP#com.evernote:android-job
+1	#DEP#com.timehop.stickyheadersrecyclerview:library
+1	#DEP#com.mikhaellopez:circularprogressbar
+1	#DEP#org.robolectric:shadows-supportv4
+1	#DEP#org.robolectric:shadows-multidex
+1	#DEP#com.android.support:multidex
+1	#DEP#net.igenius:stetho-no-op
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#org.json:json
+1	#DEP#com.google.android.gms:play-services-vision
+1	#DEP#me.xdrop:fuzzywuzzy
+1	#DEP#junit:junit
+1	#DEP#com.mikepenz:fastadapter-commons

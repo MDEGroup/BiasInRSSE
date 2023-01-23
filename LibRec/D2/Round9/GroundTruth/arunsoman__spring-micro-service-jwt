@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#org.springframework.security:spring-security-jwt
+1	#DEP#com.flytxt.security:resource-server-config
+1	#DEP#org.springframework.security:spring-security-ldap
+1	#DEP#com.h2database:h2

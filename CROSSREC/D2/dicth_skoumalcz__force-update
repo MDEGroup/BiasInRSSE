@@ -1,0 +1,12 @@
+1	git://github.com/skoumalcz/force-update.git
+2	#DEP#com.linkedin.testbutler:test-butler-library
+3	#DEP#com.android.support:support-annotations
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.jakewharton:process-phoenix
+7	#DEP#net.skoumal.fragmentback:fragment-back
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support.test:rules
+10	#DEP#junit:junit
+11	#DEP#com.android.support.test:runner
+12	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,10 @@
+1	git://github.com/android-links/about-page.git
+2	#DEP#com.squareup.picasso:picasso
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#me.drakeet.multitype:multitype
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.android.support:design

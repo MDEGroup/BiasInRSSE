@@ -1,0 +1,9 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.inadco.ecoadapters:ecoadapters
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.pig:pig
+1	#DEP#${project.groupId}:hbl
+1	#DEP#org.antlr:antlr-runtime
+1	#DEP#org.antlr:antlr

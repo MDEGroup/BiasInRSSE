@@ -1,0 +1,17 @@
+1	git://github.com/gradle/gradle.git
+2	#DEP#org.gradle.webinar:webinar-api
+3	#DEP#org.test:testApp
+4	#DEP#commons-io:commons-io
+5	#DEP#org.testng:testng
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#commons-lang:commons-lang
+8	#DEP#util.util.parent:util-parent
+9	#DEP#org.sample:number-utils
+10	#DEP#org.sample:string-utils
+11	#DEP#commons-collections:commons-collections
+12	#DEP#org.gradle.webinar:webinar-parent
+13	#DEP#com.google.guava:guava
+14	#DEP#org.gradle.webinar:webinar-impl
+15	#DEP#junit:junit
+16	#DEP#org.antlr:antlr
+17	#DEP#org.gradle.webinar:nested-parent

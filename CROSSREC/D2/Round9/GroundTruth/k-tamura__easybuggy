@@ -1,0 +1,7 @@
+1	#DEP#javax.servlet.jsp:jsp-api
+1	#DEP#org.apache.directory.server:apacheds-all
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#ognl:ognl
+1	#DEP#org.apache.derby:derby
+1	#DEP#com.sun.mail:javax.mail

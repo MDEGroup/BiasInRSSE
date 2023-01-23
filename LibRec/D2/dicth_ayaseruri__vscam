@@ -1,0 +1,17 @@
+1	git://github.com/ayaseruri/vscam.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.tbruyelle.rxpermissions2:rxpermissions
+5	#DEP#com.facebook.fresco:fresco
+6	#DEP#com.github.medyo:android-about-page
+7	#DEP#com.alibaba:fastjson
+8	#DEP#com.orhanobut:logger
+9	#DEP#com.github.johnpersano:supertoasts
+10	#DEP#com.tencent.bugly:crashreport_upgrade
+11	#DEP#me.relex:photodraweeview
+12	#DEP#com.trello.rxlifecycle2:rxlifecycle-android
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+15	#DEP#junit:junit
+16	#DEP#com.github.drewnoakes:metadata-extractor
+17	#DEP#cn.pedant.sweetalert:library

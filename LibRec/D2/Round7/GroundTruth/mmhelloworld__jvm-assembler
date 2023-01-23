@@ -1,0 +1,7 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.mmhelloworld:jvm-assembler
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.glassfish.jersey.media:jersey-media-json-jackson
+1	#DEP#org.eclipse.jetty:jetty-servlet

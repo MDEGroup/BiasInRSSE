@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14

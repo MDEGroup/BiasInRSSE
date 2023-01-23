@@ -1,0 +1,11 @@
+1	git://github.com/jenkinsci/scm-sync-configuration-plugin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.jenkins-ci.main:jenkins-test-harness
+4	#DEP#org.apache.maven.scm:maven-scm-provider-gitexe
+5	#DEP#org.jenkins-ci.plugins:plugin
+6	#DEP#org.sonatype.sisu:sisu-inject-plexus
+7	#DEP#com.google.code.maven-scm-provider-svnjava:maven-scm-provider-svnjava
+8	#DEP#org.powermock:powermock-api-mockito
+9	#DEP#org.jenkins-ci.main:maven-plugin
+10	#DEP#org.jenkins-ci.plugins:subversion
+11	#DEP#org.apache.maven.scm:maven-scm-manager-plexus

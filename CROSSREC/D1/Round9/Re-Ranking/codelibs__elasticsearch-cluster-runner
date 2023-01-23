@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#args4j:args4j	1.0
+#DEP#cglib:cglib	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.elasticsearch.client:rest	1.0
+#DEP#org.elasticsearch.plugin:lang-mustache-client	1.0

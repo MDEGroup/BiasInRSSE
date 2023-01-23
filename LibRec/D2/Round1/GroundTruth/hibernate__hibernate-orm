@@ -1,0 +1,6 @@
+1	#DEP#org.hibernate.build.gradle:hibernate-matrix-testing
+1	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#junit:junit
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#com.h2database:h2

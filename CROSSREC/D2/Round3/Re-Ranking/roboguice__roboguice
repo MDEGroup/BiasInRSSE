@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.sonatype.sisu.inject:guice-parent	1.0
+#DEP#org.sonatype.sisu.inject:cglib	1.0
+#DEP#org.sonatype.sisu.inject:extensions-parent	1.0
+#DEP#org.sonatype.sisu.inject:guice-jndi	1.0
+#DEP#org.sonatype.sisu.inject:guice-struts2	1.0
+#DEP#org.sonatype.sisu.inject:guice-assistedinject	1.0
+#DEP#org.sonatype.sisu.inject:guice-throwingproviders	1.0
+#DEP#org.sonatype.sisu.inject:guice-grapher	1.0
+#DEP#org.sonatype.sisu.inject:guice-dagger-adapter	1.0

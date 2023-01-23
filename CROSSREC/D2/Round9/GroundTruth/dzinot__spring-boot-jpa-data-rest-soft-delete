@@ -1,0 +1,8 @@
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-hateoas
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.fasterxml.jackson.module:jackson-module-parameter-names
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

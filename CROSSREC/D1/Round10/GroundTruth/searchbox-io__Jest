@@ -1,0 +1,6 @@
+27	#DEP#org.mockito:mockito-core
+28	#DEP#org.skyscreamer:jsonassert
+29	#DEP#org.hamcrest:hamcrest-all
+30	#DEP#org.elasticsearch.plugin:lang-mustache-client
+31	#DEP#org.apache.httpcomponents:httpcore-nio
+32	#DEP#junit:junit

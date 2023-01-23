@@ -1,0 +1,12 @@
+1	git://github.com/jenkinsci/github-oauth-plugin.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#org.jenkins-ci.plugins:mailer
+4	#DEP#org.jenkins-ci.plugins:plugin
+5	#DEP#org.jenkins-ci.plugins:github-branch-source
+6	#DEP#org.jenkins-ci.plugins:git
+7	#DEP#org.powermock:powermock-api-mockito
+8	#DEP#org.jenkins-ci.plugins:github-api
+9	#DEP#org.jenkins-ci.plugins:matrix-project
+10	#DEP#org.jenkins-ci.plugins.workflow:workflow-multibranch
+11	#DEP#junit:junit
+12	#DEP#org.jenkins-ci.plugins:external-monitor-job

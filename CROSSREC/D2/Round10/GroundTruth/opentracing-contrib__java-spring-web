@@ -1,0 +1,13 @@
+1	#DEP#io.opentracing.contrib:opentracing-web-servlet-filter
+1	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+1	#DEP#${project.groupId}:opentracing-spring-web
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#io.opentracing.contrib:opentracing-tracerresolver
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.awaitility:awaitility
+1	#DEP#io.opentracing:opentracing-noop
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework.boot:spring-boot-autoconfigure
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#${project.groupId}:opentracing-spring-web-itest-common
+1	#DEP#junit:junit

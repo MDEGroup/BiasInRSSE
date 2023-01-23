@@ -1,0 +1,9 @@
+1	#DEP#org.netbeans.api:org-openide-loaders
+1	#DEP#org.netbeans.api:org-openide-util-lookup
+1	#DEP#org.netbeans.api:org-openide-util
+1	#DEP#org.netbeans.api:org-netbeans-api-java-classpath
+1	#DEP#org.netbeans.api:org-netbeans-api-annotations-common
+1	#DEP#org.swinglabs:swing-layout
+1	#DEP#org.netbeans.api:org-openide-modules
+1	#DEP#log4j:log4j
+1	#DEP#de.cismet.commons:cismet-commons

@@ -1,0 +1,11 @@
+1	git://github.com/brendano/ark-tweet-nlp.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#com.twitter.common:text
+4	#DEP#org.apache.lucene:lucene-core
+5	#DEP#org.apache.commons:commons-math
+6	#DEP#org.hamcrest:hamcrest-all
+7	#DEP#com.twitter:twitter-text
+8	#DEP#com.google.guava:guava
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#junit:junit
+11	#DEP#commons-lang:commons-lang

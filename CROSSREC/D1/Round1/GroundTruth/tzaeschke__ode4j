@@ -1,0 +1,2 @@
+9	#DEP#${project.parent.groupId}:demo
+10	#DEP#org.slf4j:slf4j-jdk14

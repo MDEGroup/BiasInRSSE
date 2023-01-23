@@ -1,0 +1,17 @@
+#DEP#de.learnlib:learnlib-datastructure-list	1.0
+#DEP#de.learnlib:learnlib-membership-oracles	1.0
+#DEP#de.learnlib:learnlib-api	1.0
+#DEP#de.learnlib:learnlib-datastructure-ot	1.0
+#DEP#de.learnlib:learnlib-acex	1.0
+#DEP#de.learnlib.archetypes:learnlib-archetypes-parent	1.0
+#DEP#de.learnlib:learnlib-discrimination-tree-vpda	1.0
+#DEP#de.learnlib:learnlib-rpni	1.0
+#DEP#net.automatalib:automata-util	1.0
+#DEP#net.automatalib:automata-commons-smartcollections	1.0
+#DEP#de.learnlib.testsupport:learnlib-learning-examples	1.0
+#DEP#de.learnlib:learnlib-equivalence-oracles	1.0
+#DEP#de.learnlib:learnlib-drivers-simulator	1.0
+#DEP#net.automatalib:automata-commons-util	1.0
+#DEP#de.learnlib.distribution:learnlib-distribution	1.0
+#DEP#de.learnlib:learnlib-settings	1.0
+#DEP#de.learnlib:learnlib-commons	1.0

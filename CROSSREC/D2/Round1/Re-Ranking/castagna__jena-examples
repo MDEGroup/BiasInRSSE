@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.webjars:jslint	1.0
+#DEP#${project.groupId}:rhino	1.0
+#DEP#org.webjars:emberjs	1.0

@@ -1,0 +1,5 @@
+1	#DEP#org.jenkins-ci.plugins:cloudbees-folder
+1	#DEP#org.jenkins-ci.plugins:dashboard-view
+1	#DEP#org.netbeans.modules:org-netbeans-insane
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job

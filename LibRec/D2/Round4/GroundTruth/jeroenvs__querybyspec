@@ -1,0 +1,8 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#c3p0:c3p0
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.easymock:easymockclassextension
+1	#DEP#org.hibernate.java-persistence:jpa-api
+1	#DEP#org.springframework:spring-test
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit

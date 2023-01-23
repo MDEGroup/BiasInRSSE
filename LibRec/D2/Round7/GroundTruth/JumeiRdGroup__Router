@@ -1,0 +1,7 @@
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.github.yjfnypeu.Parceler:annotation
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.qihoo360.replugin:replugin-plugin-lib
+1	#DEP#com.android.support.test.espresso:espresso-core

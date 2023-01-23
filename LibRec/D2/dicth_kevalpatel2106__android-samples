@@ -1,0 +1,9 @@
+1	git://github.com/kevalpatel2106/android-samples.git
+2	#DEP#com.google.android.gms:play-services-contextmanager
+3	#DEP#com.squareup.picasso:picasso
+4	#DEP#com.google.android.support:wearable
+5	#DEP#com.google.android.wearable:wearable
+6	#DEP#com.google.android.gms:play-services-wearable
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

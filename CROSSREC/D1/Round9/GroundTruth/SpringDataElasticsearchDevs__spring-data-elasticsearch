@@ -1,0 +1,4 @@
+16	#DEP#org.hamcrest:hamcrest-all
+17	#DEP#junit:junit
+18	#DEP#org.springframework.data:spring-data-commons
+19	#DEP#cglib:cglib

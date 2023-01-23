@@ -1,0 +1,7 @@
+1	#DEP#org.pushing-pixels:trident
+1	#DEP#se.sics.kompics.basic:kompics-component-java-timer
+1	#DEP#org.scalatest:scalatest_2.9.0
+1	#DEP#commons-collections:commons-collections
+1	#DEP#jfree:jfreechart
+1	#DEP#xstream:xstream
+1	#DEP#se.sics.kompics.launcher:kompics-local-process-launcher

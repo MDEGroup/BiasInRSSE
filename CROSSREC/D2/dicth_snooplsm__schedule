@@ -1,0 +1,11 @@
+1	git://github.com/snooplsm/schedule.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#com.google.android:support-v4
+4	#DEP#com.google.android:android
+5	#DEP#com.pivotallabs:robolectric
+6	#DEP#org.codehaus.jackson:jackson-core-asl
+7	#DEP#com.actionbarsherlock:parent
+8	#DEP#junit:junit
+9	#DEP#org.xerial:sqlite-jdbc
+10	#DEP#com.google.code.gson:gson
+11	#DEP#org.codehaus.jackson:jackson-mapper-asl

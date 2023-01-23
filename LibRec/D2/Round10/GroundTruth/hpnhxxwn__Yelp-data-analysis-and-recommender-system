@@ -1,0 +1,16 @@
+1	#DEP#com.googlecode.json-simple:json-simple
+1	#DEP#com.baynote:kafka-hadoop-consumer
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.hbase:hbase-hadoop-compat
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.spark:spark-graphx_2.10
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.scribe:scribe
+1	#DEP#org.apache.spark:spark-streaming-kafka-0-8_2.11
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#com.netflix.suro:suro-kafka-producer
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.json:json
+1	#DEP#junit:junit

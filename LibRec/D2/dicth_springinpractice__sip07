@@ -1,0 +1,10 @@
+1	git://github.com/springinpractice/sip07.git
+2	#DEP#org.springframework.security:org.springframework.security.config
+3	#DEP#${project.groupId}:com.springinpractice.skin
+4	#DEP#org.springframework.security:org.springframework.security.web
+5	#DEP#org.springframework.security:org.springframework.security.taglibs
+6	#DEP#${project.groupId}:com.springinpractice.api
+7	#DEP#${project.groupId}:com.springinpractice.deps-web
+8	#DEP#org.springframework.security:org.springframework.security.core
+9	#DEP#com.springinpractice:com.springinpractice.top
+10	#DEP#${project.groupId}:com.springinpractice.deps-hibernate

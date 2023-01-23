@@ -1,0 +1,11 @@
+1	git://github.com/zhaoshiling1017/voyage.git
+2	#DEP#jaxen:jaxen
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#io.protostuff:protostuff-runtime
+5	#DEP#io.protostuff:protostuff-core
+6	#DEP#io.netty:netty
+7	#DEP#com.caucho:hessian
+8	#DEP#dom4j:dom4j
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12

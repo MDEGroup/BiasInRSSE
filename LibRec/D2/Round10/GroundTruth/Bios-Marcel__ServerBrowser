@@ -1,0 +1,4 @@
+1	#DEP#com.github.Bios-Marcel:TrayNotification
+1	#DEP#com.eclipsesource.minimal-json:minimal-json
+1	#DEP#org.kohsuke:github-api
+1	#DEP#org.xerial:sqlite-jdbc

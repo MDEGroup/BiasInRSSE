@@ -1,0 +1,7 @@
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit
+1	#DEP#org.ow2.osgi:test-resources
+1	#DEP#org.ow2.osgi:tests
+1	#DEP#org.ops4j.pax.exam:pax-exam
+1	#DEP#org.ow2.osgi:bundle-scanner-all
+1	#DEP#org.apache.felix:org.apache.felix.ipojo
+1	#DEP#org.osgi:org.osgi.core

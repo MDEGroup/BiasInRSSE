@@ -1,0 +1,10 @@
+1	git://github.com/baomidou/mybatisplus-spring-boot.git
+2	#DEP#com.baomidou:mybatis-plus-boot-starter
+3	#DEP#org.springframework.boot:spring-boot-starter-test
+4	#DEP#com.jayway.restassured:rest-assured
+5	#DEP#org.springframework.boot:spring-boot-starter-jetty
+6	#DEP#com.alibaba:fastjson
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.zaxxer:HikariCP-java7
+10	#DEP#com.h2database:h2

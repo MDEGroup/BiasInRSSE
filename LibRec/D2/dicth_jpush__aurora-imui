@@ -1,0 +1,14 @@
+1	git://github.com/jpush/aurora-imui.git
+2	#DEP#pub.devrel:easypermissions
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#org.greenrobot:eventbus
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.android.support:design
+8	#DEP#cn.jiguang.imui:chatinput
+9	#DEP#cn.jiguang.imui:messagelist
+10	#DEP#com.github.bumptech.glide:glide
+11	#DEP#com.android.support:support-v4
+12	#DEP#com.facebook.react:react-native
+13	#DEP#junit:junit
+14	#DEP#com.google.android:flexbox

@@ -1,0 +1,6 @@
+1	#DEP#io.github.bonigarcia:webdrivermanager
+1	#DEP#org.testng:testng
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-web

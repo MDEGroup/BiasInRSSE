@@ -1,0 +1,6 @@
+1	#DEP#de.learnlib:learnlib-simulator
+1	#DEP#de.learnlib:learnlib-core
+1	#DEP#de.learnlib:learnlib-cache
+1	#DEP#de.learnlib:learnlib-kearns-vazirani
+1	#DEP#de.learnlib:learnlib-lstar-generic
+1	#DEP#de.learnlib:learnlib-ttt

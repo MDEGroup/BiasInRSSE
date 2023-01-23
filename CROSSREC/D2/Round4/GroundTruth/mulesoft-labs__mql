@@ -1,0 +1,11 @@
+1	#DEP#org.mule.transports:mule-transport-vm
+1	#DEP#org.mule.modules:mule-module-yammer
+1	#DEP#org.mvel:mvel2
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#org.mule.mql:mql-mule
+1	#DEP#org.mule.modules:mule-module-spring-config
+1	#DEP#xerces:xercesImpl
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.mule.mql:mql-examples
+1	#DEP#org.mule.modules:mule-module-twitter
+1	#DEP#junit:junit

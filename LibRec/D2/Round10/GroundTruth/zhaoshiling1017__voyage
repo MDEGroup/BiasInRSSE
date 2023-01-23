@@ -1,0 +1,5 @@
+1	#DEP#com.caucho:hessian
+1	#DEP#dom4j:dom4j
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-log4j12

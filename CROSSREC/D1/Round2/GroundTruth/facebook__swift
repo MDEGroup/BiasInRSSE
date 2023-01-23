@@ -1,0 +1,15 @@
+64	#DEP#org.apache.httpcomponents:httpclient
+65	#DEP#org.eclipse.jetty:org.eclipse.jetty
+66	#DEP#org.openjdk.jmh:org.openjdk.jmh
+67	#DEP#org.apache.maven:maven-plugin-api
+68	#DEP#com.fasterxml.jackson.core:com.fasterxml.jackson.core
+69	#DEP#com.facebook.swift:swift-codec
+70	#DEP#org.easytesting:fest-assert
+71	#DEP#javax.servlet:javax.servlet-api
+72	#DEP#jp.skypencil.guava:helper
+73	#DEP#ch.qos.logback:logback-classic
+74	#DEP#com.facebook.swift:swift-test-utils
+75	#DEP#ch.qos.logback:ch.qos.logback
+76	#DEP#org.apache.maven:maven-artifact
+77	#DEP#cglib:cglib
+78	#DEP#com.google.inject.extensions:guice-multibindings

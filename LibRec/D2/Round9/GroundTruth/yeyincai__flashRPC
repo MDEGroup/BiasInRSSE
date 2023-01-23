@@ -1,0 +1,8 @@
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.guava:guava
+1	#DEP#com.yyc.flashRPC:serialize-protostuff
+1	#DEP#com.yyc.flashRPC:flashRPC
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core

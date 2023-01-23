@@ -1,0 +1,12 @@
+51	#DEP#org.pentaho:pentaho-hadoop-shims-cdh511-scope-client-assembly
+52	#DEP#org.pentaho:pentaho-hadoop-shims-cdh511-scope-pmr-assembly
+53	#DEP#org.apache.hbase:hbase-client
+54	#DEP#org.pentaho:pentaho-hadoop-shims-hdi35-hbase-comparators
+55	#DEP#org.pentaho:pentaho-hadoop-shims-common-shim
+56	#DEP#com.yammer.metrics:metrics-core
+57	#DEP#org.pentaho:pentaho-hadoop-shims-hdi35-scope-pmr-assembly
+58	#DEP#org.mockito:mockito-core
+59	#DEP#log4j:log4j
+60	#DEP#org.apache.hive:hive-jdbc
+61	#DEP#org.pentaho:pentaho-hadoop-shims-cdh511-hbase-comparators
+62	#DEP#org.pentaho:pentaho-hadoop-shims-mapr520-hbase-comparators

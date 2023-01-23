@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.apache.hadoop:hadoop-mapreduce-client-core	1.0
+#DEP#org.apache.hadoop:hadoop-yarn	1.0

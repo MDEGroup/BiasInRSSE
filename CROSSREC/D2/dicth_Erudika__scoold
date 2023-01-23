@@ -1,0 +1,10 @@
+1	git://github.com/Erudika/scoold.git
+2	#DEP#org.springframework.boot:spring-boot-starter-logging
+3	#DEP#org.springframework.boot:spring-boot-starter-mail
+4	#DEP#org.springframework.boot:spring-boot-starter-jetty
+5	#DEP#rome:rome
+6	#DEP#org.springframework.boot:spring-boot-starter-parent
+7	#DEP#junit:junit
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-velocity
+10	#DEP#com.erudika:para-client

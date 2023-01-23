@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.spoutcraft:spoutcraftplugin
+1	#DEP#net.milkbowl.vault:VaultAPI
+1	#DEP#com.dsh105:HoloAPI

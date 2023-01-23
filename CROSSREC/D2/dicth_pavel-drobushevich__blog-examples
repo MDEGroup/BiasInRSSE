@@ -1,0 +1,13 @@
+1	git://github.com/pavel-drobushevich/blog-examples.git
+2	#DEP#se.scalablesolutions.akka:akka-typed-actor
+3	#DEP#com.blogspot.pdrobushevich:pipeline
+4	#DEP#commons-io:commons-io
+5	#DEP#se.scalablesolutions.akka:akka-actor
+6	#DEP#org.mockito:mockito-all
+7	#DEP#commons-lang:commons-lang
+8	#DEP#com.google.inject:guice
+9	#DEP#jline:jline
+10	#DEP#log4j:log4j
+11	#DEP#com.google.guava:guava
+12	#DEP#junit:junit
+13	#DEP#com.google.inject.extensions:guice-multibindings

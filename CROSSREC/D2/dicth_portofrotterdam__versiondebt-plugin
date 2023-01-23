@@ -1,0 +1,11 @@
+1	git://github.com/portofrotterdam/versiondebt-plugin.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#org.sonarsource.sonarqube:sonar-plugin-api
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.thoughtworks.xstream:xstream
+6	#DEP#org.apache.maven:maven-project
+7	#DEP#com.portofrotterdam:versiondebt-shared
+8	#DEP#junit:junit
+9	#DEP#com.portofrotterdam:versiondebt
+10	#DEP#org.apache.maven:maven-plugin-api
+11	#DEP#joda-time:joda-time

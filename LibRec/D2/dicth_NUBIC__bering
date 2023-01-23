@@ -1,0 +1,10 @@
+1	git://github.com/NUBIC/bering.git
+2	#DEP#org.hibernate:hibernate
+3	#DEP#org.springframework:spring
+4	#DEP#commons-io:commons-io
+5	#DEP#${groupId}:bering-core
+6	#DEP#commons-logging:commons-logging
+7	#DEP#hsqldb:hsqldb
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#commons-lang:commons-lang
+10	#DEP#groovy:groovy

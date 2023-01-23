@@ -1,0 +1,6 @@
+1	#DEP#org.seleniumhq.selenium:selenium-server
+1	#DEP#com.opera:operadriver
+1	#DEP#org.robotframework:robotframework
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#io.selendroid:selendroid-client
+1	#DEP#org.aspectj:aspectjrt

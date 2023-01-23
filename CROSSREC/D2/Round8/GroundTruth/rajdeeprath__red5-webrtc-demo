@@ -1,0 +1,8 @@
+1	#DEP#org.red5:websocket
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.mina:mina-core
+1	#DEP#net.minidev:json-smart
+1	#DEP#org.apache.mina:mina-parent

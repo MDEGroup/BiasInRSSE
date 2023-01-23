@@ -1,0 +1,9 @@
+1	git://github.com/heuer/cassa.git
+2	#DEP#org.slf4j:jcl-over-slf4j
+3	#DEP#com.sun.jersey:jersey-servlet
+4	#DEP#com.sun.jersey:jersey-core
+5	#DEP#org.tinytim:tinytim
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.slf4j:slf4j-jdk14
+9	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,5 @@
+20	#DEP#jfree:jfreechart
+21	#DEP#chardet:chardet
+22	#DEP#xerces:xercesImpl
+23	#DEP#org.bouncycastle:bcpkix-jdk15on
+24	#DEP#junit:junit

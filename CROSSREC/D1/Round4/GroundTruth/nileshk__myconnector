@@ -1,0 +1,9 @@
+38	#DEP#log4j:log4j
+39	#DEP#org.codehaus.xfire:xfire-all
+40	#DEP#commons-collections:commons-collections
+41	#DEP#commons-fileupload:commons-fileupload
+42	#DEP#com.sun.xml.bind:jaxb-impl
+43	#DEP#commons-digester:commons-digester
+44	#DEP#asm:asm-attrs
+45	#DEP#aopalliance:aopalliance
+46	#DEP#junit:junit

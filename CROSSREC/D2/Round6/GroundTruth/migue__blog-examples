@@ -1,0 +1,7 @@
+1	#DEP#com.github.migue.osgi:metrics-core
+1	#DEP#org.apache.tomcat:tomcat-catalina-ant
+1	#DEP#org.eclipse.jdt.core.compiler:ecj
+1	#DEP#org.apache.tomcat:tomcat-jasper
+1	#DEP#junit:junit
+1	#DEP#org.apache.felix:org.apache.felix.scr
+1	#DEP#org.aspectj:aspectjrt

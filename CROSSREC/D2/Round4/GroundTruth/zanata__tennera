@@ -1,0 +1,7 @@
+1	#DEP#org.fedorahosted.tennera:jgettext
+1	#DEP#org.infinitest:infinitest
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.fedorahosted.openprops:openprops
+1	#DEP#org.apache.ant:ant-testutil
+1	#DEP#junit:junit
+1	#DEP#org.fedorahosted.tennera:webgettext

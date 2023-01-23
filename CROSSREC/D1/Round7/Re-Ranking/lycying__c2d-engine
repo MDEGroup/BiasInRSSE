@@ -1,0 +1,10 @@
+#DEP#com.google.android:android	1.0
+#DEP#com.google.gwt:gwt-servlet	1.0
+#DEP#com.badlogicgames.gdx:gdx-backend-android	1.0
+#DEP#com.badlogicgames.gdx:gdx	1.0
+#DEP#com.badlogicgames.gdx:gdx-backend-gwt	1.0
+#DEP#com.google.gwt:gwt-user	1.0
+#DEP#org.ode4j:parent	1.0
+#DEP#com.binarytweed:quarantining-test-runner	1.0
+#DEP#net.peakgames.libgdx:stagebuilder-core	1.0
+#DEP#net.peakgames.libgdx:stagebuilder-extensions	1.0

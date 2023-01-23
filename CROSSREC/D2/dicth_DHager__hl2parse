@@ -1,0 +1,13 @@
+1	git://github.com/DHager/hl2parse.git
+2	#DEP#com.technofovea:hl2parse
+3	#DEP#com.technofovea:hl2parse-tests
+4	#DEP#com.technofovea:hl2parse-common
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#commons-jxpath:commons-jxpath
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#log4j:log4j
+9	#DEP#com.technofovea:hl2parse-binary
+10	#DEP#com.sun.xml.bind:jaxb-impl
+11	#DEP#org.antlr:antlr-runtime
+12	#DEP#junit:junit
+13	#DEP#com.technofovea:hl2parse-parsers

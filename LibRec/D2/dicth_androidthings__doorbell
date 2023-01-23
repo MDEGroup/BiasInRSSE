@@ -1,0 +1,11 @@
+1	git://github.com/androidthings/doorbell.git
+2	#DEP#com.google.api-client:google-api-client-android
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.google.apis:google-api-services-vision
+5	#DEP#com.google.http-client:google-http-client-gson
+6	#DEP#com.google.firebase:firebase-database
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.google.android.things.contrib:driver-button
+9	#DEP#com.google.android.things:androidthings
+10	#DEP#com.google.firebase:firebase-core
+11	#DEP#com.firebaseui:firebase-ui-database

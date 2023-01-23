@@ -1,0 +1,8 @@
+33	#DEP#com.rosaloves:bitlyj
+34	#DEP#ch.qos.logback:logback-classic
+35	#DEP#org.brickred:socialauth-filter
+36	#DEP#commons-collections:commons-collections
+37	#DEP#io.dropwizard:dropwizard-assets
+38	#DEP#org.webjars:jquery
+39	#DEP#org.mongodb.morphia:morphia
+40	#DEP#io.dropwizard:dropwizard-core

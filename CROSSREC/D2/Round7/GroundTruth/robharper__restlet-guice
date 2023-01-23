@@ -1,0 +1,4 @@
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.restlet.jee:org.restlet.ext.servlet
+1	#DEP#com.google.inject.extensions:guice-multibindings
+1	#DEP#org.eclipse.jetty:jetty-servlet

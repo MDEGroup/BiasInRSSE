@@ -1,0 +1,10 @@
+#DEP#javassist:javassist	1.0
+#DEP#org.jboss.microcontainer:jboss-kernel	1.0
+#DEP#org.hibernate:hibernate-entitymanager	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.jboss.ejb3:jboss-ejb3-proxy-clustered	1.0
+#DEP#org.jboss.aop:jboss-aop-aspects	1.0
+#DEP#org.jboss:jboss-reflect	1.0
+#DEP#org.jboss.bootstrap:jboss-bootstrap	1.0
+#DEP#org.jboss.jbossas:jboss-as-system-jmx	1.0
+#DEP#org.jboss.aspects:jboss-remoting-aspects	1.0

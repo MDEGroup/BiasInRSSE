@@ -1,0 +1,7 @@
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#log4j:log4j
+1	#DEP#org.deeplearning4j:deeplearning4j-nlp
+1	#DEP#org.ansj:ansj_seg
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jblas:jblas
+1	#DEP#junit:junit

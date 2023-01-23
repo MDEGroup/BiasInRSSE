@@ -1,0 +1,5 @@
+1	#DEP#com.relevantcodes:extentreports
+1	#DEP#org.testng:testng
+1	#DEP#org.apache.maven.surefire:common-java5
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#org.apache.logging.log4j:log4j-api

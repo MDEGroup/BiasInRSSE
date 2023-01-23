@@ -1,0 +1,5 @@
+1	#DEP#com.twitter:twitter-text
+1	#DEP#com.google.guava:guava
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang

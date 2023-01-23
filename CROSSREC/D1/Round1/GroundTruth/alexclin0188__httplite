@@ -1,0 +1,4 @@
+17	#DEP#alexclin.httplite:httplite
+18	#DEP#javax.servlet:servlet-api
+19	#DEP#alexclin.httplite:httplite-url
+20	#DEP#commons-fileupload:commons-fileupload

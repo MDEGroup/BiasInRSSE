@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.json:json	1.0
+#DEP#org.apache.curator:curator-test	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#jline:jline	1.0
+#DEP#org.cloudname:cn-core	1.0
+#DEP#org.cloudname:flags	1.0
+#DEP#org.cloudname:log	1.0
+#DEP#org.cloudname:cn-service	1.0

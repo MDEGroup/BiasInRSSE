@@ -1,0 +1,7 @@
+1	#DEP#org.geoserver:wms
+1	#DEP#org.geoserver.web:web-app
+1	#DEP#org.geoserver:main
+1	#DEP#net.sourceforge.jwebunit:jwebunit-core
+1	#DEP#junit:junit
+1	#DEP#it.geobeyond:ows-geoavalanche
+1	#DEP#it.geobeyond:geoavalanche

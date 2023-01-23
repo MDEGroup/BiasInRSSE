@@ -1,0 +1,14 @@
+1	git://github.com/ameizi/solrj-example.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#us.codecraft:webmagic-extension
+4	#DEP#us.codecraft:webmagic-selenium
+5	#DEP#us.codecraft:webmagic-core
+6	#DEP#org.springframework:spring-jdbc
+7	#DEP#org.seleniumhq.selenium:selenium-java
+8	#DEP#org.springframework:spring-context-support
+9	#DEP#org.springframework:spring-test
+10	#DEP#javax.servlet:javax.servlet-api
+11	#DEP#org.springframework:spring-webmvc
+12	#DEP#javax.servlet:jstl
+13	#DEP#junit:junit
+14	#DEP#org.apache.solr:solr-solrj

@@ -1,0 +1,4 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#com.h2database:h2

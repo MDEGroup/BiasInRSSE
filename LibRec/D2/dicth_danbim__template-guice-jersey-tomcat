@@ -1,0 +1,12 @@
+1	git://github.com/danbim/template-guice-jersey-tomcat.git
+2	#DEP#com.sun.jersey:jersey-json
+3	#DEP#javax.servlet.jsp:jsp-api
+4	#DEP#com.google.inject:guice
+5	#DEP#org.codehaus.jackson:jackson-core-asl
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#com.google.inject.extensions:guice-servlet
+8	#DEP#org.codehaus.jackson:jackson-jaxrs
+9	#DEP#com.sun.jersey.contribs:jersey-guice
+10	#DEP#org.codehaus.jackson:jackson-mapper-asl
+11	#DEP#junit:junit
+12	#DEP#com.sun.jersey:jersey-server

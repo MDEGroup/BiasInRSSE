@@ -1,0 +1,9 @@
+1	git://github.com/lcodecorex/TwinklingRefreshLayout.git
+2	#DEP#com.github.moduth:blockcanary-android
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.squareup.leakcanary:leakcanary-android
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife

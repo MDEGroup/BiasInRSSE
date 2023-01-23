@@ -1,0 +1,10 @@
+#DEP#org.apache.avro:avro	1.0
+#DEP#org.apache.hadoop:hadoop-mapreduce-client-core	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.apache.hadoop:hadoop-client	1.0
+#DEP#org.apache.parquet:parquet-avro	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.parquet:parquet-hadoop	1.0

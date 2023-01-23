@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-test
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:jstl
+1	#DEP#junit:junit
+1	#DEP#org.apache.solr:solr-solrj

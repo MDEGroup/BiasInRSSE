@@ -1,0 +1,8 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#commons-pool:commons-pool
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.derby:derbyclient
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.beust:jcommander
+1	#DEP#com.h2database:h2

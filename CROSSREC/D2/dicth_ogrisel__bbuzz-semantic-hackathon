@@ -1,0 +1,11 @@
+1	git://github.com/ogrisel/bbuzz-semantic-hackathon.git
+2	#DEP#com.googlecode.json-simple:json-simple
+3	#DEP#commons-io:commons-io
+4	#DEP#jline:jline
+5	#DEP#log4j:log4j
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#com.google.guava:guava
+8	#DEP#org.apache.opennlp:opennlp-tools
+9	#DEP#junit:junit
+10	#DEP#com.sun.jersey:jersey-server
+11	#DEP#commons-lang:commons-lang

@@ -1,0 +1,9 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.github.bohnman:squiggly-filter-jackson
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#io.dropwizard:dropwizard-core
+1	#DEP#com.h2database:h2
+1	#DEP#org.antlr:antlr4-runtime

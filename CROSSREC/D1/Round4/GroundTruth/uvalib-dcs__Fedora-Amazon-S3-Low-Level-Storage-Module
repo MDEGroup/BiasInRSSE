@@ -1,0 +1,4 @@
+18	#DEP#org.fcrepo:berkeley-db
+19	#DEP#javax.servlet:servlet-api
+20	#DEP#org.fcrepo:mulgara-core
+21	#DEP#org.fcrepo:xmldb-exist

@@ -1,0 +1,3 @@
+12	#DEP#org.jmock:jmock
+13	#DEP#org.jmock:jmock-legacy
+14	#DEP#junit:junit

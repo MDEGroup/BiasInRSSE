@@ -1,0 +1,7 @@
+1	#DEP#javax.mail:mail
+1	#DEP#org.hudsonci.plugins:maven-plugin
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#org.eclipse.hudson.plugins:hudson-plugin-parent
+1	#DEP#junit:junit

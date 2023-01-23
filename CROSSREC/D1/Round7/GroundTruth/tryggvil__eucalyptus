@@ -1,0 +1,10 @@
+44	#DEP#org.apache.axis2:axis2-kernel
+45	#DEP#org.mortbay.jetty:jetty-gwt
+46	#DEP#org.apache.ws.commons.axiom:axiom-dom
+47	#DEP#org.jibx:jibx-run
+48	#DEP#org.mortbay.jetty:jetty-sslengine
+49	#DEP#com.google.gwt:gwt-servlet
+50	#DEP#org.apache.ws.commons.axiom:axiom-impl
+51	#DEP#log4j:log4j
+52	#DEP#bouncycastle:bcprov-jdk16
+53	#DEP#org.apache.rampart:rampart-core

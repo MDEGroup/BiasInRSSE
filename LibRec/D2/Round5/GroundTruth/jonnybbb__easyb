@@ -1,0 +1,13 @@
+1	#DEP#org.apache.ant:ant
+1	#DEP#hsqldb:hsqldb
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.intellij.idea:extensions
+1	#DEP#trove:trove
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#jdom:jdom
+1	#DEP#junit:junit
+1	#DEP#dbunit:dbunit
+1	#DEP#com.intellij.idea:Groovy
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#org.codehaus.groovy:groovy-all-minimal

@@ -1,0 +1,10 @@
+#DEP#sc.fiji:VIB_	1.0
+#DEP#sc.fiji:weave_jy2java	1.0
+#DEP#sc.fiji:Fiji_Package_Maker	1.0
+#DEP#sc.fiji:Statistical_Region_Merging	1.0
+#DEP#sc.fiji:register_virtual_stack_slices	1.0
+#DEP#sc.fiji:Stack_Manipulation	1.0
+#DEP#sc.fiji:Directionality_	1.0
+#DEP#org.scijava:scijava-config	1.0
+#DEP#sc.fiji:trakem2_tps	1.0
+#DEP#sc.fiji:trakem2-transform	1.0

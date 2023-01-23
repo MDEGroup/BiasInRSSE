@@ -1,0 +1,9 @@
+1	#DEP#com.intellij:annotations
+1	#DEP#cglib:cglib-nodep
+1	#DEP#hu.kazocsaba:image-viewer
+1	#DEP#org.mockito:mockito-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.fifesoft:rsyntaxtextarea
+1	#DEP#junit:junit
+1	#DEP#com.beust:jcommander
+1	#DEP#org.smali:baksmali

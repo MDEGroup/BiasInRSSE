@@ -1,0 +1,16 @@
+1	git://github.com/michael-simons/java-oembed.git
+2	#DEP#net.sf.ehcache:ehcache-core
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#commons-beanutils:commons-beanutils
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.jsoup:jsoup
+11	#DEP#org.slf4j:jcl-over-slf4j
+12	#DEP#com.fasterxml.jackson.module:jackson-module-jaxb-annotations
+13	#DEP#org.mockito:mockito-core
+14	#DEP#org.hamcrest:hamcrest-all
+15	#DEP#org.apache.httpcomponents:httpcore
+16	#DEP#junit:junit

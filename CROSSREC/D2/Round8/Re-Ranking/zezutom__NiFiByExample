@@ -1,0 +1,10 @@
+#DEP#org.reflections:reflections	1.0
+#DEP#org.springframework.boot:spring-boot-actuator	1.0
+#DEP#org.springframework.boot:spring-boot-starter-actuator	1.0
+#DEP#com.sun.mail:javax.mail	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#io.cereebro:cereebro-server-spring-boot-starter	1.0
+#DEP#io.cereebro:cereebro-core	1.0
+#DEP#com.github.florent37:picassopalette	1.0
+#DEP#io.cereebro:cereebro-spring	1.0
+#DEP#com.qiniu.pili:pili-android-qos	1.0

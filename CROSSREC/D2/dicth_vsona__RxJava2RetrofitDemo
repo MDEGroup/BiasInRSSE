@@ -1,0 +1,16 @@
+1	git://github.com/vsona/RxJava2RetrofitDemo.git
+2	#DEP#com.jude:easyrecyclerview
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.tbruyelle.rxpermissions2:rxpermissions
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.afollestad.material-dialogs:commons
+11	#DEP#com.squareup.okhttp3:logging-interceptor
+12	#DEP#com.zhy:autolayout
+13	#DEP#zlc.season:rxdownload2
+14	#DEP#com.squareup.retrofit2:retrofit
+15	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+16	#DEP#junit:junit

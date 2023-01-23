@@ -1,0 +1,17 @@
+1	git://github.com/mulesoft-labs/mule-module-activiti-examples.git
+2	#DEP#org.activiti:activiti-mule
+3	#DEP#org.mule.modules:mule-module-sfdc
+4	#DEP#org.activiti:activiti-engine
+5	#DEP#org.mule.ibeans:twitter-ibean
+6	#DEP#org.mule.tests:mule-tests-functional
+7	#DEP#org.mule.modules:mule-module-ibeans
+8	#DEP#org.mule.modules:mule-module-atom
+9	#DEP#org.ibeans:ibeans-support
+10	#DEP#org.mule.modules:mule-module-client
+11	#DEP#org.springframework:spring-jdbc
+12	#DEP#org.mule.modules:mule-module-activiti
+13	#DEP#org.mule.modules:mule-module-scripting
+14	#DEP#org.mule.transports:mule-transport-jms
+15	#DEP#org.activiti:activiti-cxf
+16	#DEP#org.apache.activemq:activemq-core
+17	#DEP#com.h2database:h2

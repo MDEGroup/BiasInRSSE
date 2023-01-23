@@ -1,0 +1,5 @@
+1	#DEP#org.littleshoot:mina-port
+1	#DEP#org.littleshoot:util
+1	#DEP#org.littleshoot:parent
+1	#DEP#org.littleshoot:jlibtorrent
+1	#DEP#org.littleshoot:udt

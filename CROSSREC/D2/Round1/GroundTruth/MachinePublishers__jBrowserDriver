@@ -1,0 +1,5 @@
+1	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.google.guava:guava
+1	#DEP#org.seleniumhq.selenium:selenium-api
+1	#DEP#org.zeroturnaround:zt-process

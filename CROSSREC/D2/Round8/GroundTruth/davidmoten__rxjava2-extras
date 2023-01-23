@@ -1,0 +1,7 @@
+1	#DEP#log4j:log4j
+1	#DEP#io.reactivex:rxjava-string
+1	#DEP#com.google.guava:guava
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#org.openjdk.jmh:jmh-core

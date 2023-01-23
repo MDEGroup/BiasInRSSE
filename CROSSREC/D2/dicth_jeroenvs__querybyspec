@@ -1,0 +1,17 @@
+1	git://github.com/jeroenvs/querybyspec.git
+2	#DEP#nl.mad:root-pom
+3	#DEP#org.hibernate:hibernate-entitymanager
+4	#DEP#javassist:javassist
+5	#DEP#hsqldb:hsqldb
+6	#DEP#org.springframework:spring-orm
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.springframework:spring-tx
+9	#DEP#org.springframework:spring-core
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#c3p0:c3p0
+12	#DEP#commons-lang:commons-lang
+13	#DEP#org.easymock:easymockclassextension
+14	#DEP#org.hibernate.java-persistence:jpa-api
+15	#DEP#org.springframework:spring-test
+16	#DEP#commons-collections:commons-collections
+17	#DEP#junit:junit

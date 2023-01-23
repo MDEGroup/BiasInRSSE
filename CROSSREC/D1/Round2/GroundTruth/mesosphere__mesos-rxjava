@@ -1,0 +1,4 @@
+19	#DEP#com.google.guava:guava
+20	#DEP#junit:junit
+21	#DEP#io.reactivex:rxjava
+22	#DEP#org.apache.mesos:mesos

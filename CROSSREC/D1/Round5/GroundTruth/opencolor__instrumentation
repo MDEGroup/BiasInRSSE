@@ -1,0 +1,3 @@
+13	#DEP#org.netbeans.api:org-openide-compat
+14	#DEP#org.osgi:osgi_R4_compendium
+15	#DEP#junit:junit

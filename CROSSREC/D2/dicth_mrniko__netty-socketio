@@ -1,0 +1,17 @@
+1	git://github.com/mrniko/netty-socketio.git
+2	#DEP#io.netty:netty-codec-http
+3	#DEP#io.netty:netty-transport-native-epoll
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.springframework:spring-beans
+6	#DEP#com.hazelcast:hazelcast-client
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#io.netty:netty-codec
+9	#DEP#org.springframework:spring-core
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#io.netty:netty-transport
+12	#DEP#io.netty:netty-handler
+13	#DEP#io.netty:netty-buffer
+14	#DEP#org.redisson:redisson
+15	#DEP#io.netty:netty-common
+16	#DEP#org.jmockit:jmockit
+17	#DEP#junit:junit

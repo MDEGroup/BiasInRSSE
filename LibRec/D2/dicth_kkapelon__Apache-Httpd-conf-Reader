@@ -1,0 +1,9 @@
+1	git://github.com/kkapelon/Apache-Httpd-conf-Reader.git
+2	#DEP#cglib:cglib-nodep
+3	#DEP#commons-io:commons-io
+4	#DEP#ch.qos.logback:logback-core
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.spockframework:spock-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#junit:junit
+9	#DEP#commons-lang:commons-lang

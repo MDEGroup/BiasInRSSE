@@ -1,0 +1,5 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#jfree:jfreechart
+1	#DEP#org.apache.incubator:hama
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.apache.hadoop:zookeeper

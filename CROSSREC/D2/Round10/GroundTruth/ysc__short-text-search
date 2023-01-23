@@ -1,0 +1,5 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#javax:javaee-web-api
+1	#DEP#junit:junit
+1	#DEP#com.belerweb:pinyin4j

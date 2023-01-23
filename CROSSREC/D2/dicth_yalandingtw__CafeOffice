@@ -1,0 +1,11 @@
+1	git://github.com/yalandingtw/CafeOffice.git
+2	#DEP#com.github.nitrico.lastadapter:lastadapter
+3	#DEP#com.getbase:floatingactionbutton
+4	#DEP#com.google.android.gms:play-services-location
+5	#DEP#com.squareup.picasso:picasso
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#com.google.android.gms:play-services-maps
+8	#DEP#biz.kasual:materialnumberpicker
+9	#DEP#junit:junit
+10	#DEP#com.grasea:grandroid-mvp-framework
+11	#DEP#com.jakewharton:butterknife

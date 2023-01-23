@@ -1,0 +1,11 @@
+1	#DEP#org.osgi:org.osgi.compendium
+1	#DEP#javax.activation:activation
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.jboss.spec.javax.xml.bind:jboss-jaxb-api_2.2_spec
+1	#DEP#org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec
+1	#DEP#org.kie:kie-archetypes
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#org.kie:kie-api-parent
+1	#DEP#junit:junit
+1	#DEP#org.drools:drools-bom
+1	#DEP#org.osgi:org.osgi.core

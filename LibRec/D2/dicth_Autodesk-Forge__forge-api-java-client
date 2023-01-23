@@ -1,0 +1,16 @@
+1	git://github.com/Autodesk-Forge/forge-api-java-client.git
+2	#DEP#com.brsanthu:migbase64
+3	#DEP#com.googlecode.json-simple:json-simple
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.sun.jersey.contribs:jersey-multipart
+10	#DEP#joda-time:joda-time
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations
+12	#DEP#com.fasterxml.jackson.core:jackson-core
+13	#DEP#org.json:json
+14	#DEP#io.swagger:swagger-annotations
+15	#DEP#junit:junit
+16	#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider

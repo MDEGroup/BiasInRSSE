@@ -1,0 +1,6 @@
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit
+1	#DEP#org.jsoup:jsoup
+1	#DEP#at.yawk.mdep:mdep-loader
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.ow2.asm:asm-analysis
+1	#DEP#org.projectlombok:lombok

@@ -1,0 +1,9 @@
+1	#DEP#javax.transaction:jta
+1	#DEP#org.hibernate:hibernate-testing
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+1	#DEP#org.jboss.naming:jnpserver
+1	#DEP#junit:junit
+1	#DEP#org.jboss.naming:jnp-client

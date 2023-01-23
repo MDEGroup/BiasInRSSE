@@ -1,0 +1,5 @@
+1	#DEP#interactivebroker:jtsclient
+1	#DEP#com.google.collections:google-collections
+1	#DEP#aopalliance:aopalliance
+1	#DEP#org.guiceyfruit:guiceyfruit-core
+1	#DEP#com.google.code.guice:guice

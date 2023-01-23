@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.squareup.picasso:picasso	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.github.bumptech.glide:glide	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.github.VictorAlbertos:RxActivityResult	1.0

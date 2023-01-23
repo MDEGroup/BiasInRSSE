@@ -1,0 +1,16 @@
+1	git://github.com/sheepmen/Spring-Boot-Blog.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#org.xerial:sqlite-jdbc
+6	#DEP#joda-time:joda-time
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.springframework.boot:spring-boot-starter-velocity
+10	#DEP#org.jetbrains:annotations
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#net.sf.ehcache:ehcache
+13	#DEP#org.springframework.boot:spring-boot-devtools
+14	#DEP#com.enigmabridge:hibernate4-sqlite-dialect
+15	#DEP#org.projectlombok:lombok
+16	#DEP#org.springframework.boot:spring-boot-starter-aop

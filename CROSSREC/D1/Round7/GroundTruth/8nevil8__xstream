@@ -1,0 +1,6 @@
+27	#DEP#org.codehaus.woodstox:wstx-asl
+28	#DEP#xml-apis:xml-apis
+29	#DEP#dom4j:dom4j
+30	#DEP#com.megginson.sax:xml-writer
+31	#DEP#${project.groupId}:xstream-hibernate
+32	#DEP#xerces:xercesImpl

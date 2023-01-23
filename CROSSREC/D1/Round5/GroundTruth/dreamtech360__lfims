@@ -1,0 +1,10 @@
+41	#DEP#com.dreamtech360.lfims:LFIMS-ourAdvocateMaster-service
+42	#DEP#com.dreamtech360.lfims:LFIMS-TransactionManager-Service
+43	#DEP#com.dreamtech360.lfims:LFIMS-expensesMaster-model-api
+44	#DEP#org.codehaus.jackson:jackson-xc
+45	#DEP#org.codehaus.jackson:jackson-jaxrs
+46	#DEP#com.dreamtech360.lfims:LFIMS-bankMaster-model-api
+47	#DEP#com.dreamtech360.lfims.libs:ehcache-core
+48	#DEP#org.codehaus.jackson:jackson-core-asl
+49	#DEP#com.dreamtech360.lfims:LFIMS-courtMaster-service
+50	#DEP#com.dreamtech360.lfims:LFIMS-caseMgmtMaintenance-model-impl

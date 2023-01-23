@@ -1,0 +1,16 @@
+1	#DEP#com.bedatadriven.rebar:rebar-sql
+1	#DEP#com.kitfox.svg:svg-salamander
+1	#DEP#javax.validation:validation-api
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#javax.persistence:persistence-api
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.google.closure-stylesheets:closure-stylesheets
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#net.sf.jsqlparser:jsqlparser
+1	#DEP#com.github.tntim96:JSCover
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#org.doubletype:doubletype

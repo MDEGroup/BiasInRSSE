@@ -1,0 +1,13 @@
+1	git://github.com/oracle/opengrok.git
+2	#DEP#org.apache.lucene:lucene-analyzers-common
+3	#DEP#org.apache.lucene:lucene-suggest
+4	#DEP#org.apache.ant:ant
+5	#DEP#org.apache.lucene:lucene-core
+6	#DEP#com.googlecode.json-simple:json-simple
+7	#DEP#org.apache.lucene:lucene-queryparser
+8	#DEP#org.opensolaris.opengrok:jrcs
+9	#DEP#${project.groupId}:opengrok-indexer
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#junit:junit
+12	#DEP#org.apache.bcel:bcel
+13	#DEP#org.opensolaris.opengrok:opengrok

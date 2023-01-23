@@ -1,0 +1,10 @@
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#junit:junit	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.google.code.findbugs:jsr305	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#com.github.sirixdb.sirix:sirix-core	1.0
+#DEP#sonatype:controlP5	1.0
+#DEP#org.perfidix:perfidix	1.0

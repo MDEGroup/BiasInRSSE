@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#com.puppycrawl.tools:checkstyle
+1	#DEP#org.jacoco:org.jacoco.ant
+1	#DEP#ant-contrib:ant-contrib
+1	#DEP#junit:junit
+1	#DEP#info.novatec.ita:stereotype.check.plugin
+1	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc

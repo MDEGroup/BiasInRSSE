@@ -1,0 +1,9 @@
+1	git://github.com/rtyley/toy-android-ssh-agent.git
+2	#DEP#net.schmizz:sshj
+3	#DEP#org.slf4j:slf4j-nop
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#com.madgag:scprov-jdk15
+6	#DEP#org.sonatype.oss:oss-parent
+7	#DEP#com.google.android:android
+8	#DEP#com.madgag:ssh-android
+9	#DEP#junit:junit

@@ -1,0 +1,9 @@
+1	git://github.com/hferentschik/ogm-demo.git
+2	#DEP#${project.groupId}:hibernate-testing
+3	#DEP#org.jboss.jbossts:jbossjta
+4	#DEP#${project.groupId}:hibernate-entitymanager
+5	#DEP#org.hibernate:hibernate-search
+6	#DEP#org.hibernate.ogm:hibernate-ogm-core
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#com.h2database:h2
+9	#DEP#p6spy:p6spy

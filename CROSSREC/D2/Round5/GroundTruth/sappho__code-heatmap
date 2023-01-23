@@ -1,0 +1,17 @@
+1	#DEP#net.sf.oval:oval
+1	#DEP#com.gwtplatform:gwtp-dispatch-client
+1	#DEP#uk.org.sappho.code.heatmap:code-heatmap-engine
+1	#DEP#uk.org.sappho.code.heatmap:code-heatmap-processor
+1	#DEP#${project.groupId}:code-heatmap-subversion
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#uk.org.sappho.code.heatmap:code-heatmap-scm
+1	#DEP#${project.groupId}:code-heatmap-jira
+1	#DEP#uk.org.sappho.pom:sappho
+1	#DEP#org.tmatesoft.svnkit:svnkit-javahl
+1	#DEP#uk.org.sappho.configuration:sappho-configuration
+1	#DEP#com.google.inject:guice
+1	#DEP#log4j:log4j
+1	#DEP#uk.org.sappho.jira4j.soap:jira4j-soap
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.gwtplatform:gwtp-dispatch-server
+1	#DEP#com.googlecode.lambdaj:lambdaj

@@ -1,0 +1,3 @@
+16	#DEP#javax.jmdns:jmdns
+17	#DEP#junit:junit
+18	#DEP#com.joanzapata.android:android-iconify

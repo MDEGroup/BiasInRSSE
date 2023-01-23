@@ -1,0 +1,10 @@
+#DEP#commons-discovery:commons-discovery	1.0
+#DEP#org.apache.axis:axis-jaxrpc	1.0
+#DEP#org.apache.axis:axis	1.0
+#DEP#junit:junit	1.0
+#DEP#net.sf.json-lib:json-lib	1.0
+#DEP#org.apache.axis:axis-saaj	1.0
+#DEP#com.newrelic.agent.java:newrelic-java	1.0
+#DEP#org.opensaml:xmltooling	1.0
+#DEP#com.opensymphony:xwork	1.0
+#DEP#org.apache.derby:derby-project	1.0

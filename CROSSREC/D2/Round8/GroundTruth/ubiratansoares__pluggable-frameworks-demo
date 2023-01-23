@@ -1,0 +1,5 @@
+1	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+1	#DEP#com.jakewharton.threetenabp:threetenabp
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#com.google.dagger:dagger

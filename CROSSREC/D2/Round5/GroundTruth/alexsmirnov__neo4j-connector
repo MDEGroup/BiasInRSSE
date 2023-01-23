@@ -1,0 +1,12 @@
+1	#DEP#org.neo4j:neo4j-lucene-index
+1	#DEP#org.neo4j:neo4j-graph-matching
+1	#DEP#com.netoprise:neo4j-connector-parent
+1	#DEP#org.neo4j:neo4j
+1	#DEP#org.jboss.as:jboss-as-arquillian-container-remote
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#com.netoprise:neo4j-connector-api
+1	#DEP#org.neo4j:neo4j-kernel
+1	#DEP#org.jboss.ironjacamar:ironjacamar-spec-api
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.neo4j:neo4j-graph-algo
+1	#DEP#junit:junit

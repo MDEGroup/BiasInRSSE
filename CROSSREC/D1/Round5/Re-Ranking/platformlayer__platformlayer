@@ -1,0 +1,10 @@
+#DEP#com.sun.jersey:jersey-server	1.0
+#DEP#junit:junit	1.0
+#DEP#com.sun.jersey.contribs:jersey-spring	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.slf4j:jul-to-slf4j	1.0
+#DEP#org.schemarepo:schema-repo-avro	1.0
+#DEP#org.schemarepo:schema-repo-common	1.0
+#DEP#com.sun.jersey.contribs:jersey-freemarker	1.0
+#DEP#org.schemarepo:schema-repo-client	1.0

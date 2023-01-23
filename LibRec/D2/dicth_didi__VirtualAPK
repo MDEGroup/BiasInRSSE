@@ -1,0 +1,11 @@
+1	git://github.com/didi/VirtualAPK.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.javassist:javassist
+4	#DEP#com.android.support:support-annotations
+5	#DEP#commons-io:commons-io
+6	#DEP#com.google.guava:guava
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.didi.virtualapk:core
+10	#DEP#com.android.tools.build:gradle
+11	#DEP#org.ow2.asm:asm

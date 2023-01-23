@@ -1,0 +1,12 @@
+1	git://github.com/arcbit/arcbit-android.git
+2	#DEP#info.guardianproject.netcipher:netcipher
+3	#DEP#org.bitcoinj:bitcoinj-core
+4	#DEP#commons-io:commons-io
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.android.support:multidex
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.json:json
+10	#DEP#com.neovisionaries:nv-websocket-client
+11	#DEP#fr.avianey.com.viewpagerindicator:library
+12	#DEP#junit:junit

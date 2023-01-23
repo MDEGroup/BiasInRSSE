@@ -1,0 +1,17 @@
+1	#DEP#wsdl4j:wsdl4j
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+1	#DEP#org.springframework.ws:spring-ws-core
+1	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+1	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+1	#DEP#com.google.code.gson:gson
+1	#DEP#joda-time:joda-time
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-ws
+1	#DEP#io.zipkin.java:zipkin-server
+1	#DEP#org.springframework.cloud:spring-cloud-starter-sleuth
+1	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard
+1	#DEP#org.springframework.cloud:spring-cloud-config-server
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2
+1	#DEP#org.kbastani:legacy-applications

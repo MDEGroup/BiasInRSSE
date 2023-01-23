@@ -1,0 +1,16 @@
+1	#DEP#javax.jcr:jcr
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.sling:org.apache.sling.jcr.jcr-wrapper
+1	#DEP#org.osgi:org.osgi.service.metatype.annotations
+1	#DEP#org.osgi:org.osgi.service.component.annotations
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.apache.felix:org.apache.felix.scr.annotations
+1	#DEP#junit-addons:junit-addons
+1	#DEP#com.adobe.examples:htl
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#com.adobe.cq:core.wcm.components.core
+1	#DEP#junit:junit
+1	#DEP#com.adobe.examples:htl.core
+1	#DEP#org.apache.felix:org.apache.felix.scr

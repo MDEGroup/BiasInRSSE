@@ -1,0 +1,17 @@
+1	#DEP#org.apache.maven:maven-parent
+1	#DEP#org.apache.maven.resolver:maven-resolver-transport-file
+1	#DEP#org.eclipse.sisu:org.eclipse.sisu.plexus
+1	#DEP#org.eclipse.jetty:jetty-servlet
+1	#DEP#javax.inject:javax.inject
+1	#DEP#org.apache.maven.resolver:maven-resolver-util
+1	#DEP#org.apache.maven.resolver:maven-resolver-api
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.maven.resolver:maven-resolver-demos
+1	#DEP#org.apache.maven.resolver:maven-resolver-test-util
+1	#DEP#org.apache.maven.wagon:wagon-provider-api
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.apache.maven:maven-resolver-provider
+1	#DEP#org.apache.maven.resolver:maven-resolver-connector-basic
+1	#DEP#org.eclipse.jetty:jetty-util
+1	#DEP#junit:junit

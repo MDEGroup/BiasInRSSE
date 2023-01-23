@@ -1,0 +1,11 @@
+1	git://github.com/florent37/Freezer.git
+2	#DEP#com.facebook.stetho:stetho
+3	#DEP#org.assertj:assertj-core
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#pl.pragmatists:JUnitParams
+6	#DEP#com.google.testing.compile:compile-testing
+7	#DEP#com.squareup:javapoet
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.google.auto.service:auto-service
+10	#DEP#junit:junit
+11	#DEP#com.google.truth:truth

@@ -1,0 +1,8 @@
+1	#DEP#org.apache.activemq:artemis-jms-server
+1	#DEP#org.springframework.boot:spring-boot-starter-amqp
+1	#DEP#org.springframework:spring-jms
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.springframework.boot:spring-boot-starter-artemis
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.apache.activemq:activemq-core

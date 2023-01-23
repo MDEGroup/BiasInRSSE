@@ -1,0 +1,7 @@
+1	#DEP#javax.servlet.jsp:jsp-api
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

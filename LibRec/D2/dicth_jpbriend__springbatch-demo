@@ -1,0 +1,14 @@
+1	git://github.com/jpbriend/springbatch-demo.git
+2	#DEP#org.hibernate:hibernate-validator
+3	#DEP#org.hibernate:hibernate-entitymanager
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.hibernate:hibernate-annotations
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#org.springframework.batch:spring-batch-core
+8	#DEP#org.springframework:spring-orm
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#c3p0:c3p0
+11	#DEP#org.hibernate:hibernate-core
+12	#DEP#com.excilys.utils:spring-log
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#com.h2database:h2

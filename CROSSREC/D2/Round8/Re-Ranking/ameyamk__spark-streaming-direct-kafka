@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.spark:spark-sql_2.10	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.datastax.spark:spark-cassandra-connector_2.10	1.0
+#DEP#org.elasticsearch:elasticsearch-hadoop-mr	1.0
+#DEP#org.elasticsearch:elasticsearch-spark_2.10	1.0
+#DEP#com.datastax.spark:spark-cassandra-connector-java_2.10	1.0
+#DEP#org.apache.spark:spark-hive_2.10	1.0

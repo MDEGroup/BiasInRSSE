@@ -1,0 +1,8 @@
+33	#DEP#org.springframework:spring-web
+34	#DEP#org.slf4j:jcl-over-slf4j
+35	#DEP#commons-pool:commons-pool
+36	#DEP#log4j:log4j
+37	#DEP#javax.servlet:servlet-api
+38	#DEP#commons-fileupload:commons-fileupload
+39	#DEP#junit:junit
+40	#DEP#org.aspectj:aspectjrt

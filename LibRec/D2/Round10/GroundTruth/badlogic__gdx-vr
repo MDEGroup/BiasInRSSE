@@ -1,0 +1,5 @@
+1	#DEP#org.lwjgl:lwjgl-jemalloc
+1	#DEP#com.badlogicgames.gdx:gdx
+1	#DEP#org.lwjgl:lwjgl-openvr
+1	#DEP#org.lwjgl:lwjgl
+1	#DEP#org.lwjgl:lwjgl-openal

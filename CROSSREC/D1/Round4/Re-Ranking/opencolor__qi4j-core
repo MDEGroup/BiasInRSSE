@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#ch.qos.logback:logback-core	1.0
+#DEP#org.jmock:jmock	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#ch.qos.logback.contrib:logback-json-classic	1.0
+#DEP#jetty:org.mortbay.jetty	1.0

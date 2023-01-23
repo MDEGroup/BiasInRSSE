@@ -1,0 +1,9 @@
+1	git://github.com/xinpengfei520/P2P.git
+2	#DEP#pub.devrel:easypermissions
+3	#DEP#com.youth.banner:banner
+4	#DEP#com.squareup.picasso:picasso
+5	#DEP#com.google.android:android
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.jakewharton:butterknife

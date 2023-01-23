@@ -1,0 +1,3 @@
+14	#DEP#org.slf4j:slf4j-jdk14
+15	#DEP#org.eclipse.jetty:jetty-servlet
+16	#DEP#org.eclipse.jetty:jetty-websocket

@@ -1,0 +1,10 @@
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#org.roboguice:roboguice	1.0
+#DEP#com.j256.ormlite:ormlite-android	1.0
+#DEP#${project.groupId}:library	1.0
+#DEP#${project.groupId}:universal-image-loader	1.0
+#DEP#com.octo.android.robospice:robospice-ormlite	1.0
+#DEP#${project.groupId}:extra-viewpager	1.0
+#DEP#${project.groupId}:extra-listfragment	1.0

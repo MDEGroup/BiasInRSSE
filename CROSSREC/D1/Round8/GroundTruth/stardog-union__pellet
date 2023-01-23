@@ -1,0 +1,6 @@
+26	#DEP#org.slf4j:jcl-over-slf4j
+27	#DEP#log4j:log4j
+28	#DEP#xerces:xercesImpl
+29	#DEP#${project.groupId}:pellet-core
+30	#DEP#junit:junit
+31	#DEP#${project.groupId}:pellet-test

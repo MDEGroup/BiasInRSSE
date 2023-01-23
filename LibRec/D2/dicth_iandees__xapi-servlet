@@ -1,0 +1,12 @@
+1	git://github.com/iandees/xapi-servlet.git
+2	#DEP#org.openstreetmap.osmosis:json
+3	#DEP#org.postgis:postgis-jdbc
+4	#DEP#org.openstreetmap.osmosis:xml
+5	#DEP#org.openstreetmap.osmosis:pgsnapshot
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#org.openstreetmap.osmosis:core
+8	#DEP#org.openstreetmap.osmosis:hstore-jdbc
+9	#DEP#org.testng:testng
+10	#DEP#commons-dbcp:commons-dbcp
+11	#DEP#org.springframework:spring-jdbc
+12	#DEP#postgresql:postgresql

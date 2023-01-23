@@ -1,0 +1,4 @@
+1	#DEP#org.springframework.hateoas:spring-hateoas
+1	#DEP#org.springframework.boot:spring-boot-starter-validation
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

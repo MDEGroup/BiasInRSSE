@@ -1,0 +1,8 @@
+34	#DEP#asm:asm
+35	#DEP#${project.groupId}:test-utils
+36	#DEP#org.reddwarfserver.server:sgs-shared
+37	#DEP#org.mockito:mockito-core
+38	#DEP#ch.qos.logback:logback-classic
+39	#DEP#${project.groupId}:dimdwarf-aop
+40	#DEP#net.orfjackal.dimdwarf:dimdwarf-api
+41	#DEP#com.google.inject.extensions:guice-multibindings

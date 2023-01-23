@@ -1,0 +1,10 @@
+#DEP#org.netbeans.api:org-openide-util	1.0
+#DEP#org.netbeans.api:org-openide-filesystems	1.0
+#DEP#org.netbeans.api:org-openide-util-lookup	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-options-api	1.0
+#DEP#junit:junit	1.0
+#DEP#com.traxel.lumbermill:lumbermill-color	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-parsing-api	1.0
+#DEP#de.cismet.commons:cismet-commons	1.0
+#DEP#de.cismet:cismet-parent	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-project-ant	1.0

@@ -1,0 +1,17 @@
+1	git://github.com/AzimoLabs/Review-Reporter.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.squareup.retrofit2:converter-scalars
+5	#DEP#com.squareup.okhttp3:okhttp
+6	#DEP#org.hamcrest:hamcrest-library
+7	#DEP#org.hamcrest:hamcrest-integration
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#org.hamcrest:hamcrest-core
+10	#DEP#com.google.dagger:dagger-compiler
+11	#DEP#com.google.apis:google-api-services-androidpublisher
+12	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+13	#DEP#com.squareup.okhttp3:logging-interceptor
+14	#DEP#org.mockito:mockito-core
+15	#DEP#com.squareup.retrofit2:retrofit
+16	#DEP#junit:junit
+17	#DEP#io.reactivex:rxjava

@@ -1,0 +1,4 @@
+20	#DEP#junit:junit
+21	#DEP#io.reactivex:rxjava
+22	#DEP#io.reactivex:rxandroid
+23	#DEP#net.steamcrafted:materialiconlib

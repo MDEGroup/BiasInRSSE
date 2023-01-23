@@ -1,0 +1,14 @@
+1	git://github.com/itm/netty-protocols.git
+2	#DEP#de.uniluebeck.itm.util:logging
+3	#DEP#de.uniluebeck.itm.util:util
+4	#DEP#io.netty:netty
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.mockito:mockito-all
+7	#DEP#de.uniluebeck.itm.util:files
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.simpleframework:simple-xml
+10	#DEP#com.google.inject:guice
+11	#DEP#com.coalesenses:ieee-802.15.4-aes
+12	#DEP#com.google.guava:guava
+13	#DEP#junit:junit
+14	#DEP#com.google.inject.extensions:guice-multibindings

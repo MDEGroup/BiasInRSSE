@@ -1,0 +1,9 @@
+1	git://github.com/jankronquist/AirportWeather.git
+2	#DEP#org.apache.camel:camel-spring-ws
+3	#DEP#org.apache.camel:camel-juel
+4	#DEP#org.apache.camel:camel-xstream
+5	#DEP#org.mockito:mockito-core
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.apache.camel:camel-velocity
+8	#DEP#junit:junit
+9	#DEP#org.apache.camel:camel-test

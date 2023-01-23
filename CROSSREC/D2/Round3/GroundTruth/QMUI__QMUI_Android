@@ -1,0 +1,5 @@
+1	#DEP#com.jakewharton:butterknife-compiler
+1	#DEP#com.squareup:javapoet
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.qmuiteam:arch

@@ -1,0 +1,2 @@
+9	#DEP#org.elasticsearch:elasticsearch
+10	#DEP#com.google.protobuf:protobuf-java

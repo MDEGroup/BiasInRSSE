@@ -1,0 +1,11 @@
+1	#DEP#io.grpc:grpc-stub
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.truth:truth
+1	#DEP#io.grpc:grpc-protobuf-nano
+1	#DEP#org.mockito:mockito-core
+1	#DEP#io.grpc:grpc-testing
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.google.android.gms:play-services-base
+1	#DEP#com.android.support.test:runner
+1	#DEP#io.grpc:grpc-protobuf-lite

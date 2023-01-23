@@ -1,0 +1,14 @@
+1	git://github.com/gec/reef-example-apps.git
+2	#DEP#org.slf4j:slf4j-simple
+3	#DEP#org.totalgrid.reef.examples:basic-proto-service-client
+4	#DEP#org.apache.felix:org.osgi.core
+5	#DEP#org.totalgrid.reef.examples:protocol-library
+6	#DEP#org.totalgrid.reef:reef-client
+7	#DEP#org.totalgrid.reef.examples:evented-proto-service-client
+8	#DEP#org.totalgrid.reef:reef-service-client
+9	#DEP#org.totalgrid.reef.examples:evented-proto-service-impl
+10	#DEP#org.totalgrid.reef.examples:basic-proto-service-impl
+11	#DEP#org.totalgrid.reef:reef-standalone-fep
+12	#DEP#org.totalgrid.reef:reef-protocol-api
+13	#DEP#org.eclipse.jetty:jetty-server
+14	#DEP#junit:junit

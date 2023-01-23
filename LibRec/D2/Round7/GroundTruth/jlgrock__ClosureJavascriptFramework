@@ -1,0 +1,15 @@
+1	#DEP#com.github.jlgrock.javascript-framework:maven-javascript-framework-plugins
+1	#DEP#org.apache.maven.shared:maven-invoker
+1	#DEP#org.apache.maven:maven-archiver
+1	#DEP#org.apache.maven.plugins:maven-plugin-plugin
+1	#DEP#org.apache.maven.reporting:maven-reporting-api
+1	#DEP#com.github.jlgrock.javascript-framework:maven-utils
+1	#DEP#org.apache.maven.doxia:doxia-sink-api
+1	#DEP#com.github.jlgrock.javascript-framework:closure-testing-library
+1	#DEP#org.apache.maven.plugins:maven-assembly-plugin
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.google.javascript:closure-compiler
+1	#DEP#rhino:js
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-artifact

@@ -1,0 +1,9 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.eclipse.jdt.core.compiler:ecj
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#jline:jline
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#org.grails:grails-bootstrap
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.aether:aether-api

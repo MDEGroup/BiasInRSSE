@@ -1,0 +1,5 @@
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.slf4j:slf4j-jdk14

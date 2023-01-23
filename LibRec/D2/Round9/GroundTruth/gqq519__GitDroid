@@ -1,0 +1,10 @@
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.daimajia.androidanimations:library
+1	#DEP#in.srain.cube:ptr-load-more
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.j256.ormlite:ormlite-core
+1	#DEP#com.daimajia.easing:library

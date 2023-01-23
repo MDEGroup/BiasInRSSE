@@ -1,0 +1,11 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.jspare.vertx:vertx-jspare-cdi
+1	#DEP#org.jspare:jspare-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#com.xebia:jackson-lombok
+1	#DEP#org.jspare:jspare-unit
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#com.fasterxml.jackson.module:jackson-module-parameter-names
+1	#DEP#io.vertx:vertx-unit

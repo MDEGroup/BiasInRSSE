@@ -1,0 +1,5 @@
+21	#DEP#log4j:log4j
+22	#DEP#org.codehaus.groovy:groovy
+23	#DEP#org.json:json
+24	#DEP#junit:junit
+25	#DEP#commons-validator:commons-validator

@@ -1,0 +1,9 @@
+1	#DEP#org.apache.struts:struts2-core
+1	#DEP#org.apache.struts:struts2-convention-plugin
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#org.eclipse.jetty:jetty-jaas
+1	#DEP#org.apache.commons:commons-dbcp2
+1	#DEP#com.google.zxing:core
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#com.h2database:h2

@@ -1,0 +1,2 @@
+11	#DEP#com.bazaarvoice.jolt:json-utils
+12	#DEP#com.fasterxml.jackson.core:jackson-databind

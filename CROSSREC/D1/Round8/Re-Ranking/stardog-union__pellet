@@ -1,0 +1,10 @@
+#DEP#org.apache.jena:jena-core	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#org.codehaus.jackson:jackson-core-asl	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.aksw.jena-sparql-api:jena-sparql-api-cache-h2	1.0
+#DEP#org.dbpedia.data:redirects	1.0
+#DEP#org.aksw.jena-sparql-api:jena-sparql-api-core	1.0
+#DEP#org.aksw.rdfunit:rdfunit-core	1.0
+#DEP#org.aksw.rdfunit:rdfunit-io	1.0

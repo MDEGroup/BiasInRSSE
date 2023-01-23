@@ -1,0 +1,6 @@
+1	#DEP#com.stehno.vanilla:vanilla-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#com.burgstaller:okhttp-digest
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.asciidoctor:asciidoclet

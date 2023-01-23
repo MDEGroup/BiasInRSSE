@@ -1,0 +1,9 @@
+1	#DEP#com.googlecode.wicketelements:wicket-elements-library
+1	#DEP#org.apache.wicket:wicket-auth-roles
+1	#DEP#com.googlecode.wicketelements:wicket-elements-security
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#org.apache.shiro:shiro-web

@@ -1,0 +1,7 @@
+1	#DEP#org.eclipse.persistence:javax.persistence
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.persistence:org.eclipse.persistence.core
+1	#DEP#org.hsqldb:hsqldb

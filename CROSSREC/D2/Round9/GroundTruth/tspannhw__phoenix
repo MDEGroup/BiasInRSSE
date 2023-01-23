@@ -1,0 +1,6 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.springframework.boot:spring-boot-starter-social-twitter
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

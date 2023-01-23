@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb-reactive
+1	#DEP#io.projectreactor.addons:reactor-test
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot.experimental:spring-boot-starter-web-reactive
+1	#DEP#pl.piomin.services:sample-spring-reactive

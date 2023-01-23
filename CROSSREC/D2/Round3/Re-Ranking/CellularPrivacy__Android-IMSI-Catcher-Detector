@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.squareup.okhttp3:okhttp	1.0
+#DEP#com.jakewharton:butterknife-compiler	1.0
+#DEP#com.github.hyb1996:EnhancedFloaty	1.0
+#DEP#com.github.Raizlabs.DBFlow:dbflow-processor	1.0

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#jfree:jfreechart	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.jgoodies:forms	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#net.javazoom:mp3spi	1.0

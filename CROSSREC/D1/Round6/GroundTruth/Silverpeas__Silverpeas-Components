@@ -1,0 +1,4 @@
+20	#DEP#org.silverpeas.components.forums:silverpeas-forums
+21	#DEP#org.silverpeas.components.blog:silverpeas-blog
+22	#DEP#${project.groupId}:silverpeas-classifieds
+23	#DEP#org.silverpeas.components.almanach:silverpeas-almanach

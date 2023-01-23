@@ -1,0 +1,13 @@
+1	git://github.com/beku8/spring-session-sso.git
+2	#DEP#net.sourceforge.nekohtml:nekohtml
+3	#DEP#org.springframework.session:spring-session
+4	#DEP#org.thymeleaf.extras:thymeleaf-extras-springsecurity4
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+7	#DEP#org.springframework.boot:spring-boot-configuration-processor
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-security
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+12	#DEP#com.nomadays:sso
+13	#DEP#org.springframework.boot:spring-boot-devtools

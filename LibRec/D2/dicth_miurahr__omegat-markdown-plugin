@@ -1,0 +1,9 @@
+1	git://github.com/miurahr/omegat-markdown-plugin.git
+2	#DEP#org.omegat:omegat
+3	#DEP#org.pegdown:pegdown
+4	#DEP#commons-io:commons-io
+5	#DEP#org.slf4j:slf4j-nop
+6	#DEP#org.testng:testng
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.alibaba:fastjson
+9	#DEP#commons-lang:commons-lang

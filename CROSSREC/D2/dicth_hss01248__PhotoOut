@@ -1,0 +1,11 @@
+1	git://github.com/hss01248/PhotoOut.git
+2	#DEP#com.github.hss01248.PhotoPicker:picker
+3	#DEP#com.github.hss01248:AdvancedLuban
+4	#DEP#com.mylhyl:acp
+5	#DEP#com.elvishew:xlog
+6	#DEP#com.github.hss01248.PhotoPicker:glide
+7	#DEP#com.github.hss01248.PhotoPicker:fresco
+8	#DEP#com.github.hss01248.PhotoPicker:picasso
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.jakewharton:butterknife

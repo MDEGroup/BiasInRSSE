@@ -1,0 +1,12 @@
+1	git://github.com/omnifaces/optimusfaces.git
+2	#DEP#org.jboss.arquillian.graphene:graphene-webdriver
+3	#DEP#org.hibernate:hibernate-core
+4	#DEP#org.omnifaces:omnifaces
+5	#DEP#org.jboss.arquillian.selenium:selenium-bom
+6	#DEP#org.omnifaces:omnipersistence
+7	#DEP#org.primefaces:primefaces
+8	#DEP#org.jboss.arquillian:arquillian-bom
+9	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+10	#DEP#javax:javaee-web-api
+11	#DEP#junit:junit
+12	#DEP#org.jboss.arquillian.extension:arquillian-drone-bom

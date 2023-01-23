@@ -1,0 +1,12 @@
+1	git://github.com/gslovemy/RxJavaRetrofitOkhttpMvp.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.squareup.okhttp3:logging-interceptor
+5	#DEP#com.squareup.retrofit2:retrofit
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.android.support:design
+9	#DEP#com.squareup.retrofit2:converter-gson
+10	#DEP#io.reactivex:rxjava
+11	#DEP#io.reactivex:rxandroid
+12	#DEP#com.squareup.retrofit2:retrofit-converters

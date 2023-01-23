@@ -1,0 +1,10 @@
+1	git://github.com/mulesoft-attic/mule-module-datapack.git
+2	#DEP#mockobjects:mockobjects-core
+3	#DEP#org.mule.modules:mule-module-scripting
+4	#DEP#commons-beanutils:commons-beanutils-core
+5	#DEP#org.mule.tests:mule-tests-functional
+6	#DEP#org.mule.modules:mule-module-spring-config
+7	#DEP#org.mule:mule-core
+8	#DEP#org.mule.modules:mule-module-client
+9	#DEP#junit:junit
+10	#DEP#org.mule.transports:mule-transport-vm

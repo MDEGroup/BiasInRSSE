@@ -1,0 +1,6 @@
+1	#DEP#org.springmodules:spring-modules-jakarta-commons
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework:spring-core
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.h2database:h2

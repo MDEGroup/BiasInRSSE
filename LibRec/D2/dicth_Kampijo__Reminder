@@ -1,0 +1,9 @@
+1	git://github.com/Kampijo/Reminder.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.github.clans:fab
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.bignerdranch.android:recyclerview-multiselect

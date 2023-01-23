@@ -1,0 +1,10 @@
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#cn.jiguang.sdk:jpush
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.android.support:multidex
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.github.Lauzy:LBehavior
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+1	#DEP#io.reactivex:rxandroid

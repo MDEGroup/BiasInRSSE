@@ -1,0 +1,11 @@
+1	#DEP#com.googlecode.playn:playn-core
+1	#DEP#${project.groupId}:atlantis-server
+1	#DEP#postgresql:postgresql
+1	#DEP#com.google.guava:guava-gwt
+1	#DEP#com.threerings.samsara:samsara-app-nexus
+1	#DEP#com.threerings.nexus:nexus-gwt-server
+1	#DEP#com.googlecode.playn:playn-html
+1	#DEP#com.google.guava:guava
+1	#DEP#allen_sauer:gwt-log
+1	#DEP#com.googlecode.playn:playn-java
+1	#DEP#junit:junit

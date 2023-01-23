@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.lucene:lucene-queryparser	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.github.tulskiy:jkeymaster	1.0
+#DEP#com.sangupta:jopensurf	1.0
+#DEP#nu.pattern:opencv	1.0

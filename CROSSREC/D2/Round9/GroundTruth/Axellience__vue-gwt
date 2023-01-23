@@ -1,0 +1,10 @@
+1	#DEP#com.axellience:vue-gwt-generators
+1	#DEP#com.github.javaparser:javaparser-core
+1	#DEP#com.axellience:vue-gwt-parent
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.google.gwt:gwt
+1	#DEP#com.axellience:vue-gwt-processors
+1	#DEP#com.google.gwt:gwt-dev
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.coveo:nashorn-commonjs-modules

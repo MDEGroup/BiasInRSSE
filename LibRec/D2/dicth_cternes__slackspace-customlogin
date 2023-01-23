@@ -1,0 +1,14 @@
+1	git://github.com/cternes/slackspace-customlogin.git
+2	#DEP#javax.faces:jsf-api
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.springframework.security:spring-security-taglibs
+5	#DEP#org.springframework.security:spring-security-web
+6	#DEP#org.springframework.security:spring-security-core
+7	#DEP#com.sun.faces:jsf-impl
+8	#DEP#org.springframework:spring-test
+9	#DEP#org.springframework:spring-webmvc
+10	#DEP#org.springframework.security:spring-security-acl
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#javax.servlet:jstl
+13	#DEP#org.springframework.security:spring-security-config
+14	#DEP#junit:junit

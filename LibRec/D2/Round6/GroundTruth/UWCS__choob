@@ -1,0 +1,12 @@
+1	#DEP#asm:asm-all
+1	#DEP#joda-time:joda-time
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.mozilla:rhino
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.guava:guava
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#us.codecraft:xsoup
+1	#DEP#junit:junit
+1	#DEP#net.sf.jazzy:jazzy
+1	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,13 @@
+1	#DEP#io.netty:netty-codec-http
+1	#DEP#com.squareup.okhttp3.sample:sample-parent
+1	#DEP#com.squareup.moshi:moshi
+1	#DEP#com.google.android:android
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#com.squareup.okhttp3:mockwebserver
+1	#DEP#${project.groupId}:mockwebserver
+1	#DEP#org.jsoup:jsoup
+1	#DEP#io.netty:netty-handler
+1	#DEP#${project.groupId}:okhttp-urlconnection
+1	#DEP#${project.groupId}:okhttp
+1	#DEP#junit:junit
+1	#DEP#org.codehaus.mojo:animal-sniffer-annotations

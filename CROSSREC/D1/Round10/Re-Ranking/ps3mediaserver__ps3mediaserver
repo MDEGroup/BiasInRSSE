@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#jfree:jfreechart	1.0
+#DEP#com.jgoodies:jgoodies-forms	1.0
+#DEP#org.drugis:common-gui	1.0
+#DEP#com.jidesoft:jide-oss	1.0
+#DEP#com.jgoodies:jgoodies-binding	1.0
+#DEP#org.drugis:common-lib	1.0
+#DEP#${pom.groupId}:lib	1.0
+#DEP#org.drugis:common-test	1.0

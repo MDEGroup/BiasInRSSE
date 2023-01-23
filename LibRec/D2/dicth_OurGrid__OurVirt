@@ -1,0 +1,13 @@
+1	git://github.com/OurGrid/OurVirt.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#commons-io:commons-io
+4	#DEP#org.bouncycastle:bcprov-jdk15on
+5	#DEP#org.fusesource:sigar
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.code.gson:gson
+8	#DEP#alfresco:alfresco
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#net.schmizz:sshj
+11	#DEP#log4j:log4j
+12	#DEP#org.bouncycastle:bcpkix-jdk15on
+13	#DEP#vboxjxpcom:vboxjxpcom

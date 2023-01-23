@@ -1,0 +1,11 @@
+1	git://github.com/hudson/maven-hpi-plugin.git
+2	#DEP#org.apache.maven:maven-archiver
+3	#DEP#org.mortbay.jetty:maven-jetty-plugin
+4	#DEP#org.apache.maven.plugins:maven-archetype-plugin
+5	#DEP#org.codehaus.plexus:plexus-utils
+6	#DEP#org.codehaus.plexus:plexus-interactivity-api
+7	#DEP#org.jvnet.hudson:hudson-parent
+8	#DEP#org.kohsuke.stapler:maven-stapler-plugin
+9	#DEP#org.apache.maven:maven-plugin-api
+10	#DEP#org.jvnet.hudson.plugins:hudson-plugin-parent
+11	#DEP#org.apache.maven:maven-artifact

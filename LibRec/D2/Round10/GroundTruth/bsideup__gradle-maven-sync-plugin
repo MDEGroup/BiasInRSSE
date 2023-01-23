@@ -1,0 +1,4 @@
+1	#DEP#org.projectlombok:lombok
+1	#DEP#info.cukes:cucumber-java
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-model

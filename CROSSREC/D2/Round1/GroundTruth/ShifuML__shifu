@@ -1,0 +1,13 @@
+1	#DEP#org.powermock:powermock-module-testng
+1	#DEP#org.jpmml:pmml-evaluator
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#joda-time:joda-time
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#com.clearspring.analytics:stream
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#com.twitter:parquet-pig
+1	#DEP#com.typesafe.akka:akka-actor_2.10

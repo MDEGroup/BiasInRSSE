@@ -1,0 +1,10 @@
+1	git://github.com/diguachaoren/RxLearn.git
+2	#DEP#com.jakewharton:butterknife-compiler
+3	#DEP#com.android.support.constraint:constraint-layout
+4	#DEP#io.reactivex:rxjava-joins
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#io.reactivex:rxjava-math
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

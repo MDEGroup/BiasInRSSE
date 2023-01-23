@@ -1,0 +1,15 @@
+63	#DEP#org.osgi:osgi_R4_core
+64	#DEP#org.objectweb.asm:com.springsource.org.objectweb.asm.tree
+65	#DEP#org.milyn:milyn-smooks-yaml
+66	#DEP#org.milyn:milyn-edisax-parser
+67	#DEP#org.jibx:jibx-run
+68	#DEP#org.antlr:com.springsource.antlr
+69	#DEP#org.milyn:milyn-smooks-rules
+70	#DEP#org.milyn:antrunner
+71	#DEP#org.jboss.shrinkwrap:shrinkwrap-api
+72	#DEP#org.codehaus.jackson:jackson-core-lgpl
+73	#DEP#org.apache.maven:maven-plugin-api
+74	#DEP#org.milyn:milyn-scribe-ibatis
+75	#DEP#xerces:xercesImpl
+76	#DEP#javax.servlet:servlet-api
+77	#DEP#org.osgi:osgi_R4_compendium

@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#org.fengfei:lanproxy
+1	#DEP#org.fengfei:proxy-common
+1	#DEP#org.slf4j:slf4j-log4j12

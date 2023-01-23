@@ -1,0 +1,12 @@
+1	git://github.com/stephenh/tessell.git
+2	#DEP#org.apache.maven.wagon:wagon-ssh
+3	#DEP#joist:joist-util
+4	#DEP#commons-io:commons-io
+5	#DEP#junit:junit-dep
+6	#DEP#com.bizo:dtonator
+7	#DEP#org.hamcrest:hamcrest-all
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.tessell:tessell-apt
+10	#DEP#org.hamcrest:hamcrest-core
+11	#DEP#commons-lang:commons-lang
+12	#DEP#com.google.guava:guava-gwt

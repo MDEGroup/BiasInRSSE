@@ -1,0 +1,7 @@
+1	#DEP#org.ow2.asm:asm
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.ow2.asm:asm-debug-all
+1	#DEP#junit:junit
+1	#DEP#org.jgrapht:jgrapht-core

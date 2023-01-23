@@ -1,0 +1,17 @@
+1	#DEP#org.gosu-lang.gosu.managed:gw-jetty-util
+1	#DEP#org.gosu-lang.gosu:gosu-test-api
+1	#DEP#org.gosu-lang.gosu:gosu-launcher-impl
+1	#DEP#org.gosu-lang.gosu.managed:gw-commons-logging
+1	#DEP#com.jetbrains.intellij.platform:sdk
+1	#DEP#org.gosu-lang.gosu:gosu-servlet
+1	#DEP#org.gosu-lang.gosu:ij-compiler-api
+1	#DEP#org.gosu-lang.gosu.managed:gw-commons-cli
+1	#DEP#org.gosu-lang.gosu:gosu-itcase-utils
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#org.gosu-lang.gosu:gosu-xml
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.gosu-lang.gosu:gosu-interactive
+1	#DEP#org.gosu-lang.gosu.managed:gw-asm-util
+1	#DEP#org.gosu-lang.gosu:gosu-launcher-aether
+1	#DEP#org.apache.bcel:bcel

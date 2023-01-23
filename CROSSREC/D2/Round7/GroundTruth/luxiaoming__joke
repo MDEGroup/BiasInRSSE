@@ -1,0 +1,6 @@
+1	#DEP#com.xm.core:core
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#javax.annotation:javax.annotation-api
+1	#DEP#com.android.support:design
+1	#DEP#com.liuguangqiang.support:utils
+1	#DEP#com.google.dagger:dagger

@@ -1,0 +1,14 @@
+1	git://github.com/AnyRTC/anyRTC-RTMPC-Android.git
+2	#DEP#com.yanzhenjie:permission
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jaredrummler:material-spinner
+5	#DEP#com.gyf.barlibrary:barlibrary
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#org.anyrtc:rtmpc_hybrid
+8	#DEP#com.orhanobut:logger
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design
+11	#DEP#com.jakewharton:butterknife
+12	#DEP#com.android.support:cardview-v7
+13	#DEP#junit:junit
+14	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper

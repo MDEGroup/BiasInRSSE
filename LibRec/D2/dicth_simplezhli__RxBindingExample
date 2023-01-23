@@ -1,0 +1,11 @@
+1	git://github.com/simplezhli/RxBindingExample.git
+2	#DEP#com.jakewharton.rxbinding:rxbinding-appcompat-v7
+3	#DEP#com.jakewharton.rxbinding:rxbinding-design
+4	#DEP#com.jakewharton.rxbinding:rxbinding
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#com.jakewharton.rxbinding:rxbinding-support-v4
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.jakewharton.rxbinding:rxbinding-recyclerview-v7
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support:design

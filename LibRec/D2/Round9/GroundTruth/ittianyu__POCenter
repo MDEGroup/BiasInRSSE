@@ -1,0 +1,13 @@
+1	#DEP#com.github.CymChad:BaseRecyclerViewAdapterHelper
+1	#DEP#com.squareup.okio:okio
+1	#DEP#io.reactivex.rxjava2:rxjava
+1	#DEP#com.zhy:flowlayout-lib
+1	#DEP#com.orhanobut:logger
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.victor:lib
+1	#DEP#com.allenliu:checkversionlib
+1	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+1	#DEP#com.tinkerpatch.sdk:tinkerpatch-android-sdk
+1	#DEP#junit:junit
+1	#DEP#com.github.VictorAlbertos.RxCache:runtime

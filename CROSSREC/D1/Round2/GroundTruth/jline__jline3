@@ -1,0 +1,4 @@
+19	#DEP#org.apache.felix:org.apache.felix.gogo.jline
+20	#DEP#org.jline:jline-remote-telnet
+21	#DEP#org.apache.felix:org.apache.felix.gogo.runtime
+22	#DEP#org.slf4j:slf4j-jdk14

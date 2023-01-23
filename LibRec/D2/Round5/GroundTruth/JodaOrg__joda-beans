@@ -1,0 +1,4 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.joda:joda-parent
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.freemarker:freemarker

@@ -1,0 +1,13 @@
+1	git://github.com/vorburger/odata4j.git
+2	#DEP#xmlpull:xmlpull
+3	#DEP#org.hibernate:hibernate-entitymanager
+4	#DEP#com.sun.jersey:jersey-client
+5	#DEP#org.eclipse.persistence:eclipselink
+6	#DEP#hsqldb:hsqldb
+7	#DEP#joda-time:joda-time
+8	#DEP#javax.persistence:javax.persistence
+9	#DEP#com.sun.jersey:jersey-core
+10	#DEP#junit:junit
+11	#DEP#org.core4j:core4j
+12	#DEP#com.sun.jersey:jersey-server
+13	#DEP#org.slf4j:slf4j-jdk14

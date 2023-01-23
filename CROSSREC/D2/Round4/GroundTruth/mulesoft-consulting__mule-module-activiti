@@ -1,0 +1,10 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.mule.transports:mule-transport-vm
+1	#DEP#mockobjects:mockobjects-core
+1	#DEP#org.mule.tooling.activiti-embedded:mule-activiti-embedded-ui-eclipse
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#org.mule.modules:mule-module-spring-config
+1	#DEP#org.mule.modules:mule-module-activiti-test
+1	#DEP#junit:junit
+1	#DEP#org.mule.transports:mule-transport-jdbc
+1	#DEP#com.h2database:h2

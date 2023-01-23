@@ -1,0 +1,17 @@
+1	git://github.com/xiaolanglang/easypoi.git
+2	#DEP#org.apache.poi:poi-ooxml-schemas
+3	#DEP#org.apache.commons:commons-lang3
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.springframework:spring-core
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.springframework:spring-web
+8	#DEP#org.apache.poi:poi-scratchpad
+9	#DEP#org.springframework:spring-webmvc
+10	#DEP#org.apache.poi:poi
+11	#DEP#xerces:xercesImpl
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#org.jeecg:easypoi
+14	#DEP#com.google.guava:guava
+15	#DEP#org.jeecg:easypoi-annotation
+16	#DEP#org.apache.poi:poi-ooxml
+17	#DEP#org.jeecg:easypoi-base

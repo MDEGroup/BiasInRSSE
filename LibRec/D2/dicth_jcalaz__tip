@@ -1,0 +1,9 @@
+1	git://github.com/jcalaz/tip.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+4	#DEP#com.alibaba:fastjson
+5	#DEP#com.zaxxer:HikariCP
+6	#DEP#org.projectlombok:lombok
+7	#DEP#com.lmax:disruptor
+8	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc
+9	#DEP#org.springframework.boot:spring-boot-starter-velocity

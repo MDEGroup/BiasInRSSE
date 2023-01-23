@@ -1,0 +1,16 @@
+1	git://github.com/pagehelper/pagehelper-spring-boot.git
+2	#DEP#org.javassist:javassist
+3	#DEP#com.github.pagehelper:pagehelper
+4	#DEP#org.springframework.boot:spring-boot-starter
+5	#DEP#org.springframework.boot:spring-boot-dependencies
+6	#DEP#com.github.pagehelper:pagehelper-spring-boot-samples
+7	#DEP#org.springframework.boot:spring-boot-configuration-processor
+8	#DEP#com.github.pagehelper:pagehelper-spring-boot
+9	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure
+10	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+11	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+12	#DEP#org.mybatis:mybatis
+13	#DEP#org.springframework.boot:spring-boot-autoconfigure
+14	#DEP#ognl:ognl
+15	#DEP#com.h2database:h2
+16	#DEP#com.github.pagehelper:pagehelper-spring-boot-autoconfigure

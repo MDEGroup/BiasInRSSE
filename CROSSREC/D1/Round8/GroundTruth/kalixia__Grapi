@@ -1,0 +1,5 @@
+20	#DEP#io.dropwizard.metrics:metrics-annotation
+21	#DEP#com.squareup.dagger:dagger-compiler
+22	#DEP#ch.qos.logback:logback-classic
+23	#DEP#org.jboss.logging:jboss-logging
+24	#DEP#io.reactivex:rxjava

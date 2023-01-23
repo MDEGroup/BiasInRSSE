@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework:spring-webmvc-portlet
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-core

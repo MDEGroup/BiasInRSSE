@@ -1,0 +1,8 @@
+1	#DEP#org.springframework.security:org.springframework.security.config
+1	#DEP#cglib:cglib-nodep
+1	#DEP#com.thoughtworks.proxytoys:proxytoys
+1	#DEP#org.springframework.security:org.springframework.security.web
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework.security:org.springframework.security.taglibs
+1	#DEP#junit:junit
+1	#DEP#org.aspectj:aspectjrt

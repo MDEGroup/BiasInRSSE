@@ -1,0 +1,10 @@
+1	#DEP#org.ow2.asm:asm
+1	#DEP#com.android.tools.build:builder-model
+1	#DEP#de.ruedigermoeller:fst
+1	#DEP#yyyy-MM-dd'T'HH:mm
+1	#DEP#com.leacox.motif:motif
+1	#DEP#com.google.guava:guava
+1	#DEP#org.atteo:evo-inflector
+1	#DEP#com.leacox.motif:motif-hamcrest
+1	#DEP#junit:junit
+1	#DEP#com.google.errorprone:error_prone_core

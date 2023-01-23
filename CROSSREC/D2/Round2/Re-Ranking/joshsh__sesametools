@@ -1,0 +1,13 @@
+#DEP#org.eclipse.rdf4j:rdf4j-queryalgebra-geosparql	1.0
+#DEP#${project.groupId}:rdf4j-geosparql-testsuite	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-geosparql-compliance	1.0
+#DEP#org.ebaysf.web:cors-filter	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-runtime-osgi	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-serql-testsuite	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-store-testsuite	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-http-server	1.0
+#DEP#org.eclipse.rdf4j:rdf4j-http-server-spring	1.0
+#DEP#${project.groupId}:rdf4j-sail-lucene-api	1.0
+#DEP#${project.groupId}:rdf4j-sail-api	1.0
+#DEP#${project.groupId}:rdf4j-queryparser-api	1.0
+#DEP#${project.groupId}:rdf4j-runtime	1.0

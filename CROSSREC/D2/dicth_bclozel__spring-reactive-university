@@ -1,0 +1,12 @@
+1	git://github.com/bclozel/spring-reactive-university.git
+2	#DEP#org.springframework.boot.experimental:spring-boot-dependencies-web-reactive
+3	#DEP#org.springframework.boot:spring-boot-starter-test
+4	#DEP#org.springframework:spring-context-support
+5	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb-reactive
+6	#DEP#org.webjars.bower:jquery
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-devtools
+9	#DEP#org.springframework.boot:spring-boot-starter-webflux
+10	#DEP#org.freemarker:freemarker
+11	#DEP#org.springframework.boot:spring-boot-configuration-processor
+12	#DEP#org.springframework.data:spring-data-commons

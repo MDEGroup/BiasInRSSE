@@ -1,0 +1,11 @@
+1	git://github.com/xose/tinder.git
+2	#DEP#junit-addons:junit-addons
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#dom4j:dom4j
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#org.twitter4j:twitter4j-core
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.igniterealtime:tinder
+9	#DEP#com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru
+10	#DEP#junit:junit
+11	#DEP#net.jcip:jcip-annotations

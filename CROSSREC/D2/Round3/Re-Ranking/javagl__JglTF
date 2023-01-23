@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jcuda:jnvgraph	1.0
+#DEP#org.jcuda:jcusolver	1.0
+#DEP#org.jcuda:jcurand	1.0
+#DEP#org.jcuda:jcuda-matrix-utils	1.0
+#DEP#de.javagl:matrixmarketreader	1.0
+#DEP#com.aparapi:aparapi	1.0
+#DEP#org.jcuda:jcufft	1.0
+#DEP#org.jcuda:jcuda-vec	1.0
+#DEP#org.jcuda:jcusparse	1.0

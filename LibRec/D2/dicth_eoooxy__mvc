@@ -1,0 +1,17 @@
+1	git://github.com/eoooxy/mvc.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#commons-io:commons-io
+4	#DEP#tk.mybatis:mapper
+5	#DEP#com.alibaba:fastjson
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.springframework:spring-tx
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#commons-codec:commons-codec
+12	#DEP#org.mybatis.generator:mybatis-generator-core
+13	#DEP#org.springframework:spring-webmvc
+14	#DEP#org.mybatis:mybatis
+15	#DEP#commons-fileupload:commons-fileupload
+16	#DEP#junit:junit
+17	#DEP#org.mybatis:mybatis-spring

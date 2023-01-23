@@ -1,0 +1,14 @@
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pets-persistence-stub
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pom
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pets-domain-usecase-logic
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pets-domain-pom
+1	#DEP#org.webjars.npm:material-design-lite
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pets-pom
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pets-domain-usecase-contract
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.mockito:mockito-core
+1	#DEP#pl.wavesoftware:eid-exceptions
+1	#DEP#pl.coi.gov.examples.springcleanarchitecture:pets-configuration
+1	#DEP#junit:junit

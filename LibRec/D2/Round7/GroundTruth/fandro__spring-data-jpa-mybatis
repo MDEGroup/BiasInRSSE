@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-aspects
+1	#DEP#cglib:cglib-nodep
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#com.alibaba:druid
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#org.mybatis:mybatis
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#org.aspectj:aspectjrt

@@ -1,0 +1,12 @@
+1	git://github.com/openazproject/openaz.git
+2	#DEP#org.openliberty:openaz-api
+3	#DEP#org.openliberty:openaz-pep
+4	#DEP#org.openliberty:openaz-pdp
+5	#DEP#org.springframework:spring-context
+6	#DEP#org.springframework:spring-test
+7	#DEP#org.codehaus.fabric3.fabric3-db-exist:sunxacml
+8	#DEP#commons-logging:commons-logging
+9	#DEP#org.springframework:spring-beans
+10	#DEP#junit:junit
+11	#DEP#org.openliberty:openaz
+12	#DEP#org.springframework:spring-core

@@ -1,0 +1,14 @@
+1	git://github.com/cdiadvocate/cdiadvocate.git
+2	#DEP#org.cdisource.beancontainer:beancontainer-weld-impl
+3	#DEP#javax.validation:validation-api
+4	#DEP#org.cdisource.beancontainer:beancontainer-test
+5	#DEP#org.jboss.weld.se:weld-se-core
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.apache.geronimo.specs:geronimo-jcdi_1.0_spec
+8	#DEP#org.cdisource:cdisource-parent
+9	#DEP#com.caucho:resin
+10	#DEP#javax.enterprise:cdi-api
+11	#DEP#org.cdisource.beancontainer:beancontainer-api
+12	#DEP#org.apache.openwebbeans:openwebbeans-spi
+13	#DEP#junit:junit
+14	#DEP#org.apache.openwebbeans:openwebbeans-impl

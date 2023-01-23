@@ -1,0 +1,14 @@
+1	git://github.com/beckchr/staxon.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#com.sun.jersey:jersey-servlet
+4	#DEP#de.odysseus.staxon:staxon
+5	#DEP#com.sun.jersey.jersey-test-framework:jersey-test-framework-grizzly2
+6	#DEP#com.google.code.gson:gson
+7	#DEP#de.odysseus.staxon:staxon-parent
+8	#DEP#de.odysseus.staxon:staxon-jaxrs
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.glassfish:javax.json
+11	#DEP#javax.ws.rs:jsr311-api
+12	#DEP#javax.json:javax.json-api
+13	#DEP#junit:junit
+14	#DEP#com.sun.jersey:jersey-server

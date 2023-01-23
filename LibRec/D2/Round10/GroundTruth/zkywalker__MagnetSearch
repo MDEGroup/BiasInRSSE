@@ -1,0 +1,10 @@
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.lzp.floatingactionbutton:floatingactionbuttonplus
+1	#DEP#org.mod4j.org.apache.commons:lang
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#com.google.zxing:core
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.google.firebase:firebase-ads
+1	#DEP#io.reactivex:rxandroid

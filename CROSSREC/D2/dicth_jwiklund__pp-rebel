@@ -1,0 +1,10 @@
+1	git://github.com/jwiklund/pp-rebel.git
+2	#DEP#org.zeroturnaround:jr-sdk
+3	#DEP#org.mortbay.jetty:jetty
+4	#DEP#javax.xml.bind:jaxb-api
+5	#DEP#com.asual.lesscss:lesscss-engine
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#javax.xml:jaxb-api
+8	#DEP#org.zeroturnaround:jr-javassist
+9	#DEP#junit:junit
+10	#DEP#org.zeroturnaround:jr-utils

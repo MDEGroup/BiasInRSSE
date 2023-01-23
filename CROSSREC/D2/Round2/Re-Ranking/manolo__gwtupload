@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.appengine:appengine-api-stubs	1.0
+#DEP#com.google.appengine:appengine-testing	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.http-client:google-http-client	1.0
+#DEP#com.google.http-client:google-http-client-jackson2	1.0
+#DEP#com.google.http-client:google-http-client-assembly	1.0
+#DEP#com.google.oauth-client:google-oauth-client-servlet	1.0
+#DEP#com.google.http-client:google-http-client-jdo	1.0

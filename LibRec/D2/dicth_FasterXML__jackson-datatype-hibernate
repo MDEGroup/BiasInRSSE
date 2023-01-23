@@ -1,0 +1,15 @@
+1	git://github.com/FasterXML/jackson-datatype-hibernate.git
+2	#DEP#org.hibernate:hibernate-entitymanager
+3	#DEP#com.fasterxml.jackson:jackson-base
+4	#DEP#javax.transaction:jta
+5	#DEP#com.fasterxml.jackson.core:jackson-databind
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate-parent
+8	#DEP#com.fasterxml.jackson.core:jackson-annotations
+9	#DEP#com.fasterxml.jackson.core:jackson-core
+10	#DEP#org.hibernate:hibernate-core
+11	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+12	#DEP#org.mockito:mockito-core
+13	#DEP#log4j:log4j
+14	#DEP#junit:junit
+15	#DEP#com.h2database:h2

@@ -1,0 +1,3 @@
+13	#DEP#org.apache.hadoop:hadoop-common
+14	#DEP#junit:junit
+15	#DEP#org.apache.hadoop:hadoop-hdfs

@@ -1,0 +1,5 @@
+1	#DEP#org.sonatype.aether:aether-impl
+1	#DEP#org.sonatype.aether:aether-util
+1	#DEP#junit:junit-dep
+1	#DEP#org.no-ip.bca:aether-runner
+1	#DEP#org.apache.maven.wagon:wagon-http-lightweight

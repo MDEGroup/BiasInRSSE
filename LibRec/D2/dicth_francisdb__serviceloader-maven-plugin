@@ -1,0 +1,9 @@
+1	git://github.com/francisdb/serviceloader-maven-plugin.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#org.codehaus.plexus:plexus-compiler-api
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#com.google.guava:guava
+7	#DEP#org.sonatype.plexus:plexus-build-api
+8	#DEP#junit:junit
+9	#DEP#org.apache.maven:maven-plugin-api

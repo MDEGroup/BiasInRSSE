@@ -1,0 +1,9 @@
+1	git://github.com/rbedia/IPHeatmap.git
+2	#DEP#org.trillinux.ipheatmap.tiler:ipheatmap-tiler
+3	#DEP#org.trillinux.ipheatmap:ipheatmap
+4	#DEP#javax.servlet:servlet-api
+5	#DEP#net.sf.jopt-simple:jopt-simple
+6	#DEP#junit:junit
+7	#DEP#org.trillinux.ipheatmap.splitter:ipheatmap-splitter
+8	#DEP#org.trillinux.ipheatmap.server:ipheatmap-server
+9	#DEP#org.trillinux.ipheatmap.common:ipheatmap-common

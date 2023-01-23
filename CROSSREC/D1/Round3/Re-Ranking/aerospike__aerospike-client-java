@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#io.netty:netty-codec-http	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#io.netty:netty-buffer	1.0
+#DEP#org.assertj:assertj-core	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.google.protobuf:protobuf-java	1.0
+#DEP#io.netty:netty-transport-native-epoll	1.0
+#DEP#com.api:dubbo.common	1.0

@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#c3p0:c3p0
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#com.google.guava:guava
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.apache.poi:poi-ooxml

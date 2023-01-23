@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#net.milkbowl.vault:Vault	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.spigotmc:spigot-api	1.0
+#DEP#com.griefcraft:LWC	1.0
+#DEP#org.spout:spoutplugin	1.0
+#DEP#com.onarandombox.multiverseinventories:Multiverse-Inventories	1.0
+#DEP#org.kitteh:tagapi	1.0
+#DEP#com.trc202.CombatTag:CombatTag	1.0

@@ -1,0 +1,8 @@
+1	#DEP#nz.ac.waikato.cms.weka:weka-stable
+1	#DEP#org.knowm.xchart:xchart-demo
+1	#DEP#in.dream_lab.bm.stream_iot:iot-bm
+1	#DEP#in.dream_lab.bm.stream_iot:iot-bm-storm
+1	#DEP#com.google.guava:guava
+1	#DEP#org.knowm.xchart:xchart
+1	#DEP#junit:junit
+1	#DEP#com.microsoft.azure:azure-storage

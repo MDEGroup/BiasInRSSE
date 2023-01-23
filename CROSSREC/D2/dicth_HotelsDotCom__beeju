@@ -1,0 +1,12 @@
+1	git://github.com/HotelsDotCom/beeju.git
+2	#DEP#org.apache.hive:hive-exec
+3	#DEP#org.apache.hive:hive-common
+4	#DEP#com.hotels:hotels-oss-parent
+5	#DEP#org.apache.hive:hive-service
+6	#DEP#org.apache.hive:hive-metastore
+7	#DEP#org.apache.hive:hive-jdbc
+8	#DEP#xerces:xercesImpl
+9	#DEP#org.apache.hadoop:hadoop-common
+10	#DEP#junit:junit
+11	#DEP#org.hamcrest:hamcrest-core
+12	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

@@ -1,0 +1,9 @@
+38	#DEP#org.apache.cassandra:cassandra-thrift
+39	#DEP#org.reflections:reflections
+40	#DEP#org.apache.felix:maven-bundle-plugin
+41	#DEP#info.archinnov:achilles-embedded
+42	#DEP#org.hibernate:hibernate-validator
+43	#DEP#info.archinnov:achilles-junit
+44	#DEP#com.fasterxml.jackson.core:jackson-databind
+45	#DEP#org.mockito:mockito-core
+46	#DEP#info.archinnov:achilles-schema-generator

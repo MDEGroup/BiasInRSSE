@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.jdom:jdom
+1	#DEP#org.apache.directory.studio:org.apache.commons.codec
+1	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix-dashboard
+1	#DEP#org.aspectj:aspectjtools
+1	#DEP#com.google.zxing:core
+1	#DEP#org.aspectj:aspectjrt

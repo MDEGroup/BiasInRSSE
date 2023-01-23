@@ -1,0 +1,11 @@
+44	#DEP#org.kie:kie-ci-osgi
+45	#DEP#commons-io:commons-io
+46	#DEP#org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec
+47	#DEP#org.jboss.weld.se:weld-se-core
+48	#DEP#org.kie:kie-internal
+49	#DEP#org.drools:default-kiesession
+50	#DEP#org.kie:kie-ci
+51	#DEP#javax.xml.stream:stax-api
+52	#DEP#org.drools:drools-verifier
+53	#DEP#org.apache.deltaspike.core:deltaspike-core-impl
+54	#DEP#com.sun.xml.bind:jaxb-core

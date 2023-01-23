@@ -1,0 +1,10 @@
+42	#DEP#com.sun.xml.ws:jaxws-rt
+43	#DEP#org.drools:drools-core
+44	#DEP#javax.faces:jsf-api
+45	#DEP#org.hibernate:hibernate-validator
+46	#DEP#javax.transaction:jta
+47	#DEP#javax.persistence:persistence-api
+48	#DEP#log4j:log4j
+49	#DEP#javax.servlet:servlet-api
+50	#DEP#javax.servlet:jstl
+51	#DEP#commons-digester:commons-digester

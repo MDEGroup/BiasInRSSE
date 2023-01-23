@@ -1,0 +1,11 @@
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#com.sun.jersey.contribs:jersey-spring
+1	#DEP#net.sf.ehcache:ehcache
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#edu.uci.ics:crawler4j
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.xored.edu.memorise:memorise

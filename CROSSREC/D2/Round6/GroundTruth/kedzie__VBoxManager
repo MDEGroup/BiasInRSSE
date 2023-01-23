@@ -1,0 +1,6 @@
+1	#DEP#android:android
+1	#DEP#virtualbox:vbox-app
+1	#DEP#com.google.guava:guava
+1	#DEP#virtualbox:vbox-android-parent
+1	#DEP#commons-validator:commons-validator
+1	#DEP#android.test.uiautomator:uiautomator

@@ -1,0 +1,12 @@
+1	git://github.com/asLody/VirtualApp.git
+2	#DEP#com.melnykov:floatingactionbutton
+3	#DEP#com.android.support:cardview-v7
+4	#DEP#com.android.support:percent
+5	#DEP#com.kyleduo.switchbutton:library
+6	#DEP#com.jonathanfinerty.once:once
+7	#DEP#com.android.support:recyclerview-v7
+8	#DEP#com.android.support:multidex
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#com.android.support:design
+11	#DEP#org.jdeferred:jdeferred-android-aar
+12	#DEP#com.flurry.android:analytics

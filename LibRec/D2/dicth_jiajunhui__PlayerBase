@@ -1,0 +1,12 @@
+1	git://github.com/jiajunhui/PlayerBase.git
+2	#DEP#com.kk.taurus.mediadataretriever:mediadataretriever
+3	#DEP#com.jiajunhui.xapp.medialoader:medialoader
+4	#DEP#com.kk.taurus.uiframe:uiframe
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.kk.taurus.filebase:FileBase
+7	#DEP#com.lovedise:permissiongen
+8	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.danikula:videocache
+12	#DEP#tv.danmaku.ijk.media:ijkplayer-exo

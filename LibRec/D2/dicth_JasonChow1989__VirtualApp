@@ -1,0 +1,12 @@
+1	git://github.com/JasonChow1989/VirtualApp.git
+2	#DEP#com.melnykov:floatingactionbutton
+3	#DEP#com.github.moduth:blockcanary
+4	#DEP#com.android.support:percent
+5	#DEP#com.jonathanfinerty.once:once
+6	#DEP#com.github.castorflex.smoothprogressbar:library
+7	#DEP#com.android.support:recyclerview-v7
+8	#DEP#com.github.moduth:blockcanary-no-op
+9	#DEP#com.google.android.gms:play-services-appindexing
+10	#DEP#com.android.support:appcompat-v7
+11	#DEP#org.jdeferred:jdeferred-android-aar
+12	#DEP#com.yanzhenjie:recyclerview-swipe

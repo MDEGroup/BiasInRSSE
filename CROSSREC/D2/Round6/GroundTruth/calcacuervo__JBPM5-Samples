@@ -1,0 +1,15 @@
+1	#DEP#org.jbpm:jbpm-flow
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.drools:drools-spring
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.jbpm:jbpm-persistence-jpa
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.codehaus.btm:btm
+1	#DEP#com.wordpress.demian:examples
+1	#DEP#org.jboss.naming:jnpserver
+1	#DEP#org.jbpm:jbpm-bam
+1	#DEP#jboss:jboss-common
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

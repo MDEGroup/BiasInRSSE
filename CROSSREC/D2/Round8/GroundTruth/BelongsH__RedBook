@@ -1,0 +1,5 @@
+1	#DEP#com.jakewharton.picasso:picasso2-okhttp3-downloader
+1	#DEP#junit:junit
+1	#DEP#com.nianxin:utils
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.jakewharton:butterknife

@@ -1,0 +1,12 @@
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.google.code.gson:gson
+1	#DEP#javax:javaee-api
+1	#DEP#org.jaxygen:jaxygen-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#junit:junit

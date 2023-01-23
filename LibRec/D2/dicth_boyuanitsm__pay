@@ -1,0 +1,9 @@
+1	git://github.com/boyuanitsm/pay.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#com.github.kenglxn.QRGen:javase
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#junit:junit
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#com.esotericsoftware.yamlbeans:yamlbeans

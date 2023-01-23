@@ -1,0 +1,15 @@
+1	git://github.com/piomin/sample-spring-microservices.git
+2	#DEP#org.springframework.cloud:spring-cloud-sleuth-zipkin
+3	#DEP#org.springframework.cloud:spring-cloud-starter-feign
+4	#DEP#org.springframework.cloud:spring-cloud-starter-zuul
+5	#DEP#io.zipkin.java:zipkin-autoconfigure-ui
+6	#DEP#org.springframework.boot:spring-boot-starter
+7	#DEP#org.springframework:spring-web
+8	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+9	#DEP#org.springframework.cloud:spring-cloud-starter-sleuth
+10	#DEP#io.zipkin.java:zipkin-server
+11	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+12	#DEP#pl.piomin:sample-spring-microservices
+13	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+14	#DEP#io.zipkin.java:zipkin
+15	#DEP#org.springframework.boot:spring-boot-starter-actuator

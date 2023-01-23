@@ -1,0 +1,12 @@
+1	git://github.com/jberkel/sms-backup-plus.git
+2	#DEP#com.android.billingclient:billing
+3	#DEP#org.robolectric:shadows-httpclient
+4	#DEP#com.android.support:support-annotations
+5	#DEP#com.firebase:firebase-jobdispatcher
+6	#DEP#org.robolectric:robolectric
+7	#DEP#com.squareup:otto
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#com.github.jberkel.k-9:k9mail-library
+11	#DEP#com.android.support:preference-v7
+12	#DEP#com.google.truth:truth

@@ -1,0 +1,15 @@
+1	git://github.com/Microsoft/mssql-jdbc.git
+2	#DEP#org.junit.jupiter:junit-jupiter-engine
+3	#DEP#org.junit.jupiter:junit-jupiter-api
+4	#DEP#org.junit.platform:junit-platform-launcher
+5	#DEP#org.junit.platform:junit-platform-surefire-provider
+6	#DEP#com.microsoft.sqlserver:mssql-jdbc
+7	#DEP#com.microsoft.azure:adal4j
+8	#DEP#org.junit.platform:junit-platform-commons
+9	#DEP#org.junit.platform:junit-platform-console
+10	#DEP#com.zaxxer:HikariCP
+11	#DEP#org.apache.commons:commons-dbcp2
+12	#DEP#junit:junit
+13	#DEP#org.junit.platform:junit-platform-engine
+14	#DEP#com.microsoft.azure:azure-keyvault
+15	#DEP#org.junit.platform:junit-platform-runner

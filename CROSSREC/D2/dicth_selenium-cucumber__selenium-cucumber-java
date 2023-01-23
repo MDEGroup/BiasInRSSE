@@ -1,0 +1,10 @@
+1	git://github.com/selenium-cucumber/selenium-cucumber-java.git
+2	#DEP#org.seleniumhq.selenium:selenium-firefox-driver
+3	#DEP#org.seleniumhq.selenium:selenium-java
+4	#DEP#org.seleniumhq.selenium:selenium-server
+5	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+6	#DEP#sample:com.sample
+7	#DEP#com.google.guava:guava
+8	#DEP#info.cukes:cucumber-junit
+9	#DEP#info.cukes:cucumber-java
+10	#DEP#junit:junit

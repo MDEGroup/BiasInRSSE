@@ -1,0 +1,14 @@
+1	git://github.com/ropalka/jboss-ircbot.git
+2	#DEP#org.x2jb:x2jb-default-handlers
+3	#DEP#org.fossnova:fossnova-json-impl
+4	#DEP#org.jboss.ircbot:ircbot-plugins
+5	#DEP#org.x2jb:x2jb-core
+6	#DEP#org.jboss.ircbot:parent
+7	#DEP#org.jboss.modules:jboss-modules
+8	#DEP#org.jboss.ircbot:ircbot-impl
+9	#DEP#org.fossnova:fossnova-io
+10	#DEP#org.jboss.msc:jboss-msc
+11	#DEP#org.x2jb:x2jb-annotation-provider
+12	#DEP#org.fossnova:fossnova-fue-impl
+13	#DEP#org.jboss.logging:jboss-logging
+14	#DEP#org.jboss.ircbot:ircbot-api

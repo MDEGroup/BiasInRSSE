@@ -1,0 +1,4 @@
+1	#DEP#net.java.dev.appframework:appframework
+1	#DEP#junit:junit
+1	#DEP#org.swinglabs:swing-worker
+1	#DEP#org.niocchi:niocchi

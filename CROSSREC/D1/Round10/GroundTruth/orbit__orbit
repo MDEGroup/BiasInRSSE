@@ -1,0 +1,6 @@
+25	#DEP#cloud.orbit:orbit-infinispan-cluster
+26	#DEP#com.fasterxml.jackson.core:jackson-databind
+27	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+28	#DEP#org.glassfish.hk2:hk2
+29	#DEP#junit:junit
+30	#DEP#org.openjdk.jmh:jmh-core

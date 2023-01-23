@@ -1,0 +1,7 @@
+1	#DEP#org.richfaces:richfaces-bom
+1	#DEP#org.richfaces.ui:richfaces-components-ui
+1	#DEP#javax.mail:mail
+1	#DEP#javax.activation:activation
+1	#DEP#org.jboss.seam.faces:seam-faces
+1	#DEP#org.subethamail:subethasmtp-wiser
+1	#DEP#com.h2database:h2

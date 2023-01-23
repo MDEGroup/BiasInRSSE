@@ -1,0 +1,2 @@
+mwolfson/android-historian
+lidong1665/AndroidRapidLibrary

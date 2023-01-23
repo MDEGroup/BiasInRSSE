@@ -1,0 +1,9 @@
+webbukkit__dynmap
+NathanWolf__BukkitPlugins
+ktoso__jgoogl
+orfjackal__idea-sbt-plugin
+jruby__jruby-openssl
+ticktock__qsandra
+dwursteisen__gp-parser
+taoneill__war
+marcelo-mason__PreciousStones

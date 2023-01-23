@@ -1,0 +1,10 @@
+#DEP#org.ops4j.pax.exam:pax-exam-junit4	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-simple	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-container-native	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-link-mvn	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-container-rbc	1.0
+#DEP#org.ops4j.pax.exam:pax-exam-player	1.0

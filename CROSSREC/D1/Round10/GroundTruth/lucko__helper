@@ -1,0 +1,4 @@
+16	#DEP#com.zaxxer:HikariCP
+17	#DEP#org.mongodb.morphia:morphia
+18	#DEP#net.kyori:text
+19	#DEP#ninja.leaping.configurate:configurate-core

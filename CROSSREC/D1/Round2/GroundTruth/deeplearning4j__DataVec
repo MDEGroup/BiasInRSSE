@@ -1,0 +1,13 @@
+56	#DEP#org.nd4j:nd4j-buffer
+57	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+58	#DEP#org.datavec:datavec-data-codec
+59	#DEP#org.apache.commons:commons-lang3
+60	#DEP#com.fasterxml.jackson.core:jackson-databind
+61	#DEP#commons-dbutils:commons-dbutils
+62	#DEP#org.jetbrains:annotations
+63	#DEP#org.apache.camel:camel-csv
+64	#DEP#com.typesafe.play:play_2.11
+65	#DEP#ch.qos.logback:logback-classic
+66	#DEP#org.bytedeco:javacpp
+67	#DEP#com.github.jai-imageio:jai-imageio-core
+68	#DEP#com.zaxxer:HikariCP-java7

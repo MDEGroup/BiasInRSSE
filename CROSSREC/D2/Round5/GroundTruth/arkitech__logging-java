@@ -1,0 +1,9 @@
+1	#DEP#eu.arkitech:logging-datastore-lucene
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#eu.arkitech:logback-common
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#eu.arkitech:logging-datastore-bdb
+1	#DEP#com.google.guava:guava
+1	#DEP#eu.arkitech:logback-amqp-common
+1	#DEP#junit:junit

@@ -1,0 +1,7 @@
+30	#DEP#javax.servlet:servlet-api
+31	#DEP#wicket-dnd:wicket-dnd
+32	#DEP#com.sun.xml.bind:jaxb-impl
+33	#DEP#org.apache.wicket:wicket-extensions
+34	#DEP#org.hsqldb:hsqldb
+35	#DEP#org.mortbay.jetty:jsp-2.1
+36	#DEP#de.elatexam:taskmodel-core

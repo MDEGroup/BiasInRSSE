@@ -1,0 +1,9 @@
+1	git://github.com/bartoszmajsak/webdriver-spock-example.git
+2	#DEP#org.seleniumhq.selenium:selenium-java
+3	#DEP#org.easytesting:fest-assert
+4	#DEP#org.spockframework:spock-core
+5	#DEP#com.google.guava:guava
+6	#DEP#org.codehaus.groovy:groovy-all
+7	#DEP#junit:junit
+8	#DEP#pl.bmajsak.webdriver:webdriver-enricher
+9	#DEP#org.seleniumhq.selenium:selenium

@@ -1,0 +1,4 @@
+1	#DEP#org.projectlombok:lombok
+1	#DEP#io.spring.platform:platform-bom
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.hsqldb:hsqldb

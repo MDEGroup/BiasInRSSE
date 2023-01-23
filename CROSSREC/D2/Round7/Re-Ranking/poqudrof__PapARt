@@ -1,0 +1,13 @@
+#DEP#org.bytedeco.javacpp-presets:libfreenect-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:artoolkitplus-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:flandmark	1.0
+#DEP#org.bytedeco.javacpp-presets:libfreenect2-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:flycapture-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:ffmpeg-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:videoinput	1.0
+#DEP#org.bytedeco.javacpp-presets:videoinput-platform	1.0
+#DEP#org.bytedeco:javacpp-presets	1.0
+#DEP#org.bytedeco.javacpp-presets:librealsense-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:libdc1394-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:flandmark-platform	1.0
+#DEP#org.bytedeco.javacpp-presets:libdc1394	1.0

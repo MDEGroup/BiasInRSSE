@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.mortbay.jetty:jetty	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.apache.derby:derbytools	1.0
+#DEP#co.fastcat.fastcatsearch:fastcatsearch-core	1.0
+#DEP#com.esotericsoftware.yamlbeans:yamlbeans	1.0

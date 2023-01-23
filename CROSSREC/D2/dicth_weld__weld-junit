@@ -1,0 +1,11 @@
+1	git://github.com/weld/weld-junit.git
+2	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec
+3	#DEP#org.junit.jupiter:junit-jupiter-engine
+4	#DEP#org.jboss.weld:weld-junit-common
+5	#DEP#org.junit.jupiter:junit-jupiter-api
+6	#DEP#org.mockito:mockito-core
+7	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+8	#DEP#org.jboss.weld:weld-junit-parent
+9	#DEP#org.jboss.weld.se:weld-se-core
+10	#DEP#org.jboss.weld:weld-parent
+11	#DEP#junit:junit

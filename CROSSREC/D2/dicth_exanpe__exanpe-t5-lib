@@ -1,0 +1,12 @@
+1	git://github.com/exanpe/exanpe-t5-lib.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.tapestry:tapestry-core
+5	#DEP#org.springframework.security:spring-security-web
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#commons-collections:commons-collections
+8	#DEP#org.springframework.security:spring-security-config
+9	#DEP#org.apache.tapestry:tapestry-spring
+10	#DEP#fr.exanpe:exanpe-parent
+11	#DEP#org.apache.tapestry:tapestry-test
+12	#DEP#commons-lang:commons-lang

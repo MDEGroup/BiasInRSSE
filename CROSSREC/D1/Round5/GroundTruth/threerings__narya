@@ -1,0 +1,3 @@
+16	#DEP#junit:junit
+17	#DEP#org.hsqldb:hsqldb
+18	#DEP#com.samskivert:jmustache

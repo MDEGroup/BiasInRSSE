@@ -1,0 +1,10 @@
+#DEP#org.ops4j.pax.exam:pax-exam-junit	1.0
+#DEP#org.ops4j.pax.swissbox:pax-swissbox-tinybundles	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#org.ow2.osgi:test-inner	1.0
+#DEP#org.ow2.osgi:test-resources	1.0
+#DEP#org.ow2.osgi:bundle-scanner	1.0
+#DEP#org.ow2.osgi:tests	1.0
+#DEP#org.ow2.osgi:bundle-scanner-all	1.0

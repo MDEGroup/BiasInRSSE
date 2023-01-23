@@ -1,0 +1,9 @@
+1	#DEP#com.proofpoint.platform:rest-server-base
+1	#DEP#org.iq80.leveldb:leveldb
+1	#DEP#org.iq80.leveldb:leveldb-api
+1	#DEP#com.proofpoint.platform:launcher
+1	#DEP#com.ning:async-http-client
+1	#DEP#com.proofpoint.platform:log
+1	#DEP#com.proofpoint.platform:jmx-http-rpc-experimental
+1	#DEP#com.proofpoint.platform:http-server
+1	#DEP#com.google.inject.extensions:guice-multibindings

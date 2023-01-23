@@ -1,0 +1,13 @@
+1	git://github.com/volio/lolipa.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.hibernate:hibernate-validator
+5	#DEP#org.pegdown:pegdown
+6	#DEP#org.springframework.boot:spring-boot-starter-mail
+7	#DEP#org.springframework.boot:spring-boot-starter-mustache
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-security
+10	#DEP#org.aspectj:aspectjweaver
+11	#DEP#org.hibernate:hibernate-core
+12	#DEP#junit:junit
+13	#DEP#com.sun.mail:javax.mail

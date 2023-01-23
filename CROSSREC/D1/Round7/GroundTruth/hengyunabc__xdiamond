@@ -1,0 +1,12 @@
+50	#DEP#javax.websocket:javax.websocket-api
+51	#DEP#io.github.hengyunabc.xdiamond:xdiamond-client
+52	#DEP#com.google.code.gson:gson
+53	#DEP#io.netty:netty-handler
+54	#DEP#com.alibaba:druid
+55	#DEP#io.dropwizard.metrics:metrics-annotation
+56	#DEP#ch.qos.logback:logback-core
+57	#DEP#org.springframework:spring-context-support
+58	#DEP#javax.servlet:javax.servlet-api
+59	#DEP#ch.qos.logback:logback-classic
+60	#DEP#io.dropwizard.metrics:metrics-healthchecks
+61	#DEP#org.crashub:crash.cli

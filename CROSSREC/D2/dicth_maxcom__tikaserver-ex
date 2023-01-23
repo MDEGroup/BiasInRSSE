@@ -1,0 +1,14 @@
+1	git://github.com/maxcom/tikaserver-ex.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#commons-cli:commons-cli
+4	#DEP#com.sun.jersey.test.framework:jersey-test-framework
+5	#DEP#com.sun.jersey:jersey-client
+6	#DEP#commons-logging:commons-logging
+7	#DEP#commons-lang:commons-lang
+8	#DEP#commons-codec:commons-codec
+9	#DEP#javax.ws.rs:jsr311-api
+10	#DEP#com.sun.jersey:jersey-core
+11	#DEP#org.apache.tika:tika-parsers
+12	#DEP#commons-collections:commons-collections
+13	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+14	#DEP#com.sun.jersey:jersey-server

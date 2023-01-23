@@ -1,0 +1,8 @@
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#com.vaadin:vaadin
+1	#DEP#net.kindleit:gae-runtime
+1	#DEP#org.apache.geronimo.specs:geronimo-servlet_2.5_spec
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.google.appengine:appengine-testing

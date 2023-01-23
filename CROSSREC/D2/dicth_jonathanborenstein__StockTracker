@@ -1,0 +1,12 @@
+1	git://github.com/jonathanborenstein/StockTracker.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+6	#DEP#org.springframework.boot:spring-boot-starter-test
+7	#DEP#com.yahoofinance-api:YahooFinanceAPI
+8	#DEP#javax.servlet:jstl
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#com.google.code.gson:gson
+11	#DEP#org.springframework.boot:spring-boot-starter-web
+12	#DEP#com.h2database:h2

@@ -1,0 +1,6 @@
+1	#DEP#com.elmakers.mine.bukkit.utilities:Utilities
+1	#DEP#com.elmakers.mine.bukkit.data:Data
+1	#DEP#com.elmakers.mine.bukkit.persisted:Persisted
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#com.elmakers.mine.bukkit.groups:Groups
+1	#DEP#com.elmakers.mine.bukkit.permissions:Permissions

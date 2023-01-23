@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#org.openjdk.jmh:jmh-core	1.0
+#DEP#org.openjdk.jmh:jmh-generator-annprocess	1.0
+#DEP#org.apache.commons:commons-exec	1.0
+#DEP#org.zeroturnaround:zt-zip	1.0
+#DEP#com.github.alexcojocaru:elasticsearch-maven-plugin	1.0

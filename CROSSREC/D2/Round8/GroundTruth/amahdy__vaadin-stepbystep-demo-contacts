@@ -1,0 +1,4 @@
+1	#DEP#org.vaadin.stepbystep:person-service
+1	#DEP#com.vaadin:vaadin-bom
+1	#DEP#com.vaadin:vaadin-client
+1	#DEP#javax:javaee-api

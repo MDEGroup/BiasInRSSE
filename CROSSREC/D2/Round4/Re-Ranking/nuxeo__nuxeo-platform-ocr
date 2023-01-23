@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.nuxeo.ecm.platform:nuxeo-jsf-parent	1.0
+#DEP#org.ow2.frascati.intent:frascati-authentication	1.0
+#DEP#org.nuxeo.rating:nuxeo-rating-core	1.0
+#DEP#org.nuxeo.ecm.social:nuxeo-relationship	1.0
+#DEP#org.nuxeo.ecm.platform:nuxeo-features-test	1.0
+#DEP#org.nuxeo.ecm.platform:nuxeo-platform-filemanager-core-listener	1.0
+#DEP#org.nuxeo.ecm.platform:nuxeo-platform-comment-api	1.0
+#DEP#com.ebmwebsourcing.easycommons:easycommons.uri	1.0

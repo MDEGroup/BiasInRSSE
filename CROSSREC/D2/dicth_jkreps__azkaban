@@ -1,0 +1,11 @@
+1	git://github.com/jkreps/azkaban.git
+2	#DEP#voldemort:voldemort
+3	#DEP#log4j:log4j
+4	#DEP#azkaban:azkaban-common
+5	#DEP#org.clojure:clojure-contrib
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.apache.hadoop:hadoop
+8	#DEP#org.clojure:clojure
+9	#DEP#com.google.collections:google-collections
+10	#DEP#joda-time:joda-time
+11	#DEP#commons-lang:commons-lang

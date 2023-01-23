@@ -1,0 +1,10 @@
+#DEP#javax.mail:mail	1.0
+#DEP#org.sakaiproject.entitybroker:entitybroker-api	1.0
+#DEP#org.apache.poi:poi-ooxml	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#org.freemarker:freemarker	1.0
+#DEP#org.sakaiproject:generic-dao	1.0
+#DEP#jta:jta	1.0
+#DEP#org.sakaiproject.hierarchy:hierarchy-api	1.0
+#DEP#org.sakaiproject.evaluation:sakai-evaluation-api	1.0
+#DEP#org.sakaiproject.evaluation:sakai-evaluation-impl	1.0

@@ -1,0 +1,9 @@
+37	#DEP#${project.groupId}:batik-svgbrowser
+38	#DEP#${project.groupId}:batik-css
+39	#DEP#${project.groupId}:batik-test
+40	#DEP#org.apache.xmlgraphics:batik-awt-util
+41	#DEP#${project.groupId}:batik-awt-util
+42	#DEP#${project.groupId}:batik-squiggle
+43	#DEP#junit:junit
+44	#DEP#${project.groupId}:batik-swing
+45	#DEP#${project.groupId}:batik-bridge

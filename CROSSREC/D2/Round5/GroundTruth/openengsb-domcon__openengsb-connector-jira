@@ -1,0 +1,5 @@
+1	#DEP#axis:axis-saaj
+1	#DEP#org.openengsb.framework:org.openengsb.framework.common
+1	#DEP#axis:axis
+1	#DEP#axis:axis-jaxrpc
+1	#DEP#com.dolby.jira.net:jira-soap

@@ -1,0 +1,6 @@
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#javax.interceptor:javax.interceptor-api
+1	#DEP#com.querydsl:querydsl-mongodb
+1	#DEP#org.springframework.data.build:spring-data-parent
+1	#DEP#org.springframework.ldap:spring-ldap-core
+1	#DEP#org.apache.openwebbeans:openwebbeans-se

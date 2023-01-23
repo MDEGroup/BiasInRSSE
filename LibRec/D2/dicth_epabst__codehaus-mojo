@@ -1,0 +1,11 @@
+1	git://github.com/epabst/codehaus-mojo.git
+2	#DEP#localhost:it-replace-snapshot-001
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#org.apache.maven:maven-project
+5	#DEP#localhost:it-set-003
+6	#DEP#localhost:dummy-impl
+7	#DEP#localhost:it-set-002
+8	#DEP#localhost:it-set-003-child2
+9	#DEP#localhost:it-resolve-ranges-003-child2
+10	#DEP#localhost:it-resolve-ranges-003
+11	#DEP#localhost:dummy-api

@@ -1,0 +1,8 @@
+32	#DEP#javax.xml.ws:jaxws-api
+33	#DEP#org.easytesting:fest-assert
+34	#DEP#log4j:log4j
+35	#DEP#org.hibernate:com.springsource.org.hibernate.validator
+36	#DEP#org.slf4j:org.slf4j
+37	#DEP#org.aspectj:org.aspectj
+38	#DEP#aopalliance:aopalliance
+39	#DEP#junit:junit

@@ -1,0 +1,3 @@
+14	#DEP#xerces:xercesImpl
+15	#DEP#org.jcoderz.fawkez:fawkez-commons
+16	#DEP#junit:junit

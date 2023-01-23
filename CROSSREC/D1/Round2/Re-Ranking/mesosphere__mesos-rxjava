@@ -1,0 +1,10 @@
+#DEP#io.netty:netty-transport	1.0
+#DEP#junit:junit	1.0
+#DEP#io.netty:netty-handler	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#io.netty:netty-codec	1.0
+#DEP#io.netty:netty-buffer	1.0
+#DEP#com.squareup.okhttp:okhttp	1.0
+#DEP#com.squareup.retrofit2:converter-scalars	1.0
+#DEP#com.e-movimento.tinytools:privilegedaccessor	1.0

@@ -1,0 +1,8 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#io.netty:netty-transport
+1	#DEP#io.netty:netty-handler
+1	#DEP#io.netty:netty-buffer
+1	#DEP#org.redisson:redisson
+1	#DEP#io.netty:netty-common
+1	#DEP#org.jmockit:jmockit
+1	#DEP#junit:junit

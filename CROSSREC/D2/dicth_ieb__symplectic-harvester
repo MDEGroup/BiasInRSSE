@@ -1,0 +1,15 @@
+1	git://github.com/ieb/symplectic-harvester.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#commons-cli:commons-cli
+4	#DEP#commons-io:commons-io
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#commons-lang:commons-lang
+8	#DEP#org.vivoweb:harvester
+9	#DEP#commons-vfs:commons-vfs
+10	#DEP#commons-codec:commons-codec
+11	#DEP#log4j:log4j
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#org.apache.derby:derby
+14	#DEP#commons-httpclient:commons-httpclient
+15	#DEP#junit:junit

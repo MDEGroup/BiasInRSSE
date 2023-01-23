@@ -1,0 +1,9 @@
+1	#DEP#org.apache.curator:curator-framework
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.jolbox:bonecp
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit
+1	#DEP#org.apache.derby:derbyclient
+1	#DEP#org.hsqldb:hsqldb

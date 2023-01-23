@@ -1,0 +1,14 @@
+1	git://github.com/isaaceindhoven/isaac-dotcms-minifier.git
+2	#DEP#com.dotcms.lib:dot.felix
+3	#DEP#com.dotcms.lib:dot.urlrewritefilter
+4	#DEP#com.dotcms.lib:dot.commons-lang
+5	#DEP#com.dotcms.lib:dot.log4j-api
+6	#DEP#com.dotcms.lib:dot.org.apache.felix.http.bundle
+7	#DEP#com.google.javascript:closure-compiler
+8	#DEP#com.dotcms.lib:dot.portlet
+9	#DEP#com.dotcms.lib:dot.log4j-core
+10	#DEP#com.dotcms:dotcms
+11	#DEP#org.quartz-scheduler:quartz
+12	#DEP#org.springframework:spring-webmvc
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#com.dotcms.lib:dot.commons-io

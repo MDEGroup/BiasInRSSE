@@ -1,0 +1,10 @@
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

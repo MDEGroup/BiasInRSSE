@@ -1,0 +1,5 @@
+1	#DEP#org.testng:testng
+1	#DEP#net.lightbody.bmp:browsermob-core
+1	#DEP#org.uncommons:reportng
+1	#DEP#velocity-tools:velocity-tools
+1	#DEP#commons-lang:commons-lang

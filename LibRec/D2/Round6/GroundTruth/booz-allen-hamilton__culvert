@@ -1,0 +1,15 @@
+1	#DEP#org.apache.hive:hive-hbase-handler
+1	#DEP#org.apache.hive:hive-exec
+1	#DEP#commons-cli:commons-cli
+1	#DEP#org.apache.hive:hive-common
+1	#DEP#org.apache.hadoop:hadoop-core
+1	#DEP#org.apache.hive:hive-metastore
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#org.datanucleus:datanucleus-rdbms
+1	#DEP#org.apache.accumulo:accumulo-core
+1	#DEP#org.apache.hbase:hbase
+1	#DEP#org.apache.hive:hive-serde
+1	#DEP#org.powermock:powermock-api-easymock
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.datanucleus:datanucleus-connectionpool

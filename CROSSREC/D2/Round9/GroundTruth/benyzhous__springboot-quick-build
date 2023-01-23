@@ -1,0 +1,17 @@
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#com.github.benyzhous:springboot-sharding-jdbc-starter
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.github.benyzhous:springboot-sharding-jdbc-samples
+1	#DEP#io.spring.platform:platform-bom
+1	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+1	#DEP#org.springframework.boot:spring-boot-configuration-processor
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.github.benyzhous:springboot-quick-samples
+1	#DEP#com.github.benyzhous:springboot-quick-autoconfigures
+1	#DEP#com.github.benyzhous:logback-config-xml
+1	#DEP#tk.mybatis:mapper-spring-boot-autoconfigure
+1	#DEP#com.github.benyzhous:springboot-sharding-jdbc-autoconfigure
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.github.pagehelper:pagehelper-spring-boot-starter
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#junit:junit

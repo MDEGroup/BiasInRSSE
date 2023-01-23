@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.netbeans.api:org-openide-util-lookup	1.0
+#DEP#org.netbeans.api:org-netbeans-api-annotations-common	1.0
+#DEP#org.netbeans.api:org-openide-util	1.0
+#DEP#org.netbeans.api:org-openide-modules	1.0
+#DEP#org.netbeans.api:org-openide-io	1.0
+#DEP#org.netbeans.api:org-openide-explorer	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-java-sourceui	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-java-platform	1.0
+#DEP#org.netbeans.api:org-openide-actions	1.0

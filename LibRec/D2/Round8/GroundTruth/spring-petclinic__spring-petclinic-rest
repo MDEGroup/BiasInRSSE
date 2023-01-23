@@ -1,0 +1,10 @@
+1	#DEP#io.springfox:springfox-swagger2
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.springframework.boot:spring-boot-starter-tomcat
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#org.hsqldb:hsqldb

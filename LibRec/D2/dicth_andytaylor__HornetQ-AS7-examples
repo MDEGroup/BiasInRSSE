@@ -1,0 +1,10 @@
+1	git://github.com/andytaylor/HornetQ-AS7-examples.git
+2	#DEP#org.jboss.javaee:jboss-jms-api
+3	#DEP#org.hornetq:hornetq-core-client
+4	#DEP#org.andy.mdb:mdb-jar
+5	#DEP#org.hornetq:hornetq-jms-client
+6	#DEP#org.jboss.netty:netty
+7	#DEP#org.jboss.naming:jnp-client
+8	#DEP#javax.ejb:ejb-api
+9	#DEP#org.jboss.ejb3:jboss-ejb3-ext-api
+10	#DEP#org.hornetq.example.mdb:mdb-pom

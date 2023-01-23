@@ -1,0 +1,11 @@
+1	git://github.com/imchenglibin/spring-web-tutorial.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.springframework:spring-context-support
+6	#DEP#org.springframework:spring-webmvc
+7	#DEP#org.springframework:spring-beans
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit
+10	#DEP#org.springframework:spring-core
+11	#DEP#com.auth0:java-jwt

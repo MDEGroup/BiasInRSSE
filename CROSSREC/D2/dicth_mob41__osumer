@@ -1,0 +1,9 @@
+1	git://github.com/mob41/osumer.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#commons-codec:commons-codec
+4	#DEP#com.github.mob41:OrganDebugger
+5	#DEP#net.java.dev.jna:jna-platform
+6	#DEP#com.github.mob41.osums:osums-api
+7	#DEP#com.github.vatbub:mslinks
+8	#DEP#net.java.dev.jna:jna
+9	#DEP#org.json:json

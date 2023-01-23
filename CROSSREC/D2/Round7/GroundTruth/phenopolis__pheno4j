@@ -1,0 +1,14 @@
+1	#DEP#org.jgrapht:jgrapht-core
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#org.neo4j:neo4j
+1	#DEP#org.codehaus.jackson:jackson-core-lgpl
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.google.code.gson:gson
+1	#DEP#org.apache.commons:commons-configuration2
+1	#DEP#com.voodoodyne.jackson.jsog:jackson-jsog
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#commons-collections:commons-collections
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server

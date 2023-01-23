@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-jdk14	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.protobuf:protobuf-java	1.0
+#DEP#org.bitcoinj:bitcoinj-core	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#net.sf.jopt-simple:jopt-simple	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.vinumeris:updatefx	1.0
+#DEP#com.madgag.spongycastle:core	1.0

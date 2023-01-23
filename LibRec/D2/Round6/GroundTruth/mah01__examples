@@ -1,0 +1,8 @@
+1	#DEP#dk.sorokin.maksim:dosgiRemote
+1	#DEP#${project.groupId}:dosgiRemote.service.api
+1	#DEP#org.mule.transports:mule-transport-vm
+1	#DEP#org.mule.transports:mule-transport-servlet
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.servicemix.specs:org.apache.servicemix.specs.jsr311-api-1.0
+1	#DEP#${project.groupId}:dosgiSecurity-security

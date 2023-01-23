@@ -1,0 +1,6 @@
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#com.google.doclava:doclava
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.bitbucket.mstrobel:procyon-core
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit

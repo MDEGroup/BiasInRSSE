@@ -1,0 +1,6 @@
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.android.support:multidex
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.android.support:design
+1	#DEP#org.jdeferred:jdeferred-android-aar
+1	#DEP#com.flurry.android:analytics

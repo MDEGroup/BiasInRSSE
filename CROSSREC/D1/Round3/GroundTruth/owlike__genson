@@ -1,0 +1,5 @@
+24	#DEP#org.scala-lang:scala-library
+25	#DEP#org.scalacheck:scalacheck_${scala.version}
+26	#DEP#org.ow2.asm:asm-commons
+27	#DEP#javax.json:javax.json-api
+28	#DEP#junit:junit

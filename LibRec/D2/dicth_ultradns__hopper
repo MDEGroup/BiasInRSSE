@@ -1,0 +1,17 @@
+1	git://github.com/ultradns/hopper.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.slf4j:jul-to-slf4j
+4	#DEP#io.netty:netty
+5	#DEP#org.slf4j:log4j-over-slf4j
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.mockito:mockito-all
+9	#DEP#commons-codec:commons-codec
+10	#DEP#org.slf4j:slf4j-ext
+11	#DEP#org.slf4j:jcl-over-slf4j
+12	#DEP#ch.qos.logback:logback-core
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#commons-collections:commons-collections
+15	#DEP#com.google.guava:guava
+16	#DEP#junit:junit
+17	#DEP#commons-validator:commons-validator

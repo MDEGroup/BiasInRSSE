@@ -1,0 +1,5 @@
+1	#DEP#foxtrot:foxtrot
+1	#DEP#commons-logging:commons-logging
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#net.java.abeille:abeille
+1	#DEP#com.jgoodies:looks

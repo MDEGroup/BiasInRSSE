@@ -1,0 +1,11 @@
+#DEP#${project.groupId}:facehunt-core	1.0
+#DEP#com.gemserk.vecmath:vecmath	1.0
+#DEP#${project.groupId}:vampirerunner-core	1.0
+#DEP#com.gemserk.games.vampirerunner:vampirerunner	1.0
+#DEP#com.gemserk.commons.gdx:commons-gdx-resources	1.0
+#DEP#com.gemserk.games.archervsworld:archervsworld	1.0
+#DEP#${project.groupId}:archervsworld-core	1.0
+#DEP#com.gemserk.libgdxtest:libgdxtest	1.0
+#DEP#com.gemserk.animation4j:animation4j-core	1.0
+#DEP#com.gamadu.artemis:artemis	1.0
+#DEP#com.gemserk.games.facehunt:facehunt	1.0

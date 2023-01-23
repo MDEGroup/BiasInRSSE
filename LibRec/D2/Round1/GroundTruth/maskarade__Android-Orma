@@ -1,0 +1,7 @@
+1	#DEP#com.facebook.stetho:stetho
+1	#DEP#com.github.gfx.android.robolectricinstrumentation:robolectric-instrumentation
+1	#DEP#net.zetetic:android-database-sqlcipher
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#org.antlr:antlr4-runtime

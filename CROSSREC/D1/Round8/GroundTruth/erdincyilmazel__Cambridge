@@ -1,0 +1,3 @@
+16	#DEP#org.antlr:antlr-runtime
+17	#DEP#junit:junit
+18	#DEP#com.googlecode.cambridge:cambridge-core

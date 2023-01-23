@@ -1,0 +1,10 @@
+1	git://github.com/jreznot/electron-java-app.git
+2	#DEP#commons-io:commons-io
+3	#DEP#com.vaadin:vaadin-server
+4	#DEP#com.vaadin:vaadin-themes
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#com.vaadin:vaadin-push
+7	#DEP#org.eclipse.jetty:jetty-server
+8	#DEP#org.eclipse.jetty:jetty-webapp
+9	#DEP#com.vaadin:vaadin-client-compiled
+10	#DEP#org.eclipse.jetty.websocket:websocket-server

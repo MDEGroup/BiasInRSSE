@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#org.json:json	1.0
+#DEP#org.sonatype.nexus:nexus-rapture	1.0
+#DEP#org.sonatype.nexus:nexus-repository	1.0
+#DEP#org.sonatype.goodies:goodies-testsupport	1.0
+#DEP#org.sonatype.nexus.plugins:nexus-plugins	1.0

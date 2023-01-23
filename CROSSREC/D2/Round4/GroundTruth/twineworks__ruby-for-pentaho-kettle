@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jruby:jruby-complete
+1	#DEP#pentaho-kettle:kettle-core
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

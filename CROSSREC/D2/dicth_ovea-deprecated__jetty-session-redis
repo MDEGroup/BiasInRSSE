@@ -1,0 +1,14 @@
+1	git://github.com/ovea-deprecated/jetty-session-redis.git
+2	#DEP#com.thoughtworks.xstream:xstream
+3	#DEP#org.codehaus.jackson:jackson-core-asl
+4	#DEP#redis.clients:jedis
+5	#DEP#org.mortbay.jetty:jsp-2.1-glassfish
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.testatoo.container:testatoo-container-jetty
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#com.ovea:ovea
+11	#DEP#org.eclipse.jetty.aggregate:jetty-all
+12	#DEP#trove:trove
+13	#DEP#log4j:log4j
+14	#DEP#junit:junit

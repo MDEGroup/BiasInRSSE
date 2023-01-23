@@ -1,0 +1,11 @@
+1	git://github.com/atguigu01/Shopping.git
+2	#DEP#com.android.support:percent
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.squareup.okhttp3:okhttp
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support:design

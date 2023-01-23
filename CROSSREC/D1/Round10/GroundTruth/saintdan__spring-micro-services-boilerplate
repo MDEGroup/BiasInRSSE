@@ -1,0 +1,4 @@
+18	#DEP#com.google.guava:guava
+19	#DEP#org.springframework.boot:spring-boot-devtools
+20	#DEP#junit:junit
+21	#DEP#org.springframework.boot:spring-boot-starter-actuator

@@ -1,0 +1,16 @@
+1	git://github.com/frontlinesms/frontlinesms-dist.git
+2	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-payment
+3	#DEP#net.frontlinesms.core:frontlinesms-dist
+4	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-httptrigger
+5	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-translation
+6	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-sync
+7	#DEP#com.skebby.gateways:frontlinesms-service-skebby
+8	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-learn
+9	#DEP#net.frontlinesms.core:frontlinesms-core
+10	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-reminders
+11	#DEP#com.masabi.frontlinesms.plugins:masabi-frontlinesms-plugin-formscodec
+12	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-forms
+13	#DEP#net.frontlinesms.plugins.payment:safaricom-kenya
+14	#DEP#net.frontlinesms.core:frontlinesms-pom-parent
+15	#DEP#net.frontlinesms.test:frontlinesms-test
+16	#DEP#net.frontlinesms.plugins.payment:dummycash

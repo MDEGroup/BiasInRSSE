@@ -1,0 +1,10 @@
+1	git://github.com/zhihu/mirror.git
+2	#DEP#com.trello:rxlifecycle-components
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.facebook.fresco:fresco
+5	#DEP#com.squareup.okhttp3:okhttp-ws
+6	#DEP#com.davemorrissey.labs:subsampling-scale-image-view
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#com.facebook.fresco:imagepipeline-okhttp3
+9	#DEP#com.google.code.gson:gson
+10	#DEP#io.reactivex:rxjava

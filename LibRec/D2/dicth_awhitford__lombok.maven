@@ -1,0 +1,12 @@
+1	git://github.com/awhitford/lombok.maven.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#javax.validation:validation-api
+4	#DEP#ch.qos.logback:logback-classic
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.projectlombok:lombok-maven
+8	#DEP#org.projectlombok:lombok
+9	#DEP#org.sonatype.plexus:plexus-build-api
+10	#DEP#junit:junit
+11	#DEP#org.apache.maven:maven-plugin-api
+12	#DEP#org.apache.maven:maven-core

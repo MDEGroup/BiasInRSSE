@@ -1,0 +1,6 @@
+25	#DEP#org.slf4j:slf4j-ext
+26	#DEP#org.codehaus.plexus:plexus-compiler-eclipse
+27	#DEP#org.cthul:cthul-log
+28	#DEP#org.cthul:cthul-objects
+29	#DEP#org.apache.maven:maven-plugin-api
+30	#DEP#org.mockito:mockito-core

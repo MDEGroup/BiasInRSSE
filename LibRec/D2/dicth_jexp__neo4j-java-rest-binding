@@ -1,0 +1,15 @@
+1	git://github.com/jexp/neo4j-java-rest-binding.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#org.neo4j.server.plugin:neo4j-cypher-plugin
+4	#DEP#org.neo4j:neo4j-lucene-index
+5	#DEP#org.neo4j.server.plugin:neo4j-gremlin-plugin
+6	#DEP#com.tinkerpop.blueprints:blueprints-neo4j-graph
+7	#DEP#com.sun.jersey:jersey-client
+8	#DEP#com.tinkerpop.blueprints:blueprints-core
+9	#DEP#org.neo4j.app:neo4j-server
+10	#DEP#org.codehaus.jackson:jackson-jaxrs
+11	#DEP#org.codehaus.jackson:jackson-mapper-asl
+12	#DEP#org.neo4j:neo4j-kernel
+13	#DEP#com.tinkerpop:gremlin
+14	#DEP#junit:junit
+15	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,9 @@
+1	git://github.com/beanu/smart-farmer-android.git
+2	#DEP#net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent
+3	#DEP#cn.jiguang.sdk:jpush
+4	#DEP#com.github.bumptech.glide:compiler
+5	#DEP#cn.jiguang.sdk:jcore
+6	#DEP#com.android.support.constraint:constraint-layout
+7	#DEP#junit:junit
+8	#DEP#com.android.support.test:runner
+9	#DEP#com.android.support.test.espresso:espresso-core

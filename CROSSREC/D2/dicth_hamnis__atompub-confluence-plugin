@@ -1,0 +1,15 @@
+1	git://github.com/hamnis/atompub-confluence-plugin.git
+2	#DEP#org.apache.abdera:abdera-extensions-opensearch
+3	#DEP#org.apache.abdera:abdera-parser
+4	#DEP#net.sourceforge.nekohtml:nekohtml
+5	#DEP#com.atlassian.confluence:confluence
+6	#DEP#javax.xml.bind:jaxb-api
+7	#DEP#com.atlassian.confluence.plugin:func-test
+8	#DEP#javax.ws.rs:jsr311-api
+9	#DEP#org.mockito:mockito-core
+10	#DEP#net.sf.jtidy:jtidy
+11	#DEP#com.atlassian.plugins.rest:atlassian-rest-common
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#com.atlassian.templaterenderer:atlassian-template-renderer-api
+14	#DEP#junit:junit
+15	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin

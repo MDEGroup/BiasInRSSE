@@ -1,0 +1,10 @@
+1	git://github.com/alibaba/freeline.git
+2	#DEP#:freeline-sample
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.androidannotations:androidannotations-api
+5	#DEP#org.androidannotations:androidannotations
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#com.squareup:javapoet
+8	#DEP#com.android.tools.build:gradle
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.github.javaparser:javaparser-core

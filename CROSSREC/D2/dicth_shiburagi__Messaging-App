@@ -1,0 +1,15 @@
+1	git://github.com/shiburagi/Messaging-App.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#de.hdodenhof:circleimageview
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.nineoldandroids:library
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.android.support:design
+8	#DEP#com.google.firebase:firebase-messaging
+9	#DEP#com.google.firebase:firebase-core
+10	#DEP#com.google.firebase:firebase-auth
+11	#DEP#com.android.support:cardview-v7
+12	#DEP#com.koushikdutta.ion:ion
+13	#DEP#com.android.support:support-v4
+14	#DEP#com.google.firebase:firebase-database
+15	#DEP#junit:junit

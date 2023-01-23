@@ -1,0 +1,11 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.reardonsoftware:concurrency-parent
+1	#DEP#org.springframework:spring-jms
+1	#DEP#se.scalablesolutions.akka:akka-spring
+1	#DEP#se.scalablesolutions.akka:akka-camel-typed
+1	#DEP#org.apache.camel:camel-jms
+1	#DEP#org.apache.geronimo.specs:geronimo-jms_1.1_spec
+1	#DEP#org.apache.camel:camel-spring
+1	#DEP#junit:junit
+1	#DEP#org.apache.activemq:activemq-core
+1	#DEP#org.apache.camel:camel-test

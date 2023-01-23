@@ -1,0 +1,16 @@
+1	git://github.com/GoogleCloudPlatform/jetty-runtime.git
+2	#DEP#com.google.cloud.runtimes.tests:tests-parent
+3	#DEP#com.google.cloud:google-cloud-datastore
+4	#DEP#commons-io:commons-io
+5	#DEP#com.google.cloud.runtimes:jetty-parent
+6	#DEP#org.yaml:snakeyaml
+7	#DEP#com.googlecode.xmemcached:xmemcached
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#com.google.cloud.runtimes.tests:gcloud-testing-core
+10	#DEP#com.google.cloud:google-cloud-logging
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#com.google.cloud.runtimes:jetty9-base
+13	#DEP#com.google.cloud:google-cloud-bom
+14	#DEP#org.eclipse.jetty:jetty-server
+15	#DEP#junit:junit
+16	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper

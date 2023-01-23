@@ -1,0 +1,10 @@
+1	git://github.com/AdamSHurwitz/retrorecycler.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.github.adamshurwitz.customrippleview:customrippleview
+7	#DEP#junit:junit
+8	#DEP#com.android.databinding:compiler
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

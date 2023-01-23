@@ -1,0 +1,4 @@
+1	#DEP#org.testng:testng
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#com.alibaba:fastjson
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,13 @@
+1	git://github.com/jzachr/goldenorb.git
+2	#DEP#org.apache.hadoop:hadoop-core
+3	#DEP#org.apache.zookeeper:zookeeper
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.apache.hadoop:hadoop-test
+8	#DEP#com.google.gwt:gwt-servlet
+9	#DEP#org.mockito:mockito-core
+10	#DEP#org.goldenorb:core
+11	#DEP#log4j:log4j
+12	#DEP#com.google.gwt:gwt-dev
+13	#DEP#junit:junit

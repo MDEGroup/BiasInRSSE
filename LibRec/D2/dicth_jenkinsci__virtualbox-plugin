@@ -1,0 +1,9 @@
+1	git://github.com/jenkinsci/virtualbox-plugin.git
+2	#DEP#org.jenkins-ci.plugins:plugin
+3	#DEP#org.jenkins-ci.main:remoting
+4	#DEP#org.jenkins-ci.plugins:virtualbox-parent
+5	#DEP#org.virtualbox:vboxws-42
+6	#DEP#org.virtualbox:vboxws-43
+7	#DEP#org.virtualbox:vboxws-40
+8	#DEP#org.virtualbox:vboxws
+9	#DEP#org.virtualbox:vboxws-41

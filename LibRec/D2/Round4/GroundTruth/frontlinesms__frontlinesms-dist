@@ -1,0 +1,8 @@
+1	#DEP#net.frontlinesms.core:frontlinesms-core
+1	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-reminders
+1	#DEP#com.masabi.frontlinesms.plugins:masabi-frontlinesms-plugin-formscodec
+1	#DEP#net.frontlinesms.plugins:frontlinesms-plugin-forms
+1	#DEP#net.frontlinesms.plugins.payment:safaricom-kenya
+1	#DEP#net.frontlinesms.core:frontlinesms-pom-parent
+1	#DEP#net.frontlinesms.test:frontlinesms-test
+1	#DEP#net.frontlinesms.plugins.payment:dummycash

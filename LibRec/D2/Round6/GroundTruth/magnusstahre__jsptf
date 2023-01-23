@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-web
+1	#DEP#com.pillartechnology:jsptf-parent
+1	#DEP#junit:junit-dep
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.guava:guava

@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-tx
+1	#DEP#org.apache.activemq:activemq-all
+1	#DEP#org.mybatis:mybatis
+1	#DEP#com.google.guava:guava
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#com.zjp.message:transaction

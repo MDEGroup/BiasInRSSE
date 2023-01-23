@@ -1,0 +1,10 @@
+1	#DEP#com.ibm.crail:crail-storage
+1	#DEP#com.ibm.darpc:darpc
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#com.ibm.crail:crail-rpc
+1	#DEP#log4j:log4j
+1	#DEP#com.ibm.crail:crail-namenode
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit
+1	#DEP#com.ibm.narpc:narpc
+1	#DEP#com.ibm.crail:crail-storage-narpc

@@ -1,0 +1,13 @@
+1	git://github.com/jbzdak/rs232-io-commons.git
+2	#DEP#commons-io:commons-io
+3	#DEP#cx.ath.jbzdak.commons:commons
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#cx.ath.jbzdak.linux.serial.io:terminos
+6	#DEP#cx.ath.jbzdak:ioCommons
+7	#DEP#org.slf4j:slf4j-log4j12
+8	#DEP#cx.ath.jbzdak:rxtx-port
+9	#DEP#cx.ath.jbzdak:termios-port
+10	#DEP#org.rxtx:rxtx
+11	#DEP#edu.umd.cs.findbugs:annotations
+12	#DEP#junit:junit
+13	#DEP#cx.ath.jbzdak:io-commons-api

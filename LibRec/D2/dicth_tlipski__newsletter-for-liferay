@@ -1,0 +1,13 @@
+1	git://github.com/tlipski/newsletter-for-liferay.git
+2	#DEP#org.hibernate:hibernate-annotations
+3	#DEP#javax.persistence:persistence-api
+4	#DEP#com.liferay.portal:portal-service
+5	#DEP#postgresql:postgresql
+6	#DEP#pl.net.bluesoft:util
+7	#DEP#commons-codec:commons-codec
+8	#DEP#com.vaadin:vaadin
+9	#DEP#org.hibernate:hibernate-core
+10	#DEP#javax.mail:mail
+11	#DEP#javax.portlet:portlet-api
+12	#DEP#javax.servlet:servlet-api
+13	#DEP#junit:junit

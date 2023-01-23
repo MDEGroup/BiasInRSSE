@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.google.android.things.contrib:driver-rainbowhat	1.0
+#DEP#org.nanohttpd:nanohttpd	1.0
+#DEP#com.google.android.things.contrib:driver-button	1.0
+#DEP#com.google.android.things.contrib:driver-pwmspeaker	1.0
+#DEP#com.google.firebase:firebase-database	1.0
+#DEP#org.nanohttpd:nanohttpd-webserver	1.0
+#DEP#org.webjars:d3-plugins	1.0
+#DEP#com.google.android.things.contrib:driver-ssd1306	1.0

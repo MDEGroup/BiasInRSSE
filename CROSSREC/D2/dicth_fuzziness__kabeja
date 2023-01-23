@@ -1,0 +1,12 @@
+1	git://github.com/fuzziness/kabeja.git
+2	#DEP#org.kabeja:kabeja-dxf
+3	#DEP#org.kabeja:kabeja-svg
+4	#DEP#org.apache.xmlgraphics:batik-js
+5	#DEP#de.miethxml:miethxml-ui
+6	#DEP#org.kabeja:kabeja
+7	#DEP#org.kabeja:kabeja-core
+8	#DEP#org.apache.xmlgraphics:batik-transcoder
+9	#DEP#org.apache.xmlgraphics:batik-swing
+10	#DEP#junit:junit
+11	#DEP#org.apache.cocoon:cocoon-core
+12	#DEP#org.kabeja:kabeja-ui

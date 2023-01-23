@@ -1,0 +1,4 @@
+20	#DEP#com.google.caliper:caliper-worker-jvm
+21	#DEP#com.google.guava:guava
+22	#DEP#com.google.caliper:caliper-core
+23	#DEP#junit:junit

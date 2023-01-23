@@ -1,0 +1,7 @@
+1	#DEP#com.facebook.stetho:stetho
+1	#DEP#pl.pragmatists:JUnitParams
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.github.florent37:rxandroidorm-compiler
+1	#DEP#junit:junit
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#com.github.florent37:rxandroidorm

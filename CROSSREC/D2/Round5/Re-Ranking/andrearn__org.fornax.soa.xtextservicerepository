@@ -1,0 +1,10 @@
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#org.eclipse.xtext:org.eclipse.xtext.web.servlet	1.0
+#DEP#org.eclipse.xtext:org.eclipse.xtext.testing	1.0
+#DEP#org.thingml:compilers.uml	1.0
+#DEP#org.thingml:thingml	1.0
+#DEP#org.thingml:compilers.c	1.0
+#DEP#org.jnario:org.jnario.standalone	1.0
+#DEP#org.webjars:ace	1.0
+#DEP#org.eclipse.xtend:xtend-maven-plugin	1.0
+#DEP#org.scream3r:jssc	1.0

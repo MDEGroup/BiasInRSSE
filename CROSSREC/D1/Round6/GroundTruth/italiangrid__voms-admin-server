@@ -1,0 +1,7 @@
+30	#DEP#org.italiangrid:voms-container
+31	#DEP#org.slf4j:log4j-over-slf4j
+32	#DEP#com.jgeppert.struts2.jquery:struts2-jquery-plugin
+33	#DEP#org.mockito:mockito-core
+34	#DEP#ch.qos.logback:logback-core
+35	#DEP#org.apache.struts:struts2-core
+36	#DEP#ch.qos.logback:logback-classic

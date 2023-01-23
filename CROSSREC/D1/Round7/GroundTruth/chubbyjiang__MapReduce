@@ -1,0 +1,2 @@
+9	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+10	#DEP#org.apache.mahout:mahout-integration

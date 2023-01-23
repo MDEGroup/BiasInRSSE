@@ -1,0 +1,8 @@
+33	#DEP#org.glassfish.grizzly:grizzly-core
+34	#DEP#org.glassfish.gmbal:gmbal
+35	#DEP#com.tinkerpop.blueprints:blueprints-graph-jung
+36	#DEP#com.tinkerpop.blueprints:blueprints-sparksee-graph
+37	#DEP#com.tinkerpop.rexster:rexster-core
+38	#DEP#log4j:log4j
+39	#DEP#javax.servlet:javax.servlet-api
+40	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.apache.tomcat:coyote	1.0
+#DEP#org.springframework.security:spring-security-core	1.0
+#DEP#org.apache.tomcat:catalina	1.0
+#DEP#junit:junit	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#org.apache.tomcat:annotations-api	1.0
+#DEP#net.sf.hibernate:hibernate	1.0

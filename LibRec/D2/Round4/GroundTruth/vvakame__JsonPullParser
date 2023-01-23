@@ -1,0 +1,8 @@
+1	#DEP#com.google.http-client:google-http-client-jackson2
+1	#DEP#org.seasar.aptina:aptina-commons
+1	#DEP#net.arnx.jsonic:jsonic
+1	#DEP#net.sf.json-lib:json-lib
+1	#DEP#com.google.http-client:google-http-client-test
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.google.http-client:google-http-client

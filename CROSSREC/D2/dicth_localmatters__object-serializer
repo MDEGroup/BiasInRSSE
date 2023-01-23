@@ -1,0 +1,11 @@
+1	git://github.com/localmatters/object-serializer.git
+2	#DEP#org.easymock:easymockclassextension
+3	#DEP#commons-io:commons-io
+4	#DEP#org.springframework:spring-test
+5	#DEP#log4j:log4j
+6	#DEP#dom4j:dom4j
+7	#DEP#commons-collections:commons-collections
+8	#DEP#org.easymock:easymock
+9	#DEP#commons-beanutils:commons-beanutils
+10	#DEP#org.springframework:spring-core
+11	#DEP#commons-lang:commons-lang

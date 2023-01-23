@@ -1,0 +1,17 @@
+1	git://github.com/yegor256/eo.git
+2	#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+5	#DEP#com.jcabi:jcabi-log
+6	#DEP#org.cactoos:cactoos
+7	#DEP#org.codehaus.groovy:groovy-all
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.apache.maven:maven-core
+10	#DEP#com.jcabi:jcabi-maven-slf4j
+11	#DEP#org.eolang:eo-compiler
+12	#DEP#org.apache.maven:maven-compat
+13	#DEP#com.jcabi:parent
+14	#DEP#org.eolang:eo-core
+15	#DEP#org.projectlombok:lombok
+16	#DEP#org.eolang:eo-parent
+17	#DEP#org.antlr:antlr4-runtime

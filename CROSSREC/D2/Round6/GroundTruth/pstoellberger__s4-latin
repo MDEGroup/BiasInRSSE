@@ -1,0 +1,5 @@
+1	#DEP#rhino:js
+1	#DEP#com.sun.jmx:jmxri
+1	#DEP#io.s4:s4-core
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#pentaho.kettle:kettle-engine

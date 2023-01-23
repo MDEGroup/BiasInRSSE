@@ -1,0 +1,6 @@
+1	#DEP#com.ning:async-http-client
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+1	#DEP#junit:junit
+1	#DEP#com.sun.jersey:jersey-server

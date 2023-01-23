@@ -1,0 +1,6 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.apache.tapestry:tapestry-core
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#org.apache.tapestry:tapestry-test

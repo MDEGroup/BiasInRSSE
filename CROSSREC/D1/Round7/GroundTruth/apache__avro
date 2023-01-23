@@ -1,0 +1,9 @@
+40	#DEP#org.tukaani:xz
+41	#DEP#${project.groupId}:avro-ipc
+42	#DEP#org.apache.maven:maven-core
+43	#DEP#${project.groupId}:trevni-core
+44	#DEP#org.codehaus.jackson:jackson-core-asl
+45	#DEP#org.apache.maven:maven-plugin-api
+46	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-tools
+47	#DEP#org.apache.avro:avro-guava-dependencies
+48	#DEP#org.apache.hadoop:hadoop-client

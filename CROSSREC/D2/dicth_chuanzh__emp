@@ -1,0 +1,15 @@
+1	git://github.com/chuanzh/emp.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.apache.commons:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#redis.clients:jedis
+6	#DEP#commons-dbcp:commons-dbcp
+7	#DEP#org.freemarker:freemarker
+8	#DEP#org.slf4j:slf4j-log4j12
+9	#DEP#org.jsoup:jsoup
+10	#DEP#org.apache.velocity:velocity
+11	#DEP#log4j:log4j
+12	#DEP#net.sf.json-lib:json-lib
+13	#DEP#javax.servlet:servlet-api
+14	#DEP#junit:junit
+15	#DEP#com.github.chuanzh:eweb

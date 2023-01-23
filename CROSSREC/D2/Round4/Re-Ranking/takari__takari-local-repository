@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-annotations	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.distelli.graphql:graphql-apigen-pom	1.0
+#DEP#test:test-base	1.0
+#DEP#test:test-pom	1.0
+#DEP#com.distelli.graphql:graphql-apigen-deps	1.0

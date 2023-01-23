@@ -1,0 +1,16 @@
+1	git://github.com/ganyao114/Shudu2.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#javax.annotation:jsr250-api
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#com.nineoldandroids:library
+6	#DEP#com.android.support:design
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#io.realm:realm-android
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#com.google.dagger:dagger
+11	#DEP#com.google.dagger:dagger-compiler
+12	#DEP#com.squareup.picasso:picasso
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#junit:junit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#io.reactivex:rxandroid

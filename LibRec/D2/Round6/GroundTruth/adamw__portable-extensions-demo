@@ -1,0 +1,8 @@
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#pl.softwaremill.common:softwaremill-parent
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jboss.logging:jboss-logging

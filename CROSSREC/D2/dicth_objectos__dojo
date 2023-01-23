@@ -1,0 +1,14 @@
+1	git://github.com/objectos/dojo.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#br.com.objectos:objectos-comuns-jdbc
+4	#DEP#br.com.objectos:objectos-comuns-dbunit
+5	#DEP#br.com.objectos:objectos-comuns-sqlunit
+6	#DEP#br.com.objectos:objectos-comuns-parent
+7	#DEP#br.com.objectos:objectos-comuns-base
+8	#DEP#br.com.objectos:objectos-dojo
+9	#DEP#br.com.objectos:objectos-comuns-sitebricks
+10	#DEP#org.eclipse.jetty:jetty-server
+11	#DEP#org.eclipse.jetty:jetty-http
+12	#DEP#org.eclipse.jetty:jetty-util
+13	#DEP#org.eclipse.jetty:jetty-webapp
+14	#DEP#org.eclipse.jetty:jetty-servlet

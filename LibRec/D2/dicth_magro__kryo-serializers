@@ -1,0 +1,15 @@
+1	git://github.com/magro/kryo-serializers.git
+2	#DEP#com.github.andrewoma.dexx:collection
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.testng:testng
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.wicket:wicket
+8	#DEP#joda-time:joda-time
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#commons-lang:commons-lang
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#com.google.guava:guava
+13	#DEP#com.esotericsoftware:kryo
+14	#DEP#junit:junit
+15	#DEP#cglib:cglib

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.enterprise:cdi-api	1.0
+#DEP#org.testng:testng	1.0
+#DEP#org.jboss.arquillian.junit:arquillian-junit-container	1.0
+#DEP#org.apache.openwebbeans:openwebbeans-impl	1.0
+#DEP#org.apache.openwebbeans:openwebbeans-spi	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#javax.validation:validation-api	1.0
+#DEP#org.cdisource.beancontainer:beancontainer-test	1.0
+#DEP#org.cdisource:cdisource-parent	1.0

@@ -1,0 +1,11 @@
+1	git://github.com/smartrics/RestFixture.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.mozilla:rhino
+4	#DEP#com.thoughtworks.xstream:xstream
+5	#DEP#org.hamcrest:hamcrest-all
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.codehaus.jettison:jettison
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#smartrics.restfixture:smartrics-RestClient
+11	#DEP#org.fitnesse:fitnesse

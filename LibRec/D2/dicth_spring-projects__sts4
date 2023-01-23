@@ -1,0 +1,16 @@
+1	git://github.com/spring-projects/sts4.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.springframework.boot:spring-boot-starter
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#org.springframework.boot:spring-boot-configuration-processor
+6	#DEP#org.springframework.boot:spring-boot-starter-web
+7	#DEP#org.springframework.boot.ide:org.springframework.boot.ide
+8	#DEP#org.springframework.boot:spring-boot-starter-test
+9	#DEP#org.springframework.cloud:spring-cloud-starter-parent
+10	#DEP#com.example:test-annotation-indexing-parent
+11	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+12	#DEP#com.google.guava:guava
+13	#DEP#org.springframework.cloud:spring-cloud-config-server
+14	#DEP#org.springframework.boot.ide:org.springframework.boot.ide.servers
+15	#DEP#junit:junit
+16	#DEP#org.springframework.boot:spring-boot-starter-actuator

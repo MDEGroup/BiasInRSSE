@@ -1,0 +1,6 @@
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#com.hashicorp.nomad:nomad-sdk
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#com.hashicorp.nomad:nomad-sdk-parent
+1	#DEP#junit:junit
+1	#DEP#org.hamcrest:java-hamcrest

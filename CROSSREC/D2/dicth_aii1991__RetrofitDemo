@@ -1,0 +1,10 @@
+1	git://github.com/aii1991/RetrofitDemo.git
+2	#DEP#com.squareup.okhttp3:logging-interceptor
+3	#DEP#com.squareup.retrofit2:adapter-rxjava
+4	#DEP#com.squareup.retrofit2:retrofit
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#junit:junit
+7	#DEP#com.google.code.gson:gson
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

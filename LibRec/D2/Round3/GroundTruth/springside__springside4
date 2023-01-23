@@ -1,0 +1,15 @@
+1	#DEP#org.springframework.boot:spring-boot-dependencies
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.javasimon:javasimon-spring
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#io.springside:springside-utils
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.jolokia:jolokia-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#org.springframework:spring-framework-bom
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#com.h2database:h2

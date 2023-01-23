@@ -1,0 +1,15 @@
+1	git://github.com/geoavalanche/geoavalanche-engine.git
+2	#DEP#org.geoserver:wfs
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.geotools:gt-render
+5	#DEP#postgresql:postgresql
+6	#DEP#org.geoserver:ows
+7	#DEP#org.geoserver:rest
+8	#DEP#com.mockrunner:mockrunner
+9	#DEP#org.geoserver:wms
+10	#DEP#org.geoserver.web:web-app
+11	#DEP#org.geoserver:main
+12	#DEP#net.sourceforge.jwebunit:jwebunit-core
+13	#DEP#junit:junit
+14	#DEP#it.geobeyond:ows-geoavalanche
+15	#DEP#it.geobeyond:geoavalanche

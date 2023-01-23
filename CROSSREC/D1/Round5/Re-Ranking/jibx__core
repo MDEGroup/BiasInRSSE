@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#org.eclipse.jetty:jetty-server	1.0
+#DEP#org.slf4j:org.slf4j	1.0
+#DEP#com.sun.jersey:com.sun.jersey	1.0
+#DEP#org.markdownj:org.markdownj	1.0
+#DEP#org.scalatest:org.scalatest	1.0
+#DEP#org.fusesource.scalate:scalate-spring-mvc	1.0

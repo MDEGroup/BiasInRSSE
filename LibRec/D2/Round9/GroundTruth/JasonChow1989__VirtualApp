@@ -1,0 +1,6 @@
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.github.moduth:blockcanary-no-op
+1	#DEP#com.google.android.gms:play-services-appindexing
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#org.jdeferred:jdeferred-android-aar
+1	#DEP#com.yanzhenjie:recyclerview-swipe

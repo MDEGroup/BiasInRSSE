@@ -1,0 +1,6 @@
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#io.springfox:springfox-swagger2
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#com.h2database:h2

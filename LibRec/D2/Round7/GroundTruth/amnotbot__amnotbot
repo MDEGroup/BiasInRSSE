@@ -1,0 +1,7 @@
+1	#DEP#net.sf.delicious-java:delicious
+1	#DEP#org.twitter4j:twitter4j-core
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.htmlparser:thumbelina
+1	#DEP#jivesoftware:smackx

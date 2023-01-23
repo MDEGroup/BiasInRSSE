@@ -1,0 +1,10 @@
+#DEP#com.google.guava:guava	1.0
+#DEP#junit:junit	1.0
+#DEP#org.easymock:easymock	1.0
+#DEP#com.google.testing.compile:compile-testing	1.0
+#DEP#com.google.auto.value:auto-value	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#com.google.guava:guava-tests	1.0
+#DEP#com.google.j2objc:j2objc-annotations	1.0

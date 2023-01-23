@@ -1,0 +1,12 @@
+1	git://github.com/grisu/grisu-web.git
+2	#DEP#com.extjs:gxt
+3	#DEP#org.vpac.grisu:grisu-client-enunciate-gwt
+4	#DEP#gwtupload:gwtupload
+5	#DEP#net.sf.dozer:dozer
+6	#DEP#com.google.gwt:gwt-user
+7	#DEP#commons-fileupload:commons-fileupload
+8	#DEP#org.vpac.grisu:grisu-core
+9	#DEP#au.org.arcs.auth:arcs-gsi
+10	#DEP#junit:junit
+11	#DEP#org.vpac.grisu:grisu-client
+12	#DEP#com.google.gwt:gwt-servlet

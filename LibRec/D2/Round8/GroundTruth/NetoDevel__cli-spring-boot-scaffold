@@ -1,0 +1,8 @@
+1	#DEP#postgresql:postgresql
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#br.com:spring-boot-generate
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#junit:junit

@@ -1,0 +1,14 @@
+1	git://github.com/SmartOnCloud/gae-security-sample.git
+2	#DEP#org.slf4j:slf4j-api
+3	#DEP#com.google.appengine:appengine-tools-api
+4	#DEP#org.aspectj:aspectjweaver
+5	#DEP#com.google.appengine:appengine-api-stubs
+6	#DEP#com.google.appengine:appengine-api-1.0-sdk
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#org.springframework:spring-webmvc
+9	#DEP#javax.servlet:servlet-api
+10	#DEP#com.google.appengine:appengine-api-labs
+11	#DEP#org.aspectj:aspectjrt
+12	#DEP#com.google.appengine:appengine-testing
+13	#DEP#cglib:cglib
+14	#DEP#org.slf4j:slf4j-jdk14

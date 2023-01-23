@@ -1,0 +1,12 @@
+1	git://github.com/mogilefs-moji/moji.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#commons-io:commons-io
+4	#DEP#commons-pool:commons-pool
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#fm.last:lastfm-oss-parent
+7	#DEP#fm.last.commons:lastcommons-lang
+8	#DEP#fm.last.commons:lastcommons-test
+9	#DEP#org.mockito:mockito-all
+10	#DEP#junit:junit
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#commons-lang:commons-lang

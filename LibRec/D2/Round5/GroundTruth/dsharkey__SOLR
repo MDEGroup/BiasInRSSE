@@ -1,0 +1,15 @@
+1	#DEP#woodstox:wstx-asl
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.apache.solr:solr-solrj
+1	#DEP#org.carrot2:carrot2-mini
+1	#DEP#org.apache.geronimo.specs:geronimo-stax-api_1.0_spec
+1	#DEP#org.codehaus.woodstox:wstx-asl
+1	#DEP#org.apache.solr:solr-commons-csv
+1	#DEP#org.apache.lucene:lucene-snowball
+1	#DEP#org.apache:apache
+1	#DEP#org.apache.lucene:lucene-queries
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#org.apache.lucene:lucene-analyzers
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#commons-fileupload:commons-fileupload

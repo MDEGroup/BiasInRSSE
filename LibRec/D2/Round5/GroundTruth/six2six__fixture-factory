@@ -1,0 +1,6 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.thoughtworks.paranamer:paranamer
+1	#DEP#net.vidageek:mirror
+1	#DEP#br.com.six2six:bfgex
+1	#DEP#junit:junit
+1	#DEP#com.rubiconproject.oss:jchronic

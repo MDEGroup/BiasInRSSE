@@ -1,0 +1,10 @@
+1	git://github.com/serso/android-calculatorpp.git
+2	#DEP#net.sf.opencsv:opencsv
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.google.code.findbugs:annotations
+6	#DEP#xerces:xercesImpl
+7	#DEP#com.google.guava:guava
+8	#DEP#org.json:json
+9	#DEP#junit:junit
+10	#DEP#org.simpleframework:simple-xml

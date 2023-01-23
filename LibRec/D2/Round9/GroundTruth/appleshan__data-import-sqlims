@@ -1,0 +1,7 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.mybatis.spring.boot:mybatis-spring-boot-starter
+1	#DEP#com.zaxxer:HikariCP
+1	#DEP#org.apache.poi:poi-ooxml
+1	#DEP#org.springframework.boot:spring-boot-starter-aop

@@ -1,0 +1,15 @@
+1	git://github.com/IhorKlimov/AndroidFirebase.git
+2	#DEP#com.firebase:firebase-jobdispatcher-with-gcm-dep
+3	#DEP#io.reactivex.rxjava2:rxandroid
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.firebase:geofire-android
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.android.support:design
+8	#DEP#com.squareup.retrofit2:converter-gson
+9	#DEP#com.google.firebase:firebase-messaging
+10	#DEP#com.android.databinding:compiler
+11	#DEP#com.google.android.gms:play-services
+12	#DEP#com.google.firebase:firebase-firestore
+13	#DEP#com.squareup.retrofit2:retrofit
+14	#DEP#com.google.firebase:firebase-database
+15	#DEP#junit:junit

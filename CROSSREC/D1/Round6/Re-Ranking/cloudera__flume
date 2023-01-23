@@ -1,0 +1,10 @@
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.apache.hadoop:hadoop-test	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.sun.jersey:jersey-server	1.0
+#DEP#com.sun.jersey:jersey-core	1.0
+#DEP#org.apache.ivory:ivory-process	1.0
+#DEP#org.apache.ivory:ivory-feed	1.0
+#DEP#org.apache.ivory:ivory-client	1.0

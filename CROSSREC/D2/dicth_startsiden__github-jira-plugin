@@ -1,0 +1,10 @@
+1	git://github.com/startsiden/github-jira-plugin.git
+2	#DEP#com.atlassian.jira:jira-api
+3	#DEP#javax.ws.rs:jsr311-api
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#javax.servlet:servlet-api
+6	#DEP#junit:junit
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.codehaus.jackson:jackson-mapper-asl
+9	#DEP#com.atlassian.plugins:atlassian-plugins-osgi-testrunner
+10	#DEP#joda-time:joda-time

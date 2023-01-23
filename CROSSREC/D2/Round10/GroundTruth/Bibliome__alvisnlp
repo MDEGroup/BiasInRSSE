@@ -1,0 +1,16 @@
+1	#DEP#org.apache.lucene:lucene-analyzers
+1	#DEP#com.sun.jersey.contribs:jersey-multipart
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.tika:tika-core
+1	#DEP#org.apache.jena:jena-core
+1	#DEP#org.apache.jena:jena-fuseki-embedded
+1	#DEP#fr.jouy.inra.maiage.bibliome:bibliome-utils
+1	#DEP#edu.stanford.nlp:stanford-corenlp
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.poi:poi
+1	#DEP#fr.jouy.inra.maiage.bibliome:alvisir-core
+1	#DEP#xerces:xercesImpl
+1	#DEP#fr.jouy.inra.maiage.bibliome:alvisdb-core
+1	#DEP#fr.jouy.inra.maiage.bibliome:alvisnlp

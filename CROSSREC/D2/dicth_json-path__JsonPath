@@ -1,0 +1,9 @@
+1	git://github.com/json-path/JsonPath.git
+2	#DEP#com.nebhale.jsonpath:jsonpath
+3	#DEP#commons-io:commons-io
+4	#DEP#org.glassfish.jersey.containers:jersey-container-servlet
+5	#DEP#io.fastjson:boon
+6	#DEP#io.gatling:jsonpath_2.10
+7	#DEP#org.eclipse.jetty:jetty-server
+8	#DEP#yyyy-MM-dd HH:mm
+9	#DEP#org.eclipse.jetty:jetty-webapp

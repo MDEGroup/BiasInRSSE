@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.github.bumptech.glide:glide	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.github.hotchemi:permissionsdispatcher	1.0
+#DEP#com.jakewharton:butterknife-compiler	1.0
+#DEP#com.tapadoo.android:alerter	1.0
+#DEP#com.deploygate:sdk	1.0

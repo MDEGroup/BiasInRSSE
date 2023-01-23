@@ -1,0 +1,4 @@
+16	#DEP#javax.money:money-api
+17	#DEP#junit:junit
+18	#DEP#com.ibm.icu:icu4j
+19	#DEP#${project.groupId}:javamoney-validity

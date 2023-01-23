@@ -1,0 +1,5 @@
+21	#DEP#log4j:log4j
+22	#DEP#com.intellij:icons
+23	#DEP#com.intellij:jdom
+24	#DEP#junit:junit
+25	#DEP#com.couchbase.client:java-client

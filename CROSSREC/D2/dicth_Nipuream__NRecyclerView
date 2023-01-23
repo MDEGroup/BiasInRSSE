@@ -1,0 +1,9 @@
+1	git://github.com/Nipuream/NRecyclerView.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.tubb.smrv:swipemenu-recyclerview
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.yqritc:recyclerview-flexibledivider
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#dev.dworks.libs:volleyplus
+9	#DEP#com.android.support:design

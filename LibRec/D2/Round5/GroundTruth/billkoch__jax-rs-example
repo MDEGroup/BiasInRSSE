@@ -1,0 +1,10 @@
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#org.jboss.resteasy:resteasy-jaxrs
+1	#DEP#org.jboss.resteasy:resteasy-spring
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jboss.resteasy:resteasy-links
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider
+1	#DEP#junit:junit

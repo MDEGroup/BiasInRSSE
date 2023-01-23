@@ -1,0 +1,15 @@
+1	git://github.com/lestard/todomvcFX.git
+2	#DEP#de.saxsys:mvvmfx-testing-utils
+3	#DEP#io.javaslang:javaslang
+4	#DEP#org.assertj:assertj-core
+5	#DEP#de.jensd:fontawesomefx
+6	#DEP#eu.lestard:assertj-javafx
+7	#DEP#org.testfx:testfx-core
+8	#DEP#eu.lestard:easy-di
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#eu.lestard:fluxfx
+11	#DEP#org.testfx:testfx-junit
+12	#DEP#org.fxmisc.easybind:easybind
+13	#DEP#junit:junit
+14	#DEP#com.netopyr.reduxfx:reduxfx
+15	#DEP#de.saxsys:mvvmfx

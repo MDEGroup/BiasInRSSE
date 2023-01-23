@@ -1,0 +1,4 @@
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#javax.servlet:jstl
+1	#DEP#taglibs:standard
+1	#DEP#junit:junit

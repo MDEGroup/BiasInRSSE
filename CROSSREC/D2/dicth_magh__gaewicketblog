@@ -1,0 +1,12 @@
+1	git://github.com/magh/gaewicketblog.git
+2	#DEP#com.google.appengine:appengine-api-1.0-sdk
+3	#DEP#org.wicketstuff:tinymce
+4	#DEP#javax.servlet:servlet-api
+5	#DEP#javax.jdo:jdo2-api
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.json:json
+8	#DEP#org.apache.wicket:wicket
+9	#DEP#org.apache.wicket:wicket-auth-roles
+10	#DEP#org.apache.wicket:wicket-extensions
+11	#DEP#junit:junit
+12	#DEP#org.slf4j:slf4j-jdk14

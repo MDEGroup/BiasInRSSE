@@ -1,0 +1,13 @@
+1	git://github.com/trecloux/spring-data-jpa-examples.git
+2	#DEP#org.hibernate:hibernate-entitymanager
+3	#DEP#javax.persistence:com.springsource.javax.persistence
+4	#DEP#org.springframework:org.springframework.aspects
+5	#DEP#joda-time:joda-time
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#org.aspectj:aspectjweaver
+8	#DEP#org.springframework.data:spring-data-jpa
+9	#DEP#org.springframework.data.jpa.examples:spring-data-jpa-examples-parent
+10	#DEP#org.springframework:spring-test
+11	#DEP#log4j:log4j
+12	#DEP#org.hsqldb:com.springsource.org.hsqldb
+13	#DEP#junit:junit

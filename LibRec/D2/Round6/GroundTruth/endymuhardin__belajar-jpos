@@ -1,0 +1,4 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#org.jpos:jpos

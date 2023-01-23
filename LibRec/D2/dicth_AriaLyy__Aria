@@ -1,0 +1,11 @@
+1	git://github.com/AriaLyy/Aria.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.google.auto:auto-common
+4	#DEP#com.arialyy.frame:MVVM2
+5	#DEP#com.squareup:javapoet
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.auto.service:auto-service
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.android.support:design
+11	#DEP#com.jakewharton:butterknife

@@ -1,0 +1,7 @@
+1	#DEP#org.apache.opennlp:opennlp-uima
+1	#DEP#org.apache.lucene:lucene-benchmark
+1	#DEP#net.sf.jwordnet:jwnl
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#junit:junit
+1	#DEP#org.apache.solr:solr-solrj
+1	#DEP#org.apache.hadoop:hadoop-hdfs

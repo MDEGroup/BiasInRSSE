@@ -1,0 +1,14 @@
+1	#DEP#org.restlet.jee:org.restlet.ext.spring
+1	#DEP#org.springframework:spring-context
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#org.jboss.resteasy:tjws
+1	#DEP#org.apache.cxf:cxf-rt-frontend-jaxrs
+1	#DEP#com.google.gwt:gwt-servlet
+1	#DEP#org.restlet.jee:org.restlet.ext.jaxrs
+1	#DEP#org.apache.cxf:cxf-rt-transports-http-jetty
+1	#DEP#org.springframework:spring-web
+1	#DEP#log4j:log4j
+1	#DEP#com.sun.jersey.contribs:jersey-spring
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.sun.jersey.jersey-test-framework:jersey-test-framework-grizzly
+1	#DEP#junit:junit

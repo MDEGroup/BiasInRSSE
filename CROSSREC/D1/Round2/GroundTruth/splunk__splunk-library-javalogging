@@ -1,0 +1,3 @@
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#junit:junit
+14	#DEP#org.apache.logging.log4j:log4j-api

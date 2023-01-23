@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.qualinsight.mavencentral:qualinsight-mavencentral-parent	1.0
+#DEP#org.sonarsource.java:sonar-java-plugin	1.0
+#DEP#com.qualinsight.plugins.sonarqube:qualinsight-plugins-sonarqube-smell	1.0
+#DEP#org.sonarsource.sslr-squid-bridge:sslr-squid-bridge	1.0
+#DEP#com.qualinsight.plugins.sonarqube:qualinsight-plugins-sonarqube-smell-api	1.0

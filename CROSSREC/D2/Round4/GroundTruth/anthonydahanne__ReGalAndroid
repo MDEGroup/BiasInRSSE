@@ -1,0 +1,12 @@
+1	#DEP#net.dahanne.gallery3:g3-java-client
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#commons-lang:commons-lang
+1	#DEP#net.dahanne.gallery:commons-gallery
+1	#DEP#net.dahanne.gallery:jiwigo-ws-api-converter
+1	#DEP#org.slf4j:slf4j-android
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#net.dahanne.android:regalandroid-parent
+1	#DEP#org.json:json
+1	#DEP#junit:junit

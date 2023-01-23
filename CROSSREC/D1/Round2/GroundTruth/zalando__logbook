@@ -1,0 +1,8 @@
+34	#DEP#org.zalando:logbook-core
+35	#DEP#org.junit.jupiter:junit-jupiter-params
+36	#DEP#org.springframework.boot:spring-boot-autoconfigure
+37	#DEP#org.glassfish:javax.servlet
+38	#DEP#org.apiguardian:apiguardian-api
+39	#DEP#org.springframework:spring-framework-bom
+40	#DEP#org.springframework.security:spring-security-bom
+41	#DEP#com.github.stephenc.jcip:jcip-annotations

@@ -1,0 +1,9 @@
+1	#DEP#org.apache.ignite:ignite-zookeeper
+1	#DEP#org.apache.ignite:ignite-core
+1	#DEP#org.apache.curator:curator-framework
+1	#DEP#org.apache.ignite:ignite-slf4j
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jboss.resteasy:resteasy-netty
+1	#DEP#junit:junit

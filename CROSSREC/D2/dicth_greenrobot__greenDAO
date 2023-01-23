@@ -1,0 +1,15 @@
+1	git://github.com/greenrobot/greenDAO.git
+2	#DEP#org.robolectric:robolectric
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.google.android:android
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#:tests
+7	#DEP#org.freemarker:freemarker
+8	#DEP#com.jakewharton.rxbinding:rxbinding
+9	#DEP#org.greenrobot:essentials
+10	#DEP#org.mockito:mockito-core
+11	#DEP#org.greenrobot:greendao
+12	#DEP#net.zetetic:android-database-sqlcipher
+13	#DEP#junit:junit
+14	#DEP#io.reactivex:rxjava
+15	#DEP#io.reactivex:rxandroid

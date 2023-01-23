@@ -1,0 +1,16 @@
+1	git://github.com/suguru/cassandra-webconsole.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#org.tuckey:urlrewritefilter
+4	#DEP#org.slf4j:log4j-over-slf4j
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#com.google.collections:google-collections
+7	#DEP#org.freemarker:freemarker
+8	#DEP#commons-codec:commons-codec
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#org.apache.cassandra:cassandra-all
+11	#DEP#ch.qos.logback:logback-core
+12	#DEP#org.springframework:spring-context-support
+13	#DEP#org.springframework:spring-webmvc
+14	#DEP#ch.qos.logback:logback-classic
+15	#DEP#org.eclipse.jetty:jetty-webapp
+16	#DEP#junit:junit

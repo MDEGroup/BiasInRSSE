@@ -1,0 +1,8 @@
+1	#DEP#org.codehaus.plexus:plexus-archiver
+1	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-tools
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#log4j:log4j
+1	#DEP#org.mule:assembly-with-mule-app
+1	#DEP#junit:junit
+1	#DEP#org.mule:mule-app
+1	#DEP#org.apache.maven:maven-artifact

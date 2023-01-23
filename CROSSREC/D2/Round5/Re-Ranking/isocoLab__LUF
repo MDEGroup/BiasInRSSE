@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#net.metadata.chico:chico.mvc	1.0
+#DEP#net.metadata.emmet:emmet.servlet	1.0
+#DEP#net.metadata.chico:chico.config	1.0
+#DEP#net.metadata.chico:chico	1.0

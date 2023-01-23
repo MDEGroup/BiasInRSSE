@@ -1,0 +1,12 @@
+1	git://github.com/Pivotal-Field-Engineering/elasticsearch-service-broker.git
+2	#DEP#org.springframework.boot:spring-boot-starter-cloud-connectors
+3	#DEP#org.apache.logging.log4j:log4j-core
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#io.pivotal.ecosystem:simple-broker
+6	#DEP#io.pivotal.ecosystem:cf-elasticsearch
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.projectlombok:lombok
+9	#DEP#io.searchbox:jest
+10	#DEP#org.apache.logging.log4j:log4j-api
+11	#DEP#org.springframework.boot:spring-boot-starter-web
+12	#DEP#io.pivotal.ecosystem:elasticsearch-connector

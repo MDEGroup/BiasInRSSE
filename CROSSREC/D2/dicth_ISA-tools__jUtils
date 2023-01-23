@@ -1,0 +1,14 @@
+1	git://github.com/ISA-tools/jUtils.git
+2	#DEP#uk.ac.ebi:jutils-pom
+3	#DEP#commons-io:commons-io
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.apache.httpcomponents:httpcomponents-core
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#uk.org.lidalia:lidalia-slf4j-ext
+9	#DEP#${project.groupId}:jutils
+10	#DEP#uk.ac.ebi.fg.biosd:biosd_deploy
+11	#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit

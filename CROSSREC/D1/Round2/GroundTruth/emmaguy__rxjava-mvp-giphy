@@ -1,0 +1,4 @@
+20	#DEP#com.android.support.constraint:constraint-layout
+21	#DEP#com.squareup.retrofit2:retrofit
+22	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+23	#DEP#junit:junit

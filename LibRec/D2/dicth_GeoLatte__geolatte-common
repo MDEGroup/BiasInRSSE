@@ -1,0 +1,11 @@
+1	git://github.com/GeoLatte/geolatte-common.git
+2	#DEP#cglib:cglib-nodep
+3	#DEP#log4j:log4j
+4	#DEP#nl.jqno.equalsverifier:equalsverifier
+5	#DEP#org.jmock:jmock-junit4
+6	#DEP#org.jmock:jmock-legacy
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#org.mockito:mockito-all
+9	#DEP#junit:junit
+10	#DEP#org.geolatte:geolatte-geom
+11	#DEP#org.slf4j:slf4j-log4j12

@@ -1,0 +1,15 @@
+1	#DEP#org.apache.juneau:juneau
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.apache.juneau:juneau-releng
+1	#DEP#org.apache:apache
+1	#DEP#org.apache.juneau:juneau-svl
+1	#DEP#org.eclipse.jetty:jetty-security
+1	#DEP#org.apache.juneau:juneau-rest-server-jaxrs
+1	#DEP#org.apache.jena:jena-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.apache.juneau:juneau-marshall-rdf
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.derby:derby
+1	#DEP#junit:junit
+1	#DEP#org.apache.juneau:juneau-examples

@@ -1,0 +1,4 @@
+1	#DEP#com.ocpsoft:ocpsoft-parent
+1	#DEP#org.jboss.forge:forge-test-harness
+1	#DEP#com.ocpsoft:prettyfaces-jsf2
+1	#DEP#org.jboss.forge:forge-scaffold-api

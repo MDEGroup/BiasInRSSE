@@ -1,0 +1,5 @@
+1	#DEP#com.soundcloud.android:android-crop
+1	#DEP#com.facebook.stetho:stetho-okhttp3
+1	#DEP#frankiesardo:icepick-processor
+1	#DEP#frankiesardo:icepick
+1	#DEP#junit:junit

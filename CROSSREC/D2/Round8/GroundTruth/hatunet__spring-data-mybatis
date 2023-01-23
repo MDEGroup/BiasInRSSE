@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-orm
+1	#DEP#org.mybatis:mybatis-spring
+1	#DEP#com.querydsl:querydsl-core
+1	#DEP#org.springframework.data:spring-data-commons
+1	#DEP#com.h2database:h2
+1	#DEP#net.sourceforge.jtds:jtds

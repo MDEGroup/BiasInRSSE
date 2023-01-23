@@ -1,0 +1,14 @@
+1	git://github.com/qa/auction.git
+2	#DEP#org.picketbox:picketbox-bare
+3	#DEP#org.jboss.spec:jboss-javaee-6.0
+4	#DEP#org.jboss.seam:seam-bom
+5	#DEP#org.subethamail:subethasmtp-smtp
+6	#DEP#org.jboss.seam.persistence:seam-persistence
+7	#DEP#org.jboss.spec:jboss-javaee6-specs-bom
+8	#DEP#org.richfaces:richfaces-bom
+9	#DEP#org.richfaces.ui:richfaces-components-ui
+10	#DEP#javax.mail:mail
+11	#DEP#javax.activation:activation
+12	#DEP#org.jboss.seam.faces:seam-faces
+13	#DEP#org.subethamail:subethasmtp-wiser
+14	#DEP#com.h2database:h2

@@ -1,0 +1,11 @@
+1	git://github.com/bijukunjummen/si-dsl-rabbit-sample.git
+2	#DEP#bk.dsl.sample:si-dsl-rabbit-sample
+3	#DEP#org.springframework.boot:spring-boot-starter-integration
+4	#DEP#org.springframework.integration:spring-integration-amqp
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.boot:spring-boot-starter-amqp
+7	#DEP#com.google.guava:guava
+8	#DEP#org.springframework.integration:spring-integration-java-dsl
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#org.springframework.boot:spring-boot-starter-web

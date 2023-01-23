@@ -1,0 +1,11 @@
+1	git://github.com/ClumsyOtter/WareHouse.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.fasterxml.jackson.core:jackson-core
+4	#DEP#com.oracle:ojdbc6
+5	#DEP#org.mybatis:mybatis
+6	#DEP#com.mchange:mchange-commons-java
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#junit:junit
+9	#DEP#org.mybatis:mybatis-spring
+10	#DEP#c3p0:c3p0
+11	#DEP#com.fasterxml.jackson.core:jackson-annotations

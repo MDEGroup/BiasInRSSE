@@ -1,0 +1,5 @@
+23	#DEP#org.jboss.ironjacamar:ironjacamar-spec-api
+24	#DEP#org.jboss.remoting:jboss-remoting
+25	#DEP#org.jboss.narayana.jts:narayana-jts-integration
+26	#DEP#junit:junit
+27	#DEP#org.jboss.logmanager:jboss-logmanager

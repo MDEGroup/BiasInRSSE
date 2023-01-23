@@ -1,0 +1,13 @@
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-multibranch
+1	#DEP#org.jenkins-ci.plugins:gitlab-plugin
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.jenkins-ci.plugins:cloudbees-folder
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci:symbol-annotation
+1	#DEP#org.jenkins-ci.plugins:git-client
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

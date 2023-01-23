@@ -1,0 +1,14 @@
+1	git://github.com/tabulapdf/tabula-java.git
+2	#DEP#org.bouncycastle:bcmail-jdk15on
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.apache.commons:commons-csv
+5	#DEP#com.levigo.jbig2:levigo-jbig2-imageio
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.bouncycastle:bcprov-jdk15on
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#com.google.code.gson:gson
+10	#DEP#org.apache.pdfbox:pdfbox
+11	#DEP#com.github.jai-imageio:jai-imageio-jpeg2000
+12	#DEP#com.github.jai-imageio:jai-imageio-core
+13	#DEP#junit:junit
+14	#DEP#net.sf.jsi:jsi

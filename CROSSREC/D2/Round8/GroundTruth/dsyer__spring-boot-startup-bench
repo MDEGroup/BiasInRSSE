@@ -1,0 +1,15 @@
+1	#DEP#org.webjars:webjars-locator
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#org.springframework.cloud:spring-cloud-starter-netflix-eureka-client
+1	#DEP#org.webjars:jquery
+1	#DEP#org.springframework.cloud:spring-cloud-config-server
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#org.ehcache:ehcache
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#com.h2database:h2
+1	#DEP#org.apache.maven:maven-settings-builder

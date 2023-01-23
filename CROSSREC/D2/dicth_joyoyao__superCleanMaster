@@ -1,0 +1,11 @@
+1	git://github.com/joyoyao/superCleanMaster.git
+2	#DEP#com.umeng.analytics:analytics
+3	#DEP#com.nhaarman.listviewanimations:lib-core-slh
+4	#DEP#com.hannesdorfmann.smoothprogressbar:library
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.nhaarman.listviewanimations:lib-core
+7	#DEP#com.github.gabrielemariotti.changeloglib:library
+8	#DEP#com.github.castorflex.smoothprogressbar:library-circular
+9	#DEP#com.nhaarman.listviewanimations:lib-manipulation
+10	#DEP#com.android.support:appcompat-v7
+11	#DEP#com.jakewharton:butterknife

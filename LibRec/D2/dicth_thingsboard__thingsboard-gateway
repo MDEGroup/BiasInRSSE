@@ -1,0 +1,15 @@
+1	git://github.com/thingsboard/thingsboard-gateway.git
+2	#DEP#org.thingsboard.common:data
+3	#DEP#org.slf4j:log4j-over-slf4j
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3
+6	#DEP#org.springframework.boot:spring-boot-starter-web
+7	#DEP#org.springframework.boot:spring-boot-starter-security
+8	#DEP#org.eclipse.milo:sdk-client
+9	#DEP#org.springframework.boot:spring-boot-starter-test
+10	#DEP#ch.qos.logback:logback-core
+11	#DEP#com.jayway.jsonpath:json-path
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#com.sun.winsw:winsw
+14	#DEP#org.bouncycastle:bcpkix-jdk15on
+15	#DEP#org.projectlombok:lombok

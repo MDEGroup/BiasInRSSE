@@ -1,0 +1,5 @@
+1	#DEP#org.testng:testng
+1	#DEP#jfree:jfreechart
+1	#DEP#org.easytesting:fest-swing
+1	#DEP#com.google.collections:google-collections
+1	#DEP#${project.groupId}:watchmaker-swing

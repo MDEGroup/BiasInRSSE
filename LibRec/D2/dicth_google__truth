@@ -1,0 +1,17 @@
+1	git://github.com/google/truth.git
+2	#DEP#com.google.auto.value:auto-value
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#com.google.truth.extensions:truth-extensions-parent
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#com.google.truth:truth-parent
+8	#DEP#com.google.truth:truth
+9	#DEP#com.google.protobuf:protobuf-java
+10	#DEP#com.google.re2j:re2j
+11	#DEP#com.google.guava:guava-gwt
+12	#DEP#com.google.errorprone:error_prone_annotations
+13	#DEP#com.google.guava:guava-testlib
+14	#DEP#com.google.testing.compile:compile-testing
+15	#DEP#com.google.guava:guava
+16	#DEP#com.google.truth.extensions:truth-liteproto-extension
+17	#DEP#junit:junit

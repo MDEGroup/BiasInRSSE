@@ -1,0 +1,6 @@
+27	#DEP#software.betamax:betamax-core
+28	#DEP#org.mockito:mockito-core
+29	#DEP#com.github.fge:json-patch
+30	#DEP#org.jboss.resteasy:resteasy-client
+31	#DEP#junit:junit
+32	#DEP#org.pacesys.openstack4j.connectors:openstack4j-okhttp

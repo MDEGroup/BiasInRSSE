@@ -1,0 +1,6 @@
+25	#DEP#ch.qos.logback:logback-classic
+26	#DEP#org.springframework.hateoas:spring-hateoas
+27	#DEP#junit:junit
+28	#DEP#org.restlet.jse:org.restlet.ext.jackson
+29	#DEP#io.dropwizard:dropwizard-core
+30	#DEP#org.springframework.boot:spring-boot-starter-actuator

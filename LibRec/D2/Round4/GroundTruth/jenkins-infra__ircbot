@@ -1,0 +1,5 @@
+1	#DEP#pircbot:pircbot
+1	#DEP#org.kohsuke:github-api
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#org.jenkins-ci:jira-api

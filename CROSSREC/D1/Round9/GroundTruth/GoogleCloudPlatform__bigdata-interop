@@ -1,0 +1,7 @@
+29	#DEP#log4j:log4j
+30	#DEP#org.apache.avro:avro
+31	#DEP#org.apache.hadoop:hadoop-common
+32	#DEP#junit:junit
+33	#DEP#com.google.api-client:google-api-client-jackson2
+34	#DEP#com.google.http-client:google-http-client
+35	#DEP#com.google.http-client:google-http-client-protobuf

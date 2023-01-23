@@ -1,0 +1,16 @@
+1	git://github.com/reines/game.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.javassist:javassist
+4	#DEP#commons-cli:commons-cli
+5	#DEP#com.thoughtworks.xstream:xstream
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.jamierf.game:game
+9	#DEP#org.lwjgl:lwjgl-util
+10	#DEP#org.hibernate:hibernate-core
+11	#DEP#com.jamierf.game:game-graphics
+12	#DEP#org.apache.mina:mina-core
+13	#DEP#com.jamierf.game:game-common
+14	#DEP#org.jmock:jmock
+15	#DEP#junit:junit
+16	#DEP#org.lwjgl:lwjgl

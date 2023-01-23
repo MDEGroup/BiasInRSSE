@@ -1,0 +1,17 @@
+1	git://github.com/in28minutes/SpringBootForBeginners.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.apache.tomcat.embed:tomcat-embed-jasper
+4	#DEP#org.springframework.boot:spring-boot-starter-data-rest
+5	#DEP#org.springframework.data:spring-data-rest-hal-browser
+6	#DEP#org.springframework.boot:spring-boot-starter
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-security
+10	#DEP#org.webjars:bootstrap
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#javax.servlet:jstl
+13	#DEP#org.webjars:jquery
+14	#DEP#org.springframework.boot:spring-boot-devtools
+15	#DEP#org.webjars:bootstrap-datepicker
+16	#DEP#org.springframework.boot:spring-boot-starter-actuator
+17	#DEP#com.h2database:h2

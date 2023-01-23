@@ -1,0 +1,13 @@
+1	git://github.com/TakeoffAndroid/AndroidMVPAuthenticationBoilerPlate.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.android.support:appcompat-v7
+4	#DEP#com.android.support:design
+5	#DEP#com.squareup.retrofit2:converter-gson
+6	#DEP#com.google.dagger:dagger
+7	#DEP#com.google.dagger:dagger-compiler
+8	#DEP#com.squareup.okhttp3:logging-interceptor
+9	#DEP#com.android.support:support-v4
+10	#DEP#com.squareup.retrofit2:retrofit
+11	#DEP#com.android.support.constraint:constraint-layout
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

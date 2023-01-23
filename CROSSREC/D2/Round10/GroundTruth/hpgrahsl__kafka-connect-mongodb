@@ -1,0 +1,10 @@
+1	#DEP#org.apache.kafka:connect-api
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.avro:avro-maven-plugin
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.junit.jupiter:junit-jupiter-params
+1	#DEP#com.github.jcustenborder.kafka.connect:connect-utils
+1	#DEP#org.apache.avro:avro
+1	#DEP#org.junit.platform:junit-platform-console
+1	#DEP#org.testcontainers:testcontainers
+1	#DEP#org.junit.platform:junit-platform-runner

@@ -1,0 +1,9 @@
+1	git://github.com/ljfxyj2008/CustomLintDemo.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.android.tools.lint:lint-api
+4	#DEP#com.android.tools.lint:lint-checks
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.android.tools.lint:lint-tests

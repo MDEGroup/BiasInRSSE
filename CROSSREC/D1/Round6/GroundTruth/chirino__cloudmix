@@ -1,0 +1,17 @@
+70	#DEP#com.sun.jersey:jersey-server
+71	#DEP#org.mortbay.jetty:jetty-runner
+72	#DEP#com.sun.grizzly:grizzly-http
+73	#DEP#org.mvel:mvel2
+74	#DEP#org.fusesource.scalate:scalate-core
+75	#DEP#${pkgGroupId}:${pkgArtifactId}
+76	#DEP#org.fusesource.cloudmix:org.fusesource.cloudmix.agent.dir
+77	#DEP#org.apache.servicemix:servicemix-core
+78	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.aopalliance
+79	#DEP#com.sun.jersey:jersey-client
+80	#DEP#org.codehaus.jackson:jackson-jaxrs
+81	#DEP#org.springframework:spring-tx
+82	#DEP#com.sun.grizzly:grizzly-framework
+83	#DEP#org.apache.felix:org.osgi.compendium
+84	#DEP#org.apache.felix.karaf.admin:org.apache.felix.karaf.admin.core
+85	#DEP#javax.servlet:jstl
+86	#DEP#org.apache.activemq:activemq-core

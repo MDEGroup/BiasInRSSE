@@ -1,0 +1,7 @@
+1	#DEP#io.prometheus:simpleclient_hotspot
+1	#DEP#org.apache.tomcat:tomcat-catalina
+1	#DEP#nl.nlighten:tomcat_exporter_client
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#nl.nlighten:tomcat_exporter
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

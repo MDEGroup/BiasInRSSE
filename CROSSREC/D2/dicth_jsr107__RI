@@ -1,0 +1,12 @@
+1	git://github.com/jsr107/RI.git
+2	#DEP#javax.enterprise:cdi-api
+3	#DEP#org.springframework:spring-context
+4	#DEP#com.google.inject:guice
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#org.springframework:spring-context-support
+7	#DEP#org.jsr107.ri:cache-annotations-ri
+8	#DEP#org.jsr107.ri:cache-ri
+9	#DEP#javax.cache:cache-api
+10	#DEP#${project.groupId}:cache-annotations-ri-common
+11	#DEP#junit:junit
+12	#DEP#org.springframework:spring-core

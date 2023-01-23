@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.drools:drools-core	1.0
+#DEP#org.drools:drools-decisiontables	1.0
+#DEP#org.drools:drools-templates	1.0
+#DEP#org.kie:kie-internal	1.0
+#DEP#org.mvel:mvel2	1.0
+#DEP#org.kie:kie-ci	1.0
+#DEP#com.sun.xml.bind:jaxb-impl	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.kie.soup:kie-soup-project-datamodel-commons	1.0

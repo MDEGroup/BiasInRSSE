@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support.test:rules	1.0
+#DEP#com.android.support.test:runner	1.0
+#DEP#com.android.support.test.espresso:espresso-intents	1.0
+#DEP#org.robolectric:robolectric	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.commit451:PhotoView	1.0
+#DEP#org.robolectric:shadows-multidex	1.0

@@ -1,0 +1,4 @@
+17	#DEP#commons-fileupload:commons-fileupload
+18	#DEP#org.exoplatform.ws:exo.ws.frameworks.json
+19	#DEP#junit:junit
+20	#DEP#org.exoplatform.kernel:exo.kernel.commons

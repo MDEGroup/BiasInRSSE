@@ -1,0 +1,5 @@
+1	#DEP#com.amazonaws:aws-java-sdk-bom
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#junit:junit
+1	#DEP#com.boxfuse.cloudwatchlogs:cloudwatchlogs-java-appender
+1	#DEP#com.boxfuse.cloudwatchlogs:cloudwatchlogs-java-appender-parent

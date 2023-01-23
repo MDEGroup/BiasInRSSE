@@ -1,0 +1,9 @@
+1	git://github.com/infinitape/etherjar.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.spockframework:spock-core
+5	#DEP#org.bouncycastle:bcprov-jdk15on
+6	#DEP#org.apache.httpcomponents:httpmime
+7	#DEP#org.objenesis:objenesis
+8	#DEP#nl.jqno.equalsverifier:equalsverifier
+9	#DEP#com.fasterxml.jackson.core:jackson-databind

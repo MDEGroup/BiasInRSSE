@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#org.apache.maven:maven-project	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.ow2.asm:asm	1.0
+#DEP#org.projectlombok:lombok-maven	1.0

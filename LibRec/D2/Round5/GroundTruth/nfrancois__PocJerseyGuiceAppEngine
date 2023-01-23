@@ -1,0 +1,14 @@
+1	#DEP#com.google.appengine.orm:datanucleus-appengine
+1	#DEP#com.google.appengine:geronimo-jpa_3.0_spec
+1	#DEP#javax.jdo:jdo2-api
+1	#DEP#asm:asm
+1	#DEP#javax.transaction:jta
+1	#DEP#com.google.appengine:datanucleus-jpa
+1	#DEP#com.google.appengine:appengine-api-stubs
+1	#DEP#org.easytesting:fest-assert
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.google.appengine:geronimo-jta_1.1_spec
+1	#DEP#com.sun.jersey.jersey-test-framework:jersey-test-framework-grizzly
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-api-labs
+1	#DEP#com.sun.jersey:jersey-server

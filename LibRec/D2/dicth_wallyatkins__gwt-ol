@@ -1,0 +1,9 @@
+1	git://github.com/wallyatkins/gwt-ol.git
+2	#DEP#${project.groupId}:gwt-openlayers-client
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.google.gwt:gwt-user
+5	#DEP#org.gwtopenmaps.openlayers:gwt-openlayers
+6	#DEP#javax.servlet:servlet-api
+7	#DEP#${project.groupId}:gwt-openlayers-server
+8	#DEP#junit:junit
+9	#DEP#com.google.gwt:gwt-servlet

@@ -1,0 +1,10 @@
+1	git://github.com/gemserk/animation4j.git
+2	#DEP#org.easymock:easymockclassextension
+3	#DEP#com.google.inject:guice
+4	#DEP#com.gemserk.animation4j:animation4j
+5	#DEP#org.easymock:easymock
+6	#DEP#org.jmock:jmock
+7	#DEP#org.jmock:jmock-junit4
+8	#DEP#org.jmock:jmock-legacy
+9	#DEP#junit:junit
+10	#DEP#${project.groupId}:animation4j-core

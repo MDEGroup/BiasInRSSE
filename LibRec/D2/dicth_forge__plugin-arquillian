@@ -1,0 +1,13 @@
+1	git://github.com/forge/plugin-arquillian.git
+2	#DEP#org.sonatype.aether:aether-api
+3	#DEP#org.jboss.forge:forge-maven-api
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#org.jboss.forge:forge-shell-api
+6	#DEP#org.jboss.forge:forge-javaee-impl
+7	#DEP#org.codehaus.jackson:jackson-mapper-asl
+8	#DEP#org.apache.velocity:velocity
+9	#DEP#org.jboss.forge:forge-shell
+10	#DEP#org.jboss.forge:forge-javaee-api
+11	#DEP#org.jboss.forge:forge-test-harness
+12	#DEP#junit:junit
+13	#DEP#org.jboss.forge:forge-dev-plugins

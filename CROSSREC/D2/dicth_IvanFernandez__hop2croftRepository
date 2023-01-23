@@ -1,0 +1,12 @@
+1	git://github.com/IvanFernandez/hop2croftRepository.git
+2	#DEP#org.seleniumhq.selenium:selenium-firefox-driver
+3	#DEP#jstl:jstl
+4	#DEP#org.seleniumhq.selenium:selenium-java
+5	#DEP#org.springframework:spring-webmvc
+6	#DEP#org.seleniumhq.selenium:selenium-server
+7	#DEP#commons-logging:commons-logging
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#taglibs:standard
+10	#DEP#org.seleniumhq.selenium:selenium-chrome-driver
+11	#DEP#junit:junit
+12	#DEP#org.springframework:spring-core

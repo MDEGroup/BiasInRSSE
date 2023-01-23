@@ -1,0 +1,12 @@
+1	git://github.com/NathanWolf/PersistencePlugin.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#com.elmakers.mine.bukkit.persistence:Persistence
+4	#DEP#org.bukkit:bukkit
+5	#DEP#org.bukkit:craftbukkit
+6	#DEP#com.elmakers.mine.bukkit.persistence.dao:Globals
+7	#DEP#com.elmakers.mine.bukkit.utilities:Utilities
+8	#DEP#com.elmakers.mine.bukkit.data:Data
+9	#DEP#com.elmakers.mine.bukkit.persisted:Persisted
+10	#DEP#org.xerial:sqlite-jdbc
+11	#DEP#com.elmakers.mine.bukkit.groups:Groups
+12	#DEP#com.elmakers.mine.bukkit.permissions:Permissions

@@ -1,0 +1,7 @@
+1	#DEP#com.droi.sdk:Utility
+1	#DEP#com.droi.sdk:analytics
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.droi.sdk:push
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

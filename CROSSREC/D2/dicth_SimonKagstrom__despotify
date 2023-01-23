@@ -1,0 +1,13 @@
+1	git://github.com/SimonKagstrom/despotify.git
+2	#DEP#com.projectdarkstar.ext.jorbis:jorbis
+3	#DEP#org.tritonus:tritonus-share
+4	#DEP#org.domdrides:domdrides-core
+5	#DEP#org.hibernate:hibernate-annotations
+6	#DEP#org.tritonus:tritonus-jorbis
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#javax.persistence:persistence-api
+9	#DEP#org.domdrides:domdrides-jpa
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#commons-pool:commons-pool
+12	#DEP#log4j:log4j
+13	#DEP#junit:junit

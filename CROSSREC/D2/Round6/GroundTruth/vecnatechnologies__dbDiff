@@ -1,0 +1,6 @@
+1	#DEP#com.vecna:dbDiff
+1	#DEP#commons-collections:commons-collections
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#com.vecna.parent:open-parent-pom
+1	#DEP#com.h2database:h2

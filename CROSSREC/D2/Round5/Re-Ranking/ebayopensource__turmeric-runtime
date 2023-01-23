@@ -1,0 +1,10 @@
+#DEP#org.ebayopensource.turmeric.runtime:soa-server	1.0
+#DEP#org.ebayopensource.turmeric.typelib:common-type-library	1.0
+#DEP#org.ebayopensource.turmeric.runtime:soa-client	1.0
+#DEP#org.apache.axis2:axis2-kernel	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#com.thoughtworks.qdox:qdox	1.0
+#DEP#org.apache.neethi:neethi	1.0
+#DEP#org.ebayopensource.turmeric.errorlib:runtime-error-library	1.0
+#DEP#org.ebayopensource.turmeric.intf:ItemSearchServiceV1	1.0
+#DEP#org.ebayopensource.turmeric.impl:ItemSearchServiceV1Impl	1.0

@@ -1,0 +1,8 @@
+1	#DEP#org.apache.maven:maven-core
+1	#DEP#org.reflections:reflections
+1	#DEP#io.symphonia:lambda-monitoring-parent
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#io.symphonia:lambda-metrics
+1	#DEP#${project.groupId}:lambda-logging
+1	#DEP#junit:junit
+1	#DEP#org.hamcrest:java-hamcrest

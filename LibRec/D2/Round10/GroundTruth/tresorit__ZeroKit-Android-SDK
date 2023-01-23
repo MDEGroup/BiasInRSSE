@@ -1,0 +1,6 @@
+1	#DEP#javax.annotation:javax.annotation-api
+1	#DEP#org.greenrobot:eventbus
+1	#DEP#junit:junit
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.android.support.test.espresso:espresso-idling-resource
+1	#DEP#com.google.dagger:dagger

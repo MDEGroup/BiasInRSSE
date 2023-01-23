@@ -1,0 +1,11 @@
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.firebase:firebase-jobdispatcher
+1	#DEP#com.google.appengine:appengine-endpoints
+1	#DEP#com.google.android.gms:play-services-places
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.appengine:appengine-endpoints-deps
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.android.support.test:rules
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support:gridlayout-v7

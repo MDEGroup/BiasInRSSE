@@ -1,0 +1,14 @@
+1	git://github.com/khuxtable/wagon-gitsite.git
+2	#DEP#org.apache.maven.scm:maven-scm-test
+3	#DEP#org.apache.maven.scm:maven-scm-provider-gitexe
+4	#DEP#org.apache.maven.wagon:wagon-ssh-common-test
+5	#DEP#org.apache.maven.wagon:wagon-provider-api
+6	#DEP#org.apache.maven.wagon:wagon-ssh-common
+7	#DEP#org.codehaus.plexus:plexus-container-default
+8	#DEP#org.apache.maven.scm:maven-scm-manager-plexus
+9	#DEP#org.apache.maven.wagon:wagon-provider-test
+10	#DEP#org.codehaus.plexus:plexus-interactivity-api
+11	#DEP#org.codehaus.plexus:plexus-utils
+12	#DEP#org.apache.maven.scm:maven-scm-api
+13	#DEP#junit:junit
+14	#DEP#org.apache.maven.scm:maven-scm-provider-git-commons

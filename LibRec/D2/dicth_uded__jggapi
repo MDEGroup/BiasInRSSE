@@ -1,0 +1,9 @@
+1	git://github.com/uded/jggapi.git
+2	#DEP#commons-primitives:commons-primitives
+3	#DEP#commons-codec:commons-codec
+4	#DEP#org.reflections:reflections
+5	#DEP#de.huxhorn.lilith:de.huxhorn.lilith.slf4j
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.apache.commons:commons-lang3
+8	#DEP#org.projectlombok:lombok
+9	#DEP#junit:junit

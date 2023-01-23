@@ -1,0 +1,12 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#com.vlkan.hrrs:hrrs-commons
+1	#DEP#com.vlkan.hrrs:hrrs-replayer
+1	#DEP#com.vlkan.hrrs:hrrs-api
+1	#DEP#org.mockito:mockito-core
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.google.guava:guava
+1	#DEP#com.vlkan.hrrs:hrrs-serializer-base64
+1	#DEP#junit:junit
+1	#DEP#com.beust:jcommander
+1	#DEP#com.vlkan.hrrs:hrrs-servlet-filter-base64
+1	#DEP#com.vlkan.hrrs:hrrs-servlet-filter

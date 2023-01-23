@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.freemarker:freemarker	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#biz.neustar:browsermob-proxy	1.0
+#DEP#com.github.goldin:spock-extensions	1.0

@@ -1,0 +1,10 @@
+1	git://github.com/jcarlson-attic/lifelog-application.git
+2	#DEP#com.methodknowledgy:lifelog-commons
+3	#DEP#org.hibernate:hibernate
+4	#DEP#org.springframework:spring
+5	#DEP#org.springframework:spring-test
+6	#DEP#log4j:log4j
+7	#DEP#com.methodknowledgy:pom-parent
+8	#DEP#com.methodknowledgy:lifelog
+9	#DEP#hsqldb:hsqldb
+10	#DEP#junit:junit

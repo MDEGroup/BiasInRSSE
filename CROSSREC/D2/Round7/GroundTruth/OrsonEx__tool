@@ -1,0 +1,4 @@
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#commons-beanutils:commons-beanutils
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#commons-lang:commons-lang

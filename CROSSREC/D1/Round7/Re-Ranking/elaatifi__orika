@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.elasticsearch:elasticsearch	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.eclipse.core:runtime	1.0
+#DEP#org.eclipse.uml2:uml	1.0
+#DEP#org.eclipse.emf:query	1.0
+#DEP#com.abstratt.mdd.core:tests	1.0
+#DEP#org.eclipse.equinox:app	1.0
+#DEP#com.abstratt:com.abstratt.standalone	1.0
+#DEP#com.ibm:icu	1.0

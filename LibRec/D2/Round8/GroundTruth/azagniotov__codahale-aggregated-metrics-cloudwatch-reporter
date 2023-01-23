@@ -1,0 +1,6 @@
+1	#DEP#io.dropwizard.metrics:metrics-jvm
+1	#DEP#com.google.guava:guava
+1	#DEP#org.slf4j:slf4j-api
+1	#DEP#junit:junit
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#com.google.truth:truth

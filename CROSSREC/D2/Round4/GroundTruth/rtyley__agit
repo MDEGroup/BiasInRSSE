@@ -1,0 +1,17 @@
+1	#DEP#com.madgag:util-diff
+1	#DEP#com.madgag:agit
+1	#DEP#com.madgag:agit-test-utils
+1	#DEP#com.github.chrisbanes.pulltorefresh:library
+1	#DEP#com.google.android:android
+1	#DEP#com.madgag:toy-ssh-agent
+1	#DEP#com.google.android:android-test
+1	#DEP#com.madgag:ssh-android
+1	#DEP#org.roboguice:roboguice
+1	#DEP#com.google.inject:guice
+1	#DEP#com.madgag:mini-git-server-war
+1	#DEP#net.schmizz:sshj
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#com.madgag:calculon
+1	#DEP#com.madgag:madgag-hamcrest-matchers
+1	#DEP#junit:junit
+1	#DEP#com.madgag:markdownj-core

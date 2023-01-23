@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.maven:maven-plugin-api	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.maven.plugin-tools:maven-plugin-tools-api	1.0
+#DEP#org.watertemplate:watertemplate-engine	1.0

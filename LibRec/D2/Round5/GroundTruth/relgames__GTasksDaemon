@@ -1,0 +1,7 @@
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.google.api-client:google-api-client
+1	#DEP#junit:junit

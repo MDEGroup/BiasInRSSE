@@ -1,0 +1,6 @@
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.springframework:spring-websocket
+1	#DEP#org.springframework:spring-beans
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.springframework:spring-core

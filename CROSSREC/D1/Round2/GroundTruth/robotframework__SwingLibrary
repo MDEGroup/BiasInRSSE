@@ -1,0 +1,3 @@
+15	#DEP#org.robotframework:javatools-test
+16	#DEP#gnu-regexp:gnu-regexp
+17	#DEP#this.does.not.matter:ThisAlsoIsIgnored

@@ -1,0 +1,10 @@
+1	git://github.com/akshay2211/Oblique.git
+2	#DEP#com.android.support:recyclerview-v7
+3	#DEP#com.jakewharton:butterknife-compiler
+4	#DEP#com.android.support.constraint:constraint-layout
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#me.relex:circleindicator
+7	#DEP#junit:junit
+8	#DEP#com.jakewharton:butterknife
+9	#DEP#uk.co.chrisjenx:calligraphy
+10	#DEP#com.android.support:design

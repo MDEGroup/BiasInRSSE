@@ -1,0 +1,10 @@
+1	#DEP#de.uniluebeck.itm.wsn-device-drivers:common
+1	#DEP#de.uniluebeck.itm.wsn-device-drivers:pacemate
+1	#DEP#de.uniluebeck.itm.wsn-device-drivers:factories
+1	#DEP#com.google.inject:guice
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#de.uniluebeck.itm.wsn-device-drivers:trisos
+1	#DEP#org.rxtx:rxtx
+1	#DEP#com.google.guava:guava
+1	#DEP#de.uniluebeck.itm.util:concurrent
+1	#DEP#junit:junit

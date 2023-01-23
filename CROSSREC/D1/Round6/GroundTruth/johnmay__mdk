@@ -1,0 +1,14 @@
+60	#DEP#${project.groupId}:mdk-apps-io
+61	#DEP#uk.ac.ebi.mdk:mdk-io-data-core
+62	#DEP#org.mockito:mockito-all
+63	#DEP#uk.ac.ebi.mdk:mdk-domain-entity
+64	#DEP#uk.ac.ebi.mdk:mdk-io-text-parsers
+65	#DEP#${project.groupId}:mdk-service-hsqldb
+66	#DEP#wsdl4j:wsdl4j
+67	#DEP#org.openscience.cdk:cdk-standard
+68	#DEP#${project.groupId}:mdk-service-lucene
+69	#DEP#${project.groupId}:mdk-interface
+70	#DEP#org.biojava:biojava3-core
+71	#DEP#${project.groupId}:mdk-tool-core
+72	#DEP#${project.groupId}:mdk-io-data-core
+73	#DEP#org.mockito:mockito-core

@@ -1,0 +1,15 @@
+1	#DEP#org.apache.geronimo.components:geronimo-transaction
+1	#DEP#com.ctp.cdi.query:cdi-query
+1	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec
+1	#DEP#org.jboss.spec.javax.faces:jboss-jsf-api_2.0_spec
+1	#DEP#org.jboss.seam:seam-bom
+1	#DEP#org.glassfish.main.extras:glassfish-embedded-all
+1	#DEP#org.apache.openejb:apache-tomee
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec
+1	#DEP#org.apache.openejb:arquillian-tomee-embedded
+1	#DEP#junit:junit
+1	#DEP#com.ctp.cdi.query:cdi-query-api
+1	#DEP#org.hsqldb:hsqldb

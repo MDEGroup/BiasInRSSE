@@ -1,0 +1,11 @@
+1	git://github.com/pablopdomingos/nfse.git
+2	#DEP#commons-discovery:commons-discovery
+3	#DEP#javax.validation:validation-api
+4	#DEP#javax.xml:jaxrpc-api
+5	#DEP#org.hibernate:hibernate-validator
+6	#DEP#commons-io:commons-io
+7	#DEP#org.sonatype.oss:oss-parent
+8	#DEP#com.thoughtworks.xstream:xstream
+9	#DEP#org.glassfish.web:el-impl
+10	#DEP#junit:junit
+11	#DEP#org.apache.axis:axis

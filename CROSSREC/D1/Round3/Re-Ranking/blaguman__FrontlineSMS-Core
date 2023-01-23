@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#javassist:javassist	1.0
+#DEP#org.springframework:spring-orm	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.rxtx:rxtx	1.0
+#DEP#net.frontlinesms.core.mms:mmsgateway	1.0
+#DEP#javax.comm:comm	1.0
+#DEP#net.frontlinesms.core:frontlinesms-email	1.0
+#DEP#net.frontlinesms.core:thinlet	1.0
+#DEP#net.frontlinesms.core:frontlinesms-test	1.0

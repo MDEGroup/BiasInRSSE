@@ -1,0 +1,9 @@
+1	git://github.com/wangcui102300/ocr_api.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#org.apache.httpcomponents:httpclient
+4	#DEP#org.apache.httpcomponents:httpcore
+5	#DEP#org.eclipse.jetty:jetty-util
+6	#DEP#org.json:json
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#commons-lang:commons-lang

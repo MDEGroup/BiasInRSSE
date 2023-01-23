@@ -1,0 +1,16 @@
+1	git://github.com/bouil/twifip.git
+2	#DEP#org.slf4j:jul-to-slf4j
+3	#DEP#de.u-mass:lastfm-java
+4	#DEP#org.apache.tapestry:tapestry-spring
+5	#DEP#org.springframework:spring-web
+6	#DEP#org.slf4j:jcl-over-slf4j
+7	#DEP#javax.mail:mail
+8	#DEP#org.apache.tapestry:tapestry-core
+9	#DEP#org.springframework:spring-context-support
+10	#DEP#org.quartz-scheduler:quartz
+11	#DEP#org.apache.commons:commons-collections4
+12	#DEP#org.got5:tapestry5-jquery
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#org.twitter4j:twitter4j-core
+16	#DEP#junit:junit

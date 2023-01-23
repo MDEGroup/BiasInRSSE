@@ -1,0 +1,9 @@
+1	git://github.com/cheleb/m2e-settings.git
+2	#DEP#ajdttest:depi
+3	#DEP#org.eclipse.m2e.settings:org.eclipse.m2e.settings
+4	#DEP#org.eclipse.m2e.settings:org.eclipse.m2e.settings.feature
+5	#DEP#interproject:interproject
+6	#DEP#aspectj:aspectjrt
+7	#DEP#ajdttest:aspect
+8	#DEP#org.sonatype.forge:forge-parent
+9	#DEP#org.apache.maven:maven-core

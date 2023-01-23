@@ -1,0 +1,10 @@
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#com.twitter:util-core_2.10
+1	#DEP#com.twitter:util-core_2.11
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.openjdk.jmh:jmh-core

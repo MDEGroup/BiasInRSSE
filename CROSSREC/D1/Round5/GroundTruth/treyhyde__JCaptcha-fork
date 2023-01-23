@@ -1,0 +1,5 @@
+22	#DEP#com.jhlabs:imaging
+23	#DEP#org.roller:rollerbeans
+24	#DEP#commons-collections:commons-collections
+25	#DEP#javax.servlet:servlet-api
+26	#DEP#junit:junit

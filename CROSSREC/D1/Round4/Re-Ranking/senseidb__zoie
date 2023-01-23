@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#org.jsoup:jsoup	1.0
+#DEP#tl.lin:lintools-lucene	1.0
+#DEP#me.lemire.integercompression:JavaFastPFOR	1.0
+#DEP#com.sangupta:jopensurf	1.0
+#DEP#it.unimi.dsi:sux4j	1.0
+#DEP#it.unimi.dsi:dsiutils	1.0

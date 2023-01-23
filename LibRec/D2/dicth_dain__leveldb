@@ -1,0 +1,12 @@
+1	git://github.com/dain/leveldb.git
+2	#DEP#org.xerial.snappy:snappy-java
+3	#DEP#org.iq80.snappy:snappy
+4	#DEP#org.iq80.leveldb:leveldb
+5	#DEP#org.iq80.leveldb:leveldb-api
+6	#DEP#io.airlift:airbase
+7	#DEP#org.fusesource.leveldbjni:leveldbjni
+8	#DEP#org.testng:testng
+9	#DEP#com.google.guava:guava
+10	#DEP#org.iq80.leveldb:leveldb-project
+11	#DEP#junit:junit
+12	#DEP#joda-time:joda-time

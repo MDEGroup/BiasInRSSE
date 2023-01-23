@@ -1,0 +1,9 @@
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#log4j:log4j
+1	#DEP#org.cometd.java:cometd-java-client
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#org.cometd.java:cometd-java-server
+1	#DEP#org.cometd.java:cometd-java-annotations
+1	#DEP#junit:junit
+1	#DEP#org.apache.tapestry:tapestry-test

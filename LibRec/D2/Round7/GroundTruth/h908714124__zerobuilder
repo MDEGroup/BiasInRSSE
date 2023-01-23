@@ -1,0 +1,10 @@
+1	#DEP#com.github.h908714124:zerobuilder
+1	#DEP#com.github.h908714124:zerobuilder-module-builder
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.derive4j:derive4j
+1	#DEP#com.google.testing.compile:compile-testing
+1	#DEP#com.google.guava:guava
+1	#DEP#com.github.h908714124:zerobuilder-compiler
+1	#DEP#junit:junit
+1	#DEP#com.github.h908714124:zerobuilder-module-updater-beans
+1	#DEP#com.h2database:h2

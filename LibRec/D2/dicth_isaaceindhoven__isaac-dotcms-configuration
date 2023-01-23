@@ -1,0 +1,13 @@
+1	git://github.com/isaaceindhoven/isaac-dotcms-configuration.git
+2	#DEP#com.dotcms.lib:dot.felix
+3	#DEP#com.dotcms.lib:dot.commons-lang
+4	#DEP#commons-logging:commons-logging
+5	#DEP#commons-beanutils:commons-beanutils
+6	#DEP#com.dotcms.lib:dot.portlet
+7	#DEP#commons-lang:commons-lang
+8	#DEP#commons-configuration:commons-configuration
+9	#DEP#com.dotcms:dotcms
+10	#DEP#commons-beanutils:commons-beanutils-core
+11	#DEP#javax.servlet:javax.servlet-api
+12	#DEP#commons-collections:commons-collections
+13	#DEP#com.dotcms.lib:dot.commons-io

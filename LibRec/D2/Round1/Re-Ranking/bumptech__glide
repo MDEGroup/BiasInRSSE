@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.squareup.retrofit2:adapter-rxjava	1.0
+#DEP#io.reactivex:rxjava	1.0
+#DEP#io.reactivex:rxandroid	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.veinhorn.tagview:library	1.0

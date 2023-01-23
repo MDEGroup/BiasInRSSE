@@ -1,0 +1,7 @@
+29	#DEP#com.github.jsonld-java:jsonld-java-sesame
+30	#DEP#net.sf.jung:jung-samples
+31	#DEP#log4j:log4j
+32	#DEP#xdi2:xdi2-rdf
+33	#DEP#xdi2:xdi2-transport-local
+34	#DEP#javax.servlet:servlet-api
+35	#DEP#junit:junit

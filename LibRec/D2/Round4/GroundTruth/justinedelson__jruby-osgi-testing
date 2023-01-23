@@ -1,0 +1,5 @@
+1	#DEP#com.justinedelson.jrubyosgi:jruby-osgi-tests-project
+1	#DEP#org.ops4j.pax.exam:pax-exam
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#com.justinedelson.jrubyosgi:api.bundle

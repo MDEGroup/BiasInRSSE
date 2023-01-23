@@ -1,0 +1,10 @@
+1	#DEP#jchart2d:jchart2d
+1	#DEP#org.mozilla:rhino
+1	#DEP#org.epochx:common
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#org.epochx:cfg
+1	#DEP#junit:junit
+1	#DEP#org.apache.xmlgraphics:xmlgraphics-commons
+1	#DEP#pnuts:pnuts
+1	#DEP#org.antlr:antlr
+1	#DEP#jexcelapi:jxl

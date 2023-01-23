@@ -1,0 +1,17 @@
+1	git://github.com/spring-projects/spring-data-jdbc.git
+2	#DEP#${project.groupId}:spring-data-commons
+3	#DEP#mysql:mysql-connector-java
+4	#DEP#org.springframework:spring-context
+5	#DEP#org.assertj:assertj-core
+6	#DEP#org.postgresql:postgresql
+7	#DEP#de.schauderhaft.degraph:degraph-check
+8	#DEP#org.springframework:spring-beans
+9	#DEP#org.springframework:spring-jdbc
+10	#DEP#org.springframework:spring-tx
+11	#DEP#org.springframework:spring-core
+12	#DEP#org.testcontainers:mysql
+13	#DEP#org.mybatis:mybatis
+14	#DEP#org.testcontainers:postgresql
+15	#DEP#org.springframework.data.build:spring-data-parent
+16	#DEP#org.mybatis:mybatis-spring
+17	#DEP#org.hsqldb:hsqldb

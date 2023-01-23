@@ -1,0 +1,10 @@
+1	git://github.com/beders/Resty.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.hamcrest:hamcrest-all
+5	#DEP#com.google.guava:guava
+6	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+7	#DEP#junit:junit
+8	#DEP#com.sun.jersey.contribs:jersey-multipart
+9	#DEP#net.java.dev.javacc:javacc
+10	#DEP#com.sun.jersey:jersey-server

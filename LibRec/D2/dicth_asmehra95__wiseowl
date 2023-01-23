@@ -1,0 +1,15 @@
+1	git://github.com/asmehra95/wiseowl.git
+2	#DEP#org.apache.solr:solr-core
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#org.slf4j:slf4j-simple
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#org.apache.solr:solr-analysis-extras
+8	#DEP#org.apache.opennlp:opennlp-maxent
+9	#DEP#org.apache.opennlp:opennlp-uima
+10	#DEP#org.apache.lucene:lucene-benchmark
+11	#DEP#net.sf.jwordnet:jwnl
+12	#DEP#org.apache.opennlp:opennlp-tools
+13	#DEP#junit:junit
+14	#DEP#org.apache.solr:solr-solrj
+15	#DEP#org.apache.hadoop:hadoop-hdfs

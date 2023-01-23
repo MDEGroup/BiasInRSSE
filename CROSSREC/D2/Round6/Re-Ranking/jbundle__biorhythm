@@ -1,0 +1,10 @@
+#DEP#com.sun.mail:javax.mail	1.0
+#DEP#com.squareup.retrofit2:converter-gson	1.0
+#DEP#com.ashokvarma.android:bottom-navigation-bar	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#io.cereebro:cereebro-server-spring-boot-starter	1.0
+#DEP#io.cereebro:cereebro-core	1.0
+#DEP#com.github.florent37:picassopalette	1.0
+#DEP#io.cereebro:cereebro-spring	1.0
+#DEP#com.netflix.zuul:zuul-core	1.0
+#DEP#com.qiniu.pili:pili-android-qos	1.0

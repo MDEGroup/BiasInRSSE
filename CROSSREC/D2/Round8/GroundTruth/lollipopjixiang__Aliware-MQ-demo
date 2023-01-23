@@ -1,0 +1,8 @@
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.springframework:spring-test
+1	#DEP#com.mashape.unirest:unirest-java
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#org.eclipse.jetty:jetty-client

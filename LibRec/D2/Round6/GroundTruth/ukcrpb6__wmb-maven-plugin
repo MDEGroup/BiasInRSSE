@@ -1,0 +1,11 @@
+1	#DEP#com.ibm:com.ibm.mq.pcf
+1	#DEP#com.ibm:com.ibm.mq.headers
+1	#DEP#com.google.inject:guice
+1	#DEP#org.jfrog.maven.annomojo:maven-plugin-anno
+1	#DEP#org.codehaus.plexus:plexus-utils
+1	#DEP#com.ibm:com.ibm.mq.commonservices
+1	#DEP#org.apache.maven.shared:file-management
+1	#DEP#com.google.guava:guava
+1	#DEP#com.ibm:com.ibm.mq
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-artifact

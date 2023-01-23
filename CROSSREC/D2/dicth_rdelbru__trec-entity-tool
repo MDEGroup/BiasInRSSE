@@ -1,0 +1,10 @@
+1	git://github.com/rdelbru/trec-entity-tool.git
+2	#DEP#org.apache.commons:commons-compress
+3	#DEP#org.openrdf.sesame:sesame-rio-ntriples
+4	#DEP#org.apache.lucene:lucene-core
+5	#DEP#org.openrdf.sesame:sesame-rio-api
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#org.sindice.siren:siren-core
+8	#DEP#net.sf.jopt-simple:jopt-simple
+9	#DEP#org.openrdf.sesame:sesame-model
+10	#DEP#junit:junit

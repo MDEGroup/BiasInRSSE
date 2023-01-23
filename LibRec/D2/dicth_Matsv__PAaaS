@@ -1,0 +1,13 @@
+1	git://github.com/Matsv/PAaaS.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.python:jython-standalone
+4	#DEP#org.springframework.boot:spring-boot
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#com.google.code.gson:gson
+7	#DEP#org.ow2.asm:asm
+8	#DEP#org.eclipse.jgit:org.eclipse.jgit
+9	#DEP#org.jsoup:jsoup
+10	#DEP#at.yawk.mdep:mdep-loader
+11	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+12	#DEP#org.ow2.asm:asm-analysis
+13	#DEP#org.projectlombok:lombok

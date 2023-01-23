@@ -1,0 +1,12 @@
+1	git://github.com/caelum/vraptor-simplemail.git
+2	#DEP#com.amazonaws:aws-java-sdk
+3	#DEP#br.com.caelum:vraptor
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#br.com.caelum.vraptor:vraptor-freemarker
+7	#DEP#org.mockito:mockito-core
+8	#DEP#org.apache.commons:commons-email
+9	#DEP#junit:junit
+10	#DEP#org.mortbay.jetty:servlet-api
+11	#DEP#br.com.caelum.vraptor:vraptor-environment
+12	#DEP#org.hamcrest:hamcrest-core

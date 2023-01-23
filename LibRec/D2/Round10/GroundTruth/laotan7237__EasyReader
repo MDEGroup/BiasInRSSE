@@ -1,0 +1,12 @@
+1	#DEP#com.blankj:utilcode
+1	#DEP#org.glassfish:javax.annotation
+1	#DEP#com.jakewharton:butterknife-compiler
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.tencent.bugly:crashreport
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava

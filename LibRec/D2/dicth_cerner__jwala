@@ -1,0 +1,11 @@
+1	git://github.com/cerner/jwala.git
+2	#DEP#org.glassfish:javax.el
+3	#DEP#org.hibernate:hibernate-validator
+4	#DEP#yyyy-MM-dd'T'HH:mm
+5	#DEP#org.springframework.security:spring-security-web
+6	#DEP#org.springframework.security:spring-security-config
+7	#DEP#junit:junit
+8	#DEP#javax.el:javax.el-api
+9	#DEP#org.springframework.security:spring-security-ldap
+10	#DEP#org.springframework.security:spring-security-test
+11	#DEP#commons-lang:commons-lang

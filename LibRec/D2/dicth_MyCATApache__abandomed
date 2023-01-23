@@ -1,0 +1,9 @@
+1	git://github.com/MyCATApache/abandomed.git
+2	#DEP#org.apache.logging.log4j:log4j-core
+3	#DEP#io.netty:netty-buffer
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#com.google.guava:guava
+6	#DEP#io.mycat:SQLParser
+7	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+8	#DEP#junit:junit
+9	#DEP#io.mycat.bigmem:mycat-bigmemory

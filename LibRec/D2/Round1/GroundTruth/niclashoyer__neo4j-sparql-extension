@@ -1,0 +1,10 @@
+1	#DEP#com.tinkerpop.blueprints:blueprints-neo4j2-graph
+1	#DEP#com.nebhale.jsonpath:jsonpath
+1	#DEP#org.openrdf.sesame:sesame-rio-rdfjson
+1	#DEP#org.openrdf.sesame:sesame-rio-n3
+1	#DEP#com.google.guava:guava
+1	#DEP#org.openrdf.sesame:sesame-repository-sail
+1	#DEP#com.tinkerpop.blueprints:blueprints-graph-sail
+1	#DEP#junit:junit
+1	#DEP#org.openrdf.sesame:sesame-queryresultio-text
+1	#DEP#org.openrdf.sesame:sesame-queryresultio-sparqlxml

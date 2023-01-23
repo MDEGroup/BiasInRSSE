@@ -1,0 +1,13 @@
+1	git://github.com/realm/RealmPop.git
+2	#DEP#io.realm:android-adapters
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jakewharton:butterknife-compiler
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support:design
+7	#DEP#com.jakewharton:butterknife
+8	#DEP#com.android.support:cardview-v7
+9	#DEP#com.jakewharton.rxbinding:rxbinding
+10	#DEP#junit:junit
+11	#DEP#uk.co.chrisjenx:calligraphy
+12	#DEP#io.reactivex:rxjava
+13	#DEP#io.reactivex:rxandroid

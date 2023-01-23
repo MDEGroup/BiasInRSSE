@@ -1,0 +1,10 @@
+1	git://github.com/Jahia/LDAP-provider.git
+2	#DEP#javax.servlet:jsp-api
+3	#DEP#org.eclipse.gemini.blueprint:gemini-blueprint-core
+4	#DEP#commons-pool:commons-pool
+5	#DEP#org.jahia.modules:external-provider-users-groups
+6	#DEP#org.springframework.security:spring-security-web
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#org.springframework.ldap:spring-ldap-core
+9	#DEP#org.jahia.modules:jahia-modules
+10	#DEP#org.springframework.data:spring-data-commons

@@ -1,0 +1,3 @@
+16	#DEP#com.android.support.test:runner
+17	#DEP#io.reactivex:rxjava
+18	#DEP#io.reactivex:rxandroid

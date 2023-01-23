@@ -1,0 +1,9 @@
+1	git://github.com/xiaole0310/MyMusicPlayer.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#com.squareup.okhttp3:logging-interceptor
+4	#DEP#com.squareup.picasso:picasso
+5	#DEP#com.jcodecraeer:xrecyclerview
+6	#DEP#com.squareup.retrofit2:retrofit
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.squareup.retrofit2:converter-gson

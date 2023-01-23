@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#com.jcraft:jsch	1.0
+#DEP#org.apache.commons:commons-vfs2-sandbox	1.0

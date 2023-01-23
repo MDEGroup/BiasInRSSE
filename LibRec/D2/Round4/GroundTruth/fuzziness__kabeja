@@ -1,0 +1,6 @@
+1	#DEP#org.kabeja:kabeja-core
+1	#DEP#org.apache.xmlgraphics:batik-transcoder
+1	#DEP#org.apache.xmlgraphics:batik-swing
+1	#DEP#junit:junit
+1	#DEP#org.apache.cocoon:cocoon-core
+1	#DEP#org.kabeja:kabeja-ui

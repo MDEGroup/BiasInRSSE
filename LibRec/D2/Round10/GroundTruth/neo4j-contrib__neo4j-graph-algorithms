@@ -1,0 +1,10 @@
+1	#DEP#org.neo4j:neo4j-io
+1	#DEP#org.neo4j:neo4j-primitive-collections
+1	#DEP#org.openjdk.jmh:jmh-generator-annprocess
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#org.neo4j:graph-algorithms-core
+1	#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner
+1	#DEP#junit:junit
+1	#DEP#com.carrotsearch:hppc
+1	#DEP#org.openjdk.jmh:jmh-core
+1	#DEP#org.neo4j:neo4j-common

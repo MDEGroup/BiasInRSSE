@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer	1.0
+#DEP#org.sweble.wikitext:swc-engine	1.0
+#DEP#javax.json:javax.json-api	1.0
+#DEP#com.google.common.html.types:types	1.0
+#DEP#org.codehaus.woodstox:stax2-api	1.0

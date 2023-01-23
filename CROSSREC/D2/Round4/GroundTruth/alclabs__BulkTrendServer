@@ -1,0 +1,5 @@
+1	#DEP#com.controlj.green:addonsupport-api-addon
+1	#DEP#org.codehaus.groovy:groovy-all
+1	#DEP#junit:junit
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.controlj.green:directaccess-api-addon

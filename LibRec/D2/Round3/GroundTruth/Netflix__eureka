@@ -1,0 +1,8 @@
+1	#DEP#org.glassfish.jersey.connectors:jersey-apache-connector
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#javax.mail:mail
+1	#DEP#org.mockito:mockito-core
+1	#DEP#yyyy-MM-dd'T'HH:mm
+1	#DEP#xerces:xercesImpl
+1	#DEP#com.netflix.netflix-commons:netflix-eventbus
+1	#DEP#org.glassfish.jersey.core:jersey-client

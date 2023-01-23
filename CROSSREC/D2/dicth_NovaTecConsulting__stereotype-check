@@ -1,0 +1,14 @@
+1	git://github.com/NovaTecConsulting/stereotype-check.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#info.novatec.ita:stereotype.check
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#javax.persistence:persistence-api
+6	#DEP#javax.ejb:javax.ejb-api
+7	#DEP#javax.enterprise:cdi-api
+8	#DEP#org.apache.commons:commons-collections4
+9	#DEP#com.puppycrawl.tools:checkstyle
+10	#DEP#org.jacoco:org.jacoco.ant
+11	#DEP#ant-contrib:ant-contrib
+12	#DEP#junit:junit
+13	#DEP#info.novatec.ita:stereotype.check.plugin
+14	#DEP#org.springframework.restdocs:spring-restdocs-mockmvc

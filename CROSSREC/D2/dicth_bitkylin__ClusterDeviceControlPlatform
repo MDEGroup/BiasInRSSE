@@ -1,0 +1,13 @@
+1	git://github.com/bitkylin/ClusterDeviceControlPlatform.git
+2	#DEP#io.netty:netty-all
+3	#DEP#io.datafx:datafx
+4	#DEP#com.alibaba:fastjson
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.boot:spring-boot-starter-test
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+11	#DEP#io.datafx:flow
+12	#DEP#com.jfoenix:jfoenix
+13	#DEP#junit:junit

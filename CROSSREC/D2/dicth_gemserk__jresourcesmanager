@@ -1,0 +1,17 @@
+1	git://github.com/gemserk/jresourcesmanager.git
+2	#DEP#${project.groupId}:${project.parent.artifactId}-core
+3	#DEP#com.jcraft:jorbis
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.jmock:jmock-junit4
+6	#DEP#${project.groupId}:${project.parent.artifactId}-java2dmodule
+7	#DEP#org.easymock:easymockclassextension
+8	#DEP#com.google.inject:guice
+9	#DEP#org.lwjgl:jinput
+10	#DEP#${project.groupId}:${project.artifactId}-core
+11	#DEP#com.gemserk.resources:resourcesmanager
+12	#DEP#ch.qos.logback:logback-classic
+13	#DEP#${project.groupId}:${project.artifactId}-java2dmodule
+14	#DEP#org.jmock:jmock
+15	#DEP#org.jmock:jmock-legacy
+16	#DEP#junit:junit
+17	#DEP#org.lwjgl:lwjgl

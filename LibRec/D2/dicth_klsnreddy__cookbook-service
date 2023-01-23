@@ -1,0 +1,14 @@
+1	git://github.com/klsnreddy/cookbook-service.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#com.cookbook.domain:cookbook-domain
+4	#DEP#org.easymock:easymock
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#org.springframework:spring-orm
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.springframework:spring-tx
+9	#DEP#org.slf4j:slf4j-log4j12
+10	#DEP#org.slf4j:jcl-over-slf4j
+11	#DEP#org.springframework:spring-test
+12	#DEP#log4j:log4j
+13	#DEP#junit:junit
+14	#DEP#com.h2database:h2

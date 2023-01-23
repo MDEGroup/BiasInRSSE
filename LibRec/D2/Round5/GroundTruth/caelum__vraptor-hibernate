@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#hsqldb:hsqldb
+1	#DEP#junit:junit
+1	#DEP#org.mortbay.jetty:servlet-api
+1	#DEP#org.hamcrest:hamcrest-core

@@ -1,0 +1,14 @@
+1	git://github.com/mulesoft/hbase-connector.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.mule.modules:mule-module-hbase
+4	#DEP#org.mule.tests:mule-tests-functional
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.ibeans:ibeans-support
+7	#DEP#org.mule.modules:mule-module-ibeans
+8	#DEP#com.google.code.findbugs:jsr305
+9	#DEP#org.mule.transports:mule-transport-vm
+10	#DEP#org.apache.hbase:hbase
+11	#DEP#org.mule.modules:mule-module-scripting
+12	#DEP#org.mule.tools.devkit:mule-devkit-parent
+13	#DEP#org.mule.transports:mule-transport-axis
+14	#DEP#org.mule.modules:mule-module-ognl

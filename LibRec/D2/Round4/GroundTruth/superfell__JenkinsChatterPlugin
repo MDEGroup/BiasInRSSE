@@ -1,0 +1,5 @@
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#com.sun.jersey:jersey-client
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl

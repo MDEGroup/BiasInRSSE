@@ -1,0 +1,4 @@
+1	#DEP#org.apache.commons:commons-email
+1	#DEP#org.projectlombok:lombok
+1	#DEP#com.bladejava:blade-validator
+1	#DEP#com.bladejava:blade-template-jetbrick

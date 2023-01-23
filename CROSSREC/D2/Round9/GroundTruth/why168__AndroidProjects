@@ -1,0 +1,14 @@
+1	#DEP#com.android.support:recyclerview-v7
+1	#DEP#com.ryanharter.auto.value:auto-value-parcel
+1	#DEP#com.ryanharter.auto.value:auto-value-gson
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.android.support:design
+1	#DEP#com.squareup.okhttp3:okhttp-apache
+1	#DEP#com.squareup.okhttp3:okhttp-urlconnection
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.github.why168:LoopViewPagerLayout
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.ryanharter.auto.value:auto-value-parcel-adapter
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava

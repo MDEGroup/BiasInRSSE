@@ -1,0 +1,9 @@
+1	git://github.com/king6cong/react-native-ijkplayer.git
+2	#DEP#tv.danmaku.ijk.media:ijkplayer-arm64
+3	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-x86_64
+5	#DEP#tv.danmaku.ijk.media:ijkplayer-x86
+6	#DEP#tv.danmaku.ijk.media:ijkplayer-armv5
+7	#DEP#com.facebook.react:react-native
+8	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+9	#DEP#tv.danmaku.ijk.media:ijkplayer-exo

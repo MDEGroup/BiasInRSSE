@@ -1,0 +1,9 @@
+1	git://github.com/zhaoyang21cn/iLiveSDK_Android_Suixinbo.git
+2	#DEP#com.tencent.ilivefilter:liteav_pitu
+3	#DEP#com.squareup.okhttp3:okhttp
+4	#DEP#com.github.bumptech.glide:glide
+5	#DEP#com.tencent.livesdk:livesdk
+6	#DEP#com.tencent.rtmpsdk:rtmpsdk
+7	#DEP#com.tencent.ilivesdk:ilivesdk
+8	#DEP#com.android.support:support-v4
+9	#DEP#com.google.code.gson:gson

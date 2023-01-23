@@ -1,0 +1,3 @@
+14	#DEP#org.antlr:antlr-runtime
+15	#DEP#flexjson:flexjson
+16	#DEP#junit:junit

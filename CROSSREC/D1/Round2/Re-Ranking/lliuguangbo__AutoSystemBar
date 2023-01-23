@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.github.paolorotolo:gitty_reporter	1.0
+#DEP#com.android.support:animated-vector-drawable	1.0
+#DEP#com.google.firebase:firebase-crash	1.0
+#DEP#com.github.paolorotolo:appintro	1.0
+#DEP#com.github.plusCubed:recycler-fast-scroll	1.0
+#DEP#com.google.firebase:firebase-appindexing	1.0

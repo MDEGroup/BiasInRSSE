@@ -1,0 +1,4 @@
+1	#DEP#asg.cliche:cliche
+1	#DEP#com.google.guava:guava
+1	#DEP#org.xerial:sqlite-jdbc
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,10 @@
+1	git://github.com/li5454yong/SpringSecurityOAuth2.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-xml
+4	#DEP#org.springframework:spring-webmvc
+5	#DEP#javax.servlet:javax.servlet-api
+6	#DEP#org.springframework.security:spring-security-web
+7	#DEP#org.springframework.security.oauth:spring-security-oauth2
+8	#DEP#org.springframework.security:spring-security-config
+9	#DEP#com.fasterxml.jackson.core:jackson-databind
+10	#DEP#org.springframework:spring-core

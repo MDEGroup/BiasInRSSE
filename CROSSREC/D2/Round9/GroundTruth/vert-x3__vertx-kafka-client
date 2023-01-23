@@ -1,0 +1,11 @@
+1	#DEP#org.apache.kafka:kafka_2.12
+1	#DEP#io.debezium:debezium-core
+1	#DEP#io.vertx:vertx-core
+1	#DEP#io.vertx:vertx-lang-js
+1	#DEP#log4j:log4j
+1	#DEP#io.vertx:vertx-codegen
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#junit:junit
+1	#DEP#io.vertx:vertx-lang-groovy
+1	#DEP#io.vertx:vertx-unit
+1	#DEP#io.vertx:vertx-ext-parent

@@ -1,0 +1,17 @@
+1	git://github.com/youtongluan/sumk.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.ow2.asm:asm-all
+4	#DEP#org.apache.httpcomponents:httpasyncclient
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#redis.clients:jedis
+7	#DEP#org.slf4j:log4j-over-slf4j
+8	#DEP#com.google.code.gson:gson
+9	#DEP#org.slf4j:jcl-over-slf4j
+10	#DEP#org.mybatis:mybatis
+11	#DEP#org.apache.mina:mina-core
+12	#DEP#commons-fileupload:commons-fileupload
+13	#DEP#org.apache.httpcomponents:httpmime
+14	#DEP#org.apache.commons:commons-dbcp2
+15	#DEP#junit:junit
+16	#DEP#com.101tec:zkclient
+17	#DEP#org.eclipse.jetty:jetty-servlet

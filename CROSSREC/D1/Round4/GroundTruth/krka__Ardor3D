@@ -1,0 +1,6 @@
+28	#DEP#com.ardor3d:ardor3d-swt
+29	#DEP#${project.groupId}:ardor3d-awt
+30	#DEP#net.java.dev.jogl:jogl
+31	#DEP#com.ardor3d:ardor3d-awt
+32	#DEP#${project.groupId}:ardor3d-jogl
+33	#DEP#net.java.dev.jogl:jogl-natives

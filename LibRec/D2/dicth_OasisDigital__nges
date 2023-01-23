@@ -1,0 +1,9 @@
+1	git://github.com/OasisDigital/nges.git
+2	#DEP#org.postgresql:postgresql
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.testng:testng
+5	#DEP#com.google.guava:guava
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.jgroups:jgroups
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#com.jayway.awaitility:awaitility

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-collections:commons-collections	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.json:json	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.vpac.grisu:grisu-client-enunciate-gwt	1.0
+#DEP#gwtupload:gwtupload	1.0
+#DEP#au.org.arcs.auth:arcs-gsi	1.0

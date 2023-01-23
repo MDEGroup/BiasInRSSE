@@ -1,0 +1,9 @@
+1	git://github.com/simonbasle-demos/reactor-by-example.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.springframework.boot.experimental:spring-boot-dependencies-web-reactive
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.springframework.data:spring-data-releasetrain
+6	#DEP#io.projectreactor.addons:reactor-test
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot.experimental:spring-boot-starter-web-reactive
+9	#DEP#org.springframework.data:spring-data-commons

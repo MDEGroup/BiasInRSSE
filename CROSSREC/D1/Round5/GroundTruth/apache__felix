@@ -1,0 +1,9 @@
+39	#DEP#${pom.groupId}:org.apache.felix.dependencymanager
+40	#DEP#org.apache.felix:org.apache.felix.eventadmin
+41	#DEP#org.ops4j.pax.exam:pax-exam-container-native
+42	#DEP#org.eclipse.jetty:jetty-servlet
+43	#DEP#org.bouncycastle:bcprov-jdk15on
+44	#DEP#org.apache.felix:org.apache.felix.deploymentadmin.test.bundleapi1
+45	#DEP#org.apache.felix:org.apache.felix.deploymentadmin.test.bundleapi2
+46	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+47	#DEP#org.apache.felix:org.apache.felix.configadmin

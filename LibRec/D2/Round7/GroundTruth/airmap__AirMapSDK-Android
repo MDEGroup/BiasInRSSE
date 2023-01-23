@@ -1,0 +1,12 @@
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#:AirMapSDK-Android
+1	#DEP#com.auth0.android:lock
+1	#DEP#online.devliving:securedpreferencestore
+1	#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3
+1	#DEP#joda-time:joda-time
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.android.support:multidex
+1	#DEP#junit:junit
+1	#DEP#com.marshalchen.ultimaterecyclerview:library
+1	#DEP#com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer

@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1.0
+#DEP#junit:junit	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.apache.pdfbox:pdfbox	1.0
+#DEP#org.bouncycastle:bcprov-jdk15on	1.0
+#DEP#org.bouncycastle:bcpkix-jdk15on	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.imgscalr:imgscalr-lib	1.0
+#DEP#org.javaswift:joss	1.0
+#DEP#mrj:MRJToolkitStubs	1.0

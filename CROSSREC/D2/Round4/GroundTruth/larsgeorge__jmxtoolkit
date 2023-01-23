@@ -1,0 +1,13 @@
+1	#DEP#org.apache.hbase:hbase-annotations
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.hbase:hbase-server
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.apache.hbase:hbase-protocol
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.apache.hbase:hbase-client
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#org.apache.hadoop:hadoop-auth

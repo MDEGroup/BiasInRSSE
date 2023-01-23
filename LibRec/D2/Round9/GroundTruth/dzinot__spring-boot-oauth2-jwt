@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.cloud:spring-cloud-starter-oauth2
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#org.projectlombok:lombok
+1	#DEP#org.springframework.boot:spring-boot-starter-actuator

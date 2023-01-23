@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.fasterxml.jackson.jr:jackson-jr-objects	1.0
+#DEP#de.psdev.licensesdialog:parent	1.0
+#DEP#ca.fuzzlesoft:json-parse	1.0

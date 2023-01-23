@@ -1,0 +1,9 @@
+1	git://github.com/xebia/hbase-simplex.git
+2	#DEP#org.apache.hbase:hbase
+3	#DEP#org.apache.hadoop:hadoop-core
+4	#DEP#org.mockito:mockito-core
+5	#DEP#org.apache.zookeeper:zookeeper
+6	#DEP#commons-math:commons-math
+7	#DEP#commons-logging:commons-logging
+8	#DEP#org.antlr:antlr-runtime
+9	#DEP#junit:junit

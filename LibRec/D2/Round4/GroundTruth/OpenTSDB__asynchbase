@@ -1,0 +1,8 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#com.google.protobuf:protobuf-java
+1	#DEP#com.stumbleupon:async
+1	#DEP#org.powermock:powermock-api-mockito
+1	#DEP#com.google.guava:guava
+1	#DEP#org.objenesis:objenesis
+1	#DEP#junit:junit

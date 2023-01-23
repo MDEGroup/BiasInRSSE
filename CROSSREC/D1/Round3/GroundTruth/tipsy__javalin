@@ -1,0 +1,4 @@
+17	#DEP#org.eclipse.jetty:jetty-webapp
+18	#DEP#com.atlassian.commonmark:commonmark
+19	#DEP#junit:junit
+20	#DEP#com.carrotsearch:junit-benchmarks

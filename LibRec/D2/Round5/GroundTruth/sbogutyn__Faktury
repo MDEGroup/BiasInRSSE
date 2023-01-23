@@ -1,0 +1,5 @@
+1	#DEP#jgoodies:forms
+1	#DEP#jasperreports:jasperreports
+1	#DEP#org.springframework:spring-jdbc
+1	#DEP#postgresql:postgresql
+1	#DEP#org.springframework:spring-core

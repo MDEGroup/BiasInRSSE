@@ -1,0 +1,6 @@
+1	#DEP#dom4j:dom4j
+1	#DEP#com.icegreen:greenmail
+1	#DEP#com.github.tony19:apktool-lib
+1	#DEP#com.sun.mail:android-mail
+1	#DEP#com.sun.mail:android-activation
+1	#DEP#ch.qos.cal10n:cal10n-api

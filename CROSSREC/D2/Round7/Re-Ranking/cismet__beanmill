@@ -1,0 +1,10 @@
+#DEP#org.netbeans.api:org-netbeans-api-annotations-common	1.0
+#DEP#org.netbeans.api:org-openide-util	1.0
+#DEP#org.netbeans.api:org-openide-util-lookup	1.0
+#DEP#org.netbeans.api:org-openide-modules	1.0
+#DEP#org.netbeans.api:org-openide-loaders	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-project-libraries	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-editor-codetemplates	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-csl-api	1.0
+#DEP#org.netbeans.api:org-netbeans-api-java	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-editor-mimelookup	1.0

@@ -1,0 +1,12 @@
+1	git://github.com/teaddict/turkce-metin-ozetleme.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.postgresql:postgresql
+5	#DEP#junit:junit-dep
+6	#DEP#zemberek-nlp:morphology
+7	#DEP#javax.servlet:javax.servlet-api
+8	#DEP#zemberek-nlp:core
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#zemberek-nlp:tokenization
+11	#DEP#nz.ac.waikato.cms.weka:weka-stable
+12	#DEP#org.springframework.boot:spring-boot-starter-web

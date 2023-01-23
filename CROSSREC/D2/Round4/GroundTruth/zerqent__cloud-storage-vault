@@ -1,0 +1,4 @@
+1	#DEP#com.google.android:android-test
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#no.ntnu.item.csv:CSVlib
+1	#DEP#junit:junit

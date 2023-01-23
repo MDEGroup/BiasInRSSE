@@ -1,0 +1,9 @@
+1	git://github.com/alexsmirnov/maven-deployer-plugin.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.codehaus.plexus:plexus-utils
+4	#DEP#com.sun.jersey:jersey-client
+5	#DEP#org.apache.maven:maven-project
+6	#DEP#org.apache.maven:maven-plugin-api
+7	#DEP#commons-net:commons-net
+8	#DEP#com.sun.jersey.contribs:jersey-multipart
+9	#DEP#commons-lang:commons-lang

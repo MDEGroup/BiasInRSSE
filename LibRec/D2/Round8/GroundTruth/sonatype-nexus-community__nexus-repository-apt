@@ -1,0 +1,4 @@
+1	#DEP#org.sonatype.nexus:nexus-repository
+1	#DEP#org.bouncycastle:bcpg-jdk15on
+1	#DEP#org.sonatype.goodies:goodies-testsupport
+1	#DEP#org.sonatype.nexus.plugins:nexus-plugins

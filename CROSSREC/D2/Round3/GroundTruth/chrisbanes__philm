@@ -1,0 +1,9 @@
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.squareup.dagger:dagger-compiler
+1	#DEP#com.squareup.retrofit:retrofit
+1	#DEP#com.squareup:otto
+1	#DEP#com.google.guava:guava
+1	#DEP#com.android.support:support-v4
+1	#DEP#nl.qbusict:cupboard
+1	#DEP#com.genius:groupie

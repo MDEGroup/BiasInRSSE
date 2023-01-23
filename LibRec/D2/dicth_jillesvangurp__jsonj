@@ -1,0 +1,14 @@
+1	git://github.com/jillesvangurp/jsonj.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#xom:xom
+4	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+5	#DEP#de.undercouch:bson4jackson
+6	#DEP#org.testng:testng
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#io.inbot:inbot-utils
+10	#DEP#com.fasterxml.jackson.core:jackson-core
+11	#DEP#com.googlecode.plist:dd-plist
+12	#DEP#com.jillesvangurp:efficientstring
+13	#DEP#org.hamcrest:hamcrest-all
+14	#DEP#com.jasonclawson:jackson-dataformat-hocon

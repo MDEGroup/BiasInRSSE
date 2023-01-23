@@ -1,0 +1,16 @@
+65	#DEP#org.apache.pluto:pluto
+66	#DEP#org.infoglue:infoglue-cms-controllers-usecases
+67	#DEP#org.infoglue:infoglue-cms-io
+68	#DEP#dom4j:dom4j
+69	#DEP#javax.transaction:jta
+70	#DEP#org.infoglue:infoglue-cms-util-graphics
+71	#DEP#org.infoglue:infoglue-cms-util-css
+72	#DEP#org.apache.poi:poi-scratchpad
+73	#DEP#org.infoglue:infoglue-deliver-util-rss
+74	#DEP#com.thebuzzmedia:imgscalr-lib
+75	#DEP#javax.servlet:servlet-api
+76	#DEP#xerces:xercesImpl
+77	#DEP#commons-fileupload:commons-fileupload
+78	#DEP#eu.medsea.mimeutil:mime-util
+79	#DEP#org.apache.pluto:pluto-portal
+80	#DEP#fop:fop

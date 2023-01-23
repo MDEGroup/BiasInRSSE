@@ -1,0 +1,6 @@
+1	#DEP#org.json:json
+1	#DEP#org.apache.wicket:wicket
+1	#DEP#org.apache.wicket:wicket-auth-roles
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#junit:junit
+1	#DEP#org.slf4j:slf4j-jdk14

@@ -1,0 +1,12 @@
+1	git://github.com/shenhuniurou/BlogDemos.git
+2	#DEP#com.jude:easyrecyclerview
+3	#DEP#org.greenrobot:eventbus-annotation-processor
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support:support-v4
+7	#DEP#com.android.support:support-vector-drawable
+8	#DEP#org.greenrobot:eventbus
+9	#DEP#com.android.support:appcompat-v7
+10	#DEP#junit:junit
+11	#DEP#com.android.support:design
+12	#DEP#com.jakewharton:butterknife

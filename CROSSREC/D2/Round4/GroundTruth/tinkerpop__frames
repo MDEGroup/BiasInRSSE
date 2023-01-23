@@ -1,0 +1,4 @@
+1	#DEP#com.tinkerpop.blueprints:blueprints-test
+1	#DEP#com.tinkerpop.blueprints:blueprints-core
+1	#DEP#com.google.guava:guava
+1	#DEP#org.mockito:mockito-all

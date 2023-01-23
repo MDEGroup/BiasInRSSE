@@ -1,0 +1,14 @@
+1	#DEP#org.jboss.spec.javax.el:jboss-el-api_2.2_spec
+1	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#bsf:bsf
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.apache.activemq:activemq-all
+1	#DEP#log4j:log4j
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.eclipse.jetty.aggregate:jetty-all-server
+1	#DEP#${project.groupId}:dep-art
+1	#DEP#junit:junit
+1	#DEP#org.apache.wicket:wicket-extensions
+1	#DEP#net.skybert:maven-dep-art

@@ -1,0 +1,10 @@
+1	git://github.com/qcadoo/qcadoo-incubator.git
+2	#DEP#com.qcadoo:qcadoo-view
+3	#DEP#com.qcadoo.mes:mes-plugins
+4	#DEP#com.qcadoo:qcadoo-localization
+5	#DEP#com.qcadoo.mes:mes-plugins-genealogies
+6	#DEP#com.qcadoo:qcadoo-security
+7	#DEP#com.qcadoo.mes:mes-plugins-orders
+8	#DEP#com.qcadoo.mes:mes-commercial-plugins-integration-cfc-simple
+9	#DEP#com.qcadoo:qcadoo-model
+10	#DEP#com.qcadoo.mes:mes-commercial-plugins

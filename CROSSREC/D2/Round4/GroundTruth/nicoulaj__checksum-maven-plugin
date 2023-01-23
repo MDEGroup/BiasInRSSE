@@ -1,0 +1,5 @@
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#net.nicoulaj:parent
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-model
+1	#DEP#org.apache.maven:maven-plugin-api

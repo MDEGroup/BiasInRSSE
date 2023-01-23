@@ -1,0 +1,12 @@
+1	#DEP#com.geewhiz.pacify:pacify.impl
+1	#DEP#org.apache.logging.log4j:log4j-api
+1	#DEP#com.beust:jcommander
+1	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-runtime
+1	#DEP#org.apache.ant:ant
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#com.google.inject:guice
+1	#DEP#org.apache.logging.log4j:log4j-bom
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#com.google.inject.extensions:guice-multibindings

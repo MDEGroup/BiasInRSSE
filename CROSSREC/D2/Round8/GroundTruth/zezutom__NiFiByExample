@@ -1,0 +1,6 @@
+1	#DEP#org.apache.nifi:nifi-standard-services-api-nar
+1	#DEP#org.apache.nifi:nifi-processor-utils
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#org.slf4j:slf4j-simple
+1	#DEP#junit:junit
+1	#DEP#org.apache.nifi:nifi-nar-bundles

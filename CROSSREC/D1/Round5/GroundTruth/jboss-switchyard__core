@@ -1,0 +1,14 @@
+56	#DEP#org.apache.camel:camel-cdi
+57	#DEP#org.switchyard:switchyard-runtime
+58	#DEP#org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec
+59	#DEP#org.switchyard:switchyard-extensions-java
+60	#DEP#org.apache.maven.plugins:maven-plugin-plugin
+61	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_2.5_spec
+62	#DEP#org.codehaus.jackson:jackson-core-asl
+63	#DEP#org.apache.deltaspike.core:deltaspike-core-api
+64	#DEP#org.apache.karaf.jaas:org.apache.karaf.jaas.modules
+65	#DEP#org.switchyard:switchyard-api
+66	#DEP#org.apache.maven:maven-plugin-api
+67	#DEP#org.slf4j:slf4j-log4j12
+68	#DEP#org.switchyard:switchyard-bus-camel
+69	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec

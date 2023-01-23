@@ -1,0 +1,8 @@
+1	#DEP#com.google.inject:guice
+1	#DEP#com.github.seratch.taskun:taskun-servlet-extension
+1	#DEP#org.seasar.container:s2-tiger
+1	#DEP#org.seasar.container:s2-framework
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#com.github.seratch.taskun:taskun-scheduler

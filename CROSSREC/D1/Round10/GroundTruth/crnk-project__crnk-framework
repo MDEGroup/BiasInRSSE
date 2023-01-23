@@ -1,0 +1,6 @@
+26	#DEP#org.apache.deltaspike.core:deltaspike-core-impl
+27	#DEP#org.apache.deltaspike.modules:deltaspike-test-control-module-api
+28	#DEP#junit:junit
+29	#DEP#org.apache.deltaspike.cdictrl:deltaspike-cdictrl-weld
+30	#DEP#com.h2database:h2
+31	#DEP#com.moowork.gradle:gradle-node-plugin

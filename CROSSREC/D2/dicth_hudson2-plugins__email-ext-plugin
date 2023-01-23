@@ -1,0 +1,14 @@
+1	git://github.com/hudson2-plugins/email-ext-plugin.git
+2	#DEP#org.hudsonci.plugins:token-macro
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.eclipse.hudson:hudson-test-framework
+5	#DEP#org.jvnet.mock-javamail:mock-javamail
+6	#DEP#org.easymock:easymock
+7	#DEP#org.mockito:mockito-all
+8	#DEP#javax.mail:mail
+9	#DEP#org.hudsonci.plugins:maven-plugin
+10	#DEP#org.powermock:powermock-api-mockito
+11	#DEP#javax.servlet:servlet-api
+12	#DEP#org.powermock:powermock-api-easymock
+13	#DEP#org.eclipse.hudson.plugins:hudson-plugin-parent
+14	#DEP#junit:junit

@@ -1,0 +1,13 @@
+1	git://github.com/DTRules/DTRules.git
+2	#DEP#com.dtrules:sampleprojects
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#com.dtrules:dtrules
+5	#DEP#com.dtrules:dtrules-engine
+6	#DEP#de.jflex:jflex
+7	#DEP#com.dtrules:el
+8	#DEP#org.apache.poi:poi
+9	#DEP#com.dtrules:eBook
+10	#DEP#com.dtrules:dsl
+11	#DEP#edu.princeton.cup:java-cup
+12	#DEP#junit:junit
+13	#DEP#com.dtrules:compilerutil

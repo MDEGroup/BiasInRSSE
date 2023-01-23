@@ -1,0 +1,14 @@
+1	git://github.com/raffaeleguidi/DirectMemory.git
+2	#DEP#com.dyuproject.protostuff:protostuff-runtime
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#com.dyuproject.protostuff:protostuff-core
+5	#DEP#net.sf.josql:gentlyweb-utils
+6	#DEP#ch.qos.logback:logback-core
+7	#DEP#ch.qos.logback:logback-classic
+8	#DEP#com.google.guava:guava
+9	#DEP#com.dyuproject.protostuff:protostuff-api
+10	#DEP#junit:junit
+11	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.josql
+12	#DEP#com.carrotsearch:junit-benchmarks
+13	#DEP#org.aspectj:aspectjrt
+14	#DEP#com.h2database:h2

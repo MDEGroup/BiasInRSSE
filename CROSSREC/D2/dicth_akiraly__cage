@@ -1,0 +1,10 @@
+1	git://github.com/akiraly/cage.git
+2	#DEP#org.apache.wicket:wicket-core
+3	#DEP#javax.servlet.jsp:jsp-api
+4	#DEP#javax.servlet:javax.servlet-api
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.github.cage:cage
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#junit:junit
+9	#DEP#com.github.cage:cage-parent
+10	#DEP#com.github.cage.examples:cage-examples-parent

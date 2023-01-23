@@ -1,0 +1,8 @@
+1	#DEP#org.glassfish.jersey.connectors:jersey-apache-connector
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit
+1	#DEP#org.glassfish.jersey.core:jersey-client
+1	#DEP#com.squareup.retrofit2:converter-simplexml

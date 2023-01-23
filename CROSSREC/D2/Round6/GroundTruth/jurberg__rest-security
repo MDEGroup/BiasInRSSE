@@ -1,0 +1,12 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.springframework:spring-expression
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.springframework:spring-test
+1	#DEP#log4j:log4j
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#junit:junit
+1	#DEP#wsdl4j:wsdl4j

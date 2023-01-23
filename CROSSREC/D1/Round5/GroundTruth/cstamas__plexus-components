@@ -1,0 +1,5 @@
+21	#DEP#aspectj:aspectjrt
+22	#DEP#org.codehaus.plexus:plexus-compiler-api
+23	#DEP#aspectj:aspectjtools
+24	#DEP#velocity:velocity
+25	#DEP#org.apache.maven:maven-artifact

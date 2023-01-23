@@ -1,0 +1,10 @@
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.google.inject:guice	1.0
+#DEP#aopalliance:aopalliance	1.0
+#DEP#org.apache.struts:struts2-core	1.0
+#DEP#org.springframework:spring-beans	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.google.inject.extensions:guice-assistedinject	1.0
+#DEP#org.sonatype.sisu.inject:cglib	1.0

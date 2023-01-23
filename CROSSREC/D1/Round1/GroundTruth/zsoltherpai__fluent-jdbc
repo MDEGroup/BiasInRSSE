@@ -1,0 +1,3 @@
+14	#DEP#org.hsqldb:hsqldb
+15	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec
+16	#DEP#com.h2database:h2

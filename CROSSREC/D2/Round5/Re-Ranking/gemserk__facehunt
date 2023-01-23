@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#${project.groupId}:taken-core	1.0
+#DEP#com.gemserk.games.superflyingthing:superflyingthing	1.0
+#DEP#com.gemserk.vecmath:vecmath	1.0
+#DEP#${project.groupId}:vampirerunner-core	1.0
+#DEP#com.gemserk.games.vampirerunner:vampirerunner	1.0
+#DEP#com.gemserk.games.taken:taken	1.0
+#DEP#com.badlogic.gdx:gdx-platform	1.0
+#DEP#${project.groupId}:superflyingthing-core	1.0
+#DEP#com.gamadu.artemis:artemis	1.0

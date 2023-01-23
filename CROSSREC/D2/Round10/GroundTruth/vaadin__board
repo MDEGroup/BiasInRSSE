@@ -1,0 +1,8 @@
+1	#DEP#com.vaadin:vaadin-charts
+1	#DEP#com.vaadin:vaadin-board-precompiled
+1	#DEP#com.vaadin:vaadin-board-root
+1	#DEP#com.vaadin:vaadin-themes
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.vaadin:vaadin-testbench-api
+1	#DEP#com.vaadin:vaadin-client
+1	#DEP#junit:junit

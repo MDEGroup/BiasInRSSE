@@ -1,0 +1,9 @@
+1	#DEP#org.apache.maven.wagon:wagon-http
+1	#DEP#org.mockito:mockito-core
+1	#DEP#args4j:args4j
+1	#DEP#org.apache.maven:maven-compat
+1	#DEP#org.jenkins-ci:version-number
+1	#DEP#com.sun.xml.bind:jaxb-impl
+1	#DEP#bouncycastle:bcprov-jdk15
+1	#DEP#org.sonatype.nexus:nexus-indexer
+1	#DEP#org.kohsuke.stapler:json-lib

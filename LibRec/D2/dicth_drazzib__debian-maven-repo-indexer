@@ -1,0 +1,9 @@
+1	git://github.com/drazzib/debian-maven-repo-indexer.git
+2	#DEP#javax.ws.rs:jsr311-api
+3	#DEP#javax.servlet:servlet-api
+4	#DEP#org.sonatype.nexus:nexus-indexer
+5	#DEP#junit:junit
+6	#DEP#org.debian.maven:maven-debian-indexer
+7	#DEP#com.sun.jersey:jersey-server
+8	#DEP#javax.ejb:ejb-api
+9	#DEP#org.debian.maven:maven-debian-indexer-core

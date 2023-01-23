@@ -1,0 +1,10 @@
+#DEP#org.exoplatform.kernel:exo.kernel.container	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#cglib:cglib	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.exoplatform.portal:exo.portal.webui.portal	1.0
+#DEP#javax.inject:javax.inject	1.0
+#DEP#org.exoplatform.ws:exo.ws.rest.ext	1.0
+#DEP#org.chromattic:chromattic.metamodel	1.0
+#DEP#org.reflext:reflext.core	1.0

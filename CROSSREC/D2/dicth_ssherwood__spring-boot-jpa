@@ -1,0 +1,16 @@
+1	git://github.com/ssherwood/spring-boot-jpa.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+4	#DEP#com.querydsl:querydsl-apt
+5	#DEP#org.hibernate:hibernate-java8
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#commons-beanutils:commons-beanutils
+8	#DEP#org.springframework.boot:spring-boot-starter-parent
+9	#DEP#org.springframework.boot:spring-boot-starter-web
+10	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-hibernate5
+11	#DEP#org.springframework.boot:spring-boot-starter-test
+12	#DEP#org.apache.commons:commons-text
+13	#DEP#org.springframework.boot:spring-boot-devtools
+14	#DEP#com.querydsl:querydsl-jpa
+15	#DEP#org.springframework.boot:spring-boot-starter-actuator
+16	#DEP#com.h2database:h2

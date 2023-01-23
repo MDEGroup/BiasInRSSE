@@ -1,0 +1,12 @@
+52	#DEP#org.bouncycastle:bcprov-ext-jdk15on
+53	#DEP#org.osgi:osgi.cmpn
+54	#DEP#com.google.code.gson:gson
+55	#DEP#org.ops4j.pax.exam:pax-exam-container-karaf
+56	#DEP#org.apache.servicemix.bundles:org.apache.servicemix.bundles.jsch-agentproxy-jsch
+57	#DEP#org.apache.karaf.shell:org.apache.karaf.shell.console
+58	#DEP#org.apache.jclouds.api:chef
+59	#DEP#org.apache.jclouds.driver:jclouds-jsch
+60	#DEP#org.apache.jclouds.karaf:cache
+61	#DEP#org.apache.felix:org.apache.felix.configadmin
+62	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+63	#DEP#org.apache.karaf:apache-karaf

@@ -1,0 +1,10 @@
+1	git://github.com/CmdrDats/MemoryStone.git
+2	#DEP#org.bukkit:bukkit
+3	#DEP#cosine.boseconomy:BOSEconomy7
+4	#DEP#com.nijiko:iCo6
+5	#DEP#com.nijiko:iCo4
+6	#DEP#com.nijiko:iCo5
+7	#DEP#org.getspout:spoutapi
+8	#DEP#org.avaje:ebean
+9	#DEP#com.earth2me:Essentials
+10	#DEP#me.ashtheking:MultiCurrency

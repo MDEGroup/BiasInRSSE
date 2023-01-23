@@ -1,0 +1,9 @@
+1	#DEP#com.cloudera.hadoop:hadoop-mrunit
+1	#DEP#de.tuberlin.dima.aim:datamining
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#eu.stratosphere:pact-clients
+1	#DEP#${hadoop.groupId}:hadoop-core
+1	#DEP#log4j:log4j
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.mahout:mahout-collections
+1	#DEP#junit:junit

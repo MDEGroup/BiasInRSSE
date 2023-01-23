@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+1	#DEP#it.unimi.dsi:fastutil
+1	#DEP#junit:junit
+1	#DEP#org.apache.logging.log4j:log4j-api

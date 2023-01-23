@@ -1,0 +1,9 @@
+1	git://github.com/GeoLatte/geolatte-common-hibernate.git
+2	#DEP#org.hibernatespatial:hibernate-spatial
+3	#DEP#jaxen:jaxen
+4	#DEP#org.geolatte:geolatte-common
+5	#DEP#org.sonatype.oss:oss-parent
+6	#DEP#log4j:log4j
+7	#DEP#org.hibernatespatial:hibernate-spatial-h2-geodb
+8	#DEP#junit:junit
+9	#DEP#org.slf4j:slf4j-log4j12

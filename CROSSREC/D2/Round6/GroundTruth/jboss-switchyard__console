@@ -1,0 +1,15 @@
+1	#DEP#org.jboss.as:jboss-as-console-dmr
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#org.switchyard.console:switchyard-console-component-clojure
+1	#DEP#org.switchyard:switchyard-parent
+1	#DEP#org.switchyard.console:switchyard-console-parent
+1	#DEP#org.switchyard.console:switchyard-console-component-bpel
+1	#DEP#com.google.inject:guice
+1	#DEP#org.jboss.as:jboss-as-console-build
+1	#DEP#com.google.inject.extensions:guice-assistedinject
+1	#DEP#org.switchyard.console:switchyard-console-extension
+1	#DEP#org.switchyard.console:switchyard-console-component-camel
+1	#DEP#org.jboss.as:jboss-as-console-bom
+1	#DEP#org.switchyard.console:switchyard-console-component-hornetq
+1	#DEP#org.switchyard.console:switchyard-console-components
+1	#DEP#junit:junit

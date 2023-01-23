@@ -1,0 +1,16 @@
+1	git://github.com/XuJin1992/ChineseTextClassifier.git
+2	#DEP#io.netty:netty-all
+3	#DEP#org.apache.commons:commons-math3
+4	#DEP#org.apache.mahout:mahout-math
+5	#DEP#org.apache.lucene:lucene-core
+6	#DEP#org.apache.zookeeper:zookeeper
+7	#DEP#org.apache.mahout:mahout-core
+8	#DEP#com.alibaba:fastjson
+9	#DEP#nz.ac.waikato.cms.weka:LibSVM
+10	#DEP#nz.ac.waikato.cms.weka:weka-stable
+11	#DEP#org.elasticsearch:elasticsearch
+12	#DEP#quartz:quartz
+13	#DEP#org.apache.poi:poi
+14	#DEP#org.ansj:ansj_seg
+15	#DEP#com.google.guava:guava
+16	#DEP#com.qunar.db:dbaccess

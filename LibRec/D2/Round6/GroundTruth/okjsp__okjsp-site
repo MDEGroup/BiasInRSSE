@@ -1,0 +1,8 @@
+1	#DEP#javax.mail:mail
+1	#DEP#com.rosaloves:bitlyj
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#servlets.com:cos
+1	#DEP#javax.servlet:jstl
+1	#DEP#org.apache.tomcat:servlet-api
+1	#DEP#com.cubrid:cubrid-jdbc
+1	#DEP#junit:junit

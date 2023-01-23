@@ -1,0 +1,10 @@
+#DEP#org.xerial:sqlite-jdbc	1.0
+#DEP#org.opengeo.geoserver:web-wps-ext	1.0
+#DEP#org.springframework:spring-context-support	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.eclipse.jetty:jetty-jndi	1.0
+#DEP#org.geotools:gt-complex	1.0
+#DEP#org.geoserver.extension:gs-libjpeg-turbo	1.0
+#DEP#org.geoserver.community:gs-mbtiles	1.0
+#DEP#org.geoserver.community:gs-geopkg	1.0
+#DEP#org.geoserver.web:gs-web-sec-ldap	1.0

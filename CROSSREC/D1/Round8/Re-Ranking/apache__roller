@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.xmlrpc:xmlrpc-common	1.0
+#DEP#org.apache.xmlrpc:xmlrpc-server	1.0
+#DEP#com.thoughtworks.xstream:xstream	1.0
+#DEP#javax.persistence:persistence-api	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#de.u-mass:lastfm-java	1.0
+#DEP#org.codehaus.httpcache4j:httpcache4j-api	1.0
+#DEP#org.apache.abdera:abdera-bundle	1.0

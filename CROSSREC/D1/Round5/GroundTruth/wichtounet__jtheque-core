@@ -1,0 +1,10 @@
+44	#DEP#ch.qos.logback:logback-core
+45	#DEP#org.slf4j:slf4j-api
+46	#DEP#org.springframework:spring-jdbc
+47	#DEP#org.jtheque:org.jtheque.ui
+48	#DEP#org.swinglabs:org.jtheque.swingx
+49	#DEP#org.jtheque:org.jtheque.images
+50	#DEP#org.slf4j:jcl-over-slf4j
+51	#DEP#org.jtheque:org.jtheque.spring.utils
+52	#DEP#org.trident:org.jtheque.trident
+53	#DEP#org.swinglabs:org.jtheque.jxlayer

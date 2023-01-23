@@ -1,0 +1,10 @@
+1	#DEP#com.googlecode.forplay:jbox2d
+1	#DEP#allen_sauer:gwt-log
+1	#DEP#${groupId}:${rootArtifactId}
+1	#DEP#jlayer:jlayer
+1	#DEP#junit:junit
+1	#DEP#com.googlecode.forplay:forplay-project
+1	#DEP#com.googlecode.forplay:forplay-peaphysics-project
+1	#DEP#com.googlecode.forplay:forplay-demos
+1	#DEP#com.googlecode.forplay:webgl
+1	#DEP#org.eclipse.jetty:jetty-servlet

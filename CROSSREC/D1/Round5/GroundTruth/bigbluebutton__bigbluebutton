@@ -1,0 +1,9 @@
+36	#DEP#org.testng:testng
+37	#DEP#org.apache.poi:poi-ooxml-schemas
+38	#DEP#net/jcip:jcip-annotations
+39	#DEP#net.jcip:jcip-annotations
+40	#DEP#org.red5:red5-server
+41	#DEP#commons-pool:commons-pool
+42	#DEP#:ffmpeg
+43	#DEP#javax.servlet:servlet-api
+44	#DEP#aopalliance:aopalliance

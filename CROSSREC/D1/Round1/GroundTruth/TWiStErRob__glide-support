@@ -1,0 +1,4 @@
+16	#DEP#com.squareup.picasso:picasso
+17	#DEP#com.mcxiaoke.volley:library
+18	#DEP#com.android.volley:volley
+19	#DEP#com.facebook.stetho:stetho-urlconnection

@@ -1,0 +1,14 @@
+1	git://github.com/kaushikgopal/RxJava-Android-Samples.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#com.squareup.leakcanary:leakcanary-android
+4	#DEP#io.reactivex.rxjava2:rxjava
+5	#DEP#com.jakewharton.timber:timber
+6	#DEP#com.github.akarnokd:rxjava2-extensions
+7	#DEP#com.squareup.leakcanary:leakcanary-android-no-op
+8	#DEP#com.mcxiaoke.volley:library
+9	#DEP#com.jakewharton.rx:replaying-share-kotlin
+10	#DEP#com.jakewharton.rxrelay2:rxrelay
+11	#DEP#com.android.support:multidex
+12	#DEP#com.jakewharton.rxbinding2:rxbinding
+13	#DEP#com.jakewharton.retrofit:retrofit2-rxjava2-adapter
+14	#DEP#com.github.kaushikgopal:CoreTextUtils

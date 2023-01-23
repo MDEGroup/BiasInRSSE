@@ -1,0 +1,5 @@
+1	#DEP#com.github.hss01248.PhotoPicker:fresco
+1	#DEP#com.github.hss01248.PhotoPicker:picasso
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#junit:junit
+1	#DEP#com.jakewharton:butterknife

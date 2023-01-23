@@ -1,0 +1,11 @@
+1	git://github.com/endymuhardin/belajar-software-testing.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.slf4j:jcl-over-slf4j
+4	#DEP#org.dbunit:dbunit
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#commons-logging:commons-logging
+7	#DEP#org.slf4j:log4j-over-slf4j
+8	#DEP#javax.servlet:servlet-api
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+11	#DEP#junit:junit

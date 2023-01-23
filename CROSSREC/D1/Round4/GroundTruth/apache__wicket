@@ -1,0 +1,16 @@
+67	#DEP#httpunit:httpunit
+68	#DEP#org.wildfly:wildfly-arquillian-container-embedded
+69	#DEP#org.eclipse.jetty:jetty-server
+70	#DEP#org.apache.wicket:wicket-jmx
+71	#DEP#org.jboss.seam.conversation:seam-conversation-spi
+72	#DEP#org.apache.wicket:wicket-util
+73	#DEP#org.hibernate:hibernate-validator
+74	#DEP#com.fasterxml.jackson.core:jackson-databind
+75	#DEP#org.slf4j:slf4j-log4j12
+76	#DEP#org.apache.wicket.experimental.wicket8:wicket-http2-jetty
+77	#DEP#org.mockito:mockito-core
+78	#DEP#commons-fileupload:commons-fileupload
+79	#DEP#org.apache.wicket:wicket-velocity
+80	#DEP#org.eclipse.jetty:jetty-webapp
+81	#DEP#org.eclipse.jetty.websocket:javax-websocket-server-impl
+82	#DEP#org.jglue.cdi-unit:cdi-unit

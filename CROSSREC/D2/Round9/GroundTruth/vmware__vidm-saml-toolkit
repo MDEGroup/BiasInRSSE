@@ -1,0 +1,9 @@
+1	#DEP#org.opensaml:openws
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.opensaml:opensaml-saml-impl
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#org.eclipse.jetty:jetty-server
+1	#DEP#org.json:json
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit
+1	#DEP#com.vmware:vidmsaml

@@ -1,0 +1,10 @@
+1	#DEP#iConomy:iConomy5
+1	#DEP#org.igniterealtime.smack:smack
+1	#DEP#de.bananaco:bPermissions
+1	#DEP#ru.tehkode:PermissionsEx
+1	#DEP#BOSEconomy:BOSEconomy
+1	#DEP#org.projectlombok:lombok
+1	#DEP#Privileges:Privileges
+1	#DEP#junit:junit
+1	#DEP#com.platymuus:bukkit-permissions
+1	#DEP#net.ess3:EssentialsParent

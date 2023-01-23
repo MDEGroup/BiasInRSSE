@@ -1,0 +1,3 @@
+16	#DEP#org.elasticsearch.client:transport
+17	#DEP#junit:junit
+18	#DEP#cglib:cglib

@@ -1,0 +1,10 @@
+1	#DEP#net.java.dev.jna:jna-osgi
+1	#DEP#org.jenkins-ci:trilead-ssh2
+1	#DEP#org.apache.subversion:svn-python-tests
+1	#DEP#org.tigris.subversion:svn-python-tests
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.eclipse.core:runtime
+1	#DEP#com.jcraft:jsch.agentproxy.svnkit-trilead-ssh2
+1	#DEP#junit:junit
+1	#DEP#org.tigris.subversion:svn-binaries
+1	#DEP#org.apache.subversion:svn-binaries

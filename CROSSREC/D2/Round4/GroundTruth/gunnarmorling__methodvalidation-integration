@@ -1,0 +1,11 @@
+1	#DEP#javax.enterprise:cdi-api
+1	#DEP#org.jboss.arquillian.container:arquillian-weld-se-embedded-1
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.jboss.weld:weld-api
+1	#DEP#aopalliance:aopalliance
+1	#DEP#junit:junit
+1	#DEP#com.google.code.guice:guice
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#org.jboss.weld:weld-core-bom
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#cglib:cglib

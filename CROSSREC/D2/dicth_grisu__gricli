@@ -1,0 +1,13 @@
+1	git://github.com/grisu/gricli.git
+2	#DEP#org.easymock:easymock
+3	#DEP#commons-logging:commons-logging
+4	#DEP#org.bouncycastle:bcprov-jdk15
+5	#DEP#grisu.backend:grisu-core
+6	#DEP#me.moocar:logback-gelf
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#net.sf.ehcache:ehcache
+9	#DEP#org.hamcrest:hamcrest-all
+10	#DEP#nz.org.nesi:nesi
+11	#DEP#external.jline:jline
+12	#DEP#junit:junit
+13	#DEP#grisu.frontend:grisu-client

@@ -1,0 +1,9 @@
+1	git://github.com/udacity/ud851-Sunshine.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.android.support.constraint:constraint-layout
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.android.support.test:rules
+7	#DEP#junit:junit
+8	#DEP#com.android.support.test:runner
+9	#DEP#com.android.support:preference-v7

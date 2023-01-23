@@ -1,0 +1,9 @@
+1	git://github.com/jvz/reactor-spring5-example.git
+2	#DEP#io.projectreactor.ipc:reactor-netty
+3	#DEP#org.springframework.boot.experimental:spring-boot-dependencies-web-reactive
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.apache.cassandra:cassandra-all
+6	#DEP#org.springframework.boot:spring-boot-starter-data-cassandra
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.projectlombok:lombok
+9	#DEP#org.springframework.boot.experimental:spring-boot-starter-web-reactive

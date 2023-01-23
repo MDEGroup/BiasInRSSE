@@ -1,0 +1,12 @@
+1	git://github.com/marekdef/SMSSender.git
+2	#DEP#com.admob.android.ads:GoogleAdMobAdsSdk
+3	#DEP#com.google.android:android
+4	#DEP#net.retsat1.starlab.android.smssender:smssender
+5	#DEP#org.testng:testng
+6	#DEP#org.easymock:easymock
+7	#DEP#org.objenesis:objenesis
+8	#DEP#com.google.android:android-test
+9	#DEP#org.mockito:mockito-all
+10	#DEP#com.admob.android.ads:android
+11	#DEP#net.starlab.retsat1.android:android-number-picker
+12	#DEP#org.powermock.api:powermock-api-mockito

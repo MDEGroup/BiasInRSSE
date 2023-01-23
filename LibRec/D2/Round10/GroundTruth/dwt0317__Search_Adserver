@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#org.apache.thrift:libthrift
+1	#DEP#org.apache.flume:flume-ng-core
+1	#DEP#org.elasticsearch:elasticsearch

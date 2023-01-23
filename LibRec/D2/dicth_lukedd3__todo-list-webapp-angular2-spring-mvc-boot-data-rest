@@ -1,0 +1,9 @@
+1	git://github.com/lukedd3/todo-list-webapp-angular2-spring-mvc-boot-data-rest.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#org.springframework.boot:spring-boot-starter-test
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.hateoas:spring-hateoas
+7	#DEP#org.springframework.boot:spring-boot-starter-validation
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#org.springframework.boot:spring-boot-starter-actuator

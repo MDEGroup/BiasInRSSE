@@ -1,0 +1,9 @@
+1	git://github.com/gustavoponce7/SpringSecurityLoginTutorial.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#net.sourceforge.nekohtml:nekohtml
+5	#DEP#org.springframework.boot:spring-boot-starter-test
+6	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-starter-security
+9	#DEP#org.springframework.boot:spring-boot-starter-web

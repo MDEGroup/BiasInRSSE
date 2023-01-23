@@ -1,0 +1,11 @@
+1	#DEP#org.litepal.android:core
+1	#DEP#com.jeremyfeinstein.slidingmenu:parent
+1	#DEP#com.android.support:design
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.youth.banner:banner
+1	#DEP#cn.jiguang.sdk:jpush
+1	#DEP#com.google.android:support-v4
+1	#DEP#com.android.support:support-v4
+1	#DEP#junit:junit
+1	#DEP#com.github.chrisbanes:PhotoView

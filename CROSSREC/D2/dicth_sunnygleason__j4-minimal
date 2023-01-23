@@ -1,0 +1,12 @@
+1	git://github.com/sunnygleason/j4-minimal.git
+2	#DEP#com.sun.jersey:jersey-json
+3	#DEP#com.google.inject:guice
+4	#DEP#org.codehaus.jackson:jackson-core-asl
+5	#DEP#org.eclipse.jetty:jetty-server
+6	#DEP#org.testng:testng
+7	#DEP#com.google.inject.extensions:guice-servlet
+8	#DEP#org.codehaus.jackson:jackson-jaxrs
+9	#DEP#com.sun.jersey.contribs:jersey-guice
+10	#DEP#org.codehaus.jackson:jackson-mapper-asl
+11	#DEP#org.eclipse.jetty:jetty-servlet
+12	#DEP#com.sun.jersey:jersey-server

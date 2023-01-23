@@ -1,0 +1,5 @@
+20	#DEP#ch.qos.logback:logback-classic
+21	#DEP#io.zipkin.reporter2:zipkin-reporter-parent
+22	#DEP#junit:junit
+23	#DEP#org.openjdk.jmh:jmh-core
+24	#DEP#${project.groupId}:zipkin-sender-kafka11

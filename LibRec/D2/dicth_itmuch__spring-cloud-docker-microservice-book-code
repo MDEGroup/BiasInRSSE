@@ -1,0 +1,15 @@
+1	git://github.com/itmuch/spring-cloud-docker-microservice-book-code.git
+2	#DEP#org.springframework.cloud:spring-cloud-starter-feign
+3	#DEP#org.springframework.cloud:spring-cloud-dependencies
+4	#DEP#org.springframework.boot:spring-boot-starter-parent
+5	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+6	#DEP#org.springframework.boot:spring-boot-starter-web
+7	#DEP#org.springframework.boot:spring-boot-starter-security
+8	#DEP#org.springframework.cloud:spring-cloud-starter-ribbon
+9	#DEP#org.springframework.cloud:spring-cloud-netflix-hystrix-stream
+10	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+11	#DEP#org.springframework.cloud:spring-cloud-starter-bus-amqp
+12	#DEP#org.springframework.cloud:spring-cloud-starter-stream-rabbit
+13	#DEP#org.springframework.cloud:spring-cloud-starter-config
+14	#DEP#org.springframework.cloud:spring-cloud-config-server
+15	#DEP#org.springframework.boot:spring-boot-starter-actuator

@@ -1,0 +1,10 @@
+#DEP#org.netbeans.api:org-openide-awt	1.0
+#DEP#org.netbeans.api:org-openide-util-lookup	1.0
+#DEP#org.netbeans.api:org-netbeans-api-annotations-common	1.0
+#DEP#org.netbeans.api:org-openide-windows	1.0
+#DEP#org.netbeans.api:org-openide-loaders	1.0
+#DEP#org.netbeans.api:org-openide-filesystems	1.0
+#DEP#org.netbeans.external:jh-2.0_05	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-editor-errorstripe-api	1.0
+#DEP#org.netbeans.external:beansbinding-1.2.1	1.0
+#DEP#org.netbeans.api:org-netbeans-modules-autoupdate-services	1.0

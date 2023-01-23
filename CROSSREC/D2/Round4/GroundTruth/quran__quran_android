@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.squareup.moshi:moshi
+1	#DEP#com.facebook.stetho:stetho-okhttp3
+1	#DEP#junit:junit
+1	#DEP#com.google.truth:truth

@@ -1,0 +1,10 @@
+1	git://github.com/crazyandcoder/ChargeProgress.git
+2	#DEP#liji.library.dev:takephotolib
+3	#DEP#liji.library.dev:circleimageview
+4	#DEP#com.github.zhaokaiqiang.klog:library
+5	#DEP#liji.library.dev:citypickerview
+6	#DEP#liji.library.dev:multilinechooselib
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.bigkoo:convenientbanner
+10	#DEP#liji.library.dev:imagezoom

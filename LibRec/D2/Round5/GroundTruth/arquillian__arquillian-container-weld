@@ -1,0 +1,10 @@
+1	#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#org.jboss.arquillian.container:arquillian-weld-embedded-root
+1	#DEP#org.jboss.shrinkwrap:shrinkwrap-impl-base
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.arquillian.container:arquillian-container-test-spi
+1	#DEP#org.jboss.arquillian.container:arquillian-container-spi
+1	#DEP#junit:junit
+1	#DEP#org.jboss.weld:weld-api

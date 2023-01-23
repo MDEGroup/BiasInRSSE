@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec	1.0
+#DEP#org.jboss.logging:jboss-logging	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.lucene:lucene-analyzers-common	1.0
+#DEP#org.apache.lucene:lucene-queryparser	1.0
+#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven	1.0
+#DEP#org.hibernate.ogm:hibernate-ogm-mongodb	1.0
+#DEP#org.hibernate.hql:hibernate-hql-lucene	1.0

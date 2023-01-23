@@ -1,0 +1,7 @@
+30	#DEP#com.jboss.trading:trading-ws-client-test-config
+31	#DEP#javax.enterprise:cdi-api
+32	#DEP#org.jacoco:org.jacoco.core
+33	#DEP#org.jboss.arquillian.extension:arquillian-jacoco
+34	#DEP#org.jboss.arquillian:arquillian-bom
+35	#DEP#com.jboss.trading:trading-web
+36	#DEP#junit:junit

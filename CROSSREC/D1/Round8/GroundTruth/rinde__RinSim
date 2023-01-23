@@ -1,0 +1,9 @@
+36	#DEP#com.github.rinde:rinsim-core
+37	#DEP#org.mockito:mockito-core
+38	#DEP#ch.qos.logback:logback-classic
+39	#DEP#org.apache.commons:org.apache.commons
+40	#DEP#org.slf4j:org.slf4j
+41	#DEP#junit:junit
+42	#DEP#com.github.rinde:rinsim-scenario-util
+43	#DEP#ch.qos.logback:ch.qos.logback
+44	#DEP#net.openhft:affinity

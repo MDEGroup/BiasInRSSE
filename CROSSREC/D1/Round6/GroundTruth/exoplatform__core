@@ -1,0 +1,10 @@
+40	#DEP#org.exoplatform.kernel:exo.kernel.commons.test
+41	#DEP#org.hibernate:hibernate-core
+42	#DEP#org.exoplatform.tool:exo.tool.framework.junit
+43	#DEP#org.jboss.security:jbosssx
+44	#DEP#javax.transaction:jta
+45	#DEP#org.slf4j:slf4j-log4j12
+46	#DEP#commons-pool:commons-pool
+47	#DEP#org.exoplatform.kernel:exo.kernel.component.common
+48	#DEP#org.apache.poi:poi-scratchpad
+49	#DEP#org.exoplatform.kernel:exo.kernel.component.cache

@@ -1,0 +1,15 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.mapdb:mapdb
+1	#DEP#org.javassist:javassist
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.alibaba:fastjson
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.apache.commons:commons-proxy
+1	#DEP#org.iq80.leveldb:leveldb
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#junit:junit
+1	#DEP#org.ehcache:ehcache
+1	#DEP#com.h2database:h2

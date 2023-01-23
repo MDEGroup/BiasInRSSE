@@ -1,0 +1,5 @@
+1	#DEP#com.android.support:appcompat-v7
+1	#DEP#com.dodola:rocoo
+1	#DEP#junit:junit
+1	#DEP#com.android.tools.build:gradle
+1	#DEP#org.ow2.asm:asm

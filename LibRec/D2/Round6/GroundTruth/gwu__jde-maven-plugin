@@ -1,0 +1,5 @@
+1	#DEP#com.garrettwu.lisp:gwu-lisp
+1	#DEP#junit:junit
+1	#DEP#org.apache.maven:maven-plugin-api
+1	#DEP#org.apache.maven:maven-artifact
+1	#DEP#org.apache.maven:maven-core

@@ -1,0 +1,10 @@
+1	git://github.com/Syncleus/aparapi-examples.git
+2	#DEP#org.jogamp.gluegen:gluegen-rt-main
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#log4j:log4j
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#com.syncleus:syncleus
+7	#DEP#org.jogamp.gluegen:gluegen
+8	#DEP#com.aparapi:aparapi
+9	#DEP#org.jogamp.jogl:jogl-all-main
+10	#DEP#junit:junit

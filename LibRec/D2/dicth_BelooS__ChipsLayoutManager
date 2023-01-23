@@ -1,0 +1,12 @@
+1	git://github.com/BelooS/ChipsLayoutManager.git
+2	#DEP#com.google.dexmaker:dexmaker-mockito
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#pl.pragmatists:JUnitParams
+5	#DEP#org.mockito:mockito-core
+6	#DEP#com.jakewharton:butterknife-compiler
+7	#DEP#com.google.dexmaker:dexmaker
+8	#DEP#com.google.firebase:firebase-crash
+9	#DEP#junit:junit
+10	#DEP#com.jakewharton:butterknife
+11	#DEP#com.android.support.test:runner
+12	#DEP#com.android.support.test.espresso:espresso-core

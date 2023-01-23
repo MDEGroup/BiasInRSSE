@@ -1,0 +1,12 @@
+1	#DEP#com.github.lovetuzitong:MultiImageSelector
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#com.android.support:design
+1	#DEP#com.nostra13.universalimageloader:universal-image-loader
+1	#DEP#com.afollestad.material-dialogs:commons
+1	#DEP#com.loopj.android:android-async-http
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.github.florent37:expectanim
+1	#DEP#org.greenrobot:greendao
+1	#DEP#com.android.support:multidex
+1	#DEP#junit:junit

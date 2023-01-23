@@ -1,0 +1,13 @@
+1	git://github.com/brucetoo/ListVideoPlay.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:appcompat-v7
+6	#DEP#com.andkulikov:transitionseverywhere
+7	#DEP#com.squareup.picasso:picasso
+8	#DEP#com.joanzapata.android:base-adapter-helper
+9	#DEP#com.android.support:support-v4
+10	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+11	#DEP#com.android.support.constraint:constraint-layout
+12	#DEP#com.github.markzhai:blockcanary-android
+13	#DEP#junit:junit

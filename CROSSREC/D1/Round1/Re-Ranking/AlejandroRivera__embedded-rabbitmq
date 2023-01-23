@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.postgresql:postgresql	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#${project.groupId}:mysql	1.0

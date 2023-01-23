@@ -1,0 +1,7 @@
+28	#DEP#org.apache.curator:curator-framework
+29	#DEP#log4j:log4j
+30	#DEP#org.hamcrest:hamcrest-all
+31	#DEP#org.json:json
+32	#DEP#org.cloudname:log
+33	#DEP#junit:junit
+34	#DEP#com.sun.jersey:jersey-server

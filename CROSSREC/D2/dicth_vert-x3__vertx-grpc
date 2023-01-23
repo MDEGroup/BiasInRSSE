@@ -1,0 +1,12 @@
+1	git://github.com/vert-x3/vertx-grpc.git
+2	#DEP#io.vertx:vertx-core
+3	#DEP#io.vertx:vertx-docgen
+4	#DEP#io.grpc:grpc-protobuf
+5	#DEP#io.vertx:vertx-dependencies
+6	#DEP#io.vertx:vertx-codegen
+7	#DEP#io.grpc:grpc-netty
+8	#DEP#org.mortbay.jetty.alpn:jetty-alpn-agent
+9	#DEP#io.vertx:vertx-parent
+10	#DEP#io.grpc:grpc-stub
+11	#DEP#junit:junit
+12	#DEP#io.vertx:vertx-unit

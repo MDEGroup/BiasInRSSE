@@ -1,0 +1,5 @@
+1	#DEP#xerces:xercesImpl
+1	#DEP#com.google.guava:guava
+1	#DEP#org.json:json
+1	#DEP#junit:junit
+1	#DEP#org.simpleframework:simple-xml

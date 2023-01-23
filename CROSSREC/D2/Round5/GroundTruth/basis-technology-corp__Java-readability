@@ -1,0 +1,4 @@
+1	#DEP#org.sonatype.oss:oss-parent
+1	#DEP#org.apache.tika:tika-parsers
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.slf4j:slf4j-api

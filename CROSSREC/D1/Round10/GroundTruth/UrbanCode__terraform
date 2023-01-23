@@ -1,0 +1,4 @@
+20	#DEP#com.urbancode:x2o
+21	#DEP#org.apache.httpcomponents:httpcore
+22	#DEP#junit:junit
+23	#DEP#commons-httpclient:commons-httpclient

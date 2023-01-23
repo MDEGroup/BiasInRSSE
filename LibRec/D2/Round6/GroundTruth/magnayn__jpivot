@@ -1,0 +1,7 @@
+1	#DEP#wcf:wcf-war
+1	#DEP#wcf:wcf
+1	#DEP#pentaho:mondrian
+1	#DEP#jfree:jfreechart
+1	#DEP#xerces:xercesImpl
+1	#DEP#junit:junit
+1	#DEP#fop:fop

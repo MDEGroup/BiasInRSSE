@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jdom:jdom2	1.0
+#DEP#org.mcstats.bukkit:metrics	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.mockito:mockito-core	1.0
+#DEP#com.rometools:rome-opml	1.0

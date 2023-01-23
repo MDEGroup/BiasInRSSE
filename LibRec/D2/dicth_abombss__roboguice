@@ -1,0 +1,10 @@
+1	git://github.com/abombss/roboguice.git
+2	#DEP#org.roboguice:roboguice
+3	#DEP#com.google.inject:guice
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#com.google.android:android
+6	#DEP#org.testng:testng
+7	#DEP#org.easymock:easymock
+8	#DEP#com.google.android:android-test
+9	#DEP#com.google.android.maps:maps
+10	#DEP#aopalliance:aopalliance

@@ -1,0 +1,11 @@
+1	#DEP#org.fxmisc.richtext:richtextfx
+1	#DEP#qupath:qupath-processing-opencv
+1	#DEP#org.codehaus.groovy:groovy
+1	#DEP#net.sourceforge.jpen:jpen
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.jfxtras:jfxtras-menu
+1	#DEP#junit:junit
+1	#DEP#net.imagej:ij
+1	#DEP#qupath:qupath-core
+1	#DEP#org.openslide:openslide
+1	#DEP#qupath:qupath

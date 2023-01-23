@@ -1,0 +1,9 @@
+1	#DEP#p2.eclipse-plugin:org.eclipse.jubula.client.api.commands
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.eclipse.jubula:org.eclipse.jubula.releng.client
+1	#DEP#org.eclipse.jubula:org.eclipse.jubula.toolkit.api.gen
+1	#DEP#p2.eclipse-plugin:org.eclipse.jubula.toolkit.concrete.api
+1	#DEP#p2.eclipse-plugin:org.eclipse.jubula.communication
+1	#DEP#p2.eclipse-plugin:org.eclipse.jubula.toolkit.rcp.api
+1	#DEP#p2.eclipse-plugin:org.eclipse.jubula.toolkit.api
+1	#DEP#junit:junit

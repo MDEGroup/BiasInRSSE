@@ -1,0 +1,8 @@
+33	#DEP#org.springframework:spring-jms
+34	#DEP#ch.qos.logback:logback-core
+35	#DEP#org.codehaus.groovy:groovy
+36	#DEP#net.sf.trove4j:trove4j
+37	#DEP#org.jmangos.jmangos:auth
+38	#DEP#ch.qos.logback:logback-classic
+39	#DEP#org.apache.camel:camel-jms
+40	#DEP#junit:junit

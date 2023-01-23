@@ -1,0 +1,16 @@
+1	git://github.com/grisu/grid-jcommons.git
+2	#DEP#org.perf4j:perf4j
+3	#DEP#commons-io:commons-io
+4	#DEP#commons-logging:commons-logging
+5	#DEP#org.eclipse.jgit:org.eclipse.jgit
+6	#DEP#commons-configuration:commons-configuration
+7	#DEP#org.slf4j:jcl-over-slf4j
+8	#DEP#javax.xml.ws:jaxws-api
+9	#DEP#org.apache.velocity:velocity
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#nz.org.nesi:nesi
+12	#DEP#com.google.guava:guava
+13	#DEP#external.jline:jline
+14	#DEP#org.apache.velocity:velocity-tools
+15	#DEP#commons-httpclient:commons-httpclient
+16	#DEP#org.bushe:eventbus

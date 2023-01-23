@@ -1,0 +1,3 @@
+14	#DEP#junit:junit
+15	#DEP#io.confluent:kafka-connect-storage-core
+16	#DEP#org.apache.directory.jdbm:apacheds-jdbm1

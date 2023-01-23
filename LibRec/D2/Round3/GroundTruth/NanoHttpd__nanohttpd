@@ -1,0 +1,7 @@
+1	#DEP#org.nanohttpd:nanohttpd-project
+1	#DEP#org.nanohttpd:nanohttpd
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#commons-fileupload:commons-fileupload
+1	#DEP#junit:junit
+1	#DEP#${project.groupId}:nanohttpd-webserver

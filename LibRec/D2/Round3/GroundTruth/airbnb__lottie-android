@@ -1,0 +1,10 @@
+1	#DEP#com.airbnb.android:happo
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.android.support.test.espresso:espresso-idling-resource
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#com.matthew-tamlin:sliding-intro-screen
+1	#DEP#com.dlazaro66.qrcodereaderview:qrcodereaderview
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner
+1	#DEP#com.android.support.test.espresso:espresso-core

@@ -1,0 +1,3 @@
+14	#DEP#junit:junit
+15	#DEP#io.reactivex:rxjava
+16	#DEP#io.reactivex:rxandroid

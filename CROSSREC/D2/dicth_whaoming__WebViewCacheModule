@@ -1,0 +1,10 @@
+1	git://github.com/whaoming/WebViewCacheModule.git
+2	#DEP#com.github.bumptech.glide:glide
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.jakewharton:disklrucache
+5	#DEP#com.yalantis:ucrop
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.github.lzyzsd:jsbridge
+9	#DEP#io.reactivex:rxjava
+10	#DEP#io.reactivex:rxandroid

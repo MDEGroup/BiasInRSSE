@@ -1,0 +1,16 @@
+1	git://github.com/vvakame/JsonPullParser.git
+2	#DEP#org.hamcrest:hamcrest-library
+3	#DEP#org.seasar.aptina:aptina-unit
+4	#DEP#net.vvakame:jsonpullparser-core
+5	#DEP#org.codehaus.jackson:jackson-jaxrs
+6	#DEP#net.vvakame:jsonpullparser-parent
+7	#DEP#net.vvakame:jsonpullparser-apt
+8	#DEP#org.mvel:mvel2
+9	#DEP#com.google.http-client:google-http-client-jackson2
+10	#DEP#org.seasar.aptina:aptina-commons
+11	#DEP#net.arnx.jsonic:jsonic
+12	#DEP#net.sf.json-lib:json-lib
+13	#DEP#com.google.http-client:google-http-client-test
+14	#DEP#com.google.guava:guava
+15	#DEP#junit:junit
+16	#DEP#com.google.http-client:google-http-client

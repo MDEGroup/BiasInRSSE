@@ -1,0 +1,12 @@
+1	#DEP#org.jboss.arquillian.extension:arquillian-android-depchain
+1	#DEP#org.jboss.arquillian.test:arquillian-test-impl-base
+1	#DEP#org.jboss.arquillian.config:arquillian-config-impl-base
+1	#DEP#org.jboss.arquillian.extension:arquillian-android-impl
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#org.jboss.arquillian.extension:arquillian-android-parent
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.arquillian.extension:arquillian-android-configuration
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian.extension:arquillian-android-api
+1	#DEP#org.jboss.arquillian.core:arquillian-core-impl-base

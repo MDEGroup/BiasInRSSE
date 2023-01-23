@@ -1,0 +1,6 @@
+1	#DEP#org.osgi:org.osgi.enterprise
+1	#DEP#org.hibernate:hibernate-entitymanager
+1	#DEP#dom4j:dom4j
+1	#DEP#javassist:javassist
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec

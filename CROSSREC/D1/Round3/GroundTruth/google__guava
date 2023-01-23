@@ -1,0 +1,4 @@
+17	#DEP#com.google.gwt:gwt-dev
+18	#DEP#com.google.truth.extensions:truth-java8-extension
+19	#DEP#junit:junit
+20	#DEP#org.codehaus.mojo:animal-sniffer-annotations

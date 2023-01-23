@@ -1,0 +1,12 @@
+1	#DEP#mockobjects:mockobjects-core
+1	#DEP#org.mule.transports:mule-transport-amqp
+1	#DEP#org.mule.transports:mule-transport-amqp-plugin-parent
+1	#DEP#org.mule.modules:mule-module-scripting
+1	#DEP#org.mule.modules:mule-module-sxc
+1	#DEP#org.mule.transports:mule-transport-amqp-parent
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.mule.modules:mule-module-spring-config
+1	#DEP#org.mule.modules:mule-module-management
+1	#DEP#junit:junit
+1	#DEP#org.mule.transports:mule-transports
+1	#DEP#com.cloveretl:cloveretl-engine

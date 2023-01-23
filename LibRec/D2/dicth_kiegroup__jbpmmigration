@@ -1,0 +1,14 @@
+1	git://github.com/kiegroup/jbpmmigration.git
+2	#DEP#xml-apis:xml-apis
+3	#DEP#xalan:xalan
+4	#DEP#org.assertj:assertj-core
+5	#DEP#bsh:bsh
+6	#DEP#commons-io:commons-io
+7	#DEP#org.jbpm.jbpm3:jbpm-jpdl
+8	#DEP#dom4j:dom4j
+9	#DEP#org.apache.commons:commons-lang3
+10	#DEP#org.jbpm:jbpm-bom
+11	#DEP#log4j:log4j
+12	#DEP#xerces:xercesImpl
+13	#DEP#junit:junit
+14	#DEP#org.jbpm:jbpm-test

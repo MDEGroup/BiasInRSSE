@@ -1,0 +1,7 @@
+1	#DEP#org.springframework:spring-aspects
+1	#DEP#cglib:cglib-nodep
+1	#DEP#asm:asm-util
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#log4j:log4j
+1	#DEP#aspectj:aspectjweaver
+1	#DEP#junit:junit

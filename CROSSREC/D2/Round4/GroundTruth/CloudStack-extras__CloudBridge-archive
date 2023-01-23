@@ -1,0 +1,14 @@
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#org.apache.axis2:axis2
+1	#DEP#wsdl4j:wsdl4j
+1	#DEP#com.googlecode.json-simple:json-simple
+1	#DEP#org.apache.ws.commons.neethi:neethi
+1	#DEP#annogen:annogen
+1	#DEP#com.jcraft:jsch
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.apache.ws.commons.axiom:axiom-impl
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.ws.security:wss4j
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit
+1	#DEP#org.apache.rampart:rampart-core

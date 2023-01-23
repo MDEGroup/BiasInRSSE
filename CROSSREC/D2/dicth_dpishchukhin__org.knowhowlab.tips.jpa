@@ -1,0 +1,12 @@
+1	git://github.com/dpishchukhin/org.knowhowlab.tips.jpa.git
+2	#DEP#org.knowhowlab.tips.jpa:model
+3	#DEP#antlr:antlr
+4	#DEP#org.hibernate:hibernate-core
+5	#DEP#org.eclipse.persistence:org.eclipse.persistence.jpa
+6	#DEP#org.hibernate:hibernate-commons-annotations
+7	#DEP#org.osgi:org.osgi.enterprise
+8	#DEP#org.hibernate:hibernate-entitymanager
+9	#DEP#dom4j:dom4j
+10	#DEP#javassist:javassist
+11	#DEP#org.osgi:org.osgi.core
+12	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec

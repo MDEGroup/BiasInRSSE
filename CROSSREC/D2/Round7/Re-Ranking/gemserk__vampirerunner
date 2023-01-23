@@ -1,0 +1,11 @@
+#DEP#${project.groupId}:facehunt-core	1.0
+#DEP#${project.groupId}:libgdx-test-core	1.0
+#DEP#${project.groupId}:taken-core	1.0
+#DEP#com.gemserk.games.superflyingthing:superflyingthing	1.0
+#DEP#com.gemserk.vecmath:vecmath	1.0
+#DEP#com.gemserk.libgdxtest:libgdxtest	1.0
+#DEP#com.gemserk.games.taken:taken	1.0
+#DEP#com.badlogic.gdx:gdx-platform	1.0
+#DEP#${project.groupId}:superflyingthing-core	1.0
+#DEP#com.gemserk.animation4j:animation4j-core	1.0
+#DEP#com.gemserk.games.facehunt:facehunt	1.0

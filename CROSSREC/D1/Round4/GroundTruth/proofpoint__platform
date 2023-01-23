@@ -1,0 +1,16 @@
+67	#DEP#org.openjdk.jol:jol-core
+68	#DEP#org.glassfish.jersey.core:jersey-common
+69	#DEP#javax.validation:validation-api
+70	#DEP#org.slf4j:log4j-over-slf4j
+71	#DEP#javax.servlet:javax.servlet-api
+72	#DEP#com.proofpoint.platform:json
+73	#DEP#org.eclipse.jetty:jetty-jmx
+74	#DEP#com.proofpoint.platform:event
+75	#DEP#com.proofpoint.platform:bootstrap
+76	#DEP#com.github.jnr:jnr-posix
+77	#DEP#org.eclipse.jetty:jetty-security
+78	#DEP#org.slf4j:jcl-over-slf4j
+79	#DEP#org.testng:testng
+80	#DEP#com.fasterxml.jackson.module:jackson-module-parameter-names
+81	#DEP#net.bytebuddy:byte-buddy
+82	#DEP#com.google.inject.extensions:guice-multibindings

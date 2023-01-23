@@ -1,0 +1,10 @@
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#com.jayway.jsonpath:json-path	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#jaxen:jaxen	1.0
+#DEP#org.jsoup:jsoup	1.0
+#DEP#net.snaq:dbpool	1.0

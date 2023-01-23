@@ -1,0 +1,10 @@
+#DEP#commons-lang:commons-lang	1.0
+#DEP#log4j:log4j	1.0
+#DEP#commons-beanutils:commons-beanutils	1.0
+#DEP#org.apache.httpcomponents:httpcore	1.0
+#DEP#org.springframework:spring-orm	1.0
+#DEP#com.google.collections:google-collections	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.codehaus.groovy:groovy-all	1.0
+#DEP#oro:oro	1.0
+#DEP#net.sf.jstester:jstester	1.0

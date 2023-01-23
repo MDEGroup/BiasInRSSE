@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.codehaus.plexus:plexus-utils	1.0
+#DEP#org.apache.maven:maven-artifact	1.0
+#DEP#org.apache.maven:maven-core	1.0
+#DEP#commons-lang:commons-lang	1.0
+#DEP#org.sonatype.oss:oss-parent	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.apache.maven:maven-settings	1.0
+#DEP#com.marklogic:marklogic-install-server	1.0

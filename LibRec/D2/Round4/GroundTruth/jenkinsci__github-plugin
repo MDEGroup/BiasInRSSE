@@ -1,0 +1,12 @@
+1	#DEP#org.jenkins-ci.plugins:git
+1	#DEP#com.jayway.restassured:rest-assured
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+1	#DEP#org.jenkins-ci.plugins:plain-credentials
+1	#DEP#org.jenkins-ci.modules:instance-identity
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit

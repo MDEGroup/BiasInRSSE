@@ -1,0 +1,9 @@
+37	#DEP#com.sun.jersey.contribs:jersey-spring
+38	#DEP#ch.qos.logback:logback-classic
+39	#DEP#org.scala-lang:scala-library
+40	#DEP#javax.servlet:servlet-api
+41	#DEP#com.sun.jersey.jersey-test-framework:jersey-test-framework-grizzly
+42	#DEP#junit:junit
+43	#DEP#org.springframework.social:spring-social-twitter
+44	#DEP#com.h2database:h2
+45	#DEP#com.sun.jersey:jersey-server

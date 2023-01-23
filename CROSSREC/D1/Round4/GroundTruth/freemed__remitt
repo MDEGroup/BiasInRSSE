@@ -1,0 +1,5 @@
+20	#DEP#log4j:log4j
+21	#DEP#xerces:xercesImpl
+22	#DEP#it.sauronsoftware.cron4j:cron4j
+23	#DEP#junit:junit
+24	#DEP#org.bouncycastle:bcpg-jdk16

@@ -1,0 +1,13 @@
+1	git://github.com/AsyncHttpClient/jersey-ahc-client.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#com.sun.jersey:jersey-client
+4	#DEP#io.netty:netty
+5	#DEP#com.sun.jersey:jersey-json
+6	#DEP#javax.ws.rs:jsr311-api
+7	#DEP#com.sun.jersey:jersey-bundle
+8	#DEP#com.ning:async-http-client
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#com.sun.xml.bind:jaxb-impl
+11	#DEP#com.sun.grizzly:grizzly-servlet-webserver
+12	#DEP#junit:junit
+13	#DEP#com.sun.jersey:jersey-server

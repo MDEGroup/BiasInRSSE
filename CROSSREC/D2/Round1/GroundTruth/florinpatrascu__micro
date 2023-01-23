@@ -1,0 +1,14 @@
+1	#DEP#org.eclipse.jetty:jetty-servlet
+1	#DEP#commons-cli:commons-cli
+1	#DEP#net.sf.ehcache:ehcache-core
+1	#DEP#commons-logging:commons-logging
+1	#DEP#bsf:bsf
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.beanshell:bsh
+1	#DEP#org.parboiled:parboiled-core
+1	#DEP#log4j:log4j
+1	#DEP#com.github.github:site-maven-plugin
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.json:json
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#junit:junit

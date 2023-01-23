@@ -1,0 +1,9 @@
+38	#DEP#com.google.dagger:dagger
+39	#DEP#com.google.truth:truth
+40	#DEP#com.google.dagger:dagger-compiler
+41	#DEP#org.powermock:powermock-classloading-xstream
+42	#DEP#org.mockito:mockito-core
+43	#DEP#oauth.signpost:signpost-core
+44	#DEP#junit:junit
+45	#DEP#com.android.support.test.espresso:espresso-intents
+46	#DEP#io.reactivex:rxjava

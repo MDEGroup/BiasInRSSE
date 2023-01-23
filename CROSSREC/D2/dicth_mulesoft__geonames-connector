@@ -1,0 +1,12 @@
+1	git://github.com/mulesoft/geonames-connector.git
+2	#DEP#org.mule.modules:mule-module-geonames
+3	#DEP#org.mule.modules:mule-module-scripting
+4	#DEP#org.mule.tests:mule-tests-functional
+5	#DEP#log4j:log4j
+6	#DEP#org.mule.tools.devkit:mule-devkit-parent
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#org.ibeans:ibeans-support
+9	#DEP#org.mule.modules:mule-module-ibeans
+10	#DEP#org.mule.modules:mule-module-ognl
+11	#DEP#org.mule.transports:mule-transport-http
+12	#DEP#org.mule.modules:mule-module-flickr

@@ -1,0 +1,14 @@
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.springframework.batch:spring-batch-admin-resources
+1	#DEP#org.springframework.batch:spring-batch-admin-manager
+1	#DEP#org.apache.ftpserver:ftpserver-core
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.springframework.batch:spring-batch-core
+1	#DEP#org.springframework:spring-core
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.springframework.batch:spring-batch-infrastructure
+1	#DEP#junit:junit
+1	#DEP#org.springframework.integration:spring-integration-core
+1	#DEP#com.h2database:h2

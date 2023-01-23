@@ -1,0 +1,13 @@
+1	git://github.com/davidenunes/evolutionary-music.git
+2	#DEP#commons-cli:commons-cli
+3	#DEP#trove4j:trove4j
+4	#DEP#tablelayout:TableLayout
+5	#DEP#commons-lang:commons-lang
+6	#DEP#commons-codec:commons-codec
+7	#DEP#junit-addons:junit-addons
+8	#DEP#log4j:log4j
+9	#DEP#commons-math:commons-math
+10	#DEP#xpp3:xpp3
+11	#DEP#xstream:xstream
+12	#DEP#jcgrid:jcgrid
+13	#DEP#junit:junit

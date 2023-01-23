@@ -1,0 +1,11 @@
+1	#DEP#org.jboss.seam.transaction:seam-transaction-api
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec
+1	#DEP#org.jboss.solder:solder-api
+1	#DEP#org.jboss.seam:seam-parent
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api-maven
+1	#DEP#org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec
+1	#DEP#org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec
+1	#DEP#org.jboss.seam.transaction:seam-transaction-reference-guide
+1	#DEP#junit:junit
+1	#DEP#org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven

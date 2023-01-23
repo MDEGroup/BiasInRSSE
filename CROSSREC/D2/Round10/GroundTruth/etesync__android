@@ -1,0 +1,8 @@
+1	#DEP#net.cachapa.expandablelayout:expandablelayout
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#com.github.yukuku:ambilwarna
+1	#DEP#io.requery:requery-kotlin
+1	#DEP#org.projectlombok:lombok
+1	#DEP#io.requery:requery-android
+1	#DEP#junit:junit

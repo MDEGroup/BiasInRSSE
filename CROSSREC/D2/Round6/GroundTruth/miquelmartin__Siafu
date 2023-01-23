@@ -1,0 +1,4 @@
+1	#DEP#commons-logging:commons-logging
+1	#DEP#org.eclipse.swt:${swt.artifactId}
+1	#DEP#Siafu:Siafu
+1	#DEP#commons-lang:commons-lang

@@ -1,0 +1,4 @@
+18	#DEP#com.badlogic.gdx:gdx-backend-lwjgl
+19	#DEP#org.jmock:jmock-legacy
+20	#DEP#junit:junit
+21	#DEP#com.gemserk.animation4j:animation4j-core

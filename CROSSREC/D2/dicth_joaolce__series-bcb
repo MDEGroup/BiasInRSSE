@@ -1,0 +1,15 @@
+1	git://github.com/joaolce/series-bcb.git
+2	#DEP#org.mortbay.jetty:jetty
+3	#DEP#xom:xom
+4	#DEP#org.mortbay.jetty:jetty-util
+5	#DEP#org.easymock:easymock
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.apache.wicket:wicket
+8	#DEP#org.mortbay.jetty:jetty-management
+9	#DEP#joda-time:joda-time
+10	#DEP#org.slf4j:slf4j-log4j12
+11	#DEP#junit:junit-dep
+12	#DEP#log4j:log4j
+13	#DEP#net.sf.json-lib:json-lib
+14	#DEP#net.vidageek:mirror
+15	#DEP#axis:axis

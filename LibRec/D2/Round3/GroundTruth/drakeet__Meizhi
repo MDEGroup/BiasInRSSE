@@ -1,0 +1,10 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.squareup:otto
+1	#DEP#net.orfjackal.retrolambda:retrolambda
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

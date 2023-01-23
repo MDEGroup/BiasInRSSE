@@ -1,0 +1,9 @@
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.theartofdev.edmodo:android-image-cropper
+1	#DEP#android.arch.persistence.room:compiler
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.github.varunest:sparkbutton
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit
+1	#DEP#com.github.chrisbanes:PhotoView
+1	#DEP#android.arch.persistence.room:runtime

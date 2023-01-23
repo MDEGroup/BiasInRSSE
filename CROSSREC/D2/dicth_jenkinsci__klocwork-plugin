@@ -1,0 +1,13 @@
+1	git://github.com/jenkinsci/klocwork-plugin.git
+2	#DEP#org.jenkins-ci.plugins:junit
+3	#DEP#org.jenkins-ci.plugins:structs
+4	#DEP#com.emenda:kwjlib
+5	#DEP#org.jenkins-ci.plugins:scm-api
+6	#DEP#org.apache.commons:commons-lang3
+7	#DEP#joda-time:joda-time
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+9	#DEP#org.jenkins-ci.plugins:plugin
+10	#DEP#org.jenkins-ci.plugins:dashboard-view
+11	#DEP#org.jenkins-ci.plugins:matrix-project
+12	#DEP#org.jenkins-ci.plugins:job-dsl
+13	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps

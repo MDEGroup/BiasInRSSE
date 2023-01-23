@@ -1,0 +1,13 @@
+1	git://github.com/avh4/imagecomparison.git
+2	#DEP#commons-io:commons-io
+3	#DEP#org.hamcrest:hamcrest-library
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#net.avh4.util:imagecomparison
+6	#DEP#org.hamcrest:hamcrest-integration
+7	#DEP#info.cukes:cucumber-junit
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#info.cukes:cucumber-picocontainer
+10	#DEP#commons-codec:commons-codec
+11	#DEP#junit:junit-dep
+12	#DEP#org.mockito:mockito-core
+13	#DEP#org.eclipse.swt:org.eclipse.swt.cocoa.macosx.x86_64

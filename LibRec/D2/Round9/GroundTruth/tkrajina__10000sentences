@@ -1,0 +1,8 @@
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.joanzapata.iconify:android-iconify-fontawesome
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.michaelpardo:activeandroid
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#com.jjoe64:graphview
+1	#DEP#org.projectlombok:lombok
+1	#DEP#junit:junit

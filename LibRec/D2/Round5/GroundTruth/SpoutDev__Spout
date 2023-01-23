@@ -1,0 +1,14 @@
+1	#DEP#org.spout:spout-math
+1	#DEP#com.beust:jcommander
+1	#DEP#org.spout:spout-logging
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.spout:jlibnoise
+1	#DEP#org.spout:spout-parent
+1	#DEP#org.spout:react
+1	#DEP#net.sf.trove4j:trove4j
+1	#DEP#org.spout:simplenbt
+1	#DEP#javax.jmdns:jmdns
+1	#DEP#org.apache.directory.studio:org.apache.commons.collections
+1	#DEP#junit:junit

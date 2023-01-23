@@ -1,0 +1,13 @@
+1	git://github.com/careerbuilder/semantic-knowledge-graph.git
+2	#DEP#org.apache.solr:solr-core
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#org.apache.solr:solr-test-framework
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.slf4j:jcl-over-slf4j
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#org.jmockit:jmockit
+11	#DEP#junit:junit
+12	#DEP#org.apache.lucene:lucene-test-framework
+13	#DEP#com.carrotsearch:hppc

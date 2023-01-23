@@ -1,0 +1,6 @@
+1	#DEP#javax.mail:mail
+1	#DEP#javax.activation:activation
+1	#DEP#org.apache.derby:derby
+1	#DEP#org.apache.axis:axis
+1	#DEP#org.apache.axis:axis-jaxrpc
+1	#DEP#org.apache.axis:axis-saaj

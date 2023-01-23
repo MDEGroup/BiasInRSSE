@@ -1,0 +1,5 @@
+1	#DEP#com.syncleus:syncleus
+1	#DEP#org.jogamp.gluegen:gluegen
+1	#DEP#com.aparapi:aparapi
+1	#DEP#org.jogamp.jogl:jogl-all-main
+1	#DEP#junit:junit

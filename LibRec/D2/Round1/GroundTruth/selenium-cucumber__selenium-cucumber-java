@@ -1,0 +1,5 @@
+1	#DEP#sample:com.sample
+1	#DEP#com.google.guava:guava
+1	#DEP#info.cukes:cucumber-junit
+1	#DEP#info.cukes:cucumber-java
+1	#DEP#junit:junit

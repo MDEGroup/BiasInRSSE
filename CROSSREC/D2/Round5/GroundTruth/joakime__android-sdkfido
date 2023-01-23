@@ -1,0 +1,8 @@
+1	#DEP#net.erdfelt.android.sdkfido:sdkfido-parent
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit
+1	#DEP#commons-lang:commons-lang
+1	#DEP#commons-configuration:commons-configuration
+1	#DEP#${project.groupId}:${project.artifactId}
+1	#DEP#commons-digester:commons-digester
+1	#DEP#junit:junit
+1	#DEP#org.eclipse.jetty.toolchain:jetty-test-helper

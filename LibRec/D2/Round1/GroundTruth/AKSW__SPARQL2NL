@@ -1,0 +1,15 @@
+1	#DEP#org.slf4j:log4j-over-slf4j
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.aksw:sparqltools
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#jaws:core
+1	#DEP#joda-time:joda-time
+1	#DEP#org.jgrapht:jgrapht-ext
+1	#DEP#org.eclipse.jetty:jetty-servlets
+1	#DEP#com.aliasi:lingpipe
+1	#DEP#org.dllearner:components-ext
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.apache.opennlp:opennlp-tools
+1	#DEP#junit:junit
+1	#DEP#ifi.uzh:simpack
+1	#DEP#com.sun.jersey:jersey-server

@@ -1,0 +1,4 @@
+17	#DEP#colt:colt
+18	#DEP#commons-collections:commons-collections
+19	#DEP#com.google.guava:guava
+20	#DEP#junit:junit

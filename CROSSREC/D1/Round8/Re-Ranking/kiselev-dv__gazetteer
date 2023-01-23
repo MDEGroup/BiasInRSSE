@@ -1,0 +1,10 @@
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#junit:junit	1.0
+#DEP#org.json:json	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.testng:testng	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.apache.tinkerpop:gremlin-test	1.0
+#DEP#org.apache.tinkerpop:gremlin-core	1.0
+#DEP#org.apache.tinkerpop:gremlin-groovy-test	1.0

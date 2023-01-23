@@ -1,0 +1,7 @@
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#org.jboss.arquillian.test:arquillian-test-spi
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.arquillian.core:arquillian-core-spi
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-standalone
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian.extension:arquillian-performance-api

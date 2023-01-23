@@ -1,0 +1,12 @@
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-core
+1	#DEP#org.jboss.arquillian.test:arquillian-test-impl-base
+1	#DEP#org.spockframework:spock-core
+1	#DEP#org.jboss.arquillian.container:arquillian-container-test-api
+1	#DEP#org.jboss.arquillian.config:arquillian-config-impl-base
+1	#DEP#javax:javaee-api
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#junit:junit
+1	#DEP#org.jboss.arquillian.spock:arquillian-spock-container
+1	#DEP#org.jboss.arquillian.core:arquillian-core-impl-base

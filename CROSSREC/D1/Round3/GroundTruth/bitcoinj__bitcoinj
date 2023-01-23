@@ -1,0 +1,4 @@
+19	#DEP#com.lambdaworks:scrypt
+20	#DEP#junit:junit
+21	#DEP#org.slf4j:slf4j-jdk14
+22	#DEP#com.h2database:h2

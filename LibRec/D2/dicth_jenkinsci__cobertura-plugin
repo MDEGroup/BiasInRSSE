@@ -1,0 +1,11 @@
+1	git://github.com/jenkinsci/cobertura-plugin.git
+2	#DEP#org.easymock:easymockclassextension
+3	#DEP#org.jenkins-ci.plugins:structs
+4	#DEP#org.jenkins-ci.plugins:plugin
+5	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+6	#DEP#net.sf.trove4j:trove4j
+7	#DEP#org.jenkins-ci.plugins:cloudbees-folder
+8	#DEP#org.jenkins-ci.plugins:dashboard-view
+9	#DEP#org.netbeans.modules:org-netbeans-insane
+10	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+11	#DEP#org.jenkins-ci.plugins.workflow:workflow-job

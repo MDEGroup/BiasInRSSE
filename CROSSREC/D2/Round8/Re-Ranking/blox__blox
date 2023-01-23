@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#org.springframework.boot:spring-boot-starter-parent	1.0
+#DEP#com.amazonaws:aws-lambda-java-log4j	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#org.springframework.boot:spring-boot-starter-web	1.0
+#DEP#org.jooq:joox	1.0

@@ -1,0 +1,7 @@
+1	#DEP#de.codecrafters.tableview:tableview
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.github.claudiodegio:sfl4j-android
+1	#DEP#com.fasterxml.jackson.core:jackson-core
+1	#DEP#org.apache.commons:commons-collections4
+1	#DEP#junit:junit

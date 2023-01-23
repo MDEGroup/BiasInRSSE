@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-job	1.0
+#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps	1.0
+#DEP#org.jenkins-ci.plugins:matrix-project	1.0
+#DEP#org.powermock:powermock-module-junit4	1.0
+#DEP#org.jenkins-ci.plugins:structs	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.jenkins-ci.plugins:credentials	1.0
+#DEP#org.jenkins-ci.plugins:cobertura	1.0
+#DEP#org.jenkins-ci.plugins:jacoco	1.0

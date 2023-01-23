@@ -1,0 +1,3 @@
+14	#DEP#com.amazonaws:aws-lambda-java-events
+15	#DEP#${project.groupId}:KinesisLambdaForwarder
+16	#DEP#junit:junit

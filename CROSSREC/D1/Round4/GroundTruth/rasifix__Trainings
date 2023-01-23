@@ -1,0 +1,6 @@
+28	#DEP#org.apache.httpcomponents:httpclient
+29	#DEP#org.geotools:gt-api
+30	#DEP#org.osgi:core
+31	#DEP#com.fasterxml.jackson.core:jackson-databind
+32	#DEP#com.fasterxml.jackson.core:jackson-core
+33	#DEP#com.github.rasifix.trainings:trainings-json

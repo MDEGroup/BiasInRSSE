@@ -1,0 +1,10 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.springframework.security:spring-security-test
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.webjars:bootstrap
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.boot:spring-boot-starter-hateoas
+1	#DEP#com.jayway.jsonpath:json-path
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

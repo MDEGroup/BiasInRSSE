@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#javax.mail:mail	1.0
+#DEP#log4j:log4j	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.jodaengine:engine-apps	1.0
+#DEP#org.jodaengine:engine-ext-debugger	1.0

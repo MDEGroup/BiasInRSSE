@@ -1,0 +1,17 @@
+1	git://github.com/jenkinsci/release-plugin.git
+2	#DEP#org.jenkins-ci.plugins:mailer
+3	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+4	#DEP#org.jenkins-ci.plugins:promoted-builds
+5	#DEP#org.jenkins-ci.plugins:jsch
+6	#DEP#org.jenkins-ci.plugins:jobgenerator
+7	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+8	#DEP#org.jenkins-ci.plugins:ant
+9	#DEP#org.jenkins-ci.plugins:script-security
+10	#DEP#org.jenkins-ci.plugins:plugin
+11	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+12	#DEP#org.jenkins-ci.plugins:dashboard-view
+13	#DEP#org.jenkins-ci.main:maven-plugin
+14	#DEP#org.jenkins-ci.plugins:matrix-project
+15	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+16	#DEP#org.jenkins-ci.plugins:ivy
+17	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api

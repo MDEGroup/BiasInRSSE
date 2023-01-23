@@ -1,0 +1,16 @@
+1	#DEP#com.esotericsoftware:kryo
+1	#DEP#org.springframework:spring-context
+1	#DEP#org.springframework.boot:spring-boot-starter-jdbc
+1	#DEP#org.apache.httpcomponents:httpclient
+1	#DEP#org.springframework:spring-beans
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.pankai:tcc-transaction-tutorial-sample
+1	#DEP#org.springframework:spring-context-support
+1	#DEP#org.pankai:tcc-transaction-core
+1	#DEP#org.pankai:tcc-transaction-api
+1	#DEP#aopalliance:aopalliance
+1	#DEP#org.pankai:tcc-transaction
+1	#DEP#org.aspectj:aspectjrt
+1	#DEP#cglib:cglib

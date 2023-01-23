@@ -1,0 +1,10 @@
+#DEP#org.mule.modules:mule-module-spring-config	1.0
+#DEP#junit:junit	1.0
+#DEP#org.mule.modules:mule-module-scripting	1.0
+#DEP#org.mule.transports:mule-transport-jms	1.0
+#DEP#org.mule.transports:mule-transport-stdio	1.0
+#DEP#log4j:log4j	1.0
+#DEP#mockobjects:mockobjects-core	1.0
+#DEP#org.mule.transports:mule-transport-file	1.0
+#DEP#org.restlet.jee:org.restlet.ext.httpclient	1.0
+#DEP#org.restlet.jee:org.restlet.ext.json	1.0

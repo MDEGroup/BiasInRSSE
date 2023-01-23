@@ -1,0 +1,9 @@
+1	git://github.com/Yalantis/StarWars.Android.git
+2	#DEP#com.android.support:percent
+3	#DEP#com.android.support:support-annotations
+4	#DEP#com.jakewharton.timber:timber
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#junit:junit
+8	#DEP#com.android.support:design
+9	#DEP#com.jakewharton:butterknife

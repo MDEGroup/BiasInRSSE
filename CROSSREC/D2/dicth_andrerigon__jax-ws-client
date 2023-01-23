@@ -1,0 +1,14 @@
+1	git://github.com/andrerigon/jax-ws-client.git
+2	#DEP#javax.inject:javax.inject
+3	#DEP#net.sf.scannotation:scannotation
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#org.slf4j:slf4j-api
+6	#DEP#commons-beanutils:commons-beanutils
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.google.code.gson:gson
+9	#DEP#javax.ws.rs:jsr311-api
+10	#DEP#org.springframework:spring-test
+11	#DEP#com.thoughtworks.paranamer:paranamer
+12	#DEP#com.google.guava:guava
+13	#DEP#commons-httpclient:commons-httpclient
+14	#DEP#junit:junit

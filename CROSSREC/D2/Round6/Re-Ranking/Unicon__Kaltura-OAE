@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#javax.jcr:jcr	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.mockito:mockito-all	1.0
+#DEP#org.osgi:org.osgi.core	1.0
+#DEP#org.osgi:org.osgi.compendium	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.sling:org.apache.sling.jcr.api	1.0
+#DEP#org.apache.solr:solr-noggit	1.0

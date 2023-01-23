@@ -1,0 +1,9 @@
+1	git://github.com/aliyun/aliyun-log-java-sdk.git
+2	#DEP#org.apache.httpcomponents:httpclient
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#net.jpountz.lz4:lz4
+5	#DEP#net.sf.json-lib:json-lib
+6	#DEP#com.alibaba:fastjson
+7	#DEP#junit:junit
+8	#DEP#commons-validator:commons-validator
+9	#DEP#com.google.protobuf:protobuf-java

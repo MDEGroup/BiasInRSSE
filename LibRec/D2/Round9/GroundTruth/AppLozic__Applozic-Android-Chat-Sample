@@ -1,0 +1,8 @@
+1	#DEP#com.google.firebase:firebase-messaging
+1	#DEP#com.android.support:cardview-v7
+1	#DEP#com.theartofdev.edmodo:android-image-cropper
+1	#DEP#com.firebase:firebase-jobdispatcher
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support:multidex
+1	#DEP#junit:junit
+1	#DEP#com.twilio:video-android

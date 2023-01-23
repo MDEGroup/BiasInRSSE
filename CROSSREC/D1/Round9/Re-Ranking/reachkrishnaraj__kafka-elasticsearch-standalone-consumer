@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#log4j:log4j	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#com.stratio.common:common-utils	1.0
+#DEP#com.stratio.ingestion:stratio-elasticsearch-sink	1.0
+#DEP#com.stratio.ingestion:stratio-rest-source	1.0
+#DEP#com.metamx:tranquility_2.10	1.0
+#DEP#com.stratio.ingestion:stratio-xmlxpath-deserializer	1.0

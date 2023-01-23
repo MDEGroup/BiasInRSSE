@@ -1,0 +1,13 @@
+1	#DEP#org.jboss.arquillian.container:arquillian-container-test-spi
+1	#DEP#org.jboss.arquillian.container:arquillian-container-spi
+1	#DEP#org.jboss.arquillian.testenricher:arquillian-testenricher-cdi
+1	#DEP#org.jboss.arquillian.container:arquillian-jsr88-remote-1.2
+1	#DEP#org.jboss.arquillian.testenricher:arquillian-testenricher-ejb
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#com.sun.jersey.contribs:jersey-multipart
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.jboss.arquillian:arquillian-build
+1	#DEP#org.jboss.arquillian:arquillian-bom
+1	#DEP#org.jboss.arquillian:arquillian-impl-base
+1	#DEP#junit:junit
+1	#DEP#org.glassfish.deployment:deployment-client

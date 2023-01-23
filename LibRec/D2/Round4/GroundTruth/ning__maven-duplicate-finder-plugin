@@ -1,0 +1,10 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.ning.maven.plugins.duplicate-finder-maven-plugin:first-class-jar
+1	#DEP#commons-codec:commons-codec
+1	#DEP#com.google.code.findbugs:annotations
+1	#DEP#com.ning.maven.plugins.duplicate-finder-maven-plugin:second-equal-jar
+1	#DEP#com.pyx4j:maven-plugin-log4j
+1	#DEP#com.ning.maven.plugins.duplicate-finder-maven-plugin:first-jar
+1	#DEP#com.ning.maven.plugins.duplicate-finder-maven-plugin:first-diff-jar
+1	#DEP#com.google.guava:guava
+1	#DEP#org.apache.maven:maven-artifact

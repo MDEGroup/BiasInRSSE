@@ -1,0 +1,9 @@
+1	git://github.com/alleveenstra/genyornis.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#rhino:js
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.velocity:velocity
+6	#DEP#com.google.guava:guava
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#com.google.code.guice:guice
+9	#DEP#org.slf4j:slf4j-jdk14

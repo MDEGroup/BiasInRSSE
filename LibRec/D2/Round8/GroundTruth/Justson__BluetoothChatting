@@ -1,0 +1,7 @@
+1	#DEP#com.tbruyelle.rxpermissions:rxpermissions
+1	#DEP#com.android.support:multidex
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#me.drakeet.materialdialog:library
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

@@ -1,0 +1,5 @@
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.sindice.siren:siren-core
+1	#DEP#net.sf.jopt-simple:jopt-simple
+1	#DEP#org.openrdf.sesame:sesame-model
+1	#DEP#junit:junit

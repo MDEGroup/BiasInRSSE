@@ -1,0 +1,14 @@
+1	git://github.com/linkedin/databus.git
+2	#DEP#:databus-client
+3	#DEP#:databus2-example
+4	#DEP#:databus-group-leader
+5	#DEP#:metrics-histograms
+6	#DEP#:databus-cluster
+7	#DEP#:databus-bootstrap-utils
+8	#DEP#:databus-bootstrap-producer
+9	#DEP#:databus-core
+10	#DEP#:databus-tools
+11	#DEP#:databus-bootstrap-common
+12	#DEP#:databus-util-cmdline
+13	#DEP#:databus-bootstrap-server
+14	#DEP#:databus2-relay

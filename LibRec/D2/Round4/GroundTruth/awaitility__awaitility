@@ -1,0 +1,13 @@
+1	#DEP#org.objenesis:objenesis
+1	#DEP#org.slf4j:slf4j-jdk14
+1	#DEP#org.jetbrains.kotlin:kotlin-stdlib
+1	#DEP#org.hamcrest:hamcrest-library
+1	#DEP#org.spockframework:spock-core
+1	#DEP#org.ops4j.pax.exam:pax-exam-container-forked
+1	#DEP#org.awaitility:awaitility
+1	#DEP#net.bytebuddy:byte-buddy
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#org.ops4j.pax.exam:pax-exam-link-mvn
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#org.ops4j.pax.exam:pax-exam-junit4
+1	#DEP#junit:junit

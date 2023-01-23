@@ -1,0 +1,10 @@
+1	git://github.com/sonatype/selenium-grid-maven-plugin.git
+2	#DEP#org.seleniumhq.selenium.grid:selenium-grid-remote-control
+3	#DEP#org.sonatype.plugins:plugins-parent
+4	#DEP#org.codehaus.plexus:plexus-utils
+5	#DEP#org.seleniumhq.selenium.grid:selenium-grid-hub
+6	#DEP#org.apache.maven:maven-project
+7	#DEP#org.seleniumhq.selenium.client-drivers:selenium-java-client-driver
+8	#DEP#org.apache.maven:maven-plugin-api
+9	#DEP#org.openqa.selenium.grid:selenium-grid-tools
+10	#DEP#org.apache.maven:maven-core

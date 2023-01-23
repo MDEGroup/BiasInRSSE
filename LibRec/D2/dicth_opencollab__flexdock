@@ -1,0 +1,10 @@
+1	git://github.com/opencollab/flexdock.git
+2	#DEP#javax.media:jmf
+3	#DEP#org.flexdock:flexdock-perspective
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.flexdock:flexdock-drag
+6	#DEP#net.sf.squirrel-sql.thirdparty-non-maven:skinlf
+7	#DEP#org.flexdock:flexdock-core
+8	#DEP#org.flexdock:flexdock
+9	#DEP#com.jgoodies:jgoodies-looks
+10	#DEP#org.flexdock:flexdock-view

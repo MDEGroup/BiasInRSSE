@@ -1,0 +1,11 @@
+#DEP#edu.illinois.cs.cogcomp:IllinoisSL-core	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-pos-models	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-depparse	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-transliteration	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-pos	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-md	1.0
+#DEP#edu.illinois.cs.cogcomp:external-commons	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-edison	1.0
+#DEP#edu.princeton:wordnet-dict	1.0
+#DEP#edu.illinois.cs.cogcomp:illinois-comma	1.0
+#DEP#uk.ac.ed.inf:PathLSTM	1.0

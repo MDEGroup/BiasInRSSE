@@ -1,0 +1,6 @@
+1	#DEP#com.jakewharton.rxbinding2:rxbinding-support-v4
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#joda-time:joda-time
+1	#DEP#com.jakewharton.rxbinding2:rxbinding
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#junit:junit

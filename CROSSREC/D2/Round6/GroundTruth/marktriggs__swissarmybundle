@@ -1,0 +1,10 @@
+1	#DEP#swank-clojure:swank-clojure
+1	#DEP#org.sakaiproject.nakamura:base
+1	#DEP#org.apache.jackrabbit:jackrabbit-jcr-commons
+1	#DEP#org.python:jython-complete
+1	#DEP#org.apache.geronimo.specs:geronimo-jms_1.1_spec
+1	#DEP#org.subethamail:subethasmtp-wiser
+1	#DEP#org.jruby:jruby-complete
+1	#DEP#org.apache.commons:commons-email
+1	#DEP#org.apache.activemq:activemq-core
+1	#DEP#javax.jcr:jcr

@@ -1,0 +1,12 @@
+1	git://github.com/deptofdefense/anet.git
+2	#DEP#com.graphql-java:graphql-java
+3	#DEP#org.apache.commons:commons-io
+4	#DEP#ch.qos.logback:logback-access
+5	#DEP#javax.mail:mail
+6	#DEP#com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer
+7	#DEP#org.jvnet.com4j.typelibs:ado20
+8	#DEP#ch.qos.logback:logback-core
+9	#DEP#com.github.waffle:waffle-distro
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.xerial:sqlite-jdbc
+12	#DEP#org.jvnet.com4j.typelibs:active-directory

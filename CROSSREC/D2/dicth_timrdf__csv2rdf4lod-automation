@@ -1,0 +1,12 @@
+1	git://github.com/timrdf/csv2rdf4lod-automation.git
+2	#DEP#org.openrdf.sesame:sesame-rio-turtle
+3	#DEP#org.openrdf.sesame:sesame-sail-memory
+4	#DEP#org.openrdf.sesame:sesame-rio-ntriples
+5	#DEP#org.openrdf.sesame:sesame-rio-n3
+6	#DEP#org.openrdf.sesame:sesame-rio-trix
+7	#DEP#org.joda:joda-convert
+8	#DEP#org.openrdf.sesame:sesame-rio-trig
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#org.openrdf.sesame:sesame-repository-sail
+11	#DEP#junit:junit
+12	#DEP#org.openrdf.sesame:sesame-rio-rdfxml

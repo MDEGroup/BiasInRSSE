@@ -1,0 +1,11 @@
+1	git://github.com/707813227/VideoListCase.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#tv.danmaku.ijk.media:ijkplayer-armv7a
+4	#DEP#tv.danmaku.ijk.media:ijkplayer-x86
+5	#DEP#com.android.support:recyclerview-v7
+6	#DEP#tv.danmaku.ijk.media:ijkplayer-armv5
+7	#DEP#tv.danmaku.ijk.media:ijkplayer-java
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#com.android.support:design
+10	#DEP#tv.danmaku.ijk.media:ijkplayer-exo
+11	#DEP#com.nostra13.universalimageloader:universal-image-loader

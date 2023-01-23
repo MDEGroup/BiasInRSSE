@@ -1,0 +1,11 @@
+1	git://github.com/qcri/Arabesque.git
+2	#DEP#net.openhft:koloboke-impl-jdk6-7
+3	#DEP#org.apache.commons:commons-collections4
+4	#DEP#org.apache.giraph:giraph-core
+5	#DEP#net.jpountz.lz4:lz4
+6	#DEP#org.yaml:snakeyaml
+7	#DEP#org.spockframework:spock-core
+8	#DEP#org.apache.hadoop:hadoop-common
+9	#DEP#org.apache.hadoop:hadoop-mapreduce-client-common
+10	#DEP#net.openhft:koloboke-api-jdk6-7
+11	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

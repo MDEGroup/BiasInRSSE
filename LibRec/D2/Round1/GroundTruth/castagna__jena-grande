@@ -1,0 +1,7 @@
+1	#DEP#net.sf.jung:jung-algorithms
+1	#DEP#org.apache.hadoop:hadoop-client
+1	#DEP#org.apache.pig:pig
+1	#DEP#net.sf.jung:jung-graph-impl
+1	#DEP#org.apache.hadoop:hadoop-common
+1	#DEP#junit:junit
+1	#DEP#org.apache.jena:jena-tdb

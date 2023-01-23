@@ -1,0 +1,10 @@
+#DEP#taglibs:standard	1.0
+#DEP#com.sun.faces:com.sun.faces	1.0
+#DEP#${project.groupId}:gss	1.0
+#DEP#net.sf.ehcache:net.sf.ehcache	1.0
+#DEP#org.fcrepo:fcrepo-kernel-api	1.0
+#DEP#es.uji.security:uji-config	1.0
+#DEP#com.github.gwtbootstrap:com.github.gwtbootstrap	1.0
+#DEP#org.appfuse:appfuse-${web.framework}	1.0
+#DEP#org.apache.lucene:lucene-analyzers-stempel	1.0
+#DEP#org.kiji.common:kiji-common-flags	1.0

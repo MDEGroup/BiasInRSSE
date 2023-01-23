@@ -1,0 +1,4 @@
+1	#DEP#junit:junit
+1	#DEP#org.trillinux.ipheatmap.splitter:ipheatmap-splitter
+1	#DEP#org.trillinux.ipheatmap.server:ipheatmap-server
+1	#DEP#org.trillinux.ipheatmap.common:ipheatmap-common

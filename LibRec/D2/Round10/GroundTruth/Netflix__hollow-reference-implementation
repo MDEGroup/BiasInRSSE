@@ -1,0 +1,4 @@
+1	#DEP#com.amazonaws:aws-java-sdk-s3
+1	#DEP#com.netflix.hollow:hollow
+1	#DEP#com.netflix.hollow:hollow-diff-ui
+1	#DEP#junit:junit

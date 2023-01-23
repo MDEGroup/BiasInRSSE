@@ -1,0 +1,12 @@
+1	git://github.com/fesl/figgo.git
+2	#DEP#com.google.appengine:appengine-api-stubs
+3	#DEP#br.octahedron.cotopaxi:extensions
+4	#DEP#commons-codec:commons-codec
+5	#DEP#com.google.appengine:appengine-api-1.0-sdk
+6	#DEP#org.easymock:easymock
+7	#DEP#javax.jdo:jdo2-api
+8	#DEP#com.google.appengine:appengine-remote-api
+9	#DEP#junit:junit
+10	#DEP#br.octahedron.cotopaxi:core
+11	#DEP#org.seleniumhq.selenium:selenium
+12	#DEP#com.google.appengine:appengine-testing

@@ -1,0 +1,2 @@
+11	#DEP#io.jsonwebtoken:jjwt
+12	#DEP#com.fasterxml.jackson.core:jackson-annotations

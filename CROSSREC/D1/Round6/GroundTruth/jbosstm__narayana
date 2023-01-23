@@ -1,0 +1,11 @@
+47	#DEP#org.springframework:spring-jdbc
+48	#DEP#jboss:jnpserver
+49	#DEP#org.slf4j:jcl-over-slf4j
+50	#DEP#org.jboss.ironjacamar:ironjacamar-spec-api
+51	#DEP#org.jboss.byteman:byteman-install
+52	#DEP#mysql:mysql-connector-java
+53	#DEP#org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec
+54	#DEP#org.jboss.byteman:byteman-bmunit
+55	#DEP#org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.2_spec
+56	#DEP#org.jboss.narayana.arjunacore:arjunacore
+57	#DEP#org.mockito:mockito-core

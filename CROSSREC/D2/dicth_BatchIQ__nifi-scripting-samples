@@ -1,0 +1,9 @@
+1	git://github.com/BatchIQ/nifi-scripting-samples.git
+2	#DEP#org.apache.nifi:nifi-mock
+3	#DEP#org.apache.nifi:nifi-scripting-processors
+4	#DEP#commons-io:commons-io
+5	#DEP#org.apache.nifi:nifi-api
+6	#DEP#org.apache.nifi:nifi-properties-loader
+7	#DEP#org.apache.nifi:nifi-properties
+8	#DEP#com.fasterxml.jackson.core:jackson-databind
+9	#DEP#junit:junit

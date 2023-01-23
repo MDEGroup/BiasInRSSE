@@ -1,0 +1,10 @@
+1	#DEP#org.swinglabs:swingx
+1	#DEP#org.aspectj:aspectjweaver
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#org.springframework:spring-test
+1	#DEP#org.hibernate:hibernate-jpamodelgen
+1	#DEP#org.hibernate:ejb3-persistence
+1	#DEP#javax.time:jsr-310-ri
+1	#DEP#junit:junit
+1	#DEP#org.ruffkat:hombucha-model
+1	#DEP#com.h2database:h2

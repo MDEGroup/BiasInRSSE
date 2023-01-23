@@ -1,0 +1,5 @@
+1	#DEP#com.google.guava:guava
+1	#DEP#net.md-5:bungeecord-config
+1	#DEP#org.influxdb:influxdb-java
+1	#DEP#com.maxmind.geoip2:geoip2
+1	#DEP#org.slf4j:slf4j-jdk14

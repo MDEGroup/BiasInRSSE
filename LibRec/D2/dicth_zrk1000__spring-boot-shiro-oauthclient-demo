@@ -1,0 +1,11 @@
+1	git://github.com/zrk1000/spring-boot-shiro-oauthclient-demo.git
+2	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+3	#DEP#com.zrk:oauthclient
+4	#DEP#org.springframework.boot:spring-boot-starter-test
+5	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+6	#DEP#org.apache.shiro:shiro-spring
+7	#DEP#org.springframework.boot:spring-boot-starter-parent
+8	#DEP#org.springframework.boot:spring-boot-devtools
+9	#DEP#org.springframework.boot:spring-boot-configuration-processor
+10	#DEP#org.springframework.boot:spring-boot-starter-web
+11	#DEP#com.h2database:h2

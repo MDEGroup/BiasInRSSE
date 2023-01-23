@@ -1,0 +1,9 @@
+1	git://github.com/timeu/GeneViewer.git
+2	#DEP#com.google.gwt.gwtmockito:gwtmockito
+3	#DEP#com.github.timeu.gwt-libs.processingjs-gwt:processingjs-gwt
+4	#DEP#com.google.gwt:gwt
+5	#DEP#com.google.gwt:gwt-user
+6	#DEP#com.github.timeu.gwt-libs.geneviewer:geneviewer
+7	#DEP#com.google.gwt:gwt-dev
+8	#DEP#com.github.timeu.gwt-libs.geneviewer:geneviewer-parent
+9	#DEP#junit:junit

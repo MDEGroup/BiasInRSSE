@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:jcl-over-slf4j	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#com.carrotsearch:junit-benchmarks	1.0
+#DEP#org.seasar.container:s2-tiger	1.0
+#DEP#me.osm.gazetteer:ExternalSorting	1.0

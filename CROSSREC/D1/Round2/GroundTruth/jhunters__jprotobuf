@@ -1,0 +1,3 @@
+14	#DEP#com.squareup:protoparser
+15	#DEP#junit:junit
+16	#DEP#org.apache.maven:maven-artifact

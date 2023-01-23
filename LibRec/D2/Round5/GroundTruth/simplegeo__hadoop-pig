@@ -1,0 +1,6 @@
+1	#DEP#com.jcraft:jsch
+1	#DEP#com.cloudera.cdh:cdh-root
+1	#DEP#com.cloudera.cdh:pig-ant
+1	#DEP#joda-time:joda-time
+1	#DEP#commons-lang:commons-lang
+1	#DEP#com.cloudera.cdh:hadoop-root

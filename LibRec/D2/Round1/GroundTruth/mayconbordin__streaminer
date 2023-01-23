@@ -1,0 +1,7 @@
+1	#DEP#it.unimi.dsi:fastutil
+1	#DEP#commons-codec:commons-codec
+1	#DEP#net.sf.supercsv:super-csv
+1	#DEP#colt:colt
+1	#DEP#com.google.guava:guava
+1	#DEP#org.jblas:jblas
+1	#DEP#junit:junit

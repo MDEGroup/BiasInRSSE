@@ -1,0 +1,10 @@
+#DEP#com.vaadin:vaadin-themes	1.0
+#DEP#com.vaadin:vaadin-client-compiled	1.0
+#DEP#com.vaadin:vaadin-push	1.0
+#DEP#junit:junit	1.0
+#DEP#com.vaadin:vaadin-client	1.0
+#DEP#org.springframework.boot:spring-boot-starter-test	1.0
+#DEP#com.vaadin:vaadin-spring-boot-starter	1.0
+#DEP#javax.servlet:javax.servlet-api	1.0
+#DEP#com.vaadin:vaadin-cdi	1.0
+#DEP#org.vaadin.stepbystep:person-service	1.0

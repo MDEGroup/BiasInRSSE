@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.eclipse.higgins:higgins-sts-server-token-handler	1.0
+#DEP#org.openxri:org.openxri	1.0
+#DEP#com.google.appengine:appengine-api-1.0-stubs	1.0
+#DEP#${groupId}:openid4java-consumer	1.0
+#DEP#${groupId}:openid4java	1.0
+#DEP#xml-security:xml-security	1.0
+#DEP#org.eclipse.higgins:org.eclipse.higgins	1.0

@@ -1,0 +1,17 @@
+69	#DEP#org.apache.accumulo:accumulo-core
+70	#DEP#org.apache.hbase:hbase
+71	#DEP#com.yammer.metrics:metrics-core
+72	#DEP#org.apache.avro:avro
+73	#DEP#com.sun.xml.bind:jaxb-impl
+74	#DEP#io.netty:netty-all
+75	#DEP#org.apache.giraph:giraph-examples
+76	#DEP#org.slf4j:slf4j-api
+77	#DEP#org.apache.giraph:giraph-kibble
+78	#DEP#net.iharder:base64
+79	#DEP#com.facebook.hiveio:hive-io-exp-core
+80	#DEP#com.google.code.findbugs:annotations
+81	#DEP#org.codehaus.jackson:jackson-core-asl
+82	#DEP#com.fasterxml.jackson.core:jackson-databind
+83	#DEP#com.facebook.swift:swift-codec
+84	#DEP#com.tinkerpop.rexster:rexster-core
+85	#DEP#org.mockito:mockito-core

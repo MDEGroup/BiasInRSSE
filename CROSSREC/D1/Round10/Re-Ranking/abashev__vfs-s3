@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#commons-net:commons-net	1.0
+#DEP#org.apache.httpcomponents:httpmime	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#com.jcraft:jsch	1.0
+#DEP#org.eclipse.paho:org.eclipse.paho.client.mqttv3	1.0

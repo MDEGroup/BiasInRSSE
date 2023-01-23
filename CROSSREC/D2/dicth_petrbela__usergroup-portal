@@ -1,0 +1,16 @@
+1	git://github.com/petrbela/usergroup-portal.git
+2	#DEP#com.googlecode.objectify:objectify
+3	#DEP#org.slf4j:slf4j-api
+4	#DEP#com.google.gdata:gdata-blogger-2.0
+5	#DEP#javax.transaction:jta
+6	#DEP#javax.persistence:persistence-api
+7	#DEP#taglibs:standard
+8	#DEP#org.mockito:mockito-all
+9	#DEP#com.google.appengine:appengine-api-stubs
+10	#DEP#com.vaadin:vaadin
+11	#DEP#net.kindleit:gae-runtime
+12	#DEP#org.apache.geronimo.specs:geronimo-servlet_2.5_spec
+13	#DEP#ch.qos.logback:logback-classic
+14	#DEP#junit:junit
+15	#DEP#com.google.appengine:appengine-api-labs
+16	#DEP#com.google.appengine:appengine-testing

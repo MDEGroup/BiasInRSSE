@@ -1,0 +1,4 @@
+1	#DEP#org.slim3:slim3
+1	#DEP#junit:junit
+1	#DEP#com.google.appengine:appengine-local-runtime
+1	#DEP#com.google.appengine:appengine-api-labs

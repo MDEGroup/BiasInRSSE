@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.springframework:org.springframework.context	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#org.springframework:org.springframework.web	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#jstl:jstl	1.0
+#DEP#org.springframework:org.springframework.asm	1.0

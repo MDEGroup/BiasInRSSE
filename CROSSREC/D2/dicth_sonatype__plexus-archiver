@@ -1,0 +1,9 @@
+1	git://github.com/sonatype/plexus-archiver.git
+2	#DEP#org.xerial.snappy:snappy-java
+3	#DEP#org.codehaus.plexus:plexus-components
+4	#DEP#org.apache.commons:commons-compress
+5	#DEP#org.codehaus.plexus:plexus-utils
+6	#DEP#com.google.code.findbugs:jsr305
+7	#DEP#org.codehaus.plexus:plexus-container-default
+8	#DEP#org.codehaus.plexus:plexus-io
+9	#DEP#junit:junit

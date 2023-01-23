@@ -1,0 +1,13 @@
+1	git://github.com/gresrun/jesque.git
+2	#DEP#org.sonatype.oss:oss-parent
+3	#DEP#redis.clients:jedis
+4	#DEP#org.slf4j:slf4j-api
+5	#DEP#org.jmock:jmock-junit4
+6	#DEP#com.fasterxml.jackson.core:jackson-databind
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.fasterxml.jackson.core:jackson-core
+9	#DEP#ch.qos.logback:logback-classic
+10	#DEP#org.hamcrest:hamcrest-all
+11	#DEP#org.apache.commons:commons-pool2
+12	#DEP#org.jmock:jmock-legacy
+13	#DEP#junit:junit

@@ -1,0 +1,5 @@
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci.plugins:ivy
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#org.jenkins-ci.plugins:matrix-auth

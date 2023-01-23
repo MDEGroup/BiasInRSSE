@@ -1,0 +1,5 @@
+1	#DEP#org.springframework.android:spring-android-rest-template
+1	#DEP#org.springframework.android:spring-android-core
+1	#DEP#org.simpleframework:simple-xml
+1	#DEP#com.google.android.apps.analytics:GoogleAnalyticsTracker
+1	#DEP#org.acra:acra

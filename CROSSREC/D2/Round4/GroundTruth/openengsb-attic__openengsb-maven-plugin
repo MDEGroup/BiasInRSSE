@@ -1,0 +1,7 @@
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#log4j:log4j
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#com.google.guava:guava
+1	#DEP#org.ops4j.pax.runner:pax-runner-platform
+1	#DEP#junit:junit
+1	#DEP#org.openengsb:openengsb-manual-builder-resources

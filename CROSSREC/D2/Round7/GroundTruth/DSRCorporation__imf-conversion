@@ -1,0 +1,4 @@
+1	#DEP#com.sun.xml.bind:jaxb-xjc
+1	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics
+1	#DEP#org.jvnet.jaxb2_commons:jaxb2-basics-ant
+1	#DEP#:imf-conversion-utility

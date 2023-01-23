@@ -1,0 +1,6 @@
+1	#DEP#com.github.stephenc.high-scale-lib:high-scale-lib
+1	#DEP#org.apache.commons:commons-compress
+1	#DEP#${project.parent.groupId}:common
+1	#DEP#${parent.groupId}:common
+1	#DEP#javatar:javatar
+1	#DEP#org.hsqldb:hsqldb

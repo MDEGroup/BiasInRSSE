@@ -1,0 +1,17 @@
+1	git://github.com/jenkinsci/integrity-plugin.git
+2	#DEP#org.jenkins-ci.main:jenkins-test-harness
+3	#DEP#org.jenkins-ci.plugins:junit
+4	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+5	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+6	#DEP#org.jenkins-ci.plugins.workflow:workflow-scm-step
+7	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+8	#DEP#commons-codec:commons-codec
+9	#DEP#com.mks.api:mksapi-jar
+10	#DEP#com.google.code.findbugs:annotations
+11	#DEP#org.jenkins-ci.plugins:script-security
+12	#DEP#org.jenkins-ci.plugins:plugin
+13	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+14	#DEP#org.apache.commons:commons-pool2
+15	#DEP#org.apache.commons:commons-digester3
+16	#DEP#org.apache.derby:derby
+17	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps

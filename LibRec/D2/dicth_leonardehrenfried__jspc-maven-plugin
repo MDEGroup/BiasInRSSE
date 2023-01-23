@@ -1,0 +1,13 @@
+1	git://github.com/leonardehrenfried/jspc-maven-plugin.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.apache.ant:ant
+4	#DEP#org.apache.maven.plugin-testing:maven-plugin-testing-harness
+5	#DEP#org.apache.maven:maven-plugin-api
+6	#DEP#org.apache.maven:maven-core
+7	#DEP#org.eclipse.jdt.core.compiler:ecj
+8	#DEP#org.apache.tomcat:tomcat-jasper
+9	#DEP#org.apache.maven:maven-compat
+10	#DEP#javax.servlet:servlet-api
+11	#DEP#org.eclipse.jetty:jetty-util
+12	#DEP#junit:junit
+13	#DEP#org.apache.maven:maven-artifact

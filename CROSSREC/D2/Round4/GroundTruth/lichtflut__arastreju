@@ -1,0 +1,9 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.antlr:antlr4
+1	#DEP#org.arastreju:arastreju-mem
+1	#DEP#org.arastreju:arastreju-sge
+1	#DEP#org.openrdf.sesame:sesame-rio-api
+1	#DEP#org.mozilla:rhino
+1	#DEP#org.arastreju:arastreju-spi
+1	#DEP#org.openrdf.sesame:sesame-rio-n3
+1	#DEP#junit:junit

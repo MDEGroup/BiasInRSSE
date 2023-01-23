@@ -1,0 +1,10 @@
+1	#DEP#com.daimajia.numberprogressbar:library
+1	#DEP#com.squareup.retrofit2:converter-gson
+1	#DEP#com.tbruyelle.rxpermissions:rxpermissions
+1	#DEP#com.trello:rxlifecycle
+1	#DEP#com.github.bumptech.glide:glide
+1	#DEP#com.trello:rxlifecycle-components
+1	#DEP#me.drakeet.multitype:multitype
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxandroid

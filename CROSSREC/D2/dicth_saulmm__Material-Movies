@@ -1,0 +1,13 @@
+1	git://github.com/saulmm/Material-Movies.git
+2	#DEP#com.android.support.test:testing-support-lib
+3	#DEP#com.nispok:snackbar
+4	#DEP#org.glassfish:javax.annotation
+5	#DEP#com.jakewharton:butterknife
+6	#DEP#com.google.dagger:dagger
+7	#DEP#com.google.dagger:dagger-compiler
+8	#DEP#com.squareup.picasso:picasso
+9	#DEP#org.mockito:mockito-core
+10	#DEP#com.squareup.retrofit:retrofit
+11	#DEP#com.squareup:otto
+12	#DEP#junit:junit
+13	#DEP#com.android.support.test.espresso:espresso-core

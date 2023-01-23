@@ -1,0 +1,16 @@
+1	git://github.com/versly/wsdoc.git
+2	#DEP#com.fasterxml.jackson.module:jackson-module-jsonSchema
+3	#DEP#org.yaml:snakeyaml
+4	#DEP#org.testng:testng
+5	#DEP#org.apache.commons:commons-lang3
+6	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#joda-time:joda-time
+9	#DEP#org.freemarker:freemarker
+10	#DEP#com.fasterxml.jackson.core:jackson-annotations
+11	#DEP#org.springframework:spring-web
+12	#DEP#com.fasterxml.jackson.core:jackson-core
+13	#DEP#javax.ws.rs:jsr311-api
+14	#DEP#javax.servlet:servlet-api
+15	#DEP#org.raml:raml-parser
+16	#DEP#com.beust:jcommander

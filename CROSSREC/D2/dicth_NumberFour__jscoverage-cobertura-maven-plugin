@@ -1,0 +1,9 @@
+1	git://github.com/NumberFour/jscoverage-cobertura-maven-plugin.git
+2	#DEP#org.jdom:jdom
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.apache.maven:maven-project
+5	#DEP#org.apache.maven:maven-plugin-tools-api
+6	#DEP#com.google.code.gson:gson
+7	#DEP#org.apache.maven:maven-plugin-api
+8	#DEP#commons-lang:commons-lang
+9	#DEP#org.apache.maven:maven-artifact

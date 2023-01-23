@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.bukkit:bukkit	1.0
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#com.zaxxer:HikariCP	1.0
+#DEP#org.apache.logging.log4j:log4j-core	1.0
+#DEP#net.md-5:bungeecord-api	1.0
+#DEP#com.lishid:openinvparent	1.0
+#DEP#com.lishid:openinvcommon	1.0
+#DEP#com.lishid:openinvplugin	1.0
+#DEP#com.lishid:openinvapi	1.0

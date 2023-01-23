@@ -1,0 +1,11 @@
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#swank-clojure:swank-clojure
+1	#DEP#com.revelytix:sherpa-java
+1	#DEP#jline:jline
+1	#DEP#log4j:log4j
+1	#DEP#com.revelytix:spark
+1	#DEP#com.revelytix:spark-spi
+1	#DEP#org.apache.avro:avro
+1	#DEP#org.apache.httpcomponents:httpmime
+1	#DEP#org.apache.httpcomponents:httpcore
+1	#DEP#junit:junit

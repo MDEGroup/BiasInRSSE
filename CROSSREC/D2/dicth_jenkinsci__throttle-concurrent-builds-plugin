@@ -1,0 +1,17 @@
+1	git://github.com/jenkinsci/throttle-concurrent-builds-plugin.git
+2	#DEP#org.assertj:assertj-core
+3	#DEP#org.jenkins-ci.plugins.workflow:workflow-durable-task-step
+4	#DEP#org.jenkins-ci.plugins:junit
+5	#DEP#org.jenkins-ci.plugins.workflow:workflow-cps
+6	#DEP#com.tngtech.jgiven:jgiven-junit
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#org.jenkins-ci.plugins.workflow:workflow-api
+9	#DEP#org.jenkins-ci.plugins.workflow:workflow-job
+10	#DEP#org.jenkins-ci.plugins:plugin
+11	#DEP#org.jenkins-ci.plugins:credentials
+12	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+13	#DEP#org.jenkins-ci.plugins:cloudbees-folder
+14	#DEP#org.jenkins-ci.plugins:matrix-project
+15	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+16	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+17	#DEP#org.jenkins-ci.plugins:matrix-auth

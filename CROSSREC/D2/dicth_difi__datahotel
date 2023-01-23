@@ -1,0 +1,15 @@
+1	git://github.com/difi/datahotel.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.apache.lucene:lucene-core
+4	#DEP#commons-io:commons-io
+5	#DEP#com.thoughtworks.xstream:xstream
+6	#DEP#org.yaml:snakeyaml
+7	#DEP#org.mockito:mockito-all
+8	#DEP#com.google.code.gson:gson
+9	#DEP#com.sun.jersey.contribs:jersey-multipart
+10	#DEP#org.springframework:spring-core
+11	#DEP#net.sourceforge.javacsv:javacsv
+12	#DEP#com.sun.jersey:jersey-json
+13	#DEP#org.springframework:spring-web
+14	#DEP#com.sun.jersey.contribs:jersey-spring
+15	#DEP#junit:junit

@@ -1,0 +1,15 @@
+1	git://github.com/LivePersonInc/ephemerals.git
+2	#DEP#com.github.tomakehurst:wiremock
+3	#DEP#com.liveperson.ephemerals:ephemerals-module-selenium
+4	#DEP#io.appium:java-client
+5	#DEP#com.liveperson.ephemerals:ephemerals-core
+6	#DEP#org.slf4j:slf4j-log4j12
+7	#DEP#com.liveperson.ephemerals:ephemerals-module-appium
+8	#DEP#com.liveperson.ephemerals:ephemerals-module-nginx
+9	#DEP#org.seleniumhq.selenium:selenium-java
+10	#DEP#log4j:log4j
+11	#DEP#com.liveperson.ephemerals:ephemerals-module-wiremock
+12	#DEP#com.liveperson.ephemerals:ephemerals-provider-kubernetes
+13	#DEP#com.liveperson.ephemerals:ephemerals-parent
+14	#DEP#junit:junit
+15	#DEP#io.fabric8:kubernetes-client

@@ -1,0 +1,15 @@
+1	#DEP#org.mule.transports:mule-transport-xmpp
+1	#DEP#org.mule.transports:mule-transport-file
+1	#DEP#org.mule.modules:mule-module-cxf
+1	#DEP#org.mule.transports:mule-transport-stdio
+1	#DEP#org.mule.modules:mule-module-client
+1	#DEP#org.mule.transports:mule-transport-http
+1	#DEP#org.mule.transports:mule-transport-vm
+1	#DEP#log4j:log4j
+1	#DEP#com.muleinaction:chapter01
+1	#DEP#com.icegreen:greenmail
+1	#DEP#com.muleinaction:chapter02
+1	#DEP#org.apache.derby:derby
+1	#DEP#com.muleinaction:chapter03
+1	#DEP#org.apache.activemq:activemq-core
+1	#DEP#com.muleinaction:common-ch04

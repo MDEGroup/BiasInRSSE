@@ -1,0 +1,7 @@
+1	#DEP#com.dooapp.fxform2:extensions
+1	#DEP#com.fasterxml.jackson.core:jackson-databind
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.controlsfx:controlsfx
+1	#DEP#com.dooapp.fxform2:core
+1	#DEP#org.glassfish.web:el-impl
+1	#DEP#junit:junit

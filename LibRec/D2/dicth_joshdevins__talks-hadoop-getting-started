@@ -1,0 +1,16 @@
+1	git://github.com/joshdevins/talks-hadoop-getting-started.git
+2	#DEP#commons-logging:commons-logging
+3	#DEP#org.apache.commons:commons-math
+4	#DEP#com.google.collections:google-collections
+5	#DEP#org.codehaus.jackson:jackson-mapper-asl
+6	#DEP#dk.brics.automaton:automaton
+7	#DEP#joda-time:joda-time
+8	#DEP#org.apache.pig.contrib:piggybank
+9	#DEP#commons-lang:commons-lang
+10	#DEP#com.cloudera.hadoop:hadoop-mrunit
+11	#DEP#jline:jline
+12	#DEP#org.apache.pig:pigunit
+13	#DEP#org.apache.pig:pig
+14	#DEP#log4j:log4j
+15	#DEP#com.cloudera.hadoop:hadoop-core
+16	#DEP#junit:junit

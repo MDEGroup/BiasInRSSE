@@ -1,0 +1,17 @@
+1	git://github.com/vaadin/board.git
+2	#DEP#com.vaadin:vaadin-board
+3	#DEP#com.vaadin:vaadin-testbench-core
+4	#DEP#com.vaadin:vaadin-board-testbench-api
+5	#DEP#com.vaadin:vaadin-testbench
+6	#DEP#com.vaadin:vaadin-server
+7	#DEP#com.vaadin:vaadin-spreadsheet
+8	#DEP#com.vaadin:vaadin-bom
+9	#DEP#com.vaadin:webcomponents-helper
+10	#DEP#com.vaadin:vaadin-charts
+11	#DEP#com.vaadin:vaadin-board-precompiled
+12	#DEP#com.vaadin:vaadin-board-root
+13	#DEP#com.vaadin:vaadin-themes
+14	#DEP#javax.servlet:javax.servlet-api
+15	#DEP#com.vaadin:vaadin-testbench-api
+16	#DEP#com.vaadin:vaadin-client
+17	#DEP#junit:junit

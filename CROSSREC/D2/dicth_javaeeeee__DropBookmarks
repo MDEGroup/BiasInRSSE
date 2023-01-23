@@ -1,0 +1,12 @@
+1	git://github.com/javaeeeee/DropBookmarks.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#io.dropwizard:dropwizard-auth
+4	#DEP#io.dropwizard:dropwizard-hibernate
+5	#DEP#org.jasypt:jasypt
+6	#DEP#io.dropwizard:dropwizard-migrations
+7	#DEP#io.dropwizard:dropwizard-bom
+8	#DEP#io.dropwizard:dropwizard-testing
+9	#DEP#commons-beanutils:commons-beanutils
+10	#DEP#io.dropwizard:dropwizard-core
+11	#DEP#com.h2database:h2
+12	#DEP#org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2

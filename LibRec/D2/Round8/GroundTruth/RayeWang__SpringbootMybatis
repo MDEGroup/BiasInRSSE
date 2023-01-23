@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-parent
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#junit:junit
+1	#DEP#org.springframework.boot:spring-boot-starter-aop
+1	#DEP#io.springfox:springfox-swagger2
+1	#DEP#org.springframework.boot:spring-boot-starter-web

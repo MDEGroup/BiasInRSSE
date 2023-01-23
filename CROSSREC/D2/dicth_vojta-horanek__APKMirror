@@ -1,0 +1,9 @@
+1	git://github.com/vojta-horanek/APKMirror.git
+2	#DEP#org.jsoup:jsoup
+3	#DEP#de.psdev.licensesdialog:licensesdialog
+4	#DEP#com.afollestad.material-dialogs:core
+5	#DEP#com.github.delight-im:Android-AdvancedWebView
+6	#DEP#com.roughike:bottom-bar
+7	#DEP#com.google.code.findbugs:jsr305
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design

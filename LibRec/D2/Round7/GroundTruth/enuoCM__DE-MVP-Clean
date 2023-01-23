@@ -1,0 +1,10 @@
+1	#DEP#com.crittercism.dexmaker:dexmaker
+1	#DEP#com.xixicm.ca:ca
+1	#DEP#org.greenrobot:greendao
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.crittercism.dexmaker:dexmaker-dx
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.android.support.test:rules
+1	#DEP#dev.dworks.libs:volleyplus
+1	#DEP#junit:junit
+1	#DEP#com.android.support.test:runner

@@ -1,0 +1,8 @@
+1	#DEP#com.android.support:design
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.crossbowffs.remotepreferences:remotepreferences
+1	#DEP#com.github.sevar83:indeterminate-checkbox
+1	#DEP#com.android.support:support-v4
+1	#DEP#com.google.auto.service:auto-service
+1	#DEP#junit:junit
+1	#DEP#com.google.zxing:core

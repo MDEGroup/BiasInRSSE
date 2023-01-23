@@ -1,0 +1,11 @@
+1	#DEP#org.icepush:icepush
+1	#DEP#org.springframework:spring-web
+1	#DEP#org.seleniumhq.selenium:selenium-java
+1	#DEP#log4j:log4j
+1	#DEP#org.icefaces:icefaces
+1	#DEP#org.icefaces:icefaces-compat
+1	#DEP#org.apache.myfaces.core:myfaces-impl
+1	#DEP#org.seleniumhq.selenium:selenium-server
+1	#DEP#org.springframework.security:spring-security-config
+1	#DEP#org.icefaces:icefaces-ace
+1	#DEP#junit:junit

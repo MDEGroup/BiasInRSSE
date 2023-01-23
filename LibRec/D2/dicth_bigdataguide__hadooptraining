@@ -1,0 +1,12 @@
+1	git://github.com/bigdataguide/hadooptraining.git
+2	#DEP#org.apache.kafka:kafka_2.11
+3	#DEP#org.apache.hadoop:hadoop-client
+4	#DEP#cn.chinahadoop:hadoop-example
+5	#DEP#org.apache.hive:hive-jdbc
+6	#DEP#org.apache.storm:storm-core
+7	#DEP#org.apache.storm:storm-redis
+8	#DEP#org.apache.hadoop:hadoop-common
+9	#DEP#org.apache.hadoop:hadoop-mapreduce-client-common
+10	#DEP#org.apache.hbase:hbase-client
+11	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core
+12	#DEP#org.apache.storm:storm-kafka

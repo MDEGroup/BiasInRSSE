@@ -1,0 +1,9 @@
+39	#DEP#org.jvnet.hudson.plugins:warnings
+40	#DEP#org.jvnet.hudson.plugins:pmd
+41	#DEP#org.springframework:spring-web
+42	#DEP#org.jvnet.hudson.plugins:analysis-test
+43	#DEP#org.jfrog.buildinfo:build-info-api
+44	#DEP#org.mockito:mockito-core
+45	#DEP#javax.servlet:servlet-api
+46	#DEP#xerces:xercesImpl
+47	#DEP#commons-digester:commons-digester

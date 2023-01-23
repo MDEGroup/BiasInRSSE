@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#com.amazonaws:aws-java-sdk-dynamodb	1.0
+#DEP#com.amazonaws:aws-java-sdk-s3	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#com.fasterxml.jackson.core:jackson-core	1.0
+#DEP#log4j:log4j	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#com.amazonaws:aws-java-sdk-cloudwatchmetrics	1.0

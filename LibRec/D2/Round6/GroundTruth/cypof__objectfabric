@@ -1,0 +1,13 @@
+1	#DEP#org.apache.maven.shared:maven-invoker
+1	#DEP#org.mortbay.jetty:jetty
+1	#DEP#org.objectfabric:objectfabric-jvm
+1	#DEP#com.google.gwt:gwt-user
+1	#DEP#com.google.android:android
+1	#DEP#org.objectfabric:objectfabric-netty
+1	#DEP#org.objectfabric:objectfabric.extensions
+1	#DEP#ikvm:System.Numerics
+1	#DEP#Shared1:Shared1
+1	#DEP#org.objectfabric:objectfabric
+1	#DEP#junit:junit
+1	#DEP#org.objectfabric:objectfabric-sqlite4java
+1	#DEP#com.oracle:javafx

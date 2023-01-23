@@ -1,0 +1,9 @@
+1	#DEP#joda-time:joda-time
+1	#DEP#org.solovyev:common-collections-multiset
+1	#DEP#com.intellij:annotations
+1	#DEP#com.google.code.findbugs:annotations
+1	#DEP#org.solovyev:common-msg
+1	#DEP#org.solovyev:common-all
+1	#DEP#com.google.guava:guava
+1	#DEP#junit:junit
+1	#DEP#org.solovyev:common-text

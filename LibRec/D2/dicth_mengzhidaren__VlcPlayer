@@ -1,0 +1,10 @@
+1	git://github.com/mengzhidaren/VlcPlayer.git
+2	#DEP#com.afollestad.material-dialogs:core
+3	#DEP#com.github.bumptech.glide:glide
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.android.support:support-v4
+6	#DEP#com.yyl.vlc:vlc-android-sdk
+7	#DEP#com.android.support:appcompat-v7
+8	#DEP#junit:junit
+9	#DEP#com.google.code.gson:gson
+10	#DEP#com.jakewharton:butterknife

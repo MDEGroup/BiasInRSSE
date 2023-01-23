@@ -1,0 +1,6 @@
+1	#DEP#com.vaadin:vaadin
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#javax.mail:mail
+1	#DEP#javax.portlet:portlet-api
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#junit:junit

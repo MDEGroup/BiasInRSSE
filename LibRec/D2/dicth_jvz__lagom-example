@@ -1,0 +1,16 @@
+1	git://github.com/jvz/lagom-example.git
+2	#DEP#${project.groupId}:blog-api
+3	#DEP#org.assertj:assertj-core
+4	#DEP#com.spr:lagom-example
+5	#DEP#com.lightbend.lagom:lagom-javadsl-api_2.11
+6	#DEP#com.lightbend.lagom:lagom-javadsl-testkit_2.11
+7	#DEP#${project.groupId}:stream-api
+8	#DEP#${project.groupId}:hello-api
+9	#DEP#com.typesafe.play:play-netty-server_2.11
+10	#DEP#com.lightbend.lagom:lagom-javadsl-persistence-cassandra_2.11
+11	#DEP#com.lightbend.lagom:lagom-logback_2.11
+12	#DEP#com.typesafe.conductr:${conductr.lib.name}
+13	#DEP#com.lightbend.lagom:lagom-javadsl-server_2.11
+14	#DEP#com.lightbend.lagom:lagom-javadsl-integration-client_2.11
+15	#DEP#org.projectlombok:lombok
+16	#DEP#junit:junit

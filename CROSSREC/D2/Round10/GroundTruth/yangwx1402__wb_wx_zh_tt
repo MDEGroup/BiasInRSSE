@@ -1,0 +1,13 @@
+1	#DEP#cn.wanghaomiao:JsoupXpath
+1	#DEP#org.codehaus.jackson:jackson-core-asl
+1	#DEP#org.springframework.boot:spring-boot-starter
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#com.letv.spider:sf-spider
+1	#DEP#org.springframework.boot:spring-boot-starter-web
+1	#DEP#org.jsoup:jsoup
+1	#DEP#com.alibaba:druid
+1	#DEP#org.springframework.boot:spring-boot-starter-thymeleaf
+1	#DEP#log4j:log4j
+1	#DEP#junit:junit
+1	#DEP#org.apache.commons:commons-collection

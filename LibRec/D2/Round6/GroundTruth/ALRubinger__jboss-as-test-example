@@ -1,0 +1,4 @@
+1	#DEP#org.jboss.arquillian.junit:arquillian-junit-container
+1	#DEP#org.jboss.as:jboss-as-build
+1	#DEP#org.jboss.as:jboss-as-dist
+1	#DEP#junit:junit

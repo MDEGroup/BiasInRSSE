@@ -1,0 +1,17 @@
+1	git://github.com/tmtron/green-annotations.git
+2	#DEP#com.android.support:support-annotations
+3	#DEP#org.androidannotations:androidannotations
+4	#DEP#org.robolectric:robolectric
+5	#DEP#com.google.android:android
+6	#DEP#org.greenrobot:eventbus
+7	#DEP#com.squareup:fest-android
+8	#DEP#org.hamcrest:hamcrest-core
+9	#DEP#org.androidannotations:androidannotations-testutils
+10	#DEP#org.androidannotations:androidannotations-api
+11	#DEP#com.tmtron:green-annotations-parent
+12	#DEP#com.tmtron:green-annotations-api
+13	#DEP#org.mockito:mockito-core
+14	#DEP#com.helger:jcodemodel
+15	#DEP#org.easytesting:fest-reflect
+16	#DEP#junit:junit
+17	#DEP#com.tmtron:green-annotations

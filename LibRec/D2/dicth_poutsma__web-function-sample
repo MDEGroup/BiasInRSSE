@@ -1,0 +1,12 @@
+1	git://github.com/poutsma/web-function-sample.git
+2	#DEP#org.springframework:spring-webflux
+3	#DEP#org.springframework:spring-context
+4	#DEP#io.projectreactor:reactor-core
+5	#DEP#io.projectreactor.ipc:reactor-netty
+6	#DEP#org.apache.tomcat.embed:tomcat-embed-core
+7	#DEP#org.apache.logging.log4j:log4j-core
+8	#DEP#org.springframework:spring-test
+9	#DEP#org.reactivestreams:reactive-streams
+10	#DEP#com.fasterxml.jackson.core:jackson-databind
+11	#DEP#junit:junit
+12	#DEP#io.projectreactor:reactor-bom

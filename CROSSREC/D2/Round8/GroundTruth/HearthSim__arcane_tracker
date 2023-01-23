@@ -1,0 +1,8 @@
+1	#DEP#io.paperdb:paperdb
+1	#DEP#com.squareup.picasso:picasso
+1	#DEP#com.android.support:multidex
+1	#DEP#com.android.support.constraint:constraint-layout
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid

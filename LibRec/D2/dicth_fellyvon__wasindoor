@@ -1,0 +1,15 @@
+1	git://github.com/fellyvon/wasindoor.git
+2	#DEP#mysql:mysql-connector-java
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#org.apache.httpcomponents:httpclient
+5	#DEP#com.waspring.wasindoor:wasserver
+6	#DEP#commons-logging:commons-logging
+7	#DEP#com.google.code.gson:gson
+8	#DEP#org.xerial:sqlite-jdbc
+9	#DEP#com.waspring.wasindoor:wascore
+10	#DEP#commons-codec:commons-codec
+11	#DEP#com.alibaba:druid
+12	#DEP#com.waspring.wasdb:wasdbtools
+13	#DEP#tw.edu.ntu.csie:libsvm
+14	#DEP#org.apache.httpcomponents:fluent-hc
+15	#DEP#junit:junit

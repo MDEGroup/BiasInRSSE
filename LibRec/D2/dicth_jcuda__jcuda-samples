@@ -1,0 +1,16 @@
+1	git://github.com/jcuda/jcuda-samples.git
+2	#DEP#org.jcuda:jcusolver
+3	#DEP#org.jcuda:jnvgraph
+4	#DEP#org.jcuda:jcuda-matrix-utils
+5	#DEP#org.jogamp.gluegen:gluegen-rt-main
+6	#DEP#org.lwjgl.lwjgl:lwjgl
+7	#DEP#de.javagl:matrixmarketreader
+8	#DEP#org.jcuda:jcufft
+9	#DEP#org.jcuda:jcublas
+10	#DEP#org.jcuda:jcurand
+11	#DEP#org.jcuda:jcuda
+12	#DEP#com.github.wendykierp:JTransforms
+13	#DEP#org.jogamp.jogl:jogl-all-main
+14	#DEP#org.jcuda:jcudnn
+15	#DEP#org.jcuda:jcuda-vec
+16	#DEP#org.jcuda:jcusparse

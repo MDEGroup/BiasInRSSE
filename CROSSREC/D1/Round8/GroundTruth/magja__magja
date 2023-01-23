@@ -1,0 +1,4 @@
+18	#DEP#org.hamcrest:hamcrest-all
+19	#DEP#com.google.guava:guava
+20	#DEP#org.apache.axis2:axis2-transport-http
+21	#DEP#junit:junit

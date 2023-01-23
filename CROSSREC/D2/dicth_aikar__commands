@@ -1,0 +1,14 @@
+1	git://github.com/aikar/commands.git
+2	#DEP#co.aikar:minecraft-timings
+3	#DEP#co.aikar:acf-parent
+4	#DEP#co.aikar:acf-bukkit
+5	#DEP#co.aikar:acf-core
+6	#DEP#org.spongepowered:spongeapi
+7	#DEP#net.md-5:bungeecord-api
+8	#DEP#net.jodah:expiringmap
+9	#DEP#co.aikar:locales
+10	#DEP#org.jetbrains:annotations
+11	#DEP#org.bukkit:bukkit
+12	#DEP#net.dv8tion:JDA
+13	#DEP#com.google.guava:guava
+14	#DEP#com.destroystokyo.paper:paper-api

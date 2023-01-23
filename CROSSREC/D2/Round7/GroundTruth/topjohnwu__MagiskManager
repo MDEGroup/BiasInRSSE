@@ -1,0 +1,5 @@
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.github.topjohnwu:libsu
+1	#DEP#com.android.support:design
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#org.kamranzafar:jtar

@@ -1,0 +1,7 @@
+1	#DEP#com.plugtree.smartknowledgediscovery:knowledge-discovery-core
+1	#DEP#org.hibernate.java-persistence:jpa-api
+1	#DEP#com.plugtree.smartknowledgediscovery:smart-knowledge-discovery-parent
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#aspectj:aspectjweaver
+1	#DEP#junit:junit
+1	#DEP#com.h2database:h2

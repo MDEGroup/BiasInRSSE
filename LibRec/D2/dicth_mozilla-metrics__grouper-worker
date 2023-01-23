@@ -1,0 +1,10 @@
+1	git://github.com/mozilla-metrics/grouper-worker.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.apache.hbase:hbase
+4	#DEP#com.googlecode.json-simple:json-simple
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#org.apache.mahout:mahout-core
+7	#DEP#javax.servlet:servlet-api
+8	#DEP#org.testng:testng
+9	#DEP#org.slf4j:slf4j-api
+10	#DEP#junit:junit

@@ -1,0 +1,3 @@
+14	#DEP#org.slf4j:slf4j-log4j12
+15	#DEP#org.apache.jackrabbit:jackrabbit-bc-base
+16	#DEP#org.apache.jackrabbit:jackrabbit-bundle

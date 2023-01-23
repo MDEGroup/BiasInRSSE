@@ -1,0 +1,4 @@
+1	#DEP#info.cukes:cucumber-java
+1	#DEP#com.quantum:quantum-support
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#com.qmetry:qaf

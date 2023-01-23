@@ -1,0 +1,6 @@
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#com.querybuilder:querybuilder
+1	#DEP#org.codehaus.jackson:jackson-mapper-asl
+1	#DEP#org.hsqldb:hsqldb
+1	#DEP#com.google.protobuf:protobuf-java

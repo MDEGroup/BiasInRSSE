@@ -1,0 +1,10 @@
+1	git://github.com/normanmaurer/niosmtp.git
+2	#DEP#commons-codec:commons-codec
+3	#DEP#org.sonatype.oss:oss-parent
+4	#DEP#io.netty:netty
+5	#DEP#org.apache.james.protocols:protocols-lmtp
+6	#DEP#org.slf4j:slf4j-simple
+7	#DEP#org.slf4j:slf4j-api
+8	#DEP#org.apache.james.protocols:protocols-smtp
+9	#DEP#junit:junit
+10	#DEP#org.apache.james.protocols:protocols-netty

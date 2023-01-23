@@ -1,0 +1,4 @@
+1	#DEP#org.assertj:assertj-core
+1	#DEP#com.fasterxml.jackson:jackson-base
+1	#DEP#org.powermock:powermock-api-mockito2
+1	#DEP#com.fasterxml.jackson.core:jackson-annotations

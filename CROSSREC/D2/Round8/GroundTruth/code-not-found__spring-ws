@@ -1,0 +1,6 @@
+1	#DEP#org.springframework.boot:spring-boot-starter-security
+1	#DEP#org.apache.wss4j:wss4j
+1	#DEP#org.springframework.boot:spring-boot-starter-web-services
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.ws:spring-ws-test
+1	#DEP#org.springframework.ws:spring-ws-support

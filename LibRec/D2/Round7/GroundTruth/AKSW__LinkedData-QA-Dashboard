@@ -1,0 +1,8 @@
+1	#DEP#postgresql:postgresql
+1	#DEP#org.aksw.commons:sparql
+1	#DEP#com.sun.jersey:jersey-core
+1	#DEP#com.google.guava:guava
+1	#DEP#com.jolbox:bonecp
+1	#DEP#junit:junit
+1	#DEP#org.apache.jena:jena-tdb
+1	#DEP#com.sun.jersey:jersey-server

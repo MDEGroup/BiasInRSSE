@@ -1,0 +1,9 @@
+1	git://github.com/messenger4j/messenger4j.git
+2	#DEP#com.squareup.okhttp3:okhttp
+3	#DEP#org.mockito:mockito-core
+4	#DEP#org.skyscreamer:jsonassert
+5	#DEP#org.hamcrest:hamcrest-all
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#org.projectlombok:lombok
+8	#DEP#com.google.code.gson:gson
+9	#DEP#junit:junit

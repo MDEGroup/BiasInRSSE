@@ -1,0 +1,5 @@
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#org.apache.httpcomponents:httpasyncclient
+1	#DEP#junit:junit
+1	#DEP#com.google.code.gson:gson
+1	#DEP#com.h2database:h2

@@ -1,0 +1,13 @@
+1	git://github.com/sfyc23/CountDownList.git
+2	#DEP#io.reactivex.rxjava2:rxandroid
+3	#DEP#io.reactivex.rxjava2:rxjava
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.jakewharton:butterknife-compiler
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.jakewharton.rxbinding2:rxbinding-appcompat-v7
+8	#DEP#com.jakewharton.rxbinding2:rxbinding-support-v4
+9	#DEP#com.jakewharton:butterknife
+10	#DEP#joda-time:joda-time
+11	#DEP#com.jakewharton.rxbinding2:rxbinding
+12	#DEP#com.android.support.constraint:constraint-layout
+13	#DEP#junit:junit

@@ -1,0 +1,17 @@
+1	git://github.com/dodozhang21/MockitoExamples.git
+2	#DEP#org.springframework:spring-context
+3	#DEP#org.powermock:powermock-module-junit4
+4	#DEP#org.springframework:spring-aop
+5	#DEP#org.springframework:spring-beans
+6	#DEP#org.mockito:mockito-all
+7	#DEP#org.springframework:spring-jdbc
+8	#DEP#org.springframework:spring-core
+9	#DEP#commons-lang:commons-lang
+10	#DEP#org.aspectj:aspectjweaver
+11	#DEP#org.springframework:spring-web
+12	#DEP#org.springframework:spring-test
+13	#DEP#org.powermock:powermock-api-mockito
+14	#DEP#commons-httpclient:commons-httpclient
+15	#DEP#junit:junit
+16	#DEP#org.aspectj:aspectjrt
+17	#DEP#cglib:cglib

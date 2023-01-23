@@ -1,0 +1,9 @@
+1	#DEP#javax.transaction:jta
+1	#DEP#com.vaadin:vaadin
+1	#DEP#org.hibernate:hibernate-core
+1	#DEP#jboss:javassist
+1	#DEP#commons-collections:commons-collections
+1	#DEP#org.vaadin.addons:hbncontainer
+1	#DEP#org.hibernate:ejb3-persistence
+1	#DEP#clover:clover
+1	#DEP#org.antlr:antlr

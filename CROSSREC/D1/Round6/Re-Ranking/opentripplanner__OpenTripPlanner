@@ -1,0 +1,10 @@
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.lucene:lucene-analyzers-common	1.0
+#DEP#org.apache.httpcomponents:httpclient	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#org.geotools:gt-opengis	1.0
+#DEP#com.sleepycat:je	1.0
+#DEP#org.geotools.jdbc:gt-jdbc-postgis	1.0
+#DEP#com.sangupta:jopensurf	1.0
+#DEP#nu.pattern:opencv	1.0

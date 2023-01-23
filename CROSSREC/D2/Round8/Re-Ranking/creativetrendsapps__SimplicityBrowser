@@ -1,0 +1,10 @@
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:cardview-v7	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:support-v4	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.github.bumptech.glide:glide	1.0
+#DEP#com.squareup.okhttp3:okhttp	1.0
+#DEP#com.android.support:support-v13	1.0
+#DEP#com.klinkerapps:sliding-activity	1.0
+#DEP#com.bignerdranch.android:recyclerview-multiselect	1.0

@@ -1,0 +1,11 @@
+1	git://github.com/markwest1972/smart-security-camera.git
+2	#DEP#com.amazonaws:aws-java-sdk-stepfunctions
+3	#DEP#com.amazonaws:aws-java-sdk-rekognition
+4	#DEP#com.amazonaws:aws-lambda-java-events
+5	#DEP#com.amazonaws:aws-java-sdk-s3
+6	#DEP#com.amazonaws:aws-java-sdk-bom
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#com.amazonaws:aws-java-sdk-ses
+9	#DEP#junit:junit
+10	#DEP#com.amazonaws:aws-lambda-java-core
+11	#DEP#com.sun.mail:javax.mail

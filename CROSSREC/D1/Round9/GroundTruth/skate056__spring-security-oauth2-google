@@ -1,0 +1,4 @@
+16	#DEP#junit:junit
+17	#DEP#javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api
+18	#DEP#org.springframework.boot:spring-boot-starter-actuator
+19	#DEP#io.generators:generators-core

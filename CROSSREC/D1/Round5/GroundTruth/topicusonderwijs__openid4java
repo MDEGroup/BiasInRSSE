@@ -1,0 +1,6 @@
+26	#DEP#xerces:xercesImpl
+27	#DEP#jdom:jdom
+28	#DEP#javax.servlet:servlet-api
+29	#DEP#javax.servlet:jstl
+30	#DEP#junit:junit
+31	#DEP#net.sourceforge.jwebunit:jwebunit-htmlunit-plugin

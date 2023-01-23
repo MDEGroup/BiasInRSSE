@@ -1,0 +1,10 @@
+1	git://github.com/SimonMarquis/FCM-toolbox.git
+2	#DEP#com.android.support:cardview-v7
+3	#DEP#com.android.support:recyclerview-v7
+4	#DEP#com.google.firebase:firebase-database
+5	#DEP#com.android.support.constraint:constraint-layout
+6	#DEP#com.android.support:appcompat-v7
+7	#DEP#com.google.code.gson:gson
+8	#DEP#junit:junit
+9	#DEP#com.android.support:design
+10	#DEP#com.google.firebase:firebase-messaging

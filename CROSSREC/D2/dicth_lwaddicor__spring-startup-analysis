@@ -1,0 +1,11 @@
+1	git://github.com/lwaddicor/spring-startup-analysis.git
+2	#DEP#org.springframework:spring-web
+3	#DEP#org.springframework:spring-context
+4	#DEP#org.antlr:stringtemplate
+5	#DEP#com.github.lwaddicor:spring-startup-analysis
+6	#DEP#javax.servlet:javax.servlet-api
+7	#DEP#org.springframework:spring-beans
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.springframework.boot:spring-boot-starter-parent
+10	#DEP#org.springframework.boot:spring-boot-devtools
+11	#DEP#org.springframework.boot:spring-boot-starter-web

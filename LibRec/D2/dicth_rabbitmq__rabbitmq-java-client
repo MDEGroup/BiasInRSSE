@@ -1,0 +1,10 @@
+1	git://github.com/rabbitmq/rabbitmq-java-client.git
+2	#DEP#io.dropwizard.metrics:metrics-core
+3	#DEP#commons-cli:commons-cli
+4	#DEP#org.hamcrest:hamcrest-library
+5	#DEP#org.mockito:mockito-core
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#io.micrometer:micrometer-core
+8	#DEP#org.slf4j:slf4j-api
+9	#DEP#junit:junit
+10	#DEP#org.awaitility:awaitility

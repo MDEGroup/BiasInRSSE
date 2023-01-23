@@ -1,0 +1,9 @@
+1	git://github.com/twitter/cloudhopper-smpp.git
+2	#DEP#com.cloudhopper:ch-commons-gsm
+3	#DEP#com.cloudhopper:ch-commons-util
+4	#DEP#io.netty:netty
+5	#DEP#ch.qos.logback:logback-classic
+6	#DEP#org.slf4j:slf4j-api
+7	#DEP#com.fizzed:fizzed-maven-parent
+8	#DEP#junit:junit
+9	#DEP#com.cloudhopper:ch-commons-charset

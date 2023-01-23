@@ -1,0 +1,15 @@
+1	git://github.com/junneyang/springcloud-demo.git
+2	#DEP#org.springframework.cloud:spring-cloud-netflix-turbine
+3	#DEP#org.springframework.boot:spring-boot-starter-data-jpa
+4	#DEP#org.springframework.cloud:spring-cloud-dependencies
+5	#DEP#org.springframework.boot:spring-boot-starter-parent
+6	#DEP#org.springframework.cloud:spring-cloud-starter-hystrix
+7	#DEP#org.springframework.boot:spring-boot-starter-web
+8	#DEP#org.springframework.cloud:spring-cloud-starter-eureka-server
+9	#DEP#org.springframework.cloud:spring-cloud-starter-ribbon
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.springframework.cloud:spring-cloud-starter-turbine
+12	#DEP#org.springframework.cloud:spring-cloud-starter-eureka
+13	#DEP#junit:junit
+14	#DEP#org.springframework.boot:spring-boot-starter-actuator
+15	#DEP#com.h2database:h2

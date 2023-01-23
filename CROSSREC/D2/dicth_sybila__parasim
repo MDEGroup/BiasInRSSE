@@ -1,0 +1,12 @@
+1	git://github.com/sybila/parasim.git
+2	#DEP#org.javassist:javassist
+3	#DEP#org.mod4j.org.apache.commons:cli
+4	#DEP#:model
+5	#DEP#:extensions
+6	#DEP#org.testng:testng
+7	#DEP#org.sybila.parasim:parasim-model-trajectory
+8	#DEP#org.apache.commons:commons-lang3
+9	#DEP#org.sybila.parasim:parasim-computation-parent
+10	#DEP#net.jcip:jcip-annotations
+11	#DEP#org.slf4j:slf4j-log4j12
+12	#DEP#org.sybila.parasim:parasim-core

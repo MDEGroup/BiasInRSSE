@@ -1,0 +1,9 @@
+1	#DEP#com.daemitus.deadbolt:deadbolt
+1	#DEP#net.milkbowl.vault:Vault
+1	#DEP#org.bstats:bstats-bukkit-lite
+1	#DEP#info.somethingodd:odditem
+1	#DEP#junit:junit
+1	#DEP#com.sk89q:worldguard
+1	#DEP#de.themoep.showitem:api
+1	#DEP#com.herocraftonline.heroes:Heroes
+1	#DEP#com.j256.ormlite:ormlite-jdbc

@@ -1,0 +1,9 @@
+1	git://github.com/fasseg/akubra-hdfs.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#org.akubraproject:akubra-map
+4	#DEP#org.akubraproject:akubra-core
+5	#DEP#org.apache.hadoop:hadoop-core
+6	#DEP#ch.qos.logback:logback-classic
+7	#DEP#commons-logging:commons-logging
+8	#DEP#org.easymock:easymock
+9	#DEP#junit:junit

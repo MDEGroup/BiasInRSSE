@@ -1,0 +1,6 @@
+1	#DEP#org.jboss.jgroups:cassandra-ping-cli
+1	#DEP#org.jboss:jboss-parent
+1	#DEP#org.apache.cassandra:cassandra-all
+1	#DEP#org.apache.cassandra:libthrift
+1	#DEP#com.martiansoftware:jsap
+1	#DEP#junit:junit

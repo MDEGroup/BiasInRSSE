@@ -1,0 +1,5 @@
+1	#DEP#org.dom4j:dom4j
+1	#DEP#com.vdurmont:emoji-java
+1	#DEP#org.springframework.security:spring-security-core
+1	#DEP#saxpath:saxpath
+1	#DEP#com.belerweb:pinyin4j

@@ -1,0 +1,10 @@
+1	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda
+1	#DEP#com.squareup.retrofit2:converter-jackson
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.microsoft.azure.practices:nvadaemon-azure
+1	#DEP#commons-daemon:commons-daemon
+1	#DEP#com.google.guava:guava
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#com.microsoft.azure:azure
+1	#DEP#com.squareup.okio:okio

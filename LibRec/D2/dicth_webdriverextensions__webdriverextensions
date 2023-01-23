@@ -1,0 +1,13 @@
+1	git://github.com/webdriverextensions/webdriverextensions.git
+2	#DEP#net.sourceforge.htmlunit:htmlunit
+3	#DEP#com.codeborne:phantomjsdriver
+4	#DEP#org.apache.commons:commons-lang3
+5	#DEP#com.google.code.gson:gson
+6	#DEP#org.seleniumhq.selenium:selenium-api
+7	#DEP#com.sun.codemodel:codemodel
+8	#DEP#org.seleniumhq.selenium:selenium-java
+9	#DEP#org.seleniumhq.selenium:htmlunit-driver
+10	#DEP#ch.qos.logback:logback-classic
+11	#DEP#org.seleniumhq.selenium:selenium-remote-driver
+12	#DEP#junit:junit
+13	#DEP#com.googlecode.lambdaj:lambdaj

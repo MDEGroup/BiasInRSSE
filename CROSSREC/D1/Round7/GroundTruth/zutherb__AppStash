@@ -1,0 +1,3 @@
+12	#DEP#xerces:xercesImpl
+13	#DEP#io.spray:spray-json_2.10
+14	#DEP#org.scalaz:scalaz-core_2.10

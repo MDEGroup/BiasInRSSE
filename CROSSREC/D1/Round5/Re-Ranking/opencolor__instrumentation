@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jmock:jmock	1.0
+#DEP#org.springframework:spring-test	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#org.qi4j.core:qi4j-core-spi	1.0
+#DEP#org.ops4j.pax.swissbox:pax-swissbox-core	1.0
+#DEP#org.qi4j.core.osgi:qi4j-osgi-example	1.0
+#DEP#org.ops4j.base:ops4j-base-lang	1.0

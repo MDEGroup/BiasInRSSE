@@ -1,0 +1,5 @@
+1	#DEP#org.openengsb.framework:org.openengsb.framework.test
+1	#DEP#org.openengsb.domain:org.openengsb.domain.scm
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#org.openengsb.framework:org.openengsb.framework.common
+1	#DEP#org.eclipse.jgit:org.eclipse.jgit

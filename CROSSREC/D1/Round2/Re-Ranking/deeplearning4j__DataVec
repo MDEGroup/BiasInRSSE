@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.fasterxml.jackson.core:jackson-databind	1.0
+#DEP#org.scala-lang:scala-library	1.0
+#DEP#org.yaml:snakeyaml	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#org.apache.spark:spark-sql_2.11	1.0
+#DEP#amplab:succinct-core	1.0
+#DEP#amplab:succinct-serde	1.0
+#DEP#org.rogach:scallop_2.11	1.0
+#DEP#amplab:succinct-spark	1.0

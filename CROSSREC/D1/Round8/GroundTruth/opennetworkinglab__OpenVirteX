@@ -1,0 +1,5 @@
+20	#DEP#org.eclipse.jetty:jetty-util
+21	#DEP#org.apache.logging.log4j:log4j-slf4j-impl
+22	#DEP#org.jboss.netty:netty
+23	#DEP#junit:junit
+24	#DEP#org.apache.logging.log4j:log4j-api

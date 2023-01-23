@@ -1,0 +1,6 @@
+1	#DEP#com.squareup.okhttp3:logging-interceptor
+1	#DEP#com.squareup.retrofit2:retrofit
+1	#DEP#junit:junit
+1	#DEP#io.reactivex:rxjava
+1	#DEP#io.reactivex:rxandroid
+1	#DEP#com.squareup.okio:okio

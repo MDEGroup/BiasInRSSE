@@ -1,0 +1,5 @@
+1	#DEP#com.microsoft.sqlserver.jdbc:sqljdbc
+1	#DEP#junit:junit
+1	#DEP#postgresql:postgresql
+1	#DEP#org.osgi:org.osgi.core
+1	#DEP#net.sourceforge.jtds:jtds

@@ -1,0 +1,8 @@
+36	#DEP#org.jsoup:jsoup
+37	#DEP#log4j:log4j
+38	#DEP#javax.servlet:servlet-api
+39	#DEP#com.github.snakerflow:snaker-hibernate
+40	#DEP#javax.servlet:jstl
+41	#DEP#commons-fileupload:commons-fileupload
+42	#DEP#junit:junit
+43	#DEP#org.aspectj:aspectjrt

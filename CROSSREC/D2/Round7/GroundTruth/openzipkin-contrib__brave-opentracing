@@ -1,0 +1,4 @@
+1	#DEP#io.zipkin.java:zipkin
+1	#DEP#org.mockito:mockito-all
+1	#DEP#junit:junit
+1	#DEP#io.zipkin.brave:brave

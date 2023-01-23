@@ -1,0 +1,6 @@
+1	#DEP#alfresco:alfresco
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#net.schmizz:sshj
+1	#DEP#log4j:log4j
+1	#DEP#org.bouncycastle:bcpkix-jdk15on
+1	#DEP#vboxjxpcom:vboxjxpcom

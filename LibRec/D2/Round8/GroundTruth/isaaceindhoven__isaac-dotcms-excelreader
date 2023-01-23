@@ -1,0 +1,7 @@
+1	#DEP#com.dotcms:dotcms
+1	#DEP#org.quartz-scheduler:quartz
+1	#DEP#org.springframework:spring-webmvc
+1	#DEP#javax.servlet:javax.servlet-api
+1	#DEP#com.dotcms.lib:dot.tika-app
+1	#DEP#com.dotcms.lib:dot.commons-io
+1	#DEP#com.dotcms.lib:dot.jettison

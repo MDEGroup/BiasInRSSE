@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.osgi:org.osgi.core	1.0
+#DEP#org.osgi:org.osgi.compendium	1.0
+#DEP#org.springframework.roo:org.springframework.roo.support	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.web.mvc.controller	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.finder	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.entity	1.0
+#DEP#uk.co.badgersinfoil.metaas:metaas	1.0
+#DEP#org.springframework.roo:org.springframework.roo.addon.web.mvc.jsp	1.0
+#DEP#org.springframework.roo:org.springframework.roo.support.osgi	1.0

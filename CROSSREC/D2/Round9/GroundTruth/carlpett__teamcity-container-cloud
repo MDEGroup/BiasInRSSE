@@ -1,0 +1,8 @@
+1	#DEP#org.jetbrains.teamcity:server-api
+1	#DEP#org.jetbrains.teamcity:tests-support
+1	#DEP#javax.ws.rs:jsr311-api
+1	#DEP#se.capeit.dev:container-cloud
+1	#DEP#org.jetbrains.teamcity:cloud-shared
+1	#DEP#org.jetbrains.teamcity:common-api
+1	#DEP#org.jetbrains.teamcity:cloud-server
+1	#DEP#org.jetbrains.teamcity:server-web-api

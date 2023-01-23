@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.apache.commons:commons-lang3	1.0
+#DEP#org.slf4j:slf4j-log4j12	1.0
+#DEP#net.sf.jopt-simple:jopt-simple	1.0
+#DEP#org.apache.commons:commons-compress	1.0
+#DEP#org.apache.commons:commons-math3	1.0
+#DEP#org.dllearner:components-core	1.0
+#DEP#net.didion.jwnl:jwnl	1.0

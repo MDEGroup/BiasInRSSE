@@ -1,0 +1,6 @@
+1	#DEP#org.hamcrest:hamcrest-core
+1	#DEP#info.cukes:cucumber-picocontainer
+1	#DEP#commons-codec:commons-codec
+1	#DEP#junit:junit-dep
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.eclipse.swt:org.eclipse.swt.cocoa.macosx.x86_64

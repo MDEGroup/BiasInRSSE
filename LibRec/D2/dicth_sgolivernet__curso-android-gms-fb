@@ -1,0 +1,11 @@
+1	git://github.com/sgolivernet/curso-android-gms-fb.git
+2	#DEP#com.google.android.gms:play-services-drive
+3	#DEP#com.google.android.gms:play-services-location
+4	#DEP#com.android.support:recyclerview-v7
+5	#DEP#com.google.android.gms:play-services-auth
+6	#DEP#com.google.android.gms:play-services-maps
+7	#DEP#com.google.firebase:firebase-database
+8	#DEP#com.android.support:appcompat-v7
+9	#DEP#junit:junit
+10	#DEP#com.google.firebase:firebase-messaging
+11	#DEP#com.firebaseui:firebase-ui-database

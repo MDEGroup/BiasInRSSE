@@ -1,0 +1,7 @@
+1	#DEP#org.apache.velocity:velocity
+1	#DEP#ch.qos.logback:logback-core
+1	#DEP#org.deeplearning4j:deeplearning4j-nlp
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.velocity:velocity-tools
+1	#DEP#org.eclipse.jetty:jetty-webapp
+1	#DEP#edu.upf.taln.summa:summaupf

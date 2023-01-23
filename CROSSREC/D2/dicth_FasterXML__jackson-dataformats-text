@@ -1,0 +1,9 @@
+1	git://github.com/FasterXML/jackson-dataformats-text.git
+2	#DEP#com.fasterxml.jackson.core:jackson-core
+3	#DEP#org.yaml:snakeyaml
+4	#DEP#com.fasterxml.jackson:jackson-base
+5	#DEP#com.google.guava:guava
+6	#DEP#com.fasterxml.jackson.dataformat:jackson-dataformats-text
+7	#DEP#com.fasterxml.jackson.core:jackson-databind
+8	#DEP#junit:junit
+9	#DEP#com.fasterxml.jackson.core:jackson-annotations

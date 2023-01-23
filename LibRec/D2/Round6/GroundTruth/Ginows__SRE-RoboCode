@@ -1,0 +1,13 @@
+1	#DEP#net.sf.robocode:robocode.dotnet
+1	#DEP#net.sf.robocode:robocode.core
+1	#DEP#net.sf.robocode:robocode.dotnet.api
+1	#DEP#org.picocontainer:picocontainer
+1	#DEP#net.sf.robocode:codesize
+1	#DEP#net.sf.jni4net:jni4net.n
+1	#DEP#net.sf.robocode:robocode.dotnet.control.api
+1	#DEP#net.sf.robocode:robocode.commonpom
+1	#DEP#org.scala-lang:scala-library
+1	#DEP#net.sf.robocode:robocode.testing.samples
+1	#DEP#junit:junit
+1	#DEP#net.sf.robocode:robocode.samples
+1	#DEP#net.sf.robocode:robocode

@@ -1,0 +1,16 @@
+1	#DEP#javax.validation:validation-api
+1	#DEP#org.hibernate:hibernate-validator
+1	#DEP#org.sejda:sejda-fonts
+1	#DEP#org.bouncycastle:bcprov-jdk15on
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.drewnoakes:metadata-extractor
+1	#DEP#org.sejda:sambox
+1	#DEP#org.sejda:sejda-core
+1	#DEP#org.sejda:sejda-conversion
+1	#DEP#org.slf4j:jcl-over-slf4j
+1	#DEP#com.twelvemonkeys.imageio:imageio-tiff
+1	#DEP#com.twelvemonkeys.imageio:imageio-jpeg
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.hamcrest:hamcrest-all
+1	#DEP#junit:junit
+1	#DEP#org.imgscalr:imgscalr-lib

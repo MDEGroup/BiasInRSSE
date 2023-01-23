@@ -1,0 +1,9 @@
+1	git://github.com/hcs-xph/RetrofitUtils.git
+2	#DEP#com.squareup.retrofit2:adapter-rxjava
+3	#DEP#com.squareup.retrofit2:retrofit
+4	#DEP#com.android.support:appcompat-v7
+5	#DEP#junit:junit
+6	#DEP#com.google.code.gson:gson
+7	#DEP#com.squareup.retrofit2:converter-gson
+8	#DEP#io.reactivex:rxjava
+9	#DEP#io.reactivex:rxandroid

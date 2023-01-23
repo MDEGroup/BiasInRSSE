@@ -1,0 +1,12 @@
+1	#DEP#com.gemserk.analytics.googleanalytics:jgoogleanalyticstracker-desktop
+1	#DEP#com.dmurph:JGoogleAnalyticsTracker
+1	#DEP#com.gemserk.analytics.googleanalytics:jgoogleanalyticstracker-android
+1	#DEP#${project.groupId}:vampirerunner-core
+1	#DEP#com.badlogic.gdx:gdx-backend-lwjgl
+1	#DEP#com.gemserk.commons.gdx:commons-gdx-artemis
+1	#DEP#org.jmock:jmock
+1	#DEP#org.jmock:jmock-legacy
+1	#DEP#com.adwhirl.adwhirl:adwhirl
+1	#DEP#com.gemserk.commons.gdx:commons-gdx-core
+1	#DEP#junit:junit
+1	#DEP#com.gemserk.datastore:datastore-android

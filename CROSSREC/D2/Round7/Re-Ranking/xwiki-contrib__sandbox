@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#joda-time:joda-time	1.0
+#DEP#commons-codec:commons-codec	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#hsqldb:hsqldb	1.0
+#DEP#org.hamcrest:hamcrest-all	1.0
+#DEP#commons-logging:commons-logging	1.0
+#DEP#org.easymock:easymockclassextension	1.0
+#DEP#org.apache.shindig:shindig-server	1.0

@@ -1,0 +1,6 @@
+1	#DEP#io.jsonwebtoken:jjwt
+1	#DEP#org.springframework.boot:spring-boot-starter-web-services
+1	#DEP#org.springframework.boot:spring-boot-starter-test
+1	#DEP#org.springframework.mobile:spring-mobile-device
+1	#DEP#org.springframework.boot:spring-boot-devtools
+1	#DEP#com.h2database:h2

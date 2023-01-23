@@ -1,0 +1,17 @@
+1	#DEP#com.jgoodies:jgoodies-forms
+1	#DEP#eu.delving:sip-core
+1	#DEP#com.google.code.gson:gson
+1	#DEP#net.sf.saxon:Saxon-HE
+1	#DEP#joda-time:joda-time
+1	#DEP#org.slf4j:slf4j-log4j12
+1	#DEP#org.awaitility:awaitility
+1	#DEP#org.apache:xerces-resolver
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.igniterealtime.smack:smack
+1	#DEP#ch.qos.logback:logback-classic
+1	#DEP#org.apache.poi:poi
+1	#DEP#xerces:xercesImpl
+1	#DEP#org.apache.lucene:lucene-spatial
+1	#DEP#org.osgeo:proj4j
+1	#DEP#junit:junit
+1	#DEP#cglib:cglib

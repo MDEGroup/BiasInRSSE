@@ -1,0 +1,6 @@
+26	#DEP#org.apache.struts:struts2-core
+27	#DEP#de.akquinet.jbosscc:jbosscc-needle-ejb
+28	#DEP#javax.servlet:servlet-api
+29	#DEP#java2word:ExampleSeam-war
+30	#DEP#junit:junit
+31	#DEP#org.jboss.seam:parent

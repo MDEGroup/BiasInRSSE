@@ -1,0 +1,7 @@
+28	#DEP#org.glassfish.jersey.media:jersey-media-sse
+29	#DEP#com.fasterxml.jackson.datatype:jackson-datatype-guava
+30	#DEP#org.glassfish.jersey.media:jersey-media-multipart
+31	#DEP#org.glassfish.jersey.ext:jersey-bean-validation
+32	#DEP#junit:junit
+33	#DEP#org.avaje:avaje-agentloader
+34	#DEP#co.paralleluniverse:quasar-core

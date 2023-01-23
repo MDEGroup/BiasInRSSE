@@ -1,0 +1,9 @@
+1	git://github.com/amahdy/java-pwa.git
+2	#DEP#org.apache.commons:commons-io
+3	#DEP#com.vaadin:vaadin-server
+4	#DEP#com.vaadin:vaadin-themes
+5	#DEP#javax.servlet:javax.servlet-api
+6	#DEP#com.vaadin:vaadin-push
+7	#DEP#org.vaadin.addons:headertags
+8	#DEP#com.vaadin:vaadin-bom
+9	#DEP#com.vaadin:vaadin-client-compiled

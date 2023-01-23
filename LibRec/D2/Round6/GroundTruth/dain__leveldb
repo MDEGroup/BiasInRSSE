@@ -1,0 +1,6 @@
+1	#DEP#org.fusesource.leveldbjni:leveldbjni
+1	#DEP#org.testng:testng
+1	#DEP#com.google.guava:guava
+1	#DEP#org.iq80.leveldb:leveldb-project
+1	#DEP#junit:junit
+1	#DEP#joda-time:joda-time

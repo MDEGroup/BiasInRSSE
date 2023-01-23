@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#com.googlecode.json-simple:json-simple	1.0
+#DEP#commons-cli:commons-cli	1.0
+#DEP#ch.qos.logback:logback-classic	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#commons-io:commons-io	1.0
+#DEP#mysql:mysql-connector-java	1.0
+#DEP#com.google.guava:guava	1.0
+#DEP#com.google.code.gson:gson	1.0
+#DEP#sc.fiji:VIB-lib	1.0

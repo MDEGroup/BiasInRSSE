@@ -1,0 +1,16 @@
+1	git://github.com/lxchinesszz/multi-boluome.git
+2	#DEP#blm.server:multi-boluome
+3	#DEP#org.springframework.boot:spring-boot-starter-parent
+4	#DEP#org.springframework.boot:spring-boot-starter-data-redis
+5	#DEP#org.springframework.boot:spring-boot-starter-freemarker
+6	#DEP#com.google.code.gson:gson
+7	#DEP#blm.server:domain
+8	#DEP#org.springframework.boot:spring-boot-starter-web
+9	#DEP#blm.server:dao
+10	#DEP#org.springframework.boot:spring-boot-starter-test
+11	#DEP#org.mockito:mockito-core
+12	#DEP#org.springframework.boot:spring-boot-starter-amqp
+13	#DEP#org.springframework.boot:spring-boot-starter-data-mongodb
+14	#DEP#blm.server:service
+15	#DEP#org.springframework.boot:spring-boot-starter-aop
+16	#DEP#junit:junit

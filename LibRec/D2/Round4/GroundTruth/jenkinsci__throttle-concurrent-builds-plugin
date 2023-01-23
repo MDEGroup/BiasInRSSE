@@ -1,0 +1,8 @@
+1	#DEP#org.jenkins-ci.plugins:plugin
+1	#DEP#org.jenkins-ci.plugins:credentials
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-support
+1	#DEP#org.jenkins-ci.plugins:cloudbees-folder
+1	#DEP#org.jenkins-ci.plugins:matrix-project
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-basic-steps
+1	#DEP#org.jenkins-ci.plugins.workflow:workflow-step-api
+1	#DEP#org.jenkins-ci.plugins:matrix-auth

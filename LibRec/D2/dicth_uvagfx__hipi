@@ -1,0 +1,9 @@
+1	git://github.com/uvagfx/hipi.git
+2	#DEP#com.googlecode.json-simple:json-simple
+3	#DEP#com.twelvemonkeys.imageio:imageio-pnm
+4	#DEP#com.twelvemonkeys.imageio:imageio-tiff
+5	#DEP#com.twelvemonkeys.imageio:imageio-jpeg
+6	#DEP#org.apache.hadoop:hadoop-common
+7	#DEP#com.drewnoakes:metadata-extractor
+8	#DEP#junit:junit
+9	#DEP#org.apache.hadoop:hadoop-mapreduce-client-core

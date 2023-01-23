@@ -1,0 +1,16 @@
+1	#DEP#org.apache.geronimo.specs:geronimo-jpa_2.0_spec
+1	#DEP#javax.inject:javax.inject
+1	#DEP#javax.validation:validation-api
+1	#DEP#org.apache:apache
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#org.apache.tomcat:tomcat-el-api
+1	#DEP#org.apache.bval:bval-xstream
+1	#DEP#org.jboss.arquillian.testng:arquillian-testng-container
+1	#DEP#org.apache.openwebbeans.arquillian:owb-arquillian-standalone
+1	#DEP#com.google.inject:guice
+1	#DEP#org.mockito:mockito-core
+1	#DEP#org.apache.geronimo.specs:geronimo-validation_1.1_spec
+1	#DEP#junit:junit
+1	#DEP#org.hibernate.beanvalidation.tck:beanvalidation-tck-tests
+1	#DEP#aopalliance:aopalliance
+1	#DEP#org.apache.openwebbeans:openwebbeans-impl

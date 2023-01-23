@@ -1,0 +1,6 @@
+1	#DEP#org.jboss.resteasy:resteasy-jaxrs
+1	#DEP#org.jboss.resteasy:resteasy-client
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.jboss.resteasy:resteasy-netty
+1	#DEP#junit:junit
+1	#DEP#org.jboss.resteasy:resteasy-jackson-provider

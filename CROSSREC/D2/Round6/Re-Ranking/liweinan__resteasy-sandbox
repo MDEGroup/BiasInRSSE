@@ -1,0 +1,10 @@
+#DEP#junit:junit	1.0
+#DEP#org.jboss.resteasy:resteasy-jaxrs	1.0
+#DEP#javax.servlet:servlet-api	1.0
+#DEP#org.springframework:spring-webmvc	1.0
+#DEP#log4j:log4j	1.0
+#DEP#org.jboss.resteasy:resteasy-jackson-provider	1.0
+#DEP#com.fasterxml.jackson.core:jackson-annotations	1.0
+#DEP#org.springframework:spring-context	1.0
+#DEP#org.springframework:spring-core	1.0
+#DEP#org.jboss.resteasy:resteasy-yaml-provider	1.0

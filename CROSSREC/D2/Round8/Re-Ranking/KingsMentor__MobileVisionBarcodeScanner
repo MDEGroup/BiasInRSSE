@@ -1,0 +1,10 @@
+#DEP#io.reactivex.rxjava2:rxandroid	1.0
+#DEP#junit:junit	1.0
+#DEP#com.android.support:appcompat-v7	1.0
+#DEP#com.github.bumptech.glide:glide	1.0
+#DEP#com.squareup.retrofit2:retrofit	1.0
+#DEP#com.jakewharton:butterknife-compiler	1.0
+#DEP#com.jakewharton:butterknife	1.0
+#DEP#com.android.support:design	1.0
+#DEP#com.android.support:recyclerview-v7	1.0
+#DEP#com.zxy.android:tiny	1.0

@@ -1,0 +1,4 @@
+1	#DEP#org.apache.commons:commons-lang3
+1	#DEP#com.astuetz:pagerslidingtabstrip
+1	#DEP#com.github.rtyley:roboguice-sherlock
+1	#DEP#joda-time:joda-time

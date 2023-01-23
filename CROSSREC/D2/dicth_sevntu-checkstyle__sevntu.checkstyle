@@ -1,0 +1,15 @@
+1	git://github.com/sevntu-checkstyle/sevntu.checkstyle.git
+2	#DEP#org.powermock:powermock-module-junit4
+3	#DEP#net.sf.eclipsecs:net.sf.eclipsecs.ui
+4	#DEP#org.sonatype.oss:oss-parent
+5	#DEP#org.slf4j:slf4j-simple
+6	#DEP#com.github.sevntu-checkstyle:parent
+7	#DEP#org.eclipse.jgit:org.eclipse.jgit
+8	#DEP#com.github.sevntu-checkstyle:sevntu-checks
+9	#DEP#org.powermock:powermock-api-mockito
+10	#DEP#org.apache.maven.plugins:maven-checkstyle-plugin
+11	#DEP#org.codehaus.sonar:sonar-plugin-api
+12	#DEP#com.puppycrawl.tools:checkstyle
+13	#DEP#com.google.guava:guava
+14	#DEP#junit:junit
+15	#DEP#net.sf.eclipsecs:net.sf.eclipsecs.core

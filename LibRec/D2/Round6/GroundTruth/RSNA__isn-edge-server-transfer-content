@@ -1,0 +1,7 @@
+1	#DEP#commons-lang:commons-lang
+1	#DEP#org.rsna.oht-ihe:pix-consumer
+1	#DEP#dcm4che:dcm4che-imageio
+1	#DEP#log4j:log4j
+1	#DEP#org.apache.xmlgraphics:fop
+1	#DEP#org.rsna.oht-ihe:pix-source
+1	#DEP#junit:junit

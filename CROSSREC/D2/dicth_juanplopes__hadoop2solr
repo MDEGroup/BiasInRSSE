@@ -1,0 +1,10 @@
+1	git://github.com/juanplopes/hadoop2solr.git
+2	#DEP#org.kohsuke:args4j
+3	#DEP#cascading:cascading-core
+4	#DEP#org.apache.lucene:lucene-core
+5	#DEP#ant-eclipse:ant-eclipse-jvm1.2
+6	#DEP#org.apache.hadoop:hadoop-core
+7	#DEP#org.mockito:mockito-core
+8	#DEP#log4j:log4j
+9	#DEP#com.bixolabs:cascading.utils
+10	#DEP#junit:junit

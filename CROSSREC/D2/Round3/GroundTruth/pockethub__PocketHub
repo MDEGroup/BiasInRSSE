@@ -1,0 +1,12 @@
+1	#DEP#com.google.dagger:dagger-android
+1	#DEP#com.jakewharton:butterknife
+1	#DEP#com.uber.autodispose:autodispose
+1	#DEP#com.google.dagger:dagger
+1	#DEP#com.episode6.hackit.auto.factory:auto-factory-annotations
+1	#DEP#com.google.dagger:dagger-compiler
+1	#DEP#com.google.dagger:dagger-android-processor
+1	#DEP#org.mockito:mockito-core
+1	#DEP#com.uber.autodispose:autodispose-android-archcomponents
+1	#DEP#com.google.auto.factory:auto-factory
+1	#DEP#com.github.meisolsson:githubsdk
+1	#DEP#junit:junit

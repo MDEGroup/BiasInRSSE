@@ -1,0 +1,12 @@
+1	#DEP#commons-codec:commons-codec
+1	#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.doc
+1	#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.files.api
+1	#DEP#org.sakaiproject.nakamura:base
+1	#DEP#org.apache.sling:org.apache.sling.commons.json
+1	#DEP#org.apache.sling:org.apache.sling.commons.osgi
+1	#DEP#javax.servlet:servlet-api
+1	#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.utils
+1	#DEP#commons-httpclient:commons-httpclient
+1	#DEP#junit:junit
+1	#DEP#javax.jcr:jcr
+1	#DEP#org.sakaiproject.nakamura:org.sakaiproject.nakamura.testutils
