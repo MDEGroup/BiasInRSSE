@@ -39,6 +39,8 @@ GRec. Finally, we introduced DS2 as an extension of DS1
 to study how the approaches perform by considering a larger
 number of libraries. The datasets are summarized in the next table.
 
+![Datasets](Figure1.png)
+
 To give a first idea of how the dataset could cause popularity
 bias, we counted the number of occurrences for each library
 in a dataset, and sorted all the libraries in descending order of
