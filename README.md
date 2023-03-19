@@ -75,9 +75,19 @@ of the RSSEs.
 
 ![Venues table](datasets.png)
 
-**NOTE**: This section introduces the data extraction process, for the
-sake of reproducibility. However, we completely parsed the metadata
-needed as input for the four recommender systems at your disposal. The
-tasks described in this section require a long computation time as well
-as knowledge about Rascal, and we strongly suggest using the metadata as
-it is.
+## How to cite
+If you find our work useful for your research, please cite the papers using the following BibTex entries:
+
+```
+@inproceedings{Nguyen:2023:BiasInRSSE,
+ author = {Nguyen, Phuong T. and Rubei, Riccardo and Di Rocco, Juri and Di Sipio, Claudio and Di Ruscio, Davide and Di Penta, Massimiliano},
+ title = {{Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?}},
+ booktitle = {Proceedings of the 20th Mining Software Repositories Conference},
+ series = {MSR '23},
+ year = {2023},
+ location = {Melbourne, Australia},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+} 
+
+```
