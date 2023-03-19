@@ -1,4 +1,17 @@
-# Popularity bias in Recommender Systems for Software Engineering
+# Introduction
+
+This repository contains the replication package for the following paper that has been accepted to the Technical Track of the 20th Mining Software Repositories Conference (MSR 2023):
+
+<b>Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?</b>
+
+Phuong T. Nguyen, Riccardo Rubei, Juri Di Rocco, Claudio Di Sipio, Davide Di Ruscio<sup>(1)</sup>, Massimiliano Di Penta<sup>(2)</sup>
+
+<sup>(1)</sup> Università degli Studi dell'Aquila, Italy
+
+<sup>(2)</sup> Università degli Studi del Sannio Benevento, Italy
+
+
+## Popularity bias in Recommender Systems for Software Engineering
 
 Recommender systems for software engineering (RSSEs) assist software engineers in dealing with a growing information overload when discerning alternative development solutions. 
 
