@@ -10,6 +10,7 @@ Phuong T. Nguyen, Riccardo Rubei, Juri Di Rocco, Claudio Di Sipio, Davide Di Rus
 
 <sup>(2)</sup> Università degli Studi del Sannio Benevento, Italy
 
+A preprint of the paper is available in the following ([link](https://arxiv.org/pdf/2304.10409.pdf))
 
 ## Popularity bias in Recommender Systems for Software Engineering
 
